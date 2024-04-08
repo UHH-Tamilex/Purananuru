@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 241.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN241">
+      <lg type="edition">
+<l>tiṇtē riravalark kītta taṇṭā</l>
+<l>raṇṭiraṉ varūu meṉṉa voṇṭoṭi</l>
+<l>vaccirat taṭakkai neṭiyōṉ kōyiluṭ</l>
+<l>pōrppuṟu muracaṅ kaṟaṅka</l>
+<l>vārppeḻun taṉṟāl vicum piṉāṉē.</l></lg>
+<lg type="translation" xml:lang="en">
+<l>“Antiraṉ with a cool garland, who gave firm chariots </l>
+<l>to mendicants, is coming”, so, (1-2c)</l>
+<l>while covered drums sounded (4)</l>
+<l>in the palace of the Tall one with the vajra in [his] broad hands with bright bracelets, (2d-3)</l>
+<l>rose the roaring to heaven. (5)</l>
+            </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN241"><interp type="alignment" select="0">16MG69MG22MG8M2G12MG2M,134MG</interp>
+<entry>
+<form>tiṇ</form>
+<def>firm</def>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+</entry>
+<entry>
+<form>iravalarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>mendicant</def>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ītta</form>
+<def>given-</def>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+</entry>
+<entry>
+<form>tār</form>
+<def>garland</def>
+</entry>
+<entry>
+<form>aṇṭiraṉ</form>
+<def>Aṇṭiraṉ</def>
+</entry>
+<entry>
+<form>varūum</form>
+<def>comes</def>
+</entry>
+<entry>
+<form>eṉṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+</entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+</entry>
+<entry>
+<form>vaccira<pc>+</pc></form>
+<def>club</def>
+</entry>
+<entry>
+<form>taṭa<pc>+</pc></form>
+<def>broad</def>
+</entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+</entry>
+<entry>
+<form>neṭiyōṉ</form>
+<def>Tall-he</def>
+</entry>
+<entry>
+<form>kōyil</form>
+<def>temple</def>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>inside</def>
+</entry>
+<entry>
+<form>pōrpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>wrapping</def>
+</entry>
+<entry>
+<form>uṟu</form>
+<def>have-</def>
+</entry>
+<entry>
+<form>muracam</form>
+<def>drum</def>
+</entry>
+<entry>
+<form>kaṟaṅka</form>
+<def>sound</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ārpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>roaring</def>
+</entry>
+<entry>
+<form>eḻuntaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+<def>rose-it</def>
+<form type="simple">eḻuntaṉṟu</form>
+<gramGrp type="particle"><m>āl</m></gramGrp>
+</entry>
+<entry>
+<form>vicumpiṉāṉ-ē</form>
+<def>sky</def>
+<form type="simple">vicumpiṉāṉ</form>
+<gramGrp><gram type="role">locative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
