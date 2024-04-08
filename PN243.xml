@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta"></title> 243.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -23,7 +23,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN243">
       <lg type="edition">
 <l>iṉiniṉain tirakka mākiṉṟu tiṇimaṇaṟ</l>
 <l>ceyvuṟu pāvaikkuk koypūt taiit</l>
@@ -39,6 +39,23 @@
 <l>toṭittalai viḻuttaṇ ṭūṉṟi naṭukkuṟ</l>
 <l>ṟirumiṭai miṭainta cilacoṟ</l>
 <l>perumū tāḷarē mākiya vemakkē.</l></lg>
+<lg type="translation" xml:lang="en">
+<l>Thinking now it has become regret. (1a-c)</l>
+<l>Untaught youth when (10cd)</l>
+<l>entwining hands with girls that play in the cool pond, (3)</l>
+<l>knitting flowers plucked for dolls that have motion, in the firm sand (1d-2)</l>
+<l>embracing the way one embraces, swaying the way one sways, (4)</l>
+<l>together with companions without deception who do not know of saying “secret”, (5)</l>
+<l>dangling from the high-branched Myrobalan tree to have the ghat, (6)</l>
+<l>rising on mounds [of sand] settling near the water, (7)</l>
+<l>jumping with a splash into the expanse of long water, (9)</l>
+<l>so that spray came up from the waves to confound those on the shore mightily, (7d-8)</l>
+<l>	[we] took the sand after bathing, (10)</l>
+<l>– pitiful is it. Where is it, (11)</l>
+<l>for us who have become great old men (14)</l>
+<l>of few words posed at long intervalls, (13)</l>
+<l>trembling, leaning on excellent sticks with ringed heads? (12)</l>
+</lg>
     </div>
   </body>
 </text>
