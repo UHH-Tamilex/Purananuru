@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>iḷaiyōr cūṭār vaḷaiyōr koyyār</l>
+<l>nalliyāḻ maruppiṉ mella vāṅkip</l>
+<l>pāṇaṉ cūṭāṉ pāṭiṉi yaṇiyā</l>
+<l>ḷāṇmai tōṉṟa vāṭavark kaṭanta</l>
+<l>valvēṟ cāttaṉ māynta piṉṟai</l>
+<l>mullaiyum pūttiyō vollaiyūr nāṭṭē</l></lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">30MGMG100MG8MG15M2GM,161M</interp>
+<entry>
+<form>iḷaiyōr</form>
+<def>young-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>cūṭār</form>
+<def>wear-not-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḷaiyōr</form>
+<def>bangle-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>koyyār</form>
+<def>pluck-not-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>nal<pc>+</pc><pc>(</pc>i<pc>)</pc></form>
+<def>good</def>
+</entry>
+<entry>
+<form>yāḻ</form>
+<def>lute</def>
+</entry>
+<entry>
+<form>maruppiṉ</form>
+<def>neck</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>mella</form>
+<def>softly</def>
+</entry>
+<entry>
+<form>vāṅki<pc>+</pc></form>
+<def>bent</def>
+</entry>
+<entry>
+<form>pāṇaṉ</form>
+<def>bard</def>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
+<entry>
+<form>cūṭāṉ</form>
+<def>wear-not-he</def>
+</entry>
+<entry>
+<form>pāṭiṉi</form>
+<def>songstress</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṇiyāḷ</form>
+<def>adorn-not-she</def>
+</entry>
+<entry>
+<form>āṇmai</form>
+<def>manliness</def>
+</entry>
+<entry>
+<form>tōṉṟa</form>
+<def>appear</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āṭavar<pc>+</pc></form>
+<def>men</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭanta</form>
+<def>overcome</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>val</form>
+<def>strong</def>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form>cāttaṉ</form>
+<def>Cāttaṉ</def>
+</entry>
+<entry>
+<form>māynta</form>
+<def>vanished-</def>
+</entry>
+<entry>
+<form>piṉṟai</form>
+<def>after</def>
+</entry>
+<entry>
+<form>mullai-<pc>~</pc>um</form>
+<def>jasmine</def>
+<form type="simple">mullai</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>pūtti-<pc>~</pc>ō</form>
+<def>flower-you</def>
+<form type="simple">pūtti</form>
+<gramGrp><gram type="role">subjuntive</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>ollaiyūr</form>
+<def>Ollaiyūr</def>
+</entry>
+<entry>
+<form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>land-</def>
+<form type="simple">nāṭṭu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
