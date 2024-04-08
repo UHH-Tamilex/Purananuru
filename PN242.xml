@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 242.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+
+  </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN242">
       <lg type="edition">
 <l>iḷaiyōr cūṭār vaḷaiyōr koyyār</l>
 <l>nalliyāḻ maruppiṉ mella vāṅkip</l>
@@ -10,10 +34,18 @@
 <l>ḷāṇmai tōṉṟa vāṭavark kaṭanta</l>
 <l>valvēṟ cāttaṉ māynta piṉṟai</l>
 <l>mullaiyum pūttiyō vollaiyūr nāṭṭē</l></lg>
+<lg type="translation" xml:lang="en">
+<l>The young men won’t wear [it]. Those with bangles won’t pluck [it]. (1)</l>
+<l>Not bending [it] softly around the neck of [his] good lute (2)</l>
+<l>the bard won’t wear [it]. Songstresses won’t adorn themselves [with it]. (3)</l>
+<l>After Cāttaṉ with a strong spear disappeared (5)</l>
+<l>who overcame men so that [his] manliness appeared (4)</l>
+<l>jasmine, would you put it on, in the land of Ollaiyūr? (6)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">30MGMG100MG8MG15M2GM,161M</interp>
+<standOff type="wordsplit" corresp="#PN242"><interp type="alignment" select="0">30MGMG100MG8MG15M2GM,161M</interp>
 <entry>
 <form>iḷaiyōr</form>
 <def>young-they</def>
