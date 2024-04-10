@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l><supplied>pā</supplied>ṇar ceṉṉiyum vaṇṭuceṉ ṟūtā</l>
+<l>viṟaliyar muṉkaiyun toṭiyiṟ poliyā</l>
+<l>viravaṉ mākkaḷu............................</l></lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">10MG12MG18MG29MG29M,93M9G</interp>
+<entry>
+<form>pāṇar</form>
+<def>bard</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ceṉṉi-<pc>~</pc>um</form>
+<def>top</def>
+<form type="simple">ceṉṉi</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>vaṇṭu</form>
+<def>bee</def>
+</entry>
+<entry>
+<form>ceṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>gone</def>
+</entry>
+<entry>
+<form>ūtā</form>
+<def>gorge-not</def>
+</entry>
+<entry>
+<form>viṟaliyar</form>
+<def>dancing-girl</def>
+</entry>
+<entry>
+<form>muṉkai-<pc>~</pc>um</form>
+<def>forearm</def>
+<form type="simple">muṉkai</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>toṭiyiṉ</form>
+<def>bracelet</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>poliyā</form>
+<def>flourish-not</def>
+</entry>
+<entry>
+<form><pc>~</pc>iraval</form>
+<def>begging</def>
+</entry>
+<entry>
+<form>mākkaḷ-um</form>
+<def>people</def>
+<form type="simple">mākkaḷ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>..................</form>
+<def>……………</def>
+</entry></standOff>
+</TEI>
