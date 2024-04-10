@@ -1,9 +1,11 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 244.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -23,15 +25,19 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN244">
       <lg type="edition">
 <l><supplied>pā</supplied>ṇar ceṉṉiyum vaṇṭuceṉ ṟūtā</l>
 <l>viṟaliyar muṉkaiyun toṭiyiṟ poliyā</l>
 <l>viravaṉ mākkaḷu............................</l></lg>
+<lg type="translation" xml:lang="en">
+<l>From the bards’ heads the bees go [and] don’t gorge themselves,</l>
+<l>the forearms of the dancing girls don’t flourish with bracelets,</l>
+<l>and the mendicant people……………..</l>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">10MG12MG18MG29MG29M,93M9G</interp>
+<standOff type="wordsplit" corresp="#PN244"><interp type="alignment" select="0">10MG12MG18MG29MG29M,93M9G</interp>
 <entry>
 <form>pāṇar</form>
 <def>bard</def>
