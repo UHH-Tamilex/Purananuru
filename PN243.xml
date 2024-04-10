@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title>Purananuru</title> 243.
+            <title xml:lang="ta"></title> XX.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -26,7 +23,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN243">
+    <div xml:id="poemXX">
       <lg type="edition">
 <l>iṉiniṉain tirakka mākiṉṟu tiṇimaṇaṟ</l>
 <l>ceyvuṟu pāvaikkuk koypūt taiit</l>
@@ -42,27 +39,10 @@
 <l>toṭittalai viḻuttaṇ ṭūṉṟi naṭukkuṟ</l>
 <l>ṟirumiṭai miṭainta cilacoṟ</l>
 <l>perumū tāḷarē mākiya vemakkē.</l></lg>
-<lg type="translation" xml:lang="en">
-<l>Thinking now it has become regret. (1a-c)</l>
-<l>Untaught youth when (10cd)</l>
-<l>entwining hands with girls that play in the cool pond, (3)</l>
-<l>knitting flowers plucked for dolls that have motion, in the firm sand (1d-2)</l>
-<l>embracing the way one embraces, swaying the way one sways, (4)</l>
-<l>together with companions without deception who do not know of saying “secret”, (5)</l>
-<l>dangling from the high-branched Myrobalan tree to have the ghat, (6)</l>
-<l>rising on mounds [of sand] settling near the water, (7)</l>
-<l>jumping with a splash into the expanse of long water, (9)</l>
-<l>so that spray came up from the waves to confound those on the shore mightily, (7d-8)</l>
-<l>	[we] took the sand after bathing, (10)</l>
-<l>– pitiful is it. Where is it, (11)</l>
-<l>for us who have become great old men (14)</l>
-<l>of few words posed at long intervalls, (13)</l>
-<l>trembling, leaning on excellent sticks with ringed heads? (12)</l>
-</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">10MG26MG35ML80MG47MG34MG81MG5MG4MG24MG10MG3MG30MG17M2G2M,422MG</interp>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">10MG26MG35ML80MG47MG115MG5MG4MG24MG10MG3MG30MG17M2G2M,421MG</interp>
 <entry>
 <form>iṉi</form>
 <def>now</def>
@@ -251,9 +231,13 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>tirai-<pc>~</pc>akam</form>
+<form>tirai</form>
 <def>wave</def>
-<gramGrp><gram type="role">locative</gram>
+</entry>
+<entry>
+<form><pc>~</pc>akam</form>
+<def>inside</def>
+<gramGrp><gram type="role">postposition</gram>
 </gramGrp></entry>
 <entry>
 <form>pitira</form>
