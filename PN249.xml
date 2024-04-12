@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 249.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN249">
       <lg type="edition">
 <l>katirmūk kāral kīḻccēṟ ṟoḷippak</l>
 <l>kaṇaikōṭṭu vāḷai mīnīrp piṟaḻa</l>
@@ -42,10 +42,27 @@
 <l>yaḻuta lāṉāk kaṇṇaṇ</l>
 <l>meḻuku māppikaṇ kaluḻnī rāṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l> Yesterday she who is like [this] wide land, (7ab+d)</l>
+<l>where, while ear-nosed Āral fish hide below in the mire, (1)</l>
+<l>while round-finned Vāḷai fish leap high above the water, (2) </l>
+<l>those with nets, crushing together through the paddy field with flaming flowers (3)</l>
+<l>so that tortoises [shaped] like harsh-voice Taṭāri drums roll over (4)</l>
+<l>draw out bright carp that are like rivalling spears (6)</l>
+<l>together with Varāl fish who ripen eggs [shaped] like soft leaves of palmyra, (5)</l>
+<l>	would not enter. (7c)</l>
+<l>Joining with all the many with chaplets from various places (8)</l>
+<l>she was on one way [with them]. Today (9)</l>
+<l>[this] girl with a choice forehead and quiet fidelity, (10)</l>
+<l>as he entered the world of high standing, (11a-c)</l>
+<l>rejects? a place as small as a winnowing fan bathed in itching ashes (11d-12)</l>
+<l>[and] with eyes that do not stop crying (13)</l>
+<l>smears [its] with cowdung with [the help] of the tears that dim [her] eyes. (14)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">9MG12MG48MR6MG53MG21MG31ML3MG10M2G31M2G23MG3MG6M2G66MG13MG3MR46MG2M,405MG</interp>
+<standOff type="wordsplit" corresp="#PN249"><interp type="alignment" select="0">9MG12MG48MR6MG53MG21MG31ML3MG10M2G31M2G23MG3MG6M2G66MG13MG3MR46MG2M,405MG</interp>
 <entry>
 <form>katir</form>
 <def>ear</def>
