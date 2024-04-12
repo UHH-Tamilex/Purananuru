@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 248.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN248">
       <lg type="edition">
 <l>aḷiya tāmē ciṟuveḷ ḷāmpa</l>
 <l>liḷaiya mākat taḻaiyā yiṉavē</l>
@@ -34,10 +34,18 @@
 <l>tiṉṉā vaika luṇṇu</l>
 <l>mallip paṭūum pullā yiṉavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  Pitiful [are] they, the small white waterlilies.</l>
+<l>When we were young, they were foliage [for a skirt].</l>
+<l>Now, </l>
+<l>since [our] great prosperous husband is gone, defying the time</l>
+<l>they have become the grass that provides the seeds</l>
+<l>that are eaten in pleasureless days.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">8MG36MG6MG40MG35MG3M,55MG76MG</interp>
+<standOff type="wordsplit" corresp="#PN248"><interp type="alignment" select="0">8MG36MG6MG40MG35MG3M,55MG76MG</interp>
 <entry>
 <form>aḷiya</form>
 <def>pitiable</def>
