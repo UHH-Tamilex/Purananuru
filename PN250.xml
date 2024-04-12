@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 250.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN250">
       <lg type="edition">
 <l>kuykuraṉ malinta koḻuṅtuvai yaṭici</l>
 <l>liravalart taṭutta vāyiṟ puravalar</l>
@@ -37,10 +37,21 @@
 <l>muṉittalaip putalvar tantai</l>
 <l>taṉittalaip peruṅkāṭu muṉṉiya piṉṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  Rice with fat meat full of plucked ears, (1)</l>
+<l>protectors at the door who stopped mendicants, (2)</l>
+<l>a cool fragrant pantal that stopped tears [from flowing], (3)</l>
+<l>– now, along with the housewife whose food is lily seeds, (5)</l>
+<l>having trimmed [her] tresses [and] discarded [her] small bracelets, (4)</l>
+<l>you are empty indeed, prosperous brilliant mansion, (6)</l>
+<l>after the father of the sons with hateful(?) heads (8)</l>
+<l>who need sweet milk with white rice (7)</l>
+<l>approached the great wilderness/cremation ground, a lonely area. (9)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">136MG3MG13MG45ML54MG3M,258MG</interp>
+<standOff type="wordsplit" corresp="#PN250"><interp type="alignment" select="0">136MG3MG13MG45ML54MG3M,258MG</interp>
 <entry>
 <form>kuy</form>
 <def>pluck-</def>
