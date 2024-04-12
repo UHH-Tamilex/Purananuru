@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 246.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN246">
       <lg type="edition">
 <l>palcāṉ ṟīrē palcāṉ ṟīrē</l>
 <l>celkeṉac collā toḻikeṉa vilakkum</l>
@@ -43,10 +43,28 @@
 <l>vaḷḷita ḻaviḻnta tāmarai</l>
 <l>naḷḷirum poykaiyun tīyumō raṟṟē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+  You who are worthy of much [praise], you who are worthy of much [praise], (1)
+with bad counsel, who block block [me], saying “stay behind”, 
+without saying “you may go”, you who are worthy of much [praise]: (2f.)
+are we not women capable of surviving/suffering women (10)
+who as of today remain on mats/without mats as a bed, strewn with pebbles, (9)
+while [our] food is something boiled of Vēḷai, (8)
+that is cooked, pouring tamarind with a paste of white sesame (7)
+on rice balls pressed with the hand which lie on a leaf, (6)
+not touched by fragrant ghee, very white like the kernels (5)
+that were cleaved by a sword from a curved unripe fruit striped [like] a squirrel? (4)
+The pyre with [its] black peak prepared in the vast cremation ground, (11)
+let it be difficult/precious for you. For us, (12)
+because our big-shouldered husband is gone, (13a-c)
+the fire and the centre of the big pond (15a-c)
+with lotuses that open [their] pointed petals so that the buds end (13c+14)
+	are but one. (15d)
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">9MG10MG5M3G10MG4M3G33MG26M2G10ML20MG4MG48MG59M3G13M2G30MG3MG6MG4MG5MG11MG31MG39MG5MG8M2G2M,426MG</interp>
+<standOff type="wordsplit" corresp="#PN246"><interp type="alignment" select="0">9MG10MG5M3G10MG4M3G33MG26M2G10ML20MG4MG48MG59M3G13M2G30MG3MG6MG4MG5MG11MG31MG39MG5MG8M2G2M,426MG</interp>
 <entry>
 <form>pal</form>
 <def>many</def>
