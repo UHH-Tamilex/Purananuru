@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 252.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN252">
       <lg type="edition">
 <l>kaṟaṅkuveḷ ḷaruvi yēṟṟali ṉiṟampeyarntu</l>
 <l>tillai yaṉṉa pulleṉ caṭaiyō</l>
@@ -33,10 +33,17 @@
 <l>yilvaḻaṅku maṭamayil piṇikkuñ</l>
 <l>colvalai vēṭṭuva ṉāyiṉaṉ muṉṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l> He who [now] plucks sharp-leafed bindweed, (3)</l>
+<l>  with matted hair empty like the blinding-tree (2)</l>
+<l>  after changing colour because of receiving the roaring waterfall, (1)</l>
+<l>  earlier he was a hunter with a word net (5)</l>
+<l>  who ensnared innocent peacocks that roam the house. (4)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">24ML37MG20MG16ML37MG3M,141MG</interp>
+<standOff type="wordsplit" corresp="#PN252"><interp type="alignment" select="0">24ML37MG20MG16ML37MG3M,141MG</interp>
 <entry>
 <form>kaṟaṅku</form>
 <def>sound-</def>
