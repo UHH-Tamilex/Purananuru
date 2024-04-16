@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>kaṟaṅkuveḷ ḷaruvi yēṟṟali ṉiṟampeyarntu</l>
+<l>tillai yaṉṉa pulleṉ caṭaiyō</l>
+<l>ṭaḷḷilait tāḷi koyyu mōṉē</l>
+<l>yilvaḻaṅku maṭamayil piṇikkuñ</l>
+<l>colvalai vēṭṭuva ṉāyiṉaṉ muṉṉē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">24ML37MG20MG16ML37MG3M,141MG</interp>
+<entry>
+<form>kaṟaṅku</form>
+<def>sound-</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form><pc>+</pc>aruvi</form>
+<def>waterfall</def>
+</entry>
+<entry>
+<form><pc>~</pc>ēṟṟaliṉ</form>
+<def>receiving</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>niṟam</form>
+<def>colour</def>
+</entry>
+<entry>
+<form>peyarntu</form>
+<def>moved</def>
+</entry>
+<entry>
+<form>tillai</form>
+<def>blinding-tree</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>pulleṉ</form>
+<def>‘pul’-say-</def>
+</entry>
+<entry>
+<form>caṭaiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>matted-hair</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>aḷ</form>
+<def>sharpness</def>
+</entry>
+<entry>
+<form><pc>+</pc>ilai<pc>+</pc></form>
+<def>leaf</def>
+</entry>
+<entry>
+<form>tāḷi</form>
+<def>bind-weed</def>
+</entry>
+<entry>
+<form>koyyumōṉ-ē</form>
+<def>pluck-he</def>
+<form type="simple">koyyumōṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>il</form>
+<def>house</def>
+</entry>
+<entry>
+<form>vaḻaṅku</form>
+<def>roam</def>
+</entry>
+<entry>
+<form>maṭam</form>
+<def>youthfulness</def>
+</entry>
+<entry>
+<form>mayil</form>
+<def>peacock</def>
+</entry>
+<entry>
+<form>piṇikkum</form>
+<def>fettering-</def>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+</entry>
+<entry>
+<form>valai</form>
+<def>net</def>
+</entry>
+<entry>
+<form>vēṭṭuvaṉ</form>
+<def>hunter</def>
+</entry>
+<entry>
+<form>āyiṉaṉ</form>
+<def>become-he</def>
+</entry>
+<entry>
+<form>muṉ-<pc>+</pc>ē</form>
+<def>before</def>
+<form type="simple">muṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
