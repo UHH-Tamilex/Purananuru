@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 255.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN255">
       <lg type="edition">
 <l>aiyō veṉiṉyāṉ puliyañ cuvalē</l>
 <l>yaṇaittaṉaṉ koḷiṉē yakaṉmār peṭukkavallē</l>
@@ -34,10 +34,18 @@
 <l>niraivaḷai muṉkai paṟṟi</l>
 <l>varainiḻaṟ cērka naṭatticiṟ ciṟitē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  If [you] say “aiyō”, I am afraid of the tiger. (1)</l>
+<l>If I take [him] as one who touches, I won’t be able to rouse [him] with wide chest. (2)</l>
+<l>May you experience a great tremble like me, (4a-c)</l>
+<l>virtuless Death who experienced something displeasing for you. (5)</l>
+<l>Gripping the forearm with bangles in a row (5)</l>
+<l>we shall join the shade of the mountain; let us walk a little. (6)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">24MG17MG10MG28MG17MG15M2G37MR15M2G2M,174MG</interp>
+<standOff type="wordsplit" corresp="#PN255"><interp type="alignment" select="0">24MG17MG10MG28MG17MG15M2G37MR15M2G2M,174MG</interp>
 <entry>
 <form>aiyō</form>
 <def>aiy</def>
