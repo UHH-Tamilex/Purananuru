@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 258.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN258">
       <lg type="edition">
 <l>muṭkāṟ kārai mutupaḻa ṉēyppat</l>
 <l>teṟippa viḷainta tīṅkan tāra</l>
@@ -39,10 +39,24 @@
 <l>yāttarak kaḻumiya tukaḷaṉ</l>
 <l>kāytalu muṇṭak kaḷvey yōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+  Going at the head of a herd he balanced
+against the sweet licquor fully(?) matured
+so as to resemble the old fruits of thorny-stemmed Kārai,
+	drinking,
+eating fresh meat, smearing the back of [his] bow
+with [his] hand moist with the leftovers that are thick with fresh fat
+he entered the fields [again], the young man with a ruddy beard. 
+Before eating a single time he will bring a big heard,
+so that the outside of the village is full, for everyone.
+Beware of touching the old-mouthed jar 
+of him who is keen on that toddy, drinking as soon as he is thirsty,
+he with dust that is copious as he brings the cows.
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">51MR21MG8MG63MG53MR84MG11MG2M,299MG</interp>
+<standOff type="wordsplit" corresp="#PN258"><interp type="alignment" select="0">51MR21MG8MG63MG53MR84MG11MG2M,299MG</interp>
 <entry>
 <form>muḷ</form>
 <def>thorn</def>
