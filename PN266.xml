@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 266.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN266">
       <lg type="edition">
 <l>payaṅkeḻu māmaḻai peyyātu māṟik</l>
 <l>kayaṅkaḷi muḷiyuṅ kōṭai yāyiṉum</l>
@@ -41,10 +41,25 @@
 <l>poṟippuṇa ruṭampiṟ ṟōṉṟiyeṉ</l>
 <l>ṉaṟivukeṭa niṉṟa nalkūr maiyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>With great victories over lands with water-glittering paddy fields, (6)</l>
+<l>where the curly-faced male snail with ear[-shaped] feelers (4)</l>
+<l>enters into daytime union with the young sea-snail conch (5)</l>
+<l>in the shade of the wide leaves of tube-stemmed white waterlilies (3)</l>
+<l>even though the west wind dries the silt by the pond (2) </l>
+<l>after the well-filled dark clouds changed [position] without raining, (1)</l>
+<l>Oh top [man] on the strong animal with a sky-touchig tall parasol (7),</l>
+<l>resembling the clamour that says “may he be a support, (9)</l>
+<l>to the one who experiences [his] assembly where worthy men sit”, (8)</l>
+<l>may you remove [it] fast (10a-c)</l>
+<l>– the poverty that lasted so that my knowledge got lost, (13)</l>
+<l>appearing with a body joined with the marks (12)</l>
+<l>of an imperfect living that will hide when seeing the feasts remembered. (10d-11)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">105M3G9MG27MR49MGM2G28MG7MG2MG28MG24MG71MG3M,367MG</interp>
+<standOff type="wordsplit" corresp="#PN266"><interp type="alignment" select="0">105M3G9MG27MR49MGM2G28MG7MG2MG28MG24MG71MG3M,367MG</interp>
 <entry>
 <form>payam</form>
 <def>yield</def>
