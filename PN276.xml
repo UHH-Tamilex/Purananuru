@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 276.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN276">
       <lg type="edition">
 <l>naṟuvirai tuṟanta naraiveṇ kūnta</l>
 <l>liraṅkā ḻaṉṉa tiraṅkukaṇ vaṟumulaic</l>
@@ -34,10 +34,18 @@
 <l>kuṭappāṟ cilluṟai pōlap</l>
 <l>paṭaikkunō yellān tāṉā yiṉaṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The beloved little son of the upright old woman</l>
+<l>with grey-white tresses that had abandoned fragrant scents</l>
+<l>[and] empty breasts with nipples shrunken like Iram kernels,</l>
+<l>like a few drops [of buttermilk] into the the milk in the pot</l>
+<l>that leapt from the sharp nails of the cowherd girl whose share is youth</l>
+<l>he became the whole bane of the army.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">146M2GMR17MG2M,169MG</interp>
+<standOff type="wordsplit" corresp="#PN276"><interp type="alignment" select="0">146M2GMR17MG2M,169MG</interp>
 <entry>
 <form>naṟu</form>
 <def>fragrant</def>
