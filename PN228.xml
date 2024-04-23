@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>kalañcey kōvē kalañcey kōvē</l>
+<l>yiruṭiṇin taṉṉa kurūuttiraṭ parūuppukai</l>
+<l>yakaliru vicumpi ṉūṉṟuñ cūḷai</l>
+<l>naṉantalai mūtūrk kalañcey kōvē</l>
+<l>yaḷiyai nīyē yāṅkā kuvaiko</l>
+<l>ṉilamvarai cūṭṭiya nīṇeṭun tāṉaip</l>
+<l>pulavar pukaḻnta poyyā nallicai</l>
+<l>virikatir ñāyiṟu vicumpivarn taṉṉa</l>
+<l>cēṇviḷaṅku ciṟappiṟ cempiyar marukaṉ</l>
+<l>koṭinuṭaṅ kiyāṉai neṭumā vaḷavaṉ</l>
+<l>ṟēva rulaka meytiṉa ṉātali</l>
+<l>ṉaṉṉōṟ kavikkuṅ kaṇṇakaṉ ṟāḻi</l>
+<l>vaṉaital vēṭṭaṉai yāyi ṉeṉaiyatūu</l>
+<l>mirunilan tikiriyāp perumalai</l>
+<l>maṇṇā vaṉaita lollumō niṉakkē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">10MG12MG7ML70MG13MG11MG6MG6MG3ML19ML59MG64ML132MG7M2G2M,435MG</interp>
+<entry>
+<form>kalam</form>
+<def>vessel</def>
+</entry>
+<entry>
+<form>cey</form>
+<def>make-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kō-<pc>~</pc>ē</form>
+<def>king</def>
+<form type="simple">kō</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kalam</form>
+<def>vessel</def>
+</entry>
+<entry>
+<form>cey</form>
+<def>make-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kō-<pc>~</pc>ē</form>
+<def>king</def>
+<form type="simple">kō</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>iruḷ</form>
+<def>darkness</def>
+</entry>
+<entry>
+<form>tiṇintaṉṉa</form>
+<def>become-firm-like-</def>
+</entry>
+<entry>
+<form>kurūu<pc>+</pc></form>
+<def>brilliant</def>
+</entry>
+<entry>
+<form>tiraḷ</form>
+<def>accumulation</def>
+</entry>
+<entry>
+<form>parūu<pc>+</pc></form>
+<def>big</def>
+</entry>
+<entry>
+<form>pukai</form>
+<def>smoke</def>
+</entry>
+<entry>
+<form><pc>~</pc>akal</form>
+<def>widen-</def>
+</entry>
+<entry>
+<form>iru</form>
+<def>dark</def>
+</entry>
+<entry>
+<form>vicumpiṉ</form>
+<def>sky</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>ūṉṟum</form>
+<def>leaning-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>cūḷai</form>
+<def>kiln</def>
+</entry>
+<entry>
+<form>naṉam</form>
+<def>vast</def>
+</entry>
+<entry>
+<form>talai</form>
+<def>area</def>
+</entry>
+<entry>
+<form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>old</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>town</def>
+</entry>
+<entry>
+<form><pc>+</pc>kalam</form>
+<def>vessel</def>
+</entry>
+<entry>
+<form>cey</form>
+<def>make-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kō-<pc>~</pc>ē</form>
+<def>king</def>
+<form type="simple">kō</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>aḷiyai</form>
+<def>pity-you</def>
+</entry>
+<entry>
+<form>nī-<pc>~</pc>ē</form>
+<def>you</def>
+<form type="simple">nī</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>how</def>
+</entry>
+<entry>
+<form>ākuvai-kol</form>
+<def>become-you</def>
+<form type="simple">ākuvai</form>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
+</entry>
+<entry>
+<form>nilam</form>
+<def>ground</def>
+</entry>
+<entry>
+<form>varai</form>
+<def>limit</def>
+</entry>
+<entry>
+<form>cūṭṭiya</form>
+<def>put-on-</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nīḷ</form>
+<def>be-long-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>neṭum</form>
+<def>long</def>
+</entry>
+<entry>
+<form>tāṉai</form>
+<def>army</def>
+</entry>
+<entry>
+<form><pc>+</pc>pulavar</form>
+<def>poet</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>pukaḻnta</form>
+<def>praised-</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>poyyā</form>
+<def>lie-not-</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form><pc>+</pc>icai</form>
+<def>sound</def>
+</entry>
+<entry>
+<form>viri</form>
+<def>expand-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>katir</form>
+<def>ray</def>
+</entry>
+<entry>
+<form>ñāyiṟu</form>
+<def>sun</def>
+</entry>
+<entry>
+<form>vicump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sky</def>
+</entry>
+<entry>
+<form>ivarntaṉṉa</form>
+<def>climbed-like-</def>
+</entry>
+<entry>
+<form>cēṇ</form>
+<def>distance</def>
+</entry>
+<entry>
+<form>viḷaṅku</form>
+<def>shine-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟappiṉ</form>
+<def>excellence</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>cempiyar</form>
+<def>Cempiyar</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>marukaṉ</form>
+<def>descendant</def>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
+<entry>
+<form>koṭi</form>
+<def>flag</def>
+</entry>
+<entry>
+<form>nuṭaṅki</form>
+<def>sway-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+</entry>
+<entry>
+<form>neṭum</form>
+<def>tall</def>
+</entry>
+<entry>
+<form>mā</form>
+<def>horse</def>
+</entry>
+<entry>
+<form>vaḷavaṉ</form>
+<def>Vaḷavaṉ</def>
+</entry>
+<entry>
+<form>tēvar</form>
+<def>god</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ulakam</form>
+<def>world</def>
+</entry>
+<entry>
+<form>eytiṉaṉ</form>
+<def>reached-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>ātaliṉ</form>
+<def>because</def>
+</entry>
+<entry>
+<form>aṉṉōṉ</form>
+<def>thus-he</def>
+<gramGrp><gram type="role">masculine</gram>
+</gramGrp></entry>
+<entry>
+<form>kavikkum</form>
+<def>covering-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇ</form>
+<def>area</def>
+</entry>
+<entry>
+<form><pc>+</pc>akal</form>
+<def>widen-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>tāḻi</form>
+<def>urn</def>
+</entry>
+<entry>
+<form>vaṉaital</form>
+<def>forming</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṭṭaṉai</form>
+<def>wanted-you</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āyiṉ</form>
+<def>if</def>
+</entry>
+<entry>
+<form>eṉaiyatūum</form>
+<def>even-a-little</def>
+</entry>
+<entry>
+<form>iru</form>
+<def>dark/big</def>
+</entry>
+<entry>
+<form>nilam</form>
+<def>ground</def>
+</entry>
+<entry>
+<form>tikiri</form>
+<def>wheel</def>
+</entry>
+<entry>
+<form><pc>~</pc>ā<pc>+</pc></form>
+<def>become-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+</entry>
+<entry>
+<form>malai</form>
+<def>mountain</def>
+</entry>
+<entry>
+<form>maṇ</form>
+<def>earth</def>
+</entry>
+<entry>
+<form><pc>+</pc>ā</form>
+<def>become-</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>vaṉaital</form>
+<def>forming</def>
+</entry>
+<entry>
+<form>ollum-ō</form>
+<def>is-possible</def>
+<form type="simple">ollum</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>niṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>you</def>
+<form type="simple">niṉakku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
