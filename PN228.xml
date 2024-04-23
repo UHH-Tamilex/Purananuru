@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 228.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN228">
       <lg type="edition">
 <l>kalañcey kōvē kalañcey kōvē</l>
 <l>yiruṭiṇin taṉṉa kurūuttiraṭ parūuppukai</l>
@@ -43,10 +43,28 @@
 <l>mirunilan tikiriyāp perumalai</l>
 <l>maṇṇā vaṉaita lollumō niṉakkē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>O vessel-making king! O vessel-making king! (1)</l>
+<l>In the old town of vast area (4ab)</l>
+<l>with a kiln that supports, in the wide dark sky, (3)</l>
+<l>a big [colon of] smoke, brilliance accumulated like darkness become firm, (2)</l>
+<l>O vessel-making king! (4cd)</l>
+<l>Pitiable are you. What will become of you? (5)</l>
+<l>Vaḷavan on a tall horse, with banners swaying on [his] elephants, (10)</l>
+<l>descendant of the Cempiyar of far-shining excellence (9)</l>
+<l>that is like the wide-rayed sun climbing the sky, (8)</l>
+<l>of unlying fame that is praised by poets, (7)</l>
+<l>with a lengthy long army which was laid out up to the limits of the ground, (6)</l>
+<l>because he [now] has reached the world of the gods, (11)</l>
+<l>if you need to form (13a-c)</l>
+<l>an urn wide [enough] in area to cover such a one, (12)</l>
+<l>is it at all possible for you to form from clay (13d+15)</l>
+<l>the big mountain with the large earth as the wheel? (14)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">10MG12MG7ML70MG13MG11MG6MG6MG3ML19ML59MG64ML132MG7M2G2M,435MG</interp>
+<standOff type="wordsplit" corresp="#PN228"><interp type="alignment" select="0">10MG12MG7ML70MG13MG11MG6MG6MG3ML19ML59MG64ML132MG7M2G2M,435MG</interp>
 <entry>
 <form>kalam</form>
 <def>vessel</def>
