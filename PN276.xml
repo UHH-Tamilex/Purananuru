@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>naṟuvirai tuṟanta naraiveṇ kūnta</l>
+<l>liraṅkā ḻaṉṉa tiraṅkukaṇ vaṟumulaic</l>
+<l>cemmutu peṇṭiṉ kātalañ ciṟāaṉ</l>
+<l>maṭappā lāymakaḷ vaḷḷukirt teṟitta</l>
+<l>kuṭappāṟ cilluṟai pōlap</l>
+<l>paṭaikkunō yellān tāṉā yiṉaṉē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">146M2GMR17MG2M,169MG</interp>
+<entry>
+<form>naṟu</form>
+<def>fragrant</def>
+</entry>
+<entry>
+<form>virai</form>
+<def>scent</def>
+</entry>
+<entry>
+<form>tuṟanta</form>
+<def>abandoned-</def>
+</entry>
+<entry>
+<form>narai</form>
+<def>greyness</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+</entry>
+<entry>
+<form>iram</form>
+<def>Iram-tree</def>
+</entry>
+<entry>
+<form>kāḻ</form>
+<def>kernel</def>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>tiraṅku</form>
+<def>shrunk</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>vaṟu</form>
+<def>empty</def>
+</entry>
+<entry>
+<form>mulai<pc>+</pc></form>
+<def>breast</def>
+</entry>
+<entry>
+<form>cem</form>
+<def>straight</def>
+</entry>
+<entry>
+<form>mutu</form>
+<def>old</def>
+</entry>
+<entry>
+<form>peṇṭiṉ</form>
+<def>woman</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kātalam</form>
+<def>love</def>
+<gramGrp type="affix"><m>am</m></gramGrp>
+</entry>
+<entry>
+<form>ciṟāaṉ</form>
+<def>little-he</def>
+</entry>
+<entry>
+<form>maṭa<pc>+</pc></form>
+<def>youthful</def>
+</entry>
+<entry>
+<form>pāl</form>
+<def>part</def>
+</entry>
+<entry>
+<form>āy</form>
+<def>cowherd</def>
+</entry>
+<entry>
+<form>makaḷ</form>
+<def>daughter</def>
+</entry>
+<entry>
+<form>vaḷ</form>
+<def>sharp</def>
+</entry>
+<entry>
+<form><pc>+</pc>ukir<pc>+</pc></form>
+<def>nail</def>
+</entry>
+<entry>
+<form>teṟitta</form>
+<def>leapt-</def>
+</entry>
+<entry>
+<form>kuṭa<pc>+</pc></form>
+<def>pot</def>
+</entry>
+<entry>
+<form>pāl</form>
+<def>milk</def>
+</entry>
+<entry>
+<form>cil</form>
+<def>few</def>
+</entry>
+<entry>
+<form><pc>+</pc>uṟai</form>
+<def>drop</def>
+</entry>
+<entry>
+<form>pōla<pc>+</pc></form>
+<def>be-similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>army</def>
+<form type="simple">paṭaikku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>nōy</form>
+<def>pain</def>
+</entry>
+<entry>
+<form>ellām</form>
+<def>all</def>
+</entry>
+<entry>
+<form>tāṉ</form>
+<def>self</def>
+</entry>
+<entry>
+<form>āyiṉaṉ-ē</form>
+<def>he-became</def>
+<form type="simple">āyiṉaṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
