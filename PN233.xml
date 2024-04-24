@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 233.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN233">
       <lg type="edition" style="pūṭṭuvil">
 <l>poyyā kiyarō poyyā kiyarō</l>
 <l>pāvaṭi yāṉaip paricilark karukāc</l>
@@ -36,10 +36,21 @@
 <l>ṉeḵkuṟu viḻuppuṇ palaveṉa</l>
 <l>vaikuṟu viṭiya liyampiya kuralē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  Let it be a lie! Let it be a lie! (1)</l>
+<l>Like the gold-made discus (4ab)</l>
+<l>that appeared before the eye of Akutai of excellent durable effort (3)</l>
+<l>who is not scarce to mendicants with large-footed elephants, (2)</l>
+<l>	let it be a lie</l>
+<l>– the voice that anounced at the crack of dawn (8)</l>
+<l>that the excellent wound caused by a blade are many (7)</l>
+<l>on the chest of Evvi, with a army killing in battle, (6)</l>
+<l>with big ornaments, leader of a big clan of bards. (5)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">10MG11MG24MG62MG55MG46MG2M,215MG</interp>
+<standOff type="wordsplit" corresp="#PN233"><interp type="alignment" select="0">10MG11MG24MG62MG55MG46MG2M,215MG</interp>
 <entry>
 <form>poy</form>
 <def>lie</def>
