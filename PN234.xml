@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 234.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN234">
       <lg type="edition">
 <l>nōko yāṉē tēyka mākālai</l>
 <l>piṭiyaṭi yaṉṉa ciṟuvaḻi meḻukit</l>
@@ -34,10 +34,19 @@
 <l>lulakupukat tiṟanta vāyiṟ</l>
 <l>palarō ṭuṇṭaṉ marīi yōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  Ah, I ache. May the long time be short.</l>
+<l>  How would he eat the sweet little rice ball</l>
+<l>  put on the grass by his very beloved</l>
+<l>  after cleansing a way short as the leg of a she-elephant,</l>
+<l>  he who came together eating with many,</l>
+<l>  at the door that was closed when the world would enter?</l>
+   
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG85MG6MG33MG12MG2M,149MG</interp>
+<standOff type="wordsplit" corresp="#PN234"><interp type="alignment" select="0">7MG85MG6MG33MG12MG2M,149MG</interp>
 <entry>
 <form>nōkō</form>
 <def>ache-I</def>
