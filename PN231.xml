@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 231.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN231">
       <lg type="edition">
 <l>eṟipuṉak kuṟavaṉ kuṟaiya laṉṉa</l>
 <l>karipuṟa viṟaki ṉīma moḷḷaḻaṟ</l>
@@ -34,10 +34,19 @@
 <l>tiṅka ḷaṉṉa veṇkuṭai</l>
 <l>yoṇñāyi ṟaṉṉōṉ pukaḻmā yalavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The bright fire of the funeral pyre with firewood charred outside,</l>
+<l>like the plots of the hill people whose fields [are cleared] by flame,</l>
+<l>if it comes near [him], let it come near. If it does not come near, goes</l>
+<l>[and] extends so as to reach the sky, let it extend. </l>
+<l>The [words of] praise for him who was like the bright sun,</l>
+<l>[his] white umbrella like the fresh-rayed moon,</l>
+<l>	will not vanish.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">35M3G54MG9MR42MG16MG3M,165MG</interp>
+<standOff type="wordsplit" corresp="#PN231"><interp type="alignment" select="0">35M3G54MG9MR42MG16MG3M,165MG</interp>
 <entry>
 <form>eṟi</form>
 <def>flame</def>
