@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 232.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN232">
       <lg type="edition">
 <l>illā kiyarō kālai mālai</l>
 <l>yallā kiyaryāṉ vāḻu nāḷē</l>
@@ -34,10 +34,18 @@
 <l>kōṭuyar piṟaṅkumalai keḻīiya</l>
 <l>nāṭuṭaṉ koṭuppavuṅ koḷḷā tōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Let them be nothing, morning [and] evening.</l>
+<l>The days I live, let them be naught.</l>
+<l>Though I adorn [his] herostone with peacock feathers [and] shed</l>
+<l>a small vessel of fibre-filtered [toddy], will he take [it]?</l>
+<l>Though I give it along with the land to which belong</l>
+<l>glistenig mountains with high peaks, he won’t take it.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">9MG28MR3MG33MG6MG9MG8MG26MG11MG11MG2M,155MG</interp>
+<standOff type="wordsplit" corresp="#PN232"><interp type="alignment" select="0">9MG28MR3MG33MG6MG9MG8MG26MG11MG11MG2M,155MG</interp>
 <entry>
 <form>il</form>
 <def>not-</def>
