@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 239.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN239">
       <lg type="edition">
 <l>toṭiyuṭaiya tōṇmaṇantaṉaṉ</l>
 <l>kaṭikāviṟ pūccūṭiṉaṉ</l>
@@ -49,10 +49,33 @@
 <l>ṉiṭuka voṉṟō cuṭuka voṉṟō</l>
 <l>paṭuvaḻip paṭukavip pukaḻveyyōṉ ṟalaiyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>He united with [those whose] shoulders possess armlets. (1)</l>
+<l>He wore flowers from the fragrant groves. (2)</l>
+<l>He smeared [his chest] with cool fragrant sandal. (3)</l>
+<l>He destroyed the path of the dead. (4)</l>
+<l>He spoke high about his friends. (5)</l>
+<l>He praised [them] as strong. (6)</l>
+<l>He lauded [them] as gentle. (7)</l>
+<l>He did not know of begging from others. (8)</l>
+<l>He did not know of refusing beggars. (9)</l>
+<l>He made high glory appear in the king’s assembly. (10)</l>
+<l>He endured armies coming against [him]. (11)</l>
+<l>He saw the back of armies turning back. (12)</l>
+<l>He drove fast-gaited horses. (13)</l>
+<l>He moved on a chariot through long streets. (14)</l>
+<l>He mounted tall-natured elephants. (15) </l>
+<l>He demolished sweet tight? pots [of toddy]. (16)</l>
+<l>When rejoicing in melodies he ended hunger. (17)</l>
+<l>He dismissed confusing words. (18)</l>
+<l>Because he did all that could be done, (19)</l>
+<l>Let them put [him] down or let them burn [it]. (20)</l>
+<l>Let it go the way it goes, the head of this man keen on fame. (21)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">87ML80MG24MG12MG13MG85ML27MG10MG62MG54M2G11M2G35MG3M,516MG</interp>
+<standOff type="wordsplit" corresp="#PN239"><interp type="alignment" select="0">87ML80MG24MG12MG13MG85ML27MG10MG62MG54M2G11M2G35MG3M,516MG</interp>
 <entry>
 <form>toṭi</form>
 <def>bracelet</def>
