@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 231.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN231">
+      <lg type="edition">
+<l>eṟipuṉak kuṟavaṉ kuṟaiya laṉṉa</l>
+<l>karipuṟa viṟaki ṉīma moḷḷaḻaṟ</l>
+<l>kuṟukiṉuṅ kuṟukuka kuṟukātu ceṉṟu</l>
+<l>vicumpuṟa nīḷiṉu nīḷka pacuṅkatirt</l>
+<l>tiṅka ḷaṉṉa veṇkuṭai</l>
+<l>yoṇñāyi ṟaṉṉōṉ pukaḻmā yalavē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>The bright fire of the funeral pyre with firewood charred outside,</l>
+<l>like the plots of the hill people whose fields [are cleared] by flame,</l>
+<l>if it comes near [him], let it come near. If it does not come near, goes</l>
+<l>[and] extends so as to reach the sky, let it extend. </l>
+<l>The [words of] praise for him who was like the bright sun,</l>
+<l>[his] white umbrella like the fresh-rayed moon,</l>
+<l>	will not vanish.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN231"><interp type="alignment" select="0">35M3G54MG9MR42MG16MG3M,165MG</interp>
+<entry>
+<form>eṟi</form>
+<def>flame</def>
+</entry>
+<entry>
+<form>puṉa<pc>+</pc></form>
+<def>field</def>
+</entry>
+<entry>
+<form>kuṟavaṉ</form>
+<def>hill-he</def>
+</entry>
+<entry>
+<form>kuṟaiyal</form>
+<def>plot</def>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>kari</form>
+<def>be-charred-</def>
+</entry>
+<entry>
+<form>puṟa<pc>(</pc>m<pc>)</pc></form>
+<def>outside</def>
+</entry>
+<entry>
+<form>viṟakiṉ</form>
+<def>firewood</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>īmam</form>
+<def>pyre</def>
+</entry>
+<entry>
+<form>oḷ</form>
+<def>bright</def>
+</entry>
+<entry>
+<form><pc>+</pc>aḻal</form>
+<def>fire</def>
+</entry>
+<entry>
+<form>kuṟukiṉum</form>
+<def>come-near-if-even</def>
+</entry>
+<entry>
+<form>kuṟukuka</form>
+<def>let-come-near</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟukātu</form>
+<def>come-near-not</def>
+</entry>
+<entry>
+<form>ceṉṟu</form>
+<def>gone</def>
+</entry>
+<entry>
+<form>vicump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>heaven</def>
+</entry>
+<entry>
+<form>uṟa</form>
+<def>have</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>nīḷiṉum</form>
+<def>extend-if-even</def>
+</entry>
+<entry>
+<form>nīḷka</form>
+<def>let-extend</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>pacum</form>
+<def>green</def>
+</entry>
+<entry>
+<form>katir<pc>+</pc></form>
+<def>ray</def>
+</entry>
+<entry>
+<form>tiṅkaḷ</form>
+<def>moon</def>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form>kuṭai</form>
+<def>parasol</def>
+</entry>
+<entry>
+<form><pc>~</pc>oḷ</form>
+<def>bright</def>
+</entry>
+<entry>
+<form>ñāyiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sun</def>
+</entry>
+<entry>
+<form>aṉṉōṉ</form>
+<def>like-he</def>
+</entry>
+<entry>
+<form>pukaḻ</form>
+<def>praise</def>
+</entry>
+<entry>
+<form>māyala-<pc>~</pc>ē</form>
+<def>vanish-not-they</def>
+<form type="simple">māyala</form>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

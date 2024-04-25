@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 230.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN230">
       <lg type="edition">
 <l>kaṉṟama rāyaṅ kāṉat talkavum</l>
 <l>veṅkāl vampalar vēṇṭupulat tuṟaiyavuṅ</l>
@@ -44,10 +44,28 @@
 <l>ṉērār palluyir paruki</l>
 <l>yārkuvai maṉṉōvava ṉamaraṭu kaḷattē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While the cows desired by [their] calves remain in the forest, (1)</l>
+<l>while hot-legged travellers stay in the places they want, (2)</l>
+<l>while the ample heaps on the threshing flooe are kept without guard, (3)</l>
+<l>as falseless Eḻiṉi after fighting joined the battle field, (6)</l>
+<l>with [his] just sceptre unperturbed that had chased away bothersome enemies, (4)</l>
+<l>with [his] bright sword of glowing work[manship] that was praised by the world, (5)</l>
+<l>while his battle troups despair one by one, (8)</l>
+<l>like a calf that was left by her who bore it, (7)</l>
+<l>very much more than the world which is kept enduring pain, (10)</l>
+<l>with hearts abounding in distress when afflicted with fierce hunger, (9)</l>
+<l>you are lost, virtueless Death. (11)</l>
+<l>If, like a ploughman of a sunken clan who does not know </l>
+<l>the wealth of strength that comes from living (12f.)</l>
+<l>you don’t eat the precious life of one man, (14)</l>
+<l>will you drink up the many lives of the enemies (15)</l>
+<l>[and] be satiated, on the battle field where he abides? (16)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">4MG14MG4MG28MG6MG8ML13MG8MG102ML111ML19MG63MG7MG21ML26MG3MG20M2G2M,476MG</interp>
+<standOff type="wordsplit" corresp="#PN230"><interp type="alignment" select="0">4MG14MG4MG28MG6MG8ML13MG8MG102ML111ML19MG63MG7MG21ML26MG3MG20M2G2M,476MG</interp>
 <entry>
 <form>kaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>calf</def>

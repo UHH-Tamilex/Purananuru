@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 239.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN239">
+      <lg type="edition">
+<l>toṭiyuṭaiya tōṇmaṇantaṉaṉ</l>
+<l>kaṭikāviṟ pūccūṭiṉaṉ</l>
+<l>ṟaṇkamaḻuñ cāntunīviṉaṉ</l>
+<l>ceṟṟōrai vaḻitaputtaṉa</l>
+<l>ṉaṭṭōrai yuyarpukūṟiṉaṉ</l>
+<l>valiyareṉa vaḻimoḻiyalaṉ</l>
+<l>meliyareṉa mīkkūṟalaṉ</l>
+<l>piṟaraittā ṉirappaṟiyala</l>
+<l>ṉirantōrkku maṟuppaṟiyalaṉ</l>
+<l>vēntuṭai yavaiyat tōṅkupukaḻ tōṟṟiṉaṉ</l>
+<l>varupaṭai yetirtāṅkiṉaṉ</l>
+<l>peyarpaṭai puṟaṅkaṇṭaṉaṉ</l>
+<l>kaṭumpariya mākkaṭaviṉa</l>
+<l>ṉeṭunteruviṟ tērvaḻaṅkiṉa</l>
+<l>ṉōṅkiyala kaḷiṟūrntaṉaṉ</l>
+<l>ṟīñceṟi tacumputolaicciṉaṉ</l>
+<l>pāṇuvappap pacitīrttaṉaṉ</l>
+<l>mayakkuṭaiya moḻiviṭuttaṉaṉ</l>
+<l>ceypa vellāñ ceytaṉa ṉākali</l>
+<l>ṉiṭuka voṉṟō cuṭuka voṉṟō</l>
+<l>paṭuvaḻip paṭukavip pukaḻveyyōṉ ṟalaiyē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>He united with [those whose] shoulders possess armlets. (1)</l>
+<l>He wore flowers from the fragrant groves. (2)</l>
+<l>He smeared [his chest] with cool fragrant sandal. (3)</l>
+<l>He destroyed the path of the dead. (4)</l>
+<l>He spoke high about his friends. (5)</l>
+<l>He praised [them] as strong. (6)</l>
+<l>He lauded [them] as gentle. (7)</l>
+<l>He did not know of begging from others. (8)</l>
+<l>He did not know of refusing beggars. (9)</l>
+<l>He made high glory appear in the king’s assembly. (10)</l>
+<l>He endured armies coming against [him]. (11)</l>
+<l>He saw the back of armies turning back. (12)</l>
+<l>He drove fast-gaited horses. (13)</l>
+<l>He moved on a chariot through long streets. (14)</l>
+<l>He mounted tall-natured elephants. (15) </l>
+<l>He demolished sweet tight? pots [of toddy]. (16)</l>
+<l>When rejoicing in melodies he ended hunger. (17)</l>
+<l>He dismissed confusing words. (18)</l>
+<l>Because he did all that could be done, (19)</l>
+<l>Let them put [him] down or let them burn [it]. (20)</l>
+<l>Let it go the way it goes, the head of this man keen on fame. (21)</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN239"><interp type="alignment" select="0">87ML80MG24MG12MG13MG85ML27MG10MG62MG54M2G11M2G35MG3M,516MG</interp>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṭaiya</form>
+<def>possess</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+</entry>
+<entry>
+<form>maṇantaṉaṉ</form>
+<def>united-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭi</form>
+<def>fragrance</def>
+</entry>
+<entry>
+<form>kāviṉ</form>
+<def>grove</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>pū<pc>+</pc></form>
+<def>flower</def>
+</entry>
+<entry>
+<form>cūṭiṉaṉ</form>
+<def>put-on-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+</entry>
+<entry>
+<form>kamaḻum</form>
+<def>being-fragrant-</def>
+</entry>
+<entry>
+<form>cāntu</form>
+<def>sandle</def>
+</entry>
+<entry>
+<form>nīviṉaṉ</form>
+<def>smeared-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>ceṟṟōrai</form>
+<def>died-they</def>
+<gramGrp><gram type="role">accusative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+</entry>
+<entry>
+<form>taputtaṉaṉ</form>
+<def>destroyed-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>naṭṭōrai</form>
+<def>friends</def>
+<gramGrp><gram type="role">accusative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>uyarpu</form>
+<def>highness</def>
+</entry>
+<entry>
+<form>kūṟiṉaṉ</form>
+<def>talked-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>valiyar</form>
+<def>strength-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḻimoḻiyalaṉ</form>
+<def>praise-not-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>meliyar</form>
+<def>gentle-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>mīkkūṟalaṉ</form>
+<def>laud-not-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>piṟarai<pc>+</pc></form>
+<def>other</def>
+<gramGrp><gram type="role">accusative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṉ</form>
+<def>self</def>
+</entry>
+<entry>
+<form>irapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>begging</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>aṟiyalaṉ</form>
+<def>know-not-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>irantōrkku</form>
+<def>begged-they</def>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>maṟupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>refusal</def>
+</entry>
+<entry>
+<form>aṟiyalaṉ</form>
+<def>know-not-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>vēnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>king</def>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>possess-</def>
+</entry>
+<entry>
+<form><pc>~</pc>avaiyatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>assembly</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>ōṅku</form>
+<def>become-high-</def>
+</entry>
+<entry>
+<form>pukaḻ</form>
+<def>praise</def>
+</entry>
+<entry>
+<form>tōṟṟiṉaṉ</form>
+<def>made-appear-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>varu</form>
+<def>come-</def>
+</entry>
+<entry>
+<form>paṭai</form>
+<def>army</def>
+</entry>
+<entry>
+<form><pc>~</pc>etir</form>
+<def>opposite</def>
+</entry>
+<entry>
+<form>tāṅkiṉaṉ</form>
+<def>endured-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>peyar</form>
+<def>turn-back-</def>
+</entry>
+<entry>
+<form>paṭai</form>
+<def>army</def>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>back</def>
+</entry>
+<entry>
+<form>kaṇṭaṉaṉ</form>
+<def>seen-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭum</form>
+<def>fast</def>
+</entry>
+<entry>
+<form>pariya</form>
+<def>gait</def>
+<gramGrp type="affix"><m>a</m></gramGrp>
+</entry>
+<entry>
+<form>mā<pc>+</pc></form>
+<def>horse</def>
+</entry>
+<entry>
+<form>kaṭaviṉaṉ</form>
+<def>icited-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>neṭum</form>
+<def>long</def>
+</entry>
+<entry>
+<form>teruviṉ</form>
+<def>street</def>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+</entry>
+<entry>
+<form>vaḻaṅkiṉaṉ</form>
+<def>roamed-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>ōṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>become-high-</def>
+</entry>
+<entry>
+<form>iyala</form>
+<def>nature</def>
+<gramGrp type="affix"><m>a</m></gramGrp>
+</entry>
+<entry>
+<form>kaḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>elephant-bull</def>
+</entry>
+<entry>
+<form>ūrntaṉaṉ</form>
+<def>mounted-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+</entry>
+<entry>
+<form>ceṟi</form>
+<def>be-close-</def>
+</entry>
+<entry>
+<form>tacumpu</form>
+<def>pot</def>
+</entry>
+<entry>
+<form>tolaicciṉaṉ</form>
+<def>destroyed-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>pāṇ</form>
+<def>melody</def>
+</entry>
+<entry>
+<form>uvappa<pc>+</pc></form>
+<def>rejoice</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>paci</form>
+<def>hunger</def>
+</entry>
+<entry>
+<form>tīrttaṉaṉ</form>
+<def>ended-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>mayakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>confusion</def>
+</entry>
+<entry>
+<form>uṭaiya</form>
+<def>possess</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>moḻi</form>
+<def>word</def>
+</entry>
+<entry>
+<form>viṭuttaṉaṉ</form>
+<def>let-go-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>ceypa</form>
+<def>do-they</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter plural</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ellām</form>
+<def>all</def>
+</entry>
+<entry>
+<form>ceytaṉaṉ</form>
+<def>done-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>ākaliṉ</form>
+<def>because</def>
+</entry>
+<entry>
+<form>iṭuka</form>
+<def>may-place</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>one-it</def>
+<form type="simple">oṉṟu</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>cuṭuka</form>
+<def>may-burn</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>one-it</def>
+<form type="simple">oṉṟu</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>happen-</def>
+</entry>
+<entry>
+<form>vaḻi<pc>+</pc></form>
+<def>way</def>
+</entry>
+<entry>
+<form>paṭuka</form>
+<def>may-happen</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>i<pc>+</pc></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>pukaḻ</form>
+<def>praise</def>
+</entry>
+<entry>
+<form>veyyōṉ</form>
+<def>hot-he</def>
+</entry>
+<entry>
+<form>talai-<pc>~</pc>ē</form>
+<def>head</def>
+<form type="simple">talai</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
