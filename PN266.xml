@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 266.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -139,8 +139,8 @@
 <entry>
 <form>nantiṉ</form>
 <def>snail</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>curi</form>
 <def>curl-</def>
@@ -164,8 +164,8 @@
 <entry>
 <form>vaḷaiyoṭu</form>
 <def>conch</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>pakal</form>
 <def>day</def>
@@ -279,9 +279,10 @@
 </entry>
 <entry>
 <form>kaḷaimati-<pc>~</pc>attai</form>
-<def>remove(ipt.)attai</def>
-<form type="simple">kaḷaimatattai</form>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+<def>remove</def>
+<form type="simple">kaḷaimati</form>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp><gramGrp type="particle"><m>attai</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>uḷḷiya</form>
@@ -318,8 +319,8 @@
 <entry>
 <form>uṭampiṉ</form>
 <def>body</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tōṉṟi</form>
 <def>appeared</def>
@@ -343,8 +344,8 @@
 </entry>
 <entry>
 <form>nalkūrmai-<pc>~</pc>ē</form>
-<def>povertyē</def>
-<form type="simple">nalkūrmaē</form>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+<def>poverty</def>
+<form type="simple">nalkūrmai</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>
