@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +57,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN266"><interp type="alignment" select="0">105M3G9MG27MR49MGM2G28MG7MG2MG28MG24MG71MG3M,367MG</interp>
+<standOff type="wordsplit" corresp="#PN266"><interp type="alignment" select="0">114MG27MR49MGM2G28MG7MG2MG28MG24MG71MG3M,364MG</interp>
 <entry>
 <form>payam</form>
 <def>yield</def>
@@ -146,7 +144,7 @@
 <def>curl-</def>
 </entry>
 <entry>
-<form>muka<pc>(</pc>m<pc>)</pc></form>
+<form>muka</form>
 <def>face</def>
 </entry>
 <entry>

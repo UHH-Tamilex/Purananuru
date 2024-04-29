@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 265.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -51,7 +49,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN265"><interp type="alignment" select="0">132MG28MR6ML31MG23M2G22MG2MR11MG3M,266MG</interp>
+<standOff type="wordsplit" corresp="#PN265"><interp type="alignment" select="0">132MG28MR6ML31MG22MGMG22MG2MR11MG3M,266MG</interp>
 <entry>
 <form>ūr</form>
 <def>village</def>
@@ -107,13 +105,12 @@
 <entry>
 <form>pōntaiyam</form>
 <def>palmyra-tree</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>tōṭṭiṉ</form>
 <def>frond</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>puṉaintaṉar</form>
 <def>decorated-they</def>
@@ -151,9 +148,9 @@
 </entry>
 <entry>
 <form><pc>+</pc>āyiṉai-<pc>~</pc>ē</form>
-<def>became-youē</def>
-<form type="simple">āyiṉaē</form>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+<def>became-you</def>
+<form type="simple">āyiṉai</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>kaṭu</form>
@@ -206,9 +203,9 @@
 </entry>
 <entry>
 <form>aṉṟi-<pc>~</pc>um</form>
-<def>besidesum</def>
-<form type="simple">aṉṟum</form>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+<def>besides</def>
+<form type="simple">aṉṟi</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>viri</form>
@@ -223,7 +220,7 @@
 <def>fast</def>
 </entry>
 <entry>
-<form>pakaṭṭ<pc>(</pc><pc type="ignored">(</pc>u<pc type="ignored">)</pc><pc>)</pc></form>
+<form>pakaṭṭ<pc>(</pc>i<pc>)</pc></form>
 <def>hugeness-</def>
 </entry>
 <entry>
@@ -241,15 +238,15 @@
 </entry>
 <entry>
 <form>veṉṟi-<pc>~</pc>um</form>
-<def>victoryum</def>
-<form type="simple">veṉṟum</form>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+<def>victory</def>
+<form type="simple">veṉṟi</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>niṉṉoṭu</form>
 <def>you</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>cela-<pc>~</pc>ē</form>
 <def>go</def>
