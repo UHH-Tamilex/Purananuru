@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 240.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN240">
       <lg type="edition">
 <l>āṭunaṭaip puraviyuṅ kaḷiṟun tērum</l>
 <l>vāṭā yāṇar nāṭu mūrum</l>
@@ -42,10 +42,27 @@
 <l>vāṭiya paciya rākippiṟar</l>
 <l>nāṭupaṭu celaviṉa rāyiṉa riṉiyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>“Āay Aṇṭiraṉ who was not scarce to singers (3)</l>
+<l>with horses with prancing gait, elephants bulle, chariots, (1)</l>
+<l>lands of unfading fertility and villages, (2)</l>
+<l>when the eyeless man called Kālaṉ sent him (5)</l>
+<l>along with [his] women with hips eminent in [their] curves [and] small bracelets, (4)</l>
+<l>he reached the world of those above,” so thinking, (6)</l>
+<l>staying on one side of the spurge waste land (9)</l>
+<l> where owls with cleft beaks call the dead: </l>
+<l>“heap [them after burning in the hollow chamber”, (7f.)</l>
+<l>[his] body vanished when the bright flames burned [it]. (10) </l>
+<l> The poets, (12d)</l>
+<l> with empty eyes, not seeing a protector (11)</l>
+<l>desolate along with [their] noisy retinue, (12a-c)</l>
+<l>being faded from hunger (13a-c)</l>
+<l>they now have become people who go to face the lands of others. (13c-14)    </l>     
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">15MG8M2G5MG14M2G4MG11MG19MG3MG293MG3M,385MG</interp>
+<standOff type="wordsplit" corresp="#PN240"><interp type="alignment" select="0">15MG8M2G5MG14M2G4MG11MG19MG3MG293MG3M,385MG</interp>
 <entry>
 <form>āṭu</form>
 <def>dance-</def>
