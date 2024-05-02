@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 238.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN238">
       <lg type="edition">
 <l>kavicen tāḻik kuvipuṟat tirunta</l>
 <l>ceviceñ cēvalum pokuvalum veruvā</l>
@@ -47,10 +47,31 @@
 <l>tavala maṟucuḻi maṟukaliṟ</l>
 <l>tavalē naṉṟumaṟ ṟakutiyu matuvē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>He who has a desire for toddy has approached the cremation ground, (5)</l>
+<l>where the strong-mouthed crow and the owl meet, (3)</l>
+<l>not being frightened by the cock red on the ear and the Pokuval(?) (2)</l>
+<l>that perched on the back of the covered red pots, (1)</l>
+<l>[and] where the Pēy roam at will, along with [their female] companions. (4)</l>
+<l>The old beauty of [his] bangleless women fades (6)</l>
+<l>[and] the relations of those who sing have become dull. (7)</l>
+<l>The eyes of all the many drums have been torn (8)</l>
+<l>and the manless mountain-like elephants have lost [their] tusks. (9)</l>
+<l>In order to confuse Kūṟṟam of hot power (10)</l>
+<l>I don’t know how that is to happen that he is my father [once more](?). (11)</l>
+<l>Thus as one to be pitied I have come indeed. (12)</l>
+<l>What will become of those who are near to me? (13)</l>
+<l>At a time when trees are upturned in the night of showers, (14)</l>
+<l>just as with a heart that had difficult grief, (15)</l>
+<l>like an eyeless dumbman falling into the sea, (16)</l>
+<l>like in a curving whirling of a whirl of affliction (17)</l>
+<l>in a difficult flood of waves that do not know of being measured to the limit, (18)</l>
+<l>death is something good certainly and it is proper. (19)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">22MG18MG9MG20MG8MG47MG68MG28MG23ML5MG8MG24MG53MG15MG13MG47MG41MG22MG27MG6MG15MG3M,542MG</interp>
+<standOff type="wordsplit" corresp="#PN238"><interp type="alignment" select="0">22MG18MG9MG20MG8MG47MG68MG28MG23ML5MG8MG24MG53MG15MG13MG47MG41MG22MG27MG6MG15MG3M,542MG</interp>
 <entry>
 <form>kavi</form>
 <def>cover-</def>
