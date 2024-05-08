@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 290.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN290">
       <lg type="edition">
 <l>ivaṟkīt tuṇmati kaḷḷē ciṉappō</l>
 <l>riṉakkaḷiṟ ṟiyāṉai yiyaṟērk kuruci</l>
@@ -36,10 +36,20 @@
 <l>muṟaippuḻi yōlai pōla</l>
 <l>maṟaikkuvaṉ perumaniṟ kuṟittuvaru vēlē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Give toddy to this one [and] drink [yourself], oh lord</l>
+<l>with an advancing chariot [and] male elephants from the angrily waring group! </l>
+<l>For the sake of your father’s father his father’s father,</l>
+<l>not one who blinks [an eye] in a fight that is raised [and] fought,</l>
+<l>died standing like the ??? set up [and] cast by the carpenter.</l>
+<l>Being a strong man amply praised for bravery, he too,</l>
+<l>like the palm-leaf umbrella [protects] when it rains,</l>
+<l>he will shield [you], great man, from the spears that come, aimed at you.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">5MG3MG9MG31ML10ML13MG22MG22ML5MG11ML13MG32MG8M2G46MG2M,246MG</interp>
+<standOff type="wordsplit" corresp="#PN290"><interp type="alignment" select="0">5MG3MG9MG31ML10ML13MG22MG22ML5MG11ML13MG32MG8M2G46MG2M,246MG</interp>
 <entry>
 <form>ivaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>him</def>
