@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 278.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN278">
       <lg type="edition">
 <l>narampeḻun tulaṟiya nirampā meṉṟōḷ</l>
 <l>muḷari maruṅkiṉ mutiyōḷ ciṟuvaṉ</l>
@@ -37,10 +37,21 @@
 <l>paṭumakaṉ kiṭakkai kāṇūu</l>
 <l>vīṉṟa ñāṉṟiṉum perituvan taṉaḷē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  The old woman with thorny twigs at [her] side,</l>
+<l>  [her] soft shoulders not full, dried up, with blood vessels showing up,</l>
+<l>  when many said [her] son changed [side] as his weapon was ruined,</l>
+<l>  she raved “if he broke down for the rushing battle, </l>
+<l>  I shall cut off my breast from which he drank,”</l>
+<l>  [and], moving the corpses fallen with swords [still] held,</l>
+<l>  turning over the red battle field [and] seeing he fallen son</l>
+<l>  lie [there] who, destroyed, became something different,</l>
+<l>  she greatly rejoiced, more than on the day she gave birth [to him].   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">6MG5MG84MG6MG32M2G75MG45MG9MG2M,272MG</interp>
+<standOff type="wordsplit" corresp="#PN278"><interp type="alignment" select="0">6MG5MG84MG6MG32M2G75MG45MG9MG2M,272MG</interp>
 <entry>
 <form>naramp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>blood-vessel</def>
