@@ -3,8 +3,8 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"/> XX.
-            <persName xml:lang="ta"/>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 279.
+            <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -23,7 +23,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN279">
       <lg type="edition">
 <l>keṭuka cintai kaṭitiva ṭuṇivē</l>
 <l>mūtiṉ makaḷi rāta ṟakumē</l>
@@ -53,7 +53,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">17MG4ML4M2G4MG13ML4MG4ML14MG4ML23MG9MG20MG40MG28MG37MG45MG13MR20MG2M,323MG</interp>
+<standOff type="wordsplit" corresp="#PN279"><interp type="alignment" select="0">17MG4ML4M2G4MG13ML4MG4ML14MG4ML23MG9MG20MG40MG28MG37MG45MG13MR20MG2M,323MG</interp>
 <entry>
 <form>keṭuka</form>
 <def>may-get-lost</def>
