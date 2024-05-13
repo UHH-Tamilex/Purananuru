@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>narampeḻun tulaṟiya nirampā meṉṟōḷ</l>
+<l>muḷari maruṅkiṉ mutiyōḷ ciṟuvaṉ</l>
+<l>paṭaiyaḻintu māṟiṉa ṉeṉṟupalar kūṟa</l>
+<l>maṇṭamark kuṭaintaṉa ṉāyi ṉuṇṭaveṉ</l>
+<l>mulaiyaṟut tiṭuveṉ yāṉeṉac ciṉaiik</l>
+<l>koṇṭa vāḷoṭu paṭupiṇam peyarāc</l>
+<l>ceṅkaḷan tuḻavuvōḷ citaintuvē ṟākiya</l>
+<l>paṭumakaṉ kiṭakkai kāṇūu</l>
+<l>vīṉṟa ñāṉṟiṉum perituvan taṉaḷē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">6MG5MG84MG6MG32M2G75MG45MG9MG2M,272MG</interp>
+<entry>
+<form>naramp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>blood-vessel</def>
+</entry>
+<entry>
+<form>eḻunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>risen</def>
+</entry>
+<entry>
+<form>ulaṟiya</form>
+<def>dried-up</def>
+</entry>
+<entry>
+<form>nirampā</form>
+<def>full-not-</def>
+</entry>
+<entry>
+<form>mel</form>
+<def>soft</def>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+</entry>
+<entry>
+<form>muḷari</form>
+<def>thorn-twig</def>
+</entry>
+<entry>
+<form>maruṅkiṉ</form>
+<def>side</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>mutiyōḷ</form>
+<def>old-she</def>
+</entry>
+<entry>
+<form>ciṟuvaṉ</form>
+<def>little-he</def>
+</entry>
+<entry>
+<form>paṭai</form>
+<def>weapon</def>
+</entry>
+<entry>
+<form><pc>~</pc>aḻintu</form>
+<def>perished</def>
+</entry>
+<entry>
+<form>māṟiṉaṉ</form>
+<def>changed-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṟu</form>
+<def>said</def>
+</entry>
+<entry>
+<form>palar</form>
+<def>many-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kūṟa</form>
+<def>talk</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>maṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>rush-</def>
+</entry>
+<entry>
+<form>amarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>battle</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>uṭaintaṉaṉ</form>
+<def>broke-down-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+</entry>
+<entry>
+<form>uṇṭa</form>
+<def>eaten-</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+</entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṟutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-iṭuveṉ</form>
+<def>cut-off(abs.)-place-I</def>
+</entry>
+<entry>
+<form>yāṉ</form>
+<def>I</def>
+</entry>
+<entry>
+<form>eṉa<pc>+</pc></form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṉaii<pc>+</pc></form>
+<def>angered</def>
+</entry>
+<entry>
+<form>koṇṭa</form>
+<def>taken</def>
+</entry>
+<entry>
+<form>vāḷoṭu</form>
+<def>sword</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>fall-</def>
+</entry>
+<entry>
+<form>piṇam</form>
+<def>corpse</def>
+</entry>
+<entry>
+<form>peyarā<pc>+</pc></form>
+<def>moved</def>
+</entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+</entry>
+<entry>
+<form>kaḷam</form>
+<def>field</def>
+</entry>
+<entry>
+<form>tuḻavuvōḷ</form>
+<def>stir-she</def>
+</entry>
+<entry>
+<form>citaintu</form>
+<def>spoiled</def>
+</entry>
+<entry>
+<form>vēṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>other</def>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become-</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭu</form>
+<def>fall-</def>
+</entry>
+<entry>
+<form>makaṉ</form>
+<def>son</def>
+</entry>
+<entry>
+<form>kiṭakkai</form>
+<def>lying</def>
+</entry>
+<entry>
+<form>kāṇūu</form>
+<def>seen</def>
+</entry>
+<entry>
+<form><pc>~</pc>īṉṟa</form>
+<def>given-birth-</def>
+</entry>
+<entry>
+<form>ñāṉṟiṉum</form>
+<def>day</def>
+<form type="simple">ñāṉṟiṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>big-it</def>
+</entry>
+<entry>
+<form>uvantaṉaḷ-ē</form>
+<def>rejoiced-she</def>
+<form type="simple">uvantaṉaḷ</form>
+<gramGrp><gram type="role">feminine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
