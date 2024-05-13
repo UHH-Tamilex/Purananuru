@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -39,14 +37,28 @@
 <l>yorumaka ṉalla tillōḷ</l>
 <l>cerumuka nōkkic celkaveṉa viṭumē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+  <l>  Let [my] mind be lost. Fierce is her determination.</l>
+  <l>Becoming a [solitary] woman of an ancient house is befitting [to her].</l>
+  <l>In the battle that took place the day before her brother</l>
+  <l>stayed behind on the battle field, having attacked an elephant.</l>
+  <l>In the battle that took place yesterday her husband</l>
+  <l>fell there, having obstructed great rows [of enemies?].</l>
+  <l>Today, too, hearing the battle drum, she is confused with longing,</l>
+  <l>puts the spear in [his] hand, spreads something white and dresses [him] </l>
+  <l>smearing [his] crest of scattered hair with sesame oil,</l>
+  <l>she who has nothing but one son</l>
+  <l>looks the battle in the face [and] sends [him] off: go!</l>
+  </lg>
     </div>
   </body>
 </text>
 <standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">17MG4ML4M2G4MG13ML4MG4ML14MG4ML23MG9MG20MG40MG28MG37MG45MG13MR20MG2M,323MG</interp>
 <entry>
 <form>keṭuka</form>
-<def>may-get-lost(opt</def>
-</entry>
+<def>may-get-lost</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
 <entry>
 <form>cintai</form>
 <def>thought</def>
@@ -182,8 +194,6 @@
 <entry>
 <form><pc>~</pc>iṉṟum</form>
 <def>today</def>
-<form type="simple">iṉṟ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>ceru<pc>+</pc></form>
