@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -42,7 +40,10 @@
 <standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">6MG14MG26MG3MG3MG43MG27MG24MG28ML13MG19MG5MG2M,224MG</interp>
 <entry>
 <form>varuka-til</form>
-<def>may-come(opt.)til</def>
+<def>may-come</def>
+<form type="simple">varuka</form>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp><gramGrp type="particle"><m>til</m></gramGrp>
 </entry>
 <entry>
 <form>vallē</form>
@@ -50,7 +51,10 @@
 </entry>
 <entry>
 <form>varuka-til</form>
-<def>may-come(opt.)til</def>
+<def>may-come</def>
+<form type="simple">varuka</form>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp><gramGrp type="particle"><m>til</m></gramGrp>
 </entry>
 <entry>
 <form>valleṉa</form>
@@ -105,8 +109,8 @@
 <entry>
 <form>kāliṉ</form>
 <def>foot</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tamiyaṉ</form>
 <def>solitary-he</def>
