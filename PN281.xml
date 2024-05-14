@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 281.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN281">
       <lg type="edition">
 <l>tīṅkaṉi yiravamoṭu vēmpumaṉaic cerīi</l>
 <l>vāṅkumarup piyāḻoṭu palliyaṅ kaṟaṅkak</l>
@@ -37,10 +37,21 @@
 <l>vēntuṟu viḻuman tāṅkiya</l>
 <l>pūmpoṟik kaḻaṟkā ṉeṭuntakai puṇṇē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Inserting in the house [the leaves of] Neem wood along with sweet-fruited ironwood,</l>
+<l>while many instruments sound along with the lute with a curved neck,</l>
+<l>removing the yield(?) with the hand, smearing black fat,</l>
+<l>scattering white mustard seed, blowing the [flute tuned to] Āmpal,</l>
+<l>shaking sounding bells, singing the Kāñci,</l>
+<l>fumigating with scented fragrance the borders of the tall mansion,</l>
+<l>let us protect it, come, beloved friend,</l>
+<l>the wound of the paragon on the leg with an flower-dotted anklet</l>
+<l>that endured [sharing] the distress suffered by the king.   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">91MG95MG17MG33ML4MG8MG3M,256MG</interp>
+<standOff type="wordsplit" corresp="#PN281"><interp type="alignment" select="0">91MG95MG17MG33ML4MG8MG3M,256MG</interp>
 <entry>
 <form>tīm</form>
 <def>sweet</def>
