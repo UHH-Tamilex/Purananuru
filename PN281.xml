@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>tīṅkaṉi yiravamoṭu vēmpumaṉaic cerīi</l>
+<l>vāṅkumarup piyāḻoṭu palliyaṅ kaṟaṅkak</l>
+<l>kaipayap peyarttu maiyiḻu tiḻuki</l>
+<l>yaiyavi citaṟi yāmpa lūti</l>
+<l>yicaimaṇi yeṟintu kāñci pāṭi</l>
+<l>neṭunakar varaippiṟ kaṭinaṟai pukaiik</l>
+<l>kākkam vammō kātalan tōḻi</l>
+<l>vēntuṟu viḻuman tāṅkiya</l>
+<l>pūmpoṟik kaḻaṟkā ṉeṭuntakai puṇṇē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">91MG95MG17MG33ML4MG8MG3M,256MG</interp>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+</entry>
+<entry>
+<form>kaṉi</form>
+<def>ripe-fruit</def>
+</entry>
+<entry>
+<form><pc>~</pc>iravamoṭu</form>
+<def>ironwood-tree</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>vēmpu</form>
+<def>Neem-tree</def>
+</entry>
+<entry>
+<form>maṉai<pc>+</pc></form>
+<def>house</def>
+</entry>
+<entry>
+<form>cerīi</form>
+<def>inserted</def>
+</entry>
+<entry>
+<form>vāṅku</form>
+<def>bend-</def>
+</entry>
+<entry>
+<form>maruppi</form>
+<def>neck</def>
+</entry>
+<entry>
+<form><pc>~</pc>āḻoṭu</form>
+<def>Yāḻ</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+</entry>
+<entry>
+<form><pc>+</pc>iyam</form>
+<def>musical-instrument</def>
+</entry>
+<entry>
+<form>kaṟaṅka<pc>+</pc></form>
+<def>sound</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+</entry>
+<entry>
+<form>paya<pc>+</pc></form>
+<def>yield</def>
+</entry>
+<entry>
+<form>peyarttu</form>
+<def>removed</def>
+</entry>
+<entry>
+<form>mai</form>
+<def>collyrium</def>
+</entry>
+<entry>
+<form><pc>~</pc>iḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>fat</def>
+</entry>
+<entry>
+<form>iḻuki</form>
+<def>painted</def>
+</entry>
+<entry>
+<form><pc>~</pc>aiyavi</form>
+<def>white-mustard</def>
+</entry>
+<entry>
+<form>citaṟi</form>
+<def>scattered</def>
+</entry>
+<entry>
+<form><pc>~</pc>āmpal</form>
+<def>white-waterlily</def>
+</entry>
+<entry>
+<form>ūti</form>
+<def>blown</def>
+</entry>
+<entry>
+<form><pc>~</pc>icai</form>
+<def>sound-</def>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>bell</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṟintu</form>
+<def>thrown</def>
+</entry>
+<entry>
+<form>kāñci</form>
+<def>Kāñci</def>
+</entry>
+<entry>
+<form>pāṭi</form>
+<def>sung</def>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+</entry>
+<entry>
+<form>nakar</form>
+<def>mansion</def>
+</entry>
+<entry>
+<form>varaippiṉ</form>
+<def>limit</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kaṭi</form>
+<def>scent</def>
+</entry>
+<entry>
+<form>naṟai</form>
+<def>fragrance</def>
+</entry>
+<entry>
+<form>pukaii<pc>+</pc></form>
+<def>smoked</def>
+</entry>
+<entry>
+<form>kākkam</form>
+<def>we-protect</def>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp></entry>
+<entry>
+<form>vam-<pc>+</pc>ō</form>
+<def>come</def>
+<form type="simple">vam</form>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>kātalam</form>
+<def>love</def>
+<gramGrp type="affix"><m>am</m></gramGrp>
+</entry>
+<entry>
+<form>tōḻi</form>
+<def>friend</def>
+</entry>
+<entry>
+<form>vēnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>king</def>
+</entry>
+<entry>
+<form>uṟu</form>
+<def>have-</def>
+</entry>
+<entry>
+<form>viḻuman</form>
+<def>distress</def>
+</entry>
+<entry>
+<form>tāṅkiya</form>
+<def>borne</def>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+</entry>
+<entry>
+<form>poṟi<pc>+</pc></form>
+<def>dot</def>
+</entry>
+<entry>
+<form>kaḻal</form>
+<def>anklet</def>
+</entry>
+<entry>
+<form>kāl</form>
+<def>leg</def>
+</entry>
+<entry>
+<form>neṭum-takai</form>
+<def>long-fitness</def>
+</entry>
+<entry>
+<form>puṇ-<pc>+</pc>ē</form>
+<def>wound</def>
+<form type="simple">puṇ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
