@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 280.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN280">
       <lg type="edition">
 <l>eṉṉai mārpiṟ puṇṇum veyya</l>
 <l>naṭunāḷ vantu tumpiyun tuvaikku</l>
@@ -43,10 +43,27 @@
 <l>kaḻikala makaḷir pōla</l>
 <l>vaḻiniṉain tirutta lataṉiṉu maritē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The wounds in my lord’s chest are severe,</l>
+<l>coming at midday the bees hum,</l>
+<l>no lamps stand within the boundaries of the large mansion,</l>
+<l>[my] sleepless eyes, they long for sleep,</l>
+<l>the fearful owl’s voice is spreading,</l>
+<l>throwing paddy [and] water, [one?] listens to the disembodied voice,</l>
+<l>and the words of upright old women do not come to a conclusion,</l>
+<l>oh drummer, oh bard, oh dancing girl who masters singing,</l>
+<l>what will [now] become of you? Pitiable you. For you too,</l>
+<l>as for [making] a living while staying here, it will be difficult. For me too,</l>
+<l>like [those] women whose ornaments have been discarded,</l>
+<l>who eat little white lotus seeds,</l>
+<l>with [their] pretty contrasting garlands that they put on of old,</l>
+<l>while clear water runs down [their] bald head that were washed,</l>
+<l>sitting [there] thinking of that way [to live] will be even more difficult that that.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14MG12MG13MG11MR24MGMR14MG7MG27MG7MR42MG2MR40MG15M2G17MG7M2G4MG2ML3MG87ML21MG19M2G2M,415MG</interp>
+<standOff type="wordsplit" corresp="#PN280"><interp type="alignment" select="0">14MG12MG13MG11MR24MGMR14MG7MG27MG7MR42MG2MR40MG15M2G17MG7M2G4MG2ML3MG87ML21MG19M2G2M,415MG</interp>
 <entry>
 <form>eṉṉai</form>
 <def>my(obl.)lord</def>
