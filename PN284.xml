@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"/> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 284.
             <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
@@ -23,7 +23,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN284">
       <lg type="edition">
 <l>varukatil vallē varukatil valleṉa</l>
 <l>vēntuviṭu viḻutū tāṅkāṅ kicaippa</l>
@@ -34,10 +34,20 @@
 <l>tirinta vāyvā ṭiruttāt</l>
 <l>taṉakkirin tāṉaip peyarpuṟa nakumē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>“Please come quickly, please come quickly”,</l>
+<l>when everywhere the excellent message sent by the king sounded,</l>
+<l>the man from a ancient house, come alone</l>
+<l>on foot, wearing a garland of several threads,</l>
+<l>corrected [his] sword with crookedly twisted blade</l>
+<l>on the tusk of the large corpse with a trunk</l>
+<l>whom he had thrown down, standing in front [of it], enduring difficult battle,</l>
+<l>[and] laughed at the moving back of the one who retreated from him.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">6MG14MG26MG3MG3MG43MG27MG24MG28ML13MG19MG5MG2M,224MG</interp>
+<standOff type="wordsplit" corresp="#PN284"><interp type="alignment" select="0">6MG14MG26MG3MG3MG43MG27MG24MG28ML13MG19MG5MG2M,224MG</interp>
 <entry>
 <form>varuka-til</form>
 <def>may-come</def>
