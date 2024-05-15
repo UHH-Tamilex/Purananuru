@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 286.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN286">
       <lg type="edition">
 <l>veḷḷai veḷyāṭṭuc ceccai pōlat</l>
 <l>taṉṉō raṉṉa viḷaiya riruppap</l>
@@ -33,10 +33,17 @@
 <l>kāṟkaḻik kaṭṭiliṟ kiṭappit</l>
 <l>tūveḷ ḷaṟuvai pōrppit tilatē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While, resembling the males of white goats,</l>
+<l>young soldiers just like him sat there,</l>
+<l>laying down, with bowls that were extended to many,</l>
+<l>my little one on a cot from which the feet had been removed,</l>
+<l>a pure white cloth was not made to cover him.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">134M2G2M,137MG</interp>
+<standOff type="wordsplit" corresp="#PN286"><interp type="alignment" select="0">134M2G2M,137MG</interp>
 <entry>
 <form>veḷḷai</form>
 <def>whiteness</def>
