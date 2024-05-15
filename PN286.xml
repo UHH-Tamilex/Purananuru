@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>veḷḷai veḷyāṭṭuc ceccai pōlat</l>
+<l>taṉṉō raṉṉa viḷaiya riruppap</l>
+<l>palarmītu nīṭṭiya maṇṭaiyeṉ ciṟuvaṉaik</l>
+<l>kāṟkaḻik kaṭṭiliṟ kiṭappit</l>
+<l>tūveḷ ḷaṟuvai pōrppit tilatē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">134M2G2M,137MG</interp>
+<entry>
+<form>veḷḷai</form>
+<def>whiteness</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form>yāṭṭu<pc>+</pc></form>
+<def>goat-</def>
+</entry>
+<entry>
+<form>ceccai</form>
+<def>he-goat</def>
+</entry>
+<entry>
+<form>pōla<pc>+</pc></form>
+<def>be-similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>taṉ</form>
+<def>self-</def>
+</entry>
+<entry>
+<form><pc>+</pc>ōr</form>
+<def>one</def>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form><pc>~</pc>iḷaiyar</form>
+<def>young-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>iruppa<pc>+</pc></form>
+<def>be</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>palar</form>
+<def>many</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>mītu</form>
+<def>upon</def>
+</entry>
+<entry>
+<form>nīṭṭiya</form>
+<def>extended-</def>
+</entry>
+<entry>
+<form>maṇṭai</form>
+<def>bowl</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟuvaṉai<pc>+</pc></form>
+<def>little-he</def>
+<gramGrp><gram type="role">accusative</gram>
+</gramGrp></entry>
+<entry>
+<form>kāl</form>
+<def>leg</def>
+</entry>
+<entry>
+<form>kaḻi<pc>+</pc></form>
+<def>remove-</def>
+</entry>
+<entry>
+<form>kaṭṭiliṉ</form>
+<def>cot</def>
+</entry>
+<entry>
+<form>kiṭappi<pc>+</pc></form>
+<def>laid-down</def>
+</entry>
+<entry>
+<form>tū</form>
+<def>pure</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form><pc>+</pc>aṟuvai</form>
+<def>cloth</def>
+</entry>
+<entry>
+<form>pōrppittilat<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>made-wrap-not-it</def>
+<form type="simple">pōrppittilatu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
