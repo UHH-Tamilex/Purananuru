@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 285.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN285">
       <lg type="edition">
 <l>pācaṟai yīrē pācaṟai yīrē</l>
 <l>tuṭiyaṉ kaiyatu vēlē yaṭipuṇar</l>
@@ -45,10 +45,29 @@
 <l>vilampā ṭokkaṟ ṟalaivaṟkōr</l>
 <l>karampaic cīṟūr nalkiṉa ṉeṉavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>You in the warcamp! Your in the warcamp!</l>
+<l>In the hand of the Tuṭi drummer is the spear. In the hand</l>
+<l>of the bard with the small lute with sweet strings </l>
+<l>[and] a curving big neck, joined to [his] feet, is a shield. So as to be seen,</l>
+<l>fast ? grain receptacle….(?)</l>
+<l>Because the one with a head that wears a faded garland</l>
+<l>has come to the large city with [his] first retinue difficult [to vanquish],</l>
+<l>who are engaged in the king’s work, with strong white shields </l>
+<l>through which charging arrows have broken, …….</l>
+<l>the superiority is shed, ah, along with the blood that falls into the mud. </l>
+<l>As the opposition subduing long spear went into [his] chest</l>
+<l>he joined the ground along with [his] anklets covered by fat.</l>
+<l>Seeing that, while all those who are spread praise, lowering [his] head</l>
+<l>he bowed, the lord – so as to say he granted a little village with soil(?)</l>
+<l>to the headman equal to poverty,</l>
+<l>while the village with paddy fields where intertwined ears are perturbed</l>
+<l>stays behind.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">10MG11MG32MG23MGMG202MG39MG42MG10MG57MG14MG14MG13MG3M,335MG147MG</interp>
+<standOff type="wordsplit" corresp="#PN285"><interp type="alignment" select="0">10MG11MG32MG23MGMG202MG39MG42MG10MG57MG14MG14MG13MG3M,335MG147MG</interp>
 <entry>
 <form>pācaṟaiyīr-ē</form>
 <def>warcamp-you</def>
