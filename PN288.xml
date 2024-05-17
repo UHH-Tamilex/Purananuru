@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 288.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN288">
       <lg type="edition">
 <l>maṇkoḷa varinta vainnuti maruppi</l>
 <l>ṉaṇṇa ṉallē ṟiraṇṭuṭaṉ maṭuttu</l>
@@ -37,10 +37,21 @@
 <l>kurutiyoṭu tuyalvaru mārpiṉ</l>
 <l>muyakkiṭai yīyātu moyttaṉa paruntē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While in the fields the drum with firm straps sounds,</l>
+<l>covered, without cleaning [it], with the fresh hide of the one that was victorious,</l>
+<l>after two majestic good bulls had gored each other,</l>
+<l>[their] horns with sharp tips, lined with earth so that it sticks,</l>
+<l>while a difficult battle rages with confused fighting,</l>
+<l>with a heart that possesses the shame [of weakness] when long spears leapt,</l>
+<l>???</l>
+<l>kites swarmed without giving space for embracing</l>
+<l>the chest heaving with blood.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">35ML5MG5MG62MG63MG88MG24M2G2M,291MG</interp>
+<standOff type="wordsplit" corresp="#PN288"><interp type="alignment" select="0">35ML5MG5MG62MG63MG88MG24M2G2M,291MG</interp>
 <entry>
 <form>maṇ</form>
 <def>earth</def>
