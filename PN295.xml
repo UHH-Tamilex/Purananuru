@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 295.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN295">
       <lg type="edition">
 <l>kaṭalkiḷarn taṉṉa kaṭṭūr nāppaṇ</l>
 <l>vēntuvāy maṭittu  vēṟalaip peyarit</l>
@@ -36,10 +36,20 @@
 <l>vāṭumulai yūṟic curantaṉa</l>
 <l>vōṭāp pūṭkai viṭalai tāykkē</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>In the middle of the war camp that shines up like the sea,</l>
+<l>when the king, pursing [his] mouth, turning the tip of [his] spear,</l>
+<l>moving the multitude moving, rising, driving on, cutting </l>
+<l>into the army that came with attacking weapons, found a way,</l>
+<l>the excellent man who while blocking was destroyed in the thicker of the middle army</l>
+<l>[and] become another, upon seeing his glory, graciously</l>
+<l>the withered breasts dripped [and] gave [milk] abundantly,</l>
+<l>of the mother of the bull with the resolution not to flee.   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">46ML15MG6MG3MG11MG71MG11MG18MG51M2GM,243M</interp>
+<standOff type="wordsplit" corresp="#PN295"><interp type="alignment" select="0">46ML15MG6MG3MG11MG71MG11MG18MG51M2GM,243M</interp>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>

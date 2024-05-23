@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>vēmpuciṉai yoṭippavuṅ kāñci pāṭavu</l>
+<l>neyyuṭaik kaiya raiyavi pukaippavu</l>
+<l>mellā maṉaiyuṅ kalleṉ ṟaṉavē</l>
+<l>vēntuṭaṉ ṟeṟivāṉ kollō</l>
+<l>neṭituvan taṉṟā ṉeṭuntakai tērē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">31MR54MG6MG5MG6MG20ML4MG8MG2M,143MG</interp>
+<entry>
+<form>vēmpu</form>
+<def>Neem-tree</def>
+</entry>
+<entry>
+<form>ciṉai</form>
+<def>branch</def>
+</entry>
+<entry>
+<form><pc>~</pc>oṭippavum</form>
+<def>snap</def>
+<form type="simple">oṭippav</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kāñci</form>
+<def>Kāñci</def>
+</entry>
+<entry>
+<form>pāṭavum</form>
+<def>sing</def>
+<form type="simple">pāṭav</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>ney</form>
+<def>ghee</def>
+</entry>
+<entry>
+<form><pc>+</pc>uṭai<pc>+</pc></form>
+<def>possess-</def>
+</entry>
+<entry>
+<form>kaiyar</form>
+<def>hand-the</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>aiyavi</form>
+<def>white-mustard</def>
+</entry>
+<entry>
+<form>pukaippavum</form>
+<def>make-smoke</def>
+<form type="simple">pukaippav</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>ellā</form>
+<def>all</def>
+</entry>
+<entry>
+<form>maṉaiyum</form>
+<def>house</def>
+<form type="simple">maṉaiy</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kalleṉṟaṉa-<pc>~</pc>ē</form>
+<def>‘stone*-they-said</def>
+<form type="simple">kalleṉṟaṉa</form>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>vēnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>king</def>
+</entry>
+<entry>
+<form>uṭaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>enraged</def>
+</entry>
+<entry>
+<form>eṟivāṉ-kollō</form>
+<def>mount-he</def>
+<form type="simple">eṟivāṉ</form>
+<gramGrp type="particle"><m>kollō</m></gramGrp>
+</entry>
+<entry>
+<form>neṭitu</form>
+<def>long-it</def>
+</entry>
+<entry>
+<form>vantaṉṟāl</form>
+<def>it-came</def>
+<form type="simple">vantaṉṟ</form>
+<gramGrp type="particle"><m>āl</m></gramGrp>
+</entry>
+<entry>
+<form>neṭum-takai</form>
+<def>long-fitness</def>
+</entry>
+<entry>
+<form>tēr-ē</form>
+<def>chariot</def>
+<form type="simple">tēr</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
