@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>niṟampaṭaik kolkā yāṉai mēlōṉ</l>
+<l>kuṟumpark keṟiyu mēva ṟaṇṇumai</l>
+<l>nāṇuṭai mākkaṭ kiraṅku māyi</l>
+<l>ṉemmiṉum pēreḻi liḻantu viṉaiyeṉa</l>
+<l>piṟarmaṉai pukuvaḷ kollō</l>
+<l>vaḷiya ṭāṉē pūvilai peṇṭē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">46ML78MG12ML2MG12M2G2M,157MG</interp>
+<entry>
+<form>niṟam</form>
+<def>vital-spot</def>
+</entry>
+<entry>
+<form>paṭai<pc>+</pc></form>
+<def>weapon</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>kolkā</form>
+<def>weaken-not-</def>
+</entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+</entry>
+<entry>
+<form>mēlōṉ</form>
+<def>upon-he</def>
+</entry>
+<entry>
+<form>kuṟumpar<pc>+</pc></form>
+<def>stronghold-they</def>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>keṟiyum</form>
+<def>beating-</def>
+</entry>
+<entry>
+<form>ēval</form>
+<def>command</def>
+</entry>
+<entry>
+<form>taṇṇumai</form>
+<def>Taṇṇumai-drum</def>
+</entry>
+<entry>
+<form>nāṇ</form>
+<def>shame</def>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>possess-</def>
+</entry>
+<entry>
+<form>mākkaṭ</form>
+<def>people</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>kiraṅkum</form>
+<def>sounds</def>
+</entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+</entry>
+<entry>
+<form>emmiṉum</form>
+<def>us</def>
+<form type="simple">emmiṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>pēr</form>
+<def>great</def>
+</entry>
+<entry>
+<form>eḻil</form>
+<def>beauty</def>
+</entry>
+<entry>
+<form>iḻantu</form>
+<def>lost</def>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>piṟar</form>
+<def>other</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+</entry>
+<entry>
+<form>pukuvaḷ-kollō</form>
+<def>enter-she</def>
+<form type="simple">pukuvaḷ</form>
+<gramGrp type="particle"><m>kollō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>aḷiyaḷ</form>
+<def>pity-she</def>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>pū</form>
+<def>flower</def>
+</entry>
+<entry>
+<form>vilai</form>
+<def>price</def>
+</entry>
+<entry>
+<form>peṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>woman</def>
+<form type="simple">peṇṭu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
