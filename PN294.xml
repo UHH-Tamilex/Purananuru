@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 294.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN294">
       <lg type="edition">
 <l>veṇkuṭai matiya mēṉilāt tikaḻtarak</l>
 <l>kaṇkū ṭīṟutta kaṭaṉmaruḷ pācaṟaik</l>
@@ -37,10 +37,22 @@
 <l>maravumiḻ maṇiyiṟ kuṟukār</l>
 <l>niraitār mārpiṉiṉ kēḷvaṉai piṟarē</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While [his] white parasol shines with a light of the moon above,</l>
+<l>in the sea-like war camp where they are settled down in crowds,</l>
+<l>the men whose work is [that of] Kūṟṟu who embrace virgin weapons,</l>
+<l>in the confused thicket of battle where they don’t know their people from the others,</l>
+<l>when he, making re-appear [their] master and names, </l>
+<l>said “you whose sequence of days is finished among you, come here!”</l>
+<l>everybody will stand on one side after having faced the fight.</l>
+<l>Others will not come near to, like to the jewel spit up by the snake,</l>
+<l>your husband/relative, on [his] chest garlands in a row.</l>
+  
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">15ML2ML9MG11MG85MG7MG24MG2ML24MG38MG32ML15MGM,277M</interp>
+<standOff type="wordsplit" corresp="#PN294"><interp type="alignment" select="0">15ML2ML9MG11MG85MG7MG24MG2ML24MG38MG32ML15MGM,277M</interp>
 <entry>
 <form>veḷ</form>
 <def>white</def>
