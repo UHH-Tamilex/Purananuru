@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 292.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN292">
       <lg type="edition">
 <l>vēntaṟ kēntiya tīntaṇ ṇaṟavam</l>
 <l>yāntaṉak kuṟumuṟai vaḷāva vilakki</l>
@@ -36,10 +36,20 @@
 <l>veḻutaru perumpaṭai vilakki</l>
 <l>yāṇṭu niṟku māṇtakai yaṉṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>“The sweet cool licquor held out to the king,</l>
+<l>refusing [it] when we diluted [it] the turn [it] fell on him</l>
+<l>he stood, gripping [his] excellent sword,” </l>
+<l>beware of being angry [at this]. “If he, like the small, low</l>
+<l>men here wants [it], </l>
+<l>let my turn come,” he did not say so,</l>
+<l>the one fit for glory who stands everywhere,</l>
+<l>blocking the big army that rose noisily.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG28MG120MG26MR6ML13M,204MG</interp>
+<standOff type="wordsplit" corresp="#PN292"><interp type="alignment" select="0">7MG28MG120MG26MR6ML13M,204MG</interp>
 <entry>
 <form>vēntaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>king</def>
