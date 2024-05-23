@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 296.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN296">
       <lg type="edition">
 <l>vēmpuciṉai yoṭippavuṅ kāñci pāṭavu</l>
 <l>neyyuṭaik kaiya raiyavi pukaippavu</l>
@@ -33,10 +33,17 @@
 <l>vēntuṭaṉ ṟeṟivāṉ kollō</l>
 <l>neṭituvan taṉṟā ṉeṭuntakai tērē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>As they break Neem branches, sing the Kāñci</l>
+<l>and fumigate with white mustard, their hands oily,</l>
+<l>all the houses were noisy.</l>
+<l>Will the king in [his] anger attack [them]?</l>
+<l>A long [time later] it has come, the chariot of the paragon.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">31MR54MG6MG5MG6MG20ML4MG8MG2M,143MG</interp>
+<standOff type="wordsplit" corresp="#PN296"><interp type="alignment" select="0">31MR54MG6MG5MG6MG20ML4MG8MG2M,143MG</interp>
 <entry>
 <form>vēmpu</form>
 <def>Neem-tree</def>
