@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>vēntaṟ kēntiya tīntaṇ ṇaṟavam</l>
+<l>yāntaṉak kuṟumuṟai vaḷāva vilakki</l>
+<l>vāyvāḷ paṟṟi niṉṟaṉa ṉeṉṟu</l>
+<l>ciṉava lōmpumiṉ ciṟupul lāḷa</l>
+<l>rīṇṭē pōla vēṇṭuva ṉāyi</l>
+<l>ṉeṉmuṟai varuka veṉṉāṉ kammeṉa</l>
+<l>veḻutaru perumpaṭai vilakki</l>
+<l>yāṇṭu niṟku māṇtakai yaṉṉē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG28MG120MG26MR6ML13M,204MG</interp>
+<entry>
+<form>vēntaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>king</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>ēntiya</form>
+<def>offered-</def>
+</entry>
+<entry>
+<form>tīm</form>
+<def>sweet</def>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+</entry>
+<entry>
+<form>naṟavam</form>
+<def>toddy</def>
+</entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+</entry>
+<entry>
+<form>taṉakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>self</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>uṟu</form>
+<def>have-</def>
+</entry>
+<entry>
+<form>muṟai</form>
+<def>order</def>
+</entry>
+<entry>
+<form>vaḷāva</form>
+<def>dilute</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vilakki</form>
+<def>checked</def>
+</entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>vāḷ</form>
+<def>sword</def>
+</entry>
+<entry>
+<form>paṟṟi</form>
+<def>gripped</def>
+</entry>
+<entry>
+<form>niṉṟaṉaṉ</form>
+<def>stood-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṟu</form>
+<def>said</def>
+</entry>
+<entry>
+<form>ciṉaval</form>
+<def>being-angry</def>
+</entry>
+<entry>
+<form>ōmpumiṉ</form>
+<def>beware</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+</entry>
+<entry>
+<form>pul</form>
+<def>grass</def>
+</entry>
+<entry>
+<form><pc>+</pc>āḷar</form>
+<def>men</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>īṇṭē</form>
+<def>here</def>
+<form type="simple">īṇṭ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>pōla</form>
+<def>be-similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṇṭuvaṉ</form>
+<def>want-he</def>
+</entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>muṟai</form>
+<def>turn</def>
+</entry>
+<entry>
+<form>varuka</form>
+<def>let-come</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉṉāṉ</form>
+<def>said-he</def>
+</entry>
+<entry>
+<form>kammeṉa</form>
+<def>silently</def>
+</entry>
+<entry>
+<form><pc>~</pc>eḻu-taru</form>
+<def>rise-give-</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>paṭai</form>
+<def>army</def>
+</entry>
+<entry>
+<form>vilakki</form>
+<def>checked</def>
+</entry>
+<entry>
+<form><pc>~</pc>āṇṭum</form>
+<def>there</def>
+<form type="simple">āṇṭ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>niṟkum</form>
+<def>standing-</def>
+</entry>
+<entry>
+<form>māṇ</form>
+<def>man</def>
+</entry>
+<entry>
+<form>takaiyaṉ<pc>+</pc>ē</form>
+<def>fitness-he</def>
+<form type="simple">takaiyaṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
