@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>aḻalavir vayaṅkiḻaip polinta mēṉi</l>
+<l>niḻaliṉum pōkāniṉ veyyōḷ payanta</l>
+<l>pukaḻcāl putalvaṉ piṟantapiṉ vāveṉa</l>
+<l>veṉṉiva ṇoḻitta vaṉpi lāḷa</l>
+<l>veṇṇā tirukkuvai yallai</l>
+<l>yeṉṉiṭam yātumaṟ ṟicaivey yōyē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14MG95MG11MG31MG10MG2M,167MG</interp>
+<entry>
+<form>aḻal</form>
+<def>fire</def>
+</entry>
+<entry>
+<form>avir</form>
+<def>shine-</def>
+</entry>
+<entry>
+<form>vayaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>glow-</def>
+</entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+</entry>
+<entry>
+<form><pc>+</pc>polinta</form>
+<def>flourished</def>
+</entry>
+<entry>
+<form>mēṉi</form>
+<def>body</def>
+</entry>
+<entry>
+<form>niḻaliṉum</form>
+<def>shadow</def>
+<form type="simple">niḻaliṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>pōkā</form>
+<def>go-not-</def>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>you</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>veyyōḷ</form>
+<def>hot-she</def>
+</entry>
+<entry>
+<form>payanta</form>
+<def>yielded</def>
+</entry>
+<entry>
+<form>pukaḻ</form>
+<def>praise</def>
+</entry>
+<entry>
+<form>cāl</form>
+<def>be-worthy-</def>
+</entry>
+<entry>
+<form>putalvaṉ</form>
+<def>son</def>
+</entry>
+<entry>
+<form>piṟanta</form>
+<def>born-</def>
+</entry>
+<entry>
+<form>piṉ</form>
+<def>after</def>
+</entry>
+<entry>
+<form>vā</form>
+<def>come</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>me-</def>
+</entry>
+<entry>
+<form><pc>+</pc>ivaṇ</form>
+<def>here</def>
+</entry>
+<entry>
+<form>oḻitta</form>
+<def>cast-off-</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>love</def>
+</entry>
+<entry>
+<form>il</form>
+<def>not-</def>
+</entry>
+<entry>
+<form>āḷa</form>
+<def>man</def>
+<gramGrp><gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṇṇāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>count-not</def>
+</entry>
+<entry>
+<form>irukkuvai</form>
+<def>be-you</def>
+</entry>
+<entry>
+<form><pc>~</pc>allai</form>
+<def>not-so-you</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>iṭam</form>
+<def>place</def>
+</entry>
+<entry>
+<form>yātu</form>
+<def>where</def>
+</entry>
+<entry>
+<form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def></def>
+<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>icai</form>
+<def>fame</def>
+</entry>
+<entry>
+<form>veyyōy-ē</form>
+<def>hot-you</def>
+<form type="simple">veyyōy</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

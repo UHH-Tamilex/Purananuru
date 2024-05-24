@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 291.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN291">
       <lg type="edition">
 <l>ciṟāaar tuṭiyar pāṭuvaṉ makāaar</l>
 <l>tūveḷ ḷaṟuvai māyōṟ kuṟuki</l>
@@ -36,10 +36,20 @@
 <l>maṇimaruṇ mālai cūṭṭi yavaṉṟalai</l>
 <l>orukāḻ mālai tāṉmalain taṉaṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Boys, drummers, folks capable of singing,</l>
+<l>go near the dark man with a pure white cloth</l>
+<l>and protect [him] from the dark birds. I too</l>
+<l>will chase away the white jackals with tours of Viḷari.</l>
+<l>Like me, please make great haste, king.</l>
+<l>Putting on his own head the sapphire-like [Nocci] garland</l>
+<l>of him who was keen on dying in vain he</l>
+<l>put on his head a garland with one strand.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">74MG46MG9M2G83MG2M,218MG</interp>
+<standOff type="wordsplit" corresp="#PN291"><interp type="alignment" select="0">74MG46MG9M2G83MG2M,218MG</interp>
 <entry>
 <form>ciṟāaar</form>
 <def>little-they</def>
