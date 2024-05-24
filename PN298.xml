@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 298.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN298">
       <lg type="edition">
 <l>emakkē kalaṅka ṟarumē tāṉē</l>
 <l>tēṟa luṇṇu maṉṉē naṉṟu</l>
@@ -33,10 +33,17 @@
 <l>nērā rāreyiṉ muṟṟi</l>
 <l>vāymaṭit turaṟinī munteṉ ṉāṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>To us, he will give mixed licquor. He himself</l>
+<l>will drink clarified toddy. Pretty </l>
+<l>unpleasant is the king. [but] now,</l>
+<l>having put an end to the difficult fortress of the enemies,</l>
+<l>pursing [his] mouth, he won’t shout “you in front”.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">5M2G9ML4MG4MG11M2G8M2G7MG9M2G5MG27MG11MG5MG2M,122MG</interp>
+<standOff type="wordsplit" corresp="#PN298"><interp type="alignment" select="0">5M2G9ML4MG4MG11M2G8M2G7MG9M2G5MG27MG11MG5MG2M,122MG</interp>
 <entry>
 <form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>us</def>
