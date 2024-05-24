@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 222.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN222">
       <lg type="edition">
 <l>aḻalavir vayaṅkiḻaip polinta mēṉi</l>
 <l>niḻaliṉum pōkāniṉ veyyōḷ payanta</l>
@@ -34,10 +34,18 @@
 <l>veṇṇā tirukkuvai yallai</l>
 <l>yeṉṉiṭam yātumaṟ ṟicaivey yōyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>O loveless man who cast me off here, (4)</l>
+<l>saiying “come” – after a praise-worthy son has been born, (3)</l>
+<l>brought forth by her who is keen on you, not going away [from you any] more than [your] shadow, (2)</l>
+<l>[her] body radiant with glowing jewels that shine [like] fire, (1)</l>
+<l>you won’t sit [here] without [fore]thought.</l>
+<l>What is my place, you keen one fame?  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14MG95MG11MG31MG10MG2M,167MG</interp>
+<standOff type="wordsplit" corresp="#PN222"><interp type="alignment" select="0">14MG95MG11MG31MG10MG2M,167MG</interp>
 <entry>
 <form>aḻal</form>
 <def>fire</def>
