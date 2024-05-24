@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 299.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN299">
       <lg type="edition">
 <l>parutti vēlic cīṟūr maṉṉa</l>
 <l>ṉuḻuttata ruṇṭa vōynaṭaip puravi</l>
@@ -35,10 +35,19 @@
 <l>yaṇaṅkuṭai murukaṉ kōṭṭattuk</l>
 <l>kalantoṭā makaḷiri ṉikaḻntuniṉ ṟavvē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The king of the little village fenced with cotton,</l>
+<l>while [his] horses with tired gait that had eaten blackgram husks</l>
+<l>cut into the army front like boats thrusting into the sea,</l>
+<l>the garlanded horses of the king’s of paddy-producing villages,</l>
+<l>their necks with trimmed manes, that had fed on ghee[-soaked] food balls,</l>
+<l>they stood [still], despised by the women who do not touch ornaments</l>
+<l>in the enclosure of dreadful Murukaṉ.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">15MG13MG120MG54M,204MG</interp>
+<standOff type="wordsplit" corresp="#PN299"><interp type="alignment" select="0">15MG13MG120MG54M,204MG</interp>
 <entry>
 <form>parutti</form>
 <def>cotton</def>
