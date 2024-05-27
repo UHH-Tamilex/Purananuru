@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 224.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN224">
       <lg type="edition">
 <l>aruppam pēṇā tamarkaṭan tatūun</l>
 <l>tuṇaipuṇa rāyamoṭu tacumpuṭaṉ ṟolaicci</l>
@@ -45,10 +45,30 @@
 <l>koytukaṭ ṭaḻitta vēṅkaiyiṉ</l>
 <l>melliyaṉ makaḷiru miḻaikaḷain taṉarē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>He was one indeed who knew (10ab)</l>
+<l>of winning battles, not heeding fortresses, (1)</l>
+<l>of destroying pots together with the united group of companions, (2)</l>
+<l>[and] protecting the relatives orf large bardic kinfolk, (3)</l>
+<l>and of completing the work of Vedic sacrifices (9)</l>
+<l>with the large posts of sacrificial poles, to the enjoyment of the kites, (8)</l>
+<l>in fortifications with many armies of circle-shape, (7)</l>
+<l>along with speckless women of pure-natured priciples (6)</l>
+<l>who are praise, while having in front those who well know the ways (5)</l>
+<l>of the assembly glorious for [its] path that fully saw dharma, (4) </l>
+<l>	the knowledgable man. (10cd)</l>
+<l>He now is one who passed away. Pitiable is the world. (11)</l>
+<l>Like kino trees, [their] loads destroyed by plucking, (16)</l>
+<l>while the flowers all drop off on account of the cowherds with flower sickles, (15)</l>
+<l>in order to give [food] to the yielding rows of the famished herd, (14)</l>
+<l>in summer time that abounds in big droughts, (13)</l>
+<l>frighteningly coming near, as the waterfalls change, (12)</l>
+<l>soft-natured women [now] removed [their] jewels. (17)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">12MG13M2G25MG41M2G40MG104MR12MG20M2G9MG10MG19MG7MG81ML45MG30MG17MG2M,505MG</interp>
+<standOff type="wordsplit" corresp="#Pn224"><interp type="alignment" select="0">12MG13M2G25MG41M2G40MG104MR12MG20M2G9MG10MG19MG7MG81ML45MG30MG17MG2M,505MG</interp>
 <entry>
 <form>aruppam</form>
 <def>fort</def>
