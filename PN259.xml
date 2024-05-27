@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 259.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN259">
       <lg type="edition">
 <l>ēṟuṭaip perunirai peyartarap peyarā</l>
 <l>tilaiputai peruṅkāṭṭut talaikaran tirunta</l>
@@ -35,10 +35,19 @@
 <l>tāvupu teṟikku māṉmēṟ</l>
 <l>puṭaiyilaṅ koḷvāṭ puṉaikaḻa lōyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>See the self-control of the bold men with strong bows</l>
+<l>who sit hidden in the leaf-covered big wilderness</l>
+<l>without moving while the large herd with the bull moves.</l>
+<l>Don’t go, don’t go – let your mind be superior,</l>
+<l>like a Pulai woman’s who impersonates Murukaṉ,</l>
+<l>oh you with anklets, decked with a bright swords shining at the sides –</l>
+<l>after the cows that gallopp and leap.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">2MG19MG12MG31MG59ML57MG19M,204MG</interp>
+<standOff type="wordsplit" corresp="#PN259"><interp type="alignment" select="0">2MG19MG12MG31MG59ML57MG19M,204MG</interp>
 <entry>
 <form>ēṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>bull</def>
