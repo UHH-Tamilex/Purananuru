@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 257.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN257">
       <lg type="edition">
 <l>ceruppiṭaic ciṟupara laṉṉaṉ kaṇaikkā</l>
 <l>lavvayiṟ ṟakaṉṟa mārpiṟ paiṅkaṭ</l>
@@ -41,10 +41,25 @@
 <l>veṇkō ṭōṉṟāk kuḻiciyoṭu</l>
 <l>nāḷuṟai mattoli kēḷā tōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>He who is like one with little pebbles in [his] sandals, with round legs,</l>
+<l>a pretty belly, a wide chest, green eyes,</l>
+<l>from whose cheeks a beard with glossy hair arranged</l>
+<l>like Kuccu grass falls down, going beyond the ears, with a bow</l>
+<l>– who [is he]? Ah, poor man! If you seek [him],</l>
+<l>[normally] he would not much go beyond the village</l>
+<l>and he would not take hold of the wilderness as [his] fortification,</l>
+<l>he who, looking at the moving backs of the grass-eating herds in the morning,</l>
+<l>pointing [them] out with [his] hands, quietly counting them,</l>
+<l>bartered [them] with [his] bow. Those, </l>
+<l>even if they are very many, what is it</l>
+<l>to him who did not hear the sound of the churning stick that lasts the day,</l>
+<l>along with the pot in which none of the white yield appeared?  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">6MG36MG25ML37MG36MG13MG14MG31MG16MR12MR47MG9ML34ML26MG10MG2M,368MG</interp>
+<standOff type="wordsplit" corresp="#PN257"><interp type="alignment" select="0">6MG36MG25ML37MG36MG13MG14MG31MG16MR12MR47MG9ML34ML26MG10MG2M,368MG</interp>
 <entry>
 <form>cerupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>sandal</def>
