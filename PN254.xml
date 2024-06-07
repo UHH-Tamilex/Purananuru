@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 254.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN254">
       <lg type="edition">
 <l>iḷaiyaru mutiyarum vēṟulam paṭara</l>
 <l>veṭuppa yeḻāay mārpamaṇ pulla</l>
@@ -39,10 +39,24 @@
 <l>māṉātu pukaḻu maṉṉai</l>
 <l>yāṅkā kuvaḷko laḷiyaḷ ṭāṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>You who won’t rise when roused, (2ab)</l>
+<l>while young and old set out for another region, (1)</l>
+<l>  while [your] chest embraces the earth, (2cd)</l>
+<l>o warrior who tarries in the middle of the desert, (3a-c)</l>
+<l>saying “the young man became like this” (5)</l>
+<l>among [his] kin, wielding empty hand without bangles that became bare, (3d-4)</l>
+<l>if you [thus] say your word (6)</l>
+<l>the front village will be thus: of a fertility on which </l>
+<l>birds become full, in the banyan tree. (7-8c)</l>
+<l>The mother who praises [him] unendingly, (10)</l>
+<l>saying “my son is for us prosperity and excellence”, (8d-9)</l>
+<l>what will become of her? Pitiable she is. (11)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG2ML6MG34ML19MG134MG3M2G14MG8MG7MG6MG23MG6MG12MG2M,297MG</interp>
+<standOff type="wordsplit" corresp="#PN254"><interp type="alignment" select="0">7MG2ML6MG34ML19MG134MG3M2G14MG8MG7MG6MG23MG6MG12MG2M,297MG</interp>
 <entry>
 <form>iḷaiyar-um</form>
 <def>young-they</def>
