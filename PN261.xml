@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 261.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN261">
       <lg type="edition">
 <l>antō ventai yaṭaiyāp pēril</l>
 <l>vaṇṭupaṭu naṟaviṟ ṟaṇṭā maṇṭaiyoṭu</l>
@@ -47,10 +47,33 @@
 <l>kaḻikala makaṭūup pōlap</l>
 <l>pulleṉ ṟaṉaiyāṟ pallaṇi yiḻantē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  Alas! our father’s house that was not locked, (1)</l>
+<l>the courtyard with a curved opening, with unlimited great rice (3)</l>
+<l>along with undiminishing jars of toddy to which bees came, (2)</l>
+<l>I have seen become thus – like what? – </l>
+<l>like a boat on an empty river. (4-5b)</l>
+<l>	Let my eyes tire. (5cd)</l>
+<l>Fertile auspicious mansion of the world’s guardian, (6)</l>
+<l>before you did yield, (10a-c)</l>
+<l>for the lack-lustre eyes of new-eyed people to become full, (9)</l>
+<l>the sound of goat meat poured on the oily hearth, (8)</l>
+<l>like the langourous sigh of an rutting elephant. (7)</l>
+<l>	Now, (10d)</l>
+<l>like the women with ornaments put away (18)</l>
+<l>who are upset to experience widowhood, with heads plucked [and] shaved, (17)</l>
+<l>lamenting the absence of the warrior with victorious spear, (16)</l>
+<l>	who chased away the unlearned strong bows that embraced </l>
+<l>	many cows, as owls with nearby voices shrieked, (11f.)</l>
+<l>	while putting on, according to the custom of men who know the means, (14)</l>
+<l>	Karantai with fragrant flowers like female breasts, (13)</l>
+<l>	brought the herds here [and] has become a hero stone, (15)</l>
+<l>your have become empty, having lost many decorations. (19)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">94MG10MG3MG12MG136MG3MG6MG6MG87MG125ML39M2G2M,534MG</interp>
+<standOff type="wordsplit" corresp="#PN261"><interp type="alignment" select="0">94MG10MG3MG12MG136MG3MG6MG6MG87MG125ML39M2G2M,534MG</interp>
 <entry>
 <form>antō</form>
 <def>alas</def>
