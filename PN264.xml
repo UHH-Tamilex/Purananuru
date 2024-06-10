@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>paraluṭai maruṅkiṟ patukkai cērtti</l>
+<l>maralvakuntu toṭutta cempūṅ kaṇṇiyō</l>
+<l>ṭaṇimayiṟ pīli cūṭṭip peyarpoṟit</l>
+<l>tiṉinaṭ ṭaṉarē kalluṅ kaṉṟoṭu</l>
+<l>kaṟavai tantu pakaiva rōṭṭiya</l>
+<l>neṭuntakai kaḻintamai yaṟiyā</l>
+<l>tiṉṟum varuṅkol pāṇaratu kaṭumpē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">64MG29MG11MG4MG41MG22MG3M2G7MG17M2G2M,210MG</interp>
+<entry>
+<form>paral</form>
+<def>pebble</def>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>possess-</def>
+</entry>
+<entry>
+<form>maruṅkiṉ</form>
+<def>side</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>patukkai</form>
+<def>stone-heap</def>
+</entry>
+<entry>
+<form>cērtti</form>
+<def>put-together</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>maral</form>
+<def>bowstring-hemp</def>
+</entry>
+<entry>
+<form>vakuntu</form>
+<def>been-split</def>
+</entry>
+<entry>
+<form>toṭutta</form>
+<def>linked-</def>
+</entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+</entry>
+<entry>
+<form>kaṇṇiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>chaplet</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>aṇi</form>
+<def>adorn-</def>
+</entry>
+<entry>
+<form>mayil</form>
+<def>peacock</def>
+</entry>
+<entry>
+<form>pīli</form>
+<def>feather</def>
+</entry>
+<entry>
+<form>cūṭṭi<pc>+</pc></form>
+<def>put-on</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>peyar</form>
+<def>name</def>
+</entry>
+<entry>
+<form>poṟitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>impressed</def>
+</entry>
+<entry>
+<form>iṉi</form>
+<def>now</def>
+</entry>
+<entry>
+<form>naṭṭaṉar-ē</form>
+<def>erected-they</def>
+<form type="simple">naṭṭaṉar</form>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kal-<pc>+</pc>um</form>
+<def>stone</def>
+<form type="simple">kal</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṉṟoṭu</form>
+<def>calf</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kaṟavai</form>
+<def>milk-cow</def>
+</entry>
+<entry>
+<form>tantu</form>
+<def>given</def>
+</entry>
+<entry>
+<form>pakaivar</form>
+<def>enemy</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ōṭṭiya</form>
+<def>made-run</def>
+</entry>
+<entry>
+<form>neṭum-takai</form>
+<def>long-fitness</def>
+</entry>
+<entry>
+<form>kaḻintamai</form>
+<def>having-passed</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṟiyāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>know-not</def>
+</entry>
+<entry>
+<form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>today</def>
+<form type="simple">iṉṟu</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>varum-kol</form>
+<def>comes</def>
+<form type="simple">varum</form>
+<gramGrp type="particle"><m>kol</m></gramGrp>
+</entry>
+<entry>
+<form>pāṇaratu</form>
+<def>bard</def>
+<gramGrp><gram type="role">genitive</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭump<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>relations</def>
+<form type="simple">kaṭumpu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
