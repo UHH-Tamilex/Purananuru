@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 263.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN263">
       <lg type="edition" style="pūṭṭuvil">
 <l>peruṅkaḷiṟ ṟaṭiyiṉ ṟōṉṟu moruka</l>
 <l>ṇirumpaṟai yiravala cēṟi yāyiṉ</l>
@@ -36,10 +36,20 @@
 <l>villumiḻ kaṭuṅkaṇai mūḻkak</l>
 <l>kolpuṉaṟ ciṟaiyiṉ vilaṅkiyōṉ kallē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Mendicant with the big drum with one eye that appears</l>
+<l>like the foot of a large elephant bull, if you were to go (1f.)</l>
+<l>on this way in a state of drought where the Vaṇṭu are unfailingly pre-eminent, (3d-4)</l>
+<l>beware of passing by without worshipping [it] (3a-c)</l>
+<l>– the stone of the one who was an obstacle on one wing of the murderous flood (8)</l>
+<l>when fierce arrows emitted by bows sank in, (7)</l>
+<l>who did not leave when the untaught young men left, (6)</l>
+<l>returning to return with the growing herd of many cows. (5)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">11MG94MR8M2G12ML9MG10MG82MG3M,236MG</interp>
+<standOff type="wordsplit" corresp="#PN263"><interp type="alignment" select="0">11MG94MR8M2G12ML9MG10MG82MG3M,236MG</interp>
 <entry>
 <form>perum</form>
 <def>big</def>
