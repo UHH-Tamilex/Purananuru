@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>nīraṟa vaṟiyā nilamutaṟ kalanta</l>
+<l>karuṅkura ṉoccik kaṇṇār kurūuttaḻai</l>
+<l>melliḻai makaḷi raitaka lalkuṟ</l>
+<l>ṟoṭalai yākavuṅ kaṇṭaṉa miṉiyē</l>
+<l>veruvaru kurutiyoṭu mayaṅki yuruvukaran</l>
+<l>toṟuvāyp paṭṭa teriya lūṉcettup</l>
+<l>paruntukoṇ ṭukappayāṅ kaṇṭaṉa</l>
+<l>maṟampukaṉ maintaṉ malainta māṟē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG10ML21ML40MG34MG39MG55ML29M,241MG</interp>
+<entry>
+<form>nīr</form>
+<def>water</def>
+</entry>
+<entry>
+<form>aṟav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>ceasing</def>
+</entry>
+<entry>
+<form>aṟiyā</form>
+<def>know-not</def>
+</entry>
+<entry>
+<form>nilam</form>
+<def>ground</def>
+</entry>
+<entry>
+<form>mutal</form>
+<def>base</def>
+</entry>
+<entry>
+<form>kalanta</form>
+<def>mixed-</def>
+</entry>
+<entry>
+<form>karum</form>
+<def>black</def>
+</entry>
+<entry>
+<form>kural</form>
+<def>ear</def>
+</entry>
+<entry>
+<form>nocci<pc>+</pc></form>
+<def>Nocci</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form><pc>+</pc>ār</form>
+<def>be-full-</def>
+</entry>
+<entry>
+<form>kurūu<pc>+</pc></form>
+<def>lustrous</def>
+</entry>
+<entry>
+<form>taḻai</form>
+<def>foliage</def>
+</entry>
+<entry>
+<form>mel</form>
+<def>soft</def>
+</entry>
+<entry>
+<form><pc>+</pc>iḻai</form>
+<def>jewel</def>
+</entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+</entry>
+<entry>
+<form>ait<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>wonder-it</def>
+</entry>
+<entry>
+<form>akal</form>
+<def>widen-</def>
+</entry>
+<entry>
+<form>alkul</form>
+<def>hip</def>
+</entry>
+<entry>
+<form>toṭalai</form>
+<def>skirt</def>
+</entry>
+<entry>
+<form><pc>~</pc>ākavum</form>
+<def>become</def>
+<form type="simple">ākav</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṇṭaṉam</form>
+<def>we-saw</def>
+</entry>
+<entry>
+<form>iṉi-<pc>~</pc>ē</form>
+<def>now</def>
+<form type="simple">iṉi</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>veruvaru</form>
+<def>be-frightened-</def>
+</entry>
+<entry>
+<form>kurutiyoṭu</form>
+<def>blood</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>mayaṅki</form>
+<def>confused</def>
+</entry>
+<entry>
+<form><pc>~</pc>uruvu</form>
+<def>form</def>
+</entry>
+<entry>
+<form>karant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>hidden</def>
+</entry>
+<entry>
+<form>oṟu</form>
+<def>??</def>
+</entry>
+<entry>
+<form>vāyppaṭṭa</form>
+<def>way-found-</def>
+</entry>
+<entry>
+<form>teriyal</form>
+<def>garland</def>
+</entry>
+<entry>
+<form>ūṉ</form>
+<def>flesh</def>
+</entry>
+<entry>
+<form>cettu<pc>+</pc></form>
+<def>thought</def>
+</entry>
+<entry>
+<form>paruntu</form>
+<def>kite</def>
+</entry>
+<entry>
+<form>koṇṭu</form>
+<def>taken</def>
+</entry>
+<entry>
+<form>kappa</form>
+<def>ascend</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+</entry>
+<entry>
+<form>kaṇṭaṉam</form>
+<def>we-saw</def>
+</entry>
+<entry>
+<form>maṟam</form>
+<def>boldness</def>
+</entry>
+<entry>
+<form>pukal</form>
+<def>rejoice</def>
+</entry>
+<entry>
+<form>maintaṉ</form>
+<def>young-man</def>
+</entry>
+<entry>
+<form>malainta</form>
+<def>worn</def>
+</entry>
+<entry>
+<form>māṟē</form>
+<def>because</def>
+<form type="simple">māṟ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
