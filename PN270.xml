@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 270.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN270">
       <lg type="edition">
 <l>paṉmī ṉimaikku māka vicumpi</l>
 <l>ṉiraṅku muraci ṉiṉañcāl yāṉai</l>
@@ -41,10 +41,25 @@
 <l>viḻunavi pāynta marattiṉ</l>
 <l>vāḷmicaik kiṭanta vāṇmaiyōṉ tiṟattē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>They are desirous of joining the battle</l>
+<l>of numerous elephants in troups, with sounding drums,</l>
+<l>and of those with wheels that rolled much across the ground,</l>
+<l>like the sky where many stars twinkle.</l>
+<l>With unscented white heads that had given up fragrant substance,</l>
+<l>oh mothers of children, oh women of great houses,</l>
+<l>I ache. Look</l>
+<l>at him who had manliness who [now] lies on [his] sword,</l>
+<l>like a tree that was attacked by an excellent axe,</l>
+<l>in the frightening waste land that bore a great battle</l>
+<l>when bold warriors difficult to approach who had heard the sweet sound</l>
+<l>of the Taṇṇumai drum with a cutting voice that calls [together] the bold army,</l>
+<l>so that those desirous of victory would take the village common.   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14ML84MG45MG4MG6M2G4M2G4MG12MG28ML24MG43MG14MG39MG22MG6M2G2M,368MG</interp>
+<standOff type="wordsplit" corresp="#PN270"><interp type="alignment" select="0">14ML84MG45MG4MG6M2G4M2G4MG12MG28ML24MG43MG14MG39MG22MG6M2G2M,368MG</interp>
 <entry>
 <form>pal</form>
 <def>many</def>
