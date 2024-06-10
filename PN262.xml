@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>naṟavun toṭumiṉ viṭaiyum vīḻmiṉ</l>
+<l>pācuva liṭṭa puṉkāṟ pantarp</l>
+<l>puṉaṟaru miḷamaṇa ṉiṟaiyap peymmi</l>
+<l>ṉoṉṉār muṉṉilai murukkip piṉṉiṉṟu</l>
+<l>niraiyoṭu varūu meṉṉaik</l>
+<l>kuḻaiyōr taṉṉiṉum peruñcā yalarē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">31MG26ML12ML66MG28M,166MG</interp>
+<entry>
+<form>naṟavun</form>
+<def>toddyum</def>
+</entry>
+<entry>
+<form>toṭumiṉ</form>
+<def>press</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>viṭaiyum</form>
+<def>bull</def>
+<form type="simple">viṭaiy</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>vīḻmiṉ</form>
+<def>fall</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>greenness</def>
+</entry>
+<entry>
+<form>uval</form>
+<def>foliage</def>
+</entry>
+<entry>
+<form>iṭṭa</form>
+<def>put-</def>
+</entry>
+<entry>
+<form>puṉ</form>
+<def>low/red</def>
+</entry>
+<entry>
+<form>kāl</form>
+<def>leg</def>
+</entry>
+<entry>
+<form>pantar</form>
+<def>arbour</def>
+</entry>
+<entry>
+<form><pc>+</pc>puṉal</form>
+<def>flood</def>
+</entry>
+<entry>
+<form>tarum</form>
+<def>giving-</def>
+</entry>
+<entry>
+<form>iḷa</form>
+<def>young</def>
+</entry>
+<entry>
+<form>maṇal</form>
+<def>sand</def>
+</entry>
+<entry>
+<form>niṟaiya<pc>+</pc></form>
+<def>be-full</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>peymmiṉ</form>
+<def>rain</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>oṉṉār</form>
+<def>enemy</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>muṉṉilai</form>
+<def>front-stand</def>
+</entry>
+<entry>
+<form>murukki<pc>+</pc></form>
+<def>broken</def>
+</entry>
+<entry>
+<form>piṉ</form>
+<def>behind</def>
+</entry>
+<entry>
+<form>niṉṟu</form>
+<def>stood</def>
+</entry>
+<entry>
+<form>niraiyoṭu</form>
+<def>row</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>varūum</form>
+<def>coming-my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṉaikku</form>
+<def>lord</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc type="ignored">(</pc>u<pc type="ignored">)</pc>ḻaiyōr</form>
+<def>proximity-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>taṉṉiṉum</form>
+<def>self</def>
+<form type="simple">taṉṉiṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>cāyalarē</form>
+<def>weariness-they</def>
+<form type="simple">cāyalar</form>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
