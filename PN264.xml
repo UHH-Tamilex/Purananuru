@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 264.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN264">
       <lg type="edition">
 <l>paraluṭai maruṅkiṟ patukkai cērtti</l>
 <l>maralvakuntu toṭutta cempūṅ kaṇṇiyō</l>
@@ -35,10 +35,19 @@
 <l>neṭuntakai kaḻintamai yaṟiyā</l>
 <l>tiṉṟum varuṅkol pāṇaratu kaṭumpē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Having put together a stone heap on the side strewn with pebbles, (1)</l>
+<l>putting on [it] ornate peacock feathers along with a chaplet</l>
+<l>of red flowers tied after splicing bowstring hemp, engraving [his] name, (2f.)</l>
+<l>they now erected a stone too. (4a-c)</l>
+<l>Will the kinfolk of the bards come from today on, (7)</l>
+<l>not knowing of the paragon’s having passed away (6)</l>
+<l>who drove off the enemies, bringing [back] the milchcows along with the calves? (4d-5)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">64MG29MG11MG4MG41MG22MG3M2G7MG17M2G2M,210MG</interp>
+<standOff type="wordsplit" corresp="#PN264"><interp type="alignment" select="0">64MG29MG11MG4MG41MG22MG3M2G7MG17M2G2M,210MG</interp>
 <entry>
 <form>paral</form>
 <def>pebble</def>
