@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 236.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN236">
       <lg type="edition">
 <l>kalaiyuṇak kiḻinta muḻavumaruḷ perumpaḻañ</l>
 <l>cilaikeḻu kuṟavark kalkumicai vāku</l>
@@ -40,10 +40,25 @@
 <l>yiṭaiyil kāṭci niṉṉō</l>
 <l>ṭuṭaṉuṟai vākkuka vuyarnta pālē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>O man from a mountainousmountaineous land, (3ab)</l>
+<l>where the drum-like big fruit that was torn open by a monkey to eat (1)</l>
+<l>becomes lasting food for the bow-bearing hill people, (2)</l>
+<l>  great generous Pāri (3cd)</l>
+<l>you who are unequal to mutual intimacy (4)</l>
+<l>are one who has become vexed with me. For the years you protected [me], (5)</l>
+<l>[this] is not in agreement with a friendship of befitting great excellence. (6)</l>
+<l>Without letting [me] come together [with you] you said “let him stay behind”, (7)</l>
+<l>[and] because you are thus, to you I, however, (8)</l>
+<l>am [still] attached, even though it may be in absence. (9)</l>
+<l>Showing itself as in this birth, in the next birth [too] (10)</l>
+<l>let lofty fate cause [me] to stay together (12)</l>
+<l>with you of unimpeded sight. (11)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">56MG10MG4ML36MG38M2G18ML6MG5MG17MG4M3G23ML10MGM2G18MG48MG9MG17MG2M,342MG</interp>
+<standOff type="wordsplit" corresp="#PN236"><interp type="alignment" select="0">56MG10MG4ML36MG38M2G18ML6MG5MG17MG4M3G23ML10MGM2G18MG48MG9MG17MG2M,342MG</interp>
 <entry>
 <form>kalai</form>
 <def>male-monkey</def>
