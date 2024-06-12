@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 272.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN272">
       <lg type="edition">
 <l>maṇituṇarn taṉṉa mākkura ṉocci</l>
 <l>pōtuviri palmara ṉuḷḷuñ ciṟanta</l>
@@ -36,10 +36,20 @@
 <l>ṉūrppuṟaṅ koṭāa neṭuntakai</l>
 <l>pīṭukeḻu ceṉṉik kiḻamaiyu niṉatē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Nocci with dark [flower] ears, as if sapphires were clustering,</l>
+<l>you beloved good tree that is superior even among many trees </l>
+<l>expanding [their] buds, may you give shade!</l>
+<l>You will lie on the hips of bangled women</l>
+<l>who visibly flourish in protected wide mansions,</l>
+<l>and your’s too is the mastery over the great head</l>
+<l>of the paragon who did not flee the village</l>
+<l>because [the enemy] entered the guarded fortification [and] destroyed the opposition.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">23ML37ML6MR12MG15ML8MG46MG20MG27MG28MR5M2G2M,240MG</interp>
+<standOff type="wordsplit" corresp="#PN272"><interp type="alignment" select="0">23ML37ML6MR12MG15ML8MG46MG20MG27MG28MR5M2G2M,240MG</interp>
 <entry>
 <form>maṇi</form>
 <def>sapphire</def>
