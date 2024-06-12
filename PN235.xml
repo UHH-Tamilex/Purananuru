@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 235.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN235">
       <lg type="edition">
 <l>ciṟiyakaṭ peṟiṉē yemakkīyu maṉṉē</l>
 <l>periyakaṭ peṟiṉē</l>
@@ -50,10 +50,34 @@
 <l>cūṭātu vaikiyāṅkup piṟarkkoṉ</l>
 <l>ṟīyātu vīyu muyirtavap palavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>If helives [are] very many that will perish. (22)</l>
+<l>obtains a little toddy, he will certainly give [it] to us. (1)</l>
+<l> If he obtains much toddy, (2)</l>
+<l> while we sing he will certainly enjoy [and] drink [it]. (3)</l>
+<l> As one with a little rice he will certainly have very many plates (4)</l>
+<l> and as one with much rice he will certainly have very many plates. (5)</l>
+<l> All the befalling series(?) of meat with bones (6)</l>
+<l> he will certainly give us. (7)</l>
+<l> All the series of employing the spear along with the arrow (8) </l>
+<l> he certainly will stand. (9)</l>
+<l> With his hand fragrant of bitter orange (10)</l>
+<l> he will certainly rub my head reeking of flesh. (11)</l>
+<l> Piercing a hole in the wide bowl of great bards with rare heads (12)</l>
+<l> going right through the hands of mendicants too, (13)</l>
+<l> while the sorrowful dolls of those who keep them slip down, (14)</l>
+<l> going into the tongue of poets with fine discrimination [and] pretty words, (15)</l>
+<l> it has descended, the spear that has gone deep into his precious vital spot. (16)</l>
+<l> [Our] father who is [our] support, where is he? (17)</l>
+<l> Now there are none who sing and none who give something to those who sing. (18)</l>
+<l> Like the big flower of the fragrant Pakaṉṟai from the dewy ghat (19)</l>
+<l> that is kept without being worn, without giving anything to others (20a-21)</l>
+<l> lives [are] very many that will perish. (22) </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14MG7MG4M2G18MG19MG5M2G15MR16MG17MR16MG35MG4M2G14ML17ML5M2G11MR40M2G59MG36ML34MG13MG9MG4MG2MG9MG4MG17MG17MG3MG73MG3MG23MG3M,602MG</interp>
+<standOff type="wordsplit" corresp="#PN235"><interp type="alignment" select="0">14MG7MG4M2G18MG19MG5M2G15MR16MG17MR16MG35MG4M2G14ML17ML5M2G11MR40M2G59MG36ML34MG13MG9MG4MG2MG9MG4MG17MG17MG3MG73MG3MG23MG3M,602MG</interp>
 <entry>
 <form>ciṟiya</form>
 <def>little-they</def>
