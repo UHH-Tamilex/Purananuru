@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 274.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="Pn274">
       <lg type="edition">
 <l>nīlak kaccaip pūvā rāṭaip</l>
 <l>pīlik kaṇṇip peruntakai maṟavaṉ</l>
@@ -35,10 +35,19 @@
 <l>kaiyiṉ vāṅkit taḻīi</l>
 <l>moympi ṉūkki meykkoṇ ṭaṉaṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The bold man, a paragon with a blue belt,</l>
+<l>a garment full of flowers [and] a peacock feather chaplet,</l>
+<l>after driving [his] spear against the elephant bull coming up against [him],</l>
+<l>now is giving himself up, it seems. While the enemies</l>
+<l>spread, strong men with blades along with horses,</l>
+<l>he dragged/bent [them] with [his] hands [and] embraced [them] </l>
+<l>swinging [them] with force he took [them] onto [his] body.</l> 
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">38MG32ML5MG36MG68MG2M,185MG</interp>
+<standOff type="wordsplit" corresp="#Pn274"><interp type="alignment" select="0">38MG32ML5MG36MG68MG2M,185MG</interp>
 <entry>
 <form>nīla<pc>+</pc></form>
 <def>blue</def>
