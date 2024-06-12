@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 237.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN237">
       <lg type="edition">
 <l>nīṭuvāḻ keṉṟiyā ṉeṭuṅkaṭai kuṟukip</l>
 <l>pāṭi niṉṟa pacināṭ kaṇṇē</l>
@@ -48,10 +48,33 @@
 <l>naṉiyuṭaip pariciṟ ṟaruka</l>
 <l>meḻumati neñcē tuṇipumun tuṟuttē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>On a day of hunger when I stood singing, (2)</l>
+<l>having approached the tall gate saying “may he live long”, (1)</l>
+<l>longing that, (6a)</l>
+<l>there being fat shade in the time of the west wind, (3)</l>
+<l>the composition sown into the ear of a strong man</l>
+<l>who does not know of lying will well bear fruit, (4f.)</l>
+<l>  since the longing that existed was false, (6b-d)</l>
+<l>as if the pot that cooked yielded [only] fire, (7)</l>
+<l>since virtuless Death today decided the matter, (9)</l>
+<l>not saying “pitiable they are. Let them eat.” (8)</l>
+<l>while women that are burningly harrasses in turn (10)</l>
+<l>scatter broken pieces of bangles, like plantain flowers, (11)</l>
+<l>While mendicants with [their] old-mouthed kinfolk are in grief, (12)</l>
+<l>the warrior with a white spear has gone [and] vanished (14)</l>
+<l>in the wasteland with saline soil where spurges have grown long. (13)</l>
+<l>While that thus is without pain, if a tiger on the high mountain</l>
+<l>fails [to have as its] prey the elephant bull which  it hasve peered out at [and] attacked, (15f.)</l>
+<l>it will not peer at [and] attack a rat. (17a-c)</l>
+<l>Going sweetly like the flood that rushes in the sea with amply waves (17d-18)</l>
+<l>we will bring ample(?) gifts. (19)</l>
+<l>Rise, o heart, putting you resolve first.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">8M3G3MGMG3ML35MG86MG25MG29MG9MG176MG5MG9MG23MG12MG21MG5MG4ML74M2G16M2G2M,568MG</interp>
+<standOff type="wordsplit" corresp="#PN237"><interp type="alignment" select="0">8M3G3MGMG3ML35MG86MG25MG29MG9MG176MG5MG9MG23MG12MG21MG5MG4ML74M2G16M2G2M,568MG</interp>
 <entry>
 <form>nīṭu</form>
 <def>be-long-</def>
