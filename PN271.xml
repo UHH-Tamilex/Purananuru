@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 271.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN271">
       <lg type="edition">
 <l>nīraṟa vaṟiyā nilamutaṟ kalanta</l>
 <l>karuṅkura ṉoccik kaṇṇār kurūuttaḻai</l>
@@ -36,10 +36,20 @@
 <l>paruntukoṇ ṭukappayāṅ kaṇṭaṉa</l>
 <l>maṟampukaṉ maintaṉ malainta māṟē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The eye-filling lustrous foliage of the black-eared Nocci</l>
+<l>that mixed [its] base with the ground that does not know of the water ceasing,</l>
+<l>we have seen it become skirts</l>
+<l>on the wonderfully broad hips of tender, jewelled women, and now,</l>
+<l>we have seen kites ascend with, thinking [it] flesh,</l>
+<l>the garland that found [their] way to ???</l>
+<l>[his] form being hidden, mixed up with frightening blood,</l>
+<l>because it was worn by the young soldier, rejoicing in boldness.   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG10ML21ML40MG34MG39MG55ML29M,241MG</interp>
+<standOff type="wordsplit" corresp="#PN271"><interp type="alignment" select="0">7MG10ML21ML40MG34MG39MG55ML29M,241MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
