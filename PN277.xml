@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 277.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN277">
       <lg type="edition">
 <l>mīṉuṇ kokkiṉ ṟūvi yaṉṉa</l>
 <l>vāṉaraik kūntaṉ mutiyōḷ ciṟuvaṉ</l>
@@ -34,10 +34,18 @@
 <l>nōṉkaḻai tuyalvarum vetirattu</l>
 <l>vāṉpeyat tūṅkiya citariṉum palavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The joy, when they said “he has fallen attacking an elephant bull,</l>
+<l>the son of the old woman with pure white tresses</l>
+<l>like the feathers of a fish-eating egret,</l>
+<l>it was greater than the day she gave birth [to him]. [Her] tears</l>
+<l>are more than the drops that drip down, when it rains,</l>
+<l>on the bamboo whose tough shafts come into swinging</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">23ML30MG43M2G20MG45M,165MG</interp>
+<standOff type="wordsplit" corresp="#PN277"><interp type="alignment" select="0">23ML30MG43M2G20MG45M,165MG</interp>
 <entry>
 <form>mīṉ</form>
 <def>fish</def>
