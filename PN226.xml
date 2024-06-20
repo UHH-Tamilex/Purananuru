@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 226.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN226">
       <lg type="edition" style="pūṭṭuvil">
 <l>ceṟṟaṉ ṟāyiṉuñ ceyirttaṉ ṟāyiṉu</l>
 <l>muṟṟaṉ ṟāyiṉu muyviṉṟu mātō</l>
@@ -34,10 +34,18 @@
 <l>maṇṭamar kaṭakkun tāṉait</l>
 <l>tiṇṭēr vaḷavaṟ koṇṭa kūṟṟē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  Even though it destroyed, even though it raged, (1)</l>
+<l>  even though it had [him], is it really without escape? (2)</l>
+<l>  – Death, that took Vaḷavaṉ with firm chariot (6)</l>
+<l>  an army that was victorious in close battle, (5)</l>
+<l>  [and] with a golden garland who wanted it to pass by, (4)</l>
+<l>  praising with hands folded like the singers [do]. (3)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG16MG12MG9MG4MG24MG13MG22MG40M2G2M,158MG</interp>
+<standOff type="wordsplit" corresp="#PN226"><interp type="alignment" select="0">7MG16MG12MG9MG4MG24MG13MG22MG40M2G2M,158MG</interp>
 <entry>
 <form>ceṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>destroyed-it</def>
