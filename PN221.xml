@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 221.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN221">
       <lg type="edition">
 <l>pāṭunark kītta palpuka ḻaṉṉē</l>
 <l>yāṭunark kītta pēraṉ piṉaṉē</l>
@@ -41,10 +41,26 @@
 <l>keṭuvi ṉallicai cūṭi</l>
 <l>naṭuka lāyiṉaṉ puravala ṉeṉavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  He is one much praised who gives to singers. (1)</l>
+<l>  He has great love who gives to dancers. (2)</l>
+<l>  He has a discerning sceptre praise by the virtuous. (3)</l>
+<l>  He has firm friendship praised by the informed. (4)</l>
+<l>  Graceful to women, to the mighty ones might, (5)</l>
+<l>  a refuge to those high in flawless erudition (6)</l>
+<l>  – not saying he is such a one, not thinking him</l>
+<l>  that paragon Death has dispatched [his] sweet life. (7f.)</l>
+<l>  Embracing [our] suffering kinfolk, come,</l>
+<l>  we we curse him, o scholars of true words, (9f.)</l>
+<l>    thinking that, (13d)</l>
+<l>  while the world of vast area is suspended in affliction, (11)</l>
+<l>  wearing fame that does not get lost (12)</l>
+<l>  [our] protector has become a hero stone. (13)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">9MG14MG11MG14MG24MG28MG69MG125ML36MG3M,341MG</interp>
+<standOff type="wordsplit" corresp="#PN221"><interp type="alignment" select="0">9MG14MG11MG14MG24MG28MG69MG125ML36MG3M,341MG</interp>
 <entry>
 <form>pāṭunarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>sing-they</def>
