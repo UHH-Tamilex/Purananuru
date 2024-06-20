@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition" style="pūṭṭuvil">
+<l>ceṟṟaṉ ṟāyiṉuñ ceyirttaṉ ṟāyiṉu</l>
+<l>muṟṟaṉ ṟāyiṉu muyviṉṟu mātō</l>
+<l>pāṭunar pōlak kaitoḻu tētti</l>
+<l>yiṟantaṉ ṟākal vēṇṭum polantār</l>
+<l>maṇṭamar kaṭakkun tāṉait</l>
+<l>tiṇṭēr vaḷavaṟ koṇṭa kūṟṟē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG16MG12MG9MG4MG24MG13MG22MG40M2G2M,158MG</interp>
+<entry>
+<form>ceṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>destroyed-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>been-angry-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>ceyirttaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>if</def>
+</entry>
+<entry>
+<form>āyiṉum</form>
+<def>even</def>
+</entry>
+<entry>
+<form>uṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>had-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>uyv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>escape</def>
+</entry>
+<entry>
+<form>iṉṟu-mātō</form>
+<def>not-it</def>
+<form type="simple">iṉṟu</form>
+<gramGrp type="particle"><m>mātō</m></gramGrp>
+</entry>
+<entry>
+<form>pāṭunar</form>
+<def>sing-they</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>pōla<pc>+</pc></form>
+<def>be-similar</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+</entry>
+<entry>
+<form>toḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>worshipped</def>
+</entry>
+<entry>
+<form>ētti</form>
+<def>praised</def>
+</entry>
+<entry>
+<form><pc>~</pc>iṟantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>gone-beyond-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>ākal</form>
+<def>becoming</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>vēṇṭum</form>
+<def>is-necessary</def>
+</entry>
+<entry>
+<form>polam</form>
+<def>golden</def>
+</entry>
+<entry>
+<form>tār</form>
+<def>garland</def>
+</entry>
+<entry>
+<form>maṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>rush-</def>
+</entry>
+<entry>
+<form>amar</form>
+<def>fight</def>
+</entry>
+<entry>
+<form>kaṭakkum</form>
+<def>overcoming</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṉai<pc>+</pc></form>
+<def>army</def>
+</entry>
+<entry>
+<form>tiṇ</form>
+<def>firm</def>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+</entry>
+<entry>
+<form>vaḷavaṉ</form>
+<def>Vaḷavaṉ</def>
+</entry>
+<entry>
+<form>koṇṭa</form>
+<def>taken-</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kūṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>Death</def>
+<form type="simple">kūṟṟu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
