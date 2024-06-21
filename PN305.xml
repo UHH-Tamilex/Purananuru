@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 305.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN305">
       <lg type="edition">
 <l>vayalaik koṭiyiṉ vāṭiya maruṅku</l>
 <l>luyava lūrtip payalaip pārppā</l>
@@ -34,10 +34,18 @@
 <l>yēṇiyuñ cīppu māṟṟi</l>
 <l>māṇviṉai yāṉaiyu maṇikaḷain taṉavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The pale brahmin on a decrepit vehicle</l>
+<l>with a stomach withered like a purslane creeper,</l>
+<l>at night he came [and], without stopping, entered.</l>
+<l>Few were the words he spoke. Because of that</l>
+<l>the changed the ladders and bolts</l>
+<l>and removed the bells from the elephant of glorious work.</l>
+</lg> 
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">87MG6MG8M2G5MG7M2G2ML17MG3ML13MG3M,161MG</interp>
+<standOff type="wordsplit" corresp="#PN305"><interp type="alignment" select="0">87MG6MG8M2G5MG7M2G2ML17MG3ML13MG3M,161MG</interp>
 <entry>
 <form>vayalai<pc>+</pc></form>
 <def>purslane</def>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>kaḷiṟuporak kalaṅku kaḻaṉmuḷ vēli</l>
+<l>yarituṇ kūva laṅkuṭic cīṟū</l>
+<l>rolimeṉ kūnta loṇṇuta larivai</l>
+<l>naṭukaṟ kaitoḻutu paravu moṭiyātu</l>
+<l>viruntetir peṟukatil yāṉē yeṉṉaiyu</l>
+<l>mo........................................... vēntaṉoṭu</l>
+<l>nāṭutaru viḻuppakai yeytuka veṉavē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">35MG17MG37MG26MG10MG6MG92MG3M,232MG</interp>
+<entry>
+<form>kaḷiṟu</form>
+<def>elephant-bull</def>
+</entry>
+<entry>
+<form>pora<pc>+</pc></form>
+<def>fight</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kalaṅku</form>
+<def>be-stirred-up-</def>
+</entry>
+<entry>
+<form>kaḻal</form>
+<def>Kaḻal-plant</def>
+</entry>
+<entry>
+<form>muḷ</form>
+<def>thorn</def>
+</entry>
+<entry>
+<form>vēli</form>
+<def>fence</def>
+</entry>
+<entry>
+<form><pc>~</pc>arit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>rare-it</def>
+</entry>
+<entry>
+<form>uṇ</form>
+<def>eat-</def>
+</entry>
+<entry>
+<form>kūval</form>
+<def>well</def>
+</entry>
+<entry>
+<form>am</form>
+<def>pretty</def>
+</entry>
+<entry>
+<form>kuṭi<pc>+</pc></form>
+<def>home</def>
+</entry>
+<entry>
+<form>cīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>little</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>oli</form>
+<def>sprout-</def>
+</entry>
+<entry>
+<form>mel</form>
+<def>soft</def>
+</entry>
+<entry>
+<form>kūntal</form>
+<def>tresses</def>
+</entry>
+<entry>
+<form>oḷ</form>
+<def>bright</def>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+</entry>
+<entry>
+<form>arivai</form>
+<def>young-woman</def>
+</entry>
+<entry>
+<form>naṭukal</form>
+<def>hero-stone</def>
+</entry>
+<entry>
+<form>kai-toḻutu</form>
+<def>hand-worshipped</def>
+</entry>
+<entry>
+<form>paravum</form>
+<def>revers</def>
+</entry>
+<entry>
+<form>oṭiyātu</form>
+<def>snap-not</def>
+</entry>
+<entry>
+<form>virunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>feast</def>
+</entry>
+<entry>
+<form>etir</form>
+<def>against</def>
+</entry>
+<entry>
+<form>peṟuka-til</form>
+<def>let-obtain</def>
+<form type="simple">peṟuka</form>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp><gramGrp type="particle"><m>til</m></gramGrp>
+</entry>
+<entry>
+<form>yāṉ-ē</form>
+<def>I</def>
+<form type="simple">yāṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>eṉṉaiyum</form>
+<def>me</def>
+<form type="simple">eṉṉaiy</form>
+<gramGrp><gram type="role">accusative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>mo..........................................</form>
+<def>……………………………………</def>
+</entry>
+<entry>
+<form>vēntaṉoṭu</form>
+<def>king</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>nāṭu</form>
+<def>land</def>
+</entry>
+<entry>
+<form>taru</form>
+<def>give-</def>
+</entry>
+<entry>
+<form>viḻu<pc>+</pc></form>
+<def>excellent</def>
+</entry>
+<entry>
+<form>pakai</form>
+<def>army</def>
+</entry>
+<entry>
+<form><pc>~</pc>eytuka</form>
+<def>let-reach</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉa-<pc>~</pc>ē</form>
+<def>say</def>
+<form type="simple">eṉa</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
