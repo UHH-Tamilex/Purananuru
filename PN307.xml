@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 307.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN307">
       <lg type="edition">
 <l>ācā kentai yāṇṭuḷaṉ kollō</l>
 <l>kuṉṟat taṉṉa kaḷiṟṟoṭu paṭṭōṉ</l>
@@ -42,10 +42,27 @@
 <l>paṇkoḷaṟ karumai nōkki</l>
 <l>neñcaṟa vīḻnta puraimai yōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>[Our] father who is [our] support, where is he?</l>
+<l>He who fell with an elephant bull like a hill,</l>
+<l>he appears like a stranger. Look there.</l>
+<l>While in the curls of [his] white locks stay bunches(?) </l>
+<l>of old blossoms shed after having become lose from the forest Ūku tree,</l>
+<l>like the tail of a striped squirrel in summer,</l>
+<l>resembling a white bull that is [barely] alive,</l>
+<l>abandoned with lameness on one side where there is no one</l>
+<l>by the salt-merchants who give neither water nor grass,</l>
+<l>would he not take the great lives of the opponents,</l>
+<l>the great man who fell, seeing that </l>
+<l>[and] looking at the difficulty of gaining a tune [for oneself], thinking</l>
+<l>“since also the king with the elephant in hot anger stayed behind </l>
+<l>on this field, there is nothing else that is excellent,”</l>
+<l>so that [my heart] heart stops?</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">2MG2MG9MG4MG12MG64MG19MG31ML7MG5MG7MG9MG41MG25M2G13MG6MG11MG31MG3MG15MG15MG20MG2M,375MG</interp>
+<standOff type="wordsplit" corresp="#PN307"><interp type="alignment" select="0">2MG2MG9MG4MG12MG64MG19MG31ML7MG5MG7MG9MG41MG25M2G13MG6MG11MG31MG3MG15MG15MG20MG2M,375MG</interp>
 <entry>
 <form>āc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>support</def>
