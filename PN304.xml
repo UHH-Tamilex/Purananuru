@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 304.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="Pn304">
       <lg type="edition">
 <l>koṭuṅkuḻai makaḷir kōtai cūṭi</l>
 <l>naṭuṅkupaṉik kaḷaiiyar nārari paruki</l>
@@ -39,10 +39,23 @@
 <l>ṉilaṅkirum pācaṟai naṭuṅkiṉ</l>
 <l>ṟiraṇṭā kātavaṉ kūṟiya teṉavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>“You, you should make haste</l>
+<l>to put on a garland [given by] girls with curved earrings</l>
+<l>drink [today] that is filtered through fibres in order to remove the shivering fever,</l>
+<l>[and] prepare a horse of generous motion that outruns the wind. Yesterday</l>
+<l>my elder brother failed, [and] tomorrow I shall make war</l>
+<l>just like that with [his] younger brother,” saying so,</l>
+<l>he could not even feed [his] puny stomach, he strongly</l>
+<l>urged many times, they say. Having heard that,</l>
+<l>the shining large army camp of the king of victorious war </l>
+<l>with a victory-bringing drum trembled</l>
+<l>in the thought that what he said [and what he would do] would not be two things.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">106MG31MG41MG7MG30M2G43MG20MG5MG4MG11MG3MG3M,315MG</interp>
+<standOff type="wordsplit" corresp="#Pn304"><interp type="alignment" select="0">106MG31MG41MG7MG30M2G43MG20MG5MG4MG11MG3MG3M,315MG</interp>
 <entry>
 <form>koṭum</form>
 <def>bent</def>
