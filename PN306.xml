@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 306.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN306">
       <lg type="edition">
 <l>kaḷiṟuporak kalaṅku kaḻaṉmuḷ vēli</l>
 <l>yarituṇ kūva laṅkuṭic cīṟū</l>
@@ -35,10 +35,19 @@
 <l>mo........................................... vēntaṉoṭu</l>
 <l>nāṭutaru viḻuppakai yeytuka veṉavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>In the little village with pretty homes [and] a drinking well that is precious</l>
+<l>that is stirred up when bull elephants fight [and] with a Kaḻal thorn fence,</l>
+<l>a young woman with bright forehead [and] luxuriant soft tresses</l>
+<l>without break worships an erected stone with [her] hands [and] prays:</l>
+<l>“may I receive a guest”,</l>
+<l>thinking “my lord …. together with the king</l>
+<l>[and] the land-bringing excellent army will reach [here].”  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">35MG17MG37MG26MG10MG6MG92MG3M,232MG</interp>
+<standOff type="wordsplit" corresp="#PN306"><interp type="alignment" select="0">35MG17MG37MG26MG10MG6MG92MG3M,232MG</interp>
 <entry>
 <form>kaḷiṟu</form>
 <def>elephant-bull</def>
