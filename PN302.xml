@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 302.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN302">
       <lg type="edition">
 <l>veṭivēy koḷvatu pōla vōṭit</l>
 <l>tāvu pukaḷu māvē pūvē</l>
@@ -39,10 +39,23 @@
 <l>viṇṇivar vicumpiṉ mīṉun</l>
 <l>taṇpeya luṟaiyu muṟaiyāṟ ṟāvē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Like the take of cracking bamboos run,</l>
+<l>leap [and] jump the horses. The flowers,</l>
+<l>the are taken for the tresses of girls with shining jewels.</l>
+<l>Little villages in the waste-land of an insufficient quality</l>
+<l>are offered to bards with strings tuned by hand</l>
+<l>on little lutes with curved necks [and] a wonderfully suited beat</l>
+<l>that wore many-strand garlands of bitter orange.</l>
+<l>The young man who will destroy those who look at [them],</l>
+<l>if you count again the elephants he killed with [his] spear,</l>
+<l>they cannot match [in number] the stars in the sky</l>
+<l>wandering across the firmament and the drops of cool rain.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">34MLMG4MG8MG53MG23MGM3G24MG33MG51MG24MG17ML9MG3M,299MG</interp>
+<standOff type="wordsplit" corresp="#PN302"><interp type="alignment" select="0">34MLMG4MG8MG53MG23MGM3G24MG33MG51MG24MG17ML9MG3M,299MG</interp>
 <entry>
 <form>veṭi</form>
 <def>crack-</def>
