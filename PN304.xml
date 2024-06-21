@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>koṭuṅkuḻai makaḷir kōtai cūṭi</l>
+<l>naṭuṅkupaṉik kaḷaiiyar nārari paruki</l>
+<l>vaḷitoḻi loḻikkum vaṇparip puravi</l>
+<l>paṇṇaṟku viraiti nīyē nerunai</l>
+<l>yemmuṟ  ṟappiyōṉ  ṟampiyo ṭorāṅku</l>
+<l>nāḷaic ceykuve ṉamareṉak kūṟip</l>
+<l>puṉvayi ṟaruttaluñ cellāṉ paṉmāṇ</l>
+<l>kaṭavu meṉpa peritē yatukēṭṭu</l>
+<l>valampaṭu muraciṉ velpōr vēnta</l>
+<l>ṉilaṅkirum pācaṟai naṭuṅkiṉ</l>
+<l>ṟiraṇṭā kātavaṉ kūṟiya teṉavē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">106MG31MG41MG7MG30M2G43MG20MG5MG4MG11MG3MG3M,315MG</interp>
+<entry>
+<form>koṭum</form>
+<def>bent</def>
+</entry>
+<entry>
+<form>kuḻai</form>
+<def>earring</def>
+</entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+</entry>
+<entry>
+<form>kōtai</form>
+<def>garland</def>
+</entry>
+<entry>
+<form>cūṭi</form>
+<def>worn</def>
+</entry>
+<entry>
+<form>naṭuṅku</form>
+<def>shiver-</def>
+</entry>
+<entry>
+<form>paṉi<pc>+</pc></form>
+<def>fever</def>
+</entry>
+<entry>
+<form>kaḷaiiyar</form>
+<def>removed-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>nār</form>
+<def>fibre</def>
+</entry>
+<entry>
+<form>ari</form>
+<def>sift-</def>
+</entry>
+<entry>
+<form>paruki</form>
+<def>drunk</def>
+</entry>
+<entry>
+<form>vaḷi</form>
+<def>wind</def>
+</entry>
+<entry>
+<form>toḻil</form>
+<def>task</def>
+</entry>
+<entry>
+<form>oḻikkum</form>
+<def>finishing-</def>
+</entry>
+<entry>
+<form>vaḷ</form>
+<def>generous</def>
+</entry>
+<entry>
+<form>pari<pc>+</pc></form>
+<def>motion</def>
+</entry>
+<entry>
+<form>puravi</form>
+<def>horse</def>
+</entry>
+<entry>
+<form>paṇṇaṟku</form>
+<def>preparing</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>viraiti</form>
+<def>hurry-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp></entry>
+<entry>
+<form>nī-<pc>~</pc>ē</form>
+<def>you</def>
+<form type="simple">nī</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>nerunai</form>
+<def>yesterday</def>
+</entry>
+<entry>
+<form><pc>~</pc>emmuṉ</form>
+<def>my(obl.)elder-brother</def>
+</entry>
+<entry>
+<form>tappiyōṉ</form>
+<def>failed-he</def>
+</entry>
+<entry>
+<form>tampiyoṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>younger-brother</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>orāṅku</form>
+<def>one</def>
+<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>nāḷai<pc>+</pc></form>
+<def>tomorrown</def>
+</entry>
+<entry>
+<form>ceykuveṉ</form>
+<def>I-do</def>
+</entry>
+<entry>
+<form>amar</form>
+<def>fight</def>
+</entry>
+<entry>
+<form>eṉa<pc>+</pc></form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kūṟi<pc>+</pc></form>
+<def>talked</def>
+</entry>
+<entry>
+<form>puṉ</form>
+<def>low</def>
+</entry>
+<entry>
+<form>vayiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>belly</def>
+</entry>
+<entry>
+<form>aruttal-um</form>
+<def>feeding</def>
+<form type="simple">aruttal</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>cellāṉ</form>
+<def>go-not-he</def>
+</entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+</entry>
+<entry>
+<form>māṇ</form>
+<def>horse</def>
+</entry>
+<entry>
+<form>kaṭavum</form>
+<def>urges</def>
+</entry>
+<entry>
+<form>eṉpa</form>
+<def>they-say</def>
+</entry>
+<entry>
+<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>big-it</def>
+<form type="simple">peritu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>atu</form>
+<def>that</def>
+</entry>
+<entry>
+<form>kēṭṭu</form>
+<def>heard</def>
+</entry>
+<entry>
+<form>valam</form>
+<def>be-victorious-</def>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>drum</def>
+</entry>
+<entry>
+<form>muraciṉ</form>
+<def>be-victorious-</def>
+</entry>
+<entry>
+<form>velpōr</form>
+<def>war</def>
+</entry>
+<entry>
+<form>vēntaṉ</form>
+<def>king</def>
+</entry>
+<entry>
+<form>ilaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>shine-</def>
+</entry>
+<entry>
+<form>irum</form>
+<def>large</def>
+</entry>
+<entry>
+<form>pācaṟai</form>
+<def>war-camp</def>
+</entry>
+<entry>
+<form>naṭuṅkiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>it-trembled</def>
+</entry>
+<entry>
+<form>iraṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>two-it</def>
+</entry>
+<entry>
+<form>ākāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>become-not-it</def>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>he</def>
+</entry>
+<entry>
+<form>kūṟiyat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>talked-it</def>
+</entry>
+<entry>
+<form>eṉa-<pc>~</pc>ē</form>
+<def>say</def>
+<form type="simple">eṉa</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
