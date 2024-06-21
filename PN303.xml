@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 303.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN303">
       <lg type="edition">
 <l>nilampiṟak kiṭuvatu pōṟkuḷampu kaṭaiyūu</l>
 <l>vuḷḷa moḻikkuṅ koṭpiṉ māṉmē</l>
@@ -37,10 +37,21 @@
 <l>kayantalai maṭappiṭi pulampa</l>
 <l>vilaṅkumarup piyāṉai yeṟinta veṟkē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The young man who destroys those who deride [him],</l>
+<l>upon a restless horse that finishes off the mind</l>
+<l>by pressing down [its] hooves as if putting behind the ground,</l>
+<l>with [his] sharp cruel powerful blade he made [them] fade </l>
+<l>when [their] hearts were exhausted by [their] injuries [and] comes in order to see</l>
+<l>me who yesterday had attacked an elephant with shining tusks</l>
+<l>so that [its] soft-headed youthful elephant cow would be lonely,</l>
+<l>[the elephant] of the kings with praise-worthy excellence</l>
+<l>who had previously cut into [our front numerous] like the waves of the sea that beats against the shore.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">11MG89MR34MG109M3G17M2G2M,269MG</interp>
+<standOff type="wordsplit" corresp="#PN303"><interp type="alignment" select="0">11MG89MR34MG109M3G17M2G2M,269MG</interp>
 <entry>
 <form>nilam</form>
 <def>ground</def>
