@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 301.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN301">
       <lg type="edition">
 <l>palcāṉ ṟīrē palcāṉ ṟīrē</l>
 <l>kumari makaḷir kūntal puraiya</l>
@@ -44,10 +44,28 @@
 <l>vēntūr yāṉaik kalla</l>
 <l>tēntuvaṉ pōlāṉṟa ṉilaṅkilai vēlē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>You many people! You many people!</l>
+<l>In the noisy camp with a fence of difficult thorns</l>
+<l>put because of the battle, resembling the tresses</l>
+<l>of virgin girls, you many people!</l>
+<l>Protect your king with a thundering drum [and] an army!</l>
+<l>and praise your elephant bulls with bright eminent tusks.</l>
+<l>As many days as your war with last, for so many days,</l>
+<l>where will be attacking those who don’t attack? He won’t go</l>
+<l>attacking even against those who attacked. Therefore,</l>
+<l>who are those who know the object he has in mind?</l>
+<l>Beware of deriding [him], thinking “we are many!” Look there!</l>
+<l>Praising the qualities of the horse with generous motion</l>
+<l>on the short path that doe not stand, as if measuring the ground,</l>
+<l>there is one who set out at night, noisily.</l>
+<l>It seems he will not raise his spear with a shining leaf[-tip]</l>
+<l>except for the elephant mounted by the king.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">9MG10MG73MG26M2G13MG12ML7M2G22MR6MG28MG15MG6MG40MG30ML68MG6MG12MG9MG5MG20MG7MG2M,448MG</interp>
+<standOff type="wordsplit" corresp="#PN301"><interp type="alignment" select="0">9MG10MG73MG26M2G13MG12ML7M2G22MR6MG28MG15MG6MG40MG30ML68MG6MG12MG9MG5MG20MG7MG2M,448MG</interp>
 <entry>
 <form>pal</form>
 <def>many</def>
