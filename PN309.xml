@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 309.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN309">
       <lg type="edition">
 <l>irumpumukañ citaiya nūṟi yoṉṉā</l>
 <l>riruñcamaṅ kaṭatta lēṉōrkku meḷitē</l>
@@ -35,10 +35,19 @@
 <l>yuḷaṉeṉa verūu mōroḷi</l>
 <l>valaṉuyar neṭuvē leṉṉai kaṇṇatē</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Demolishing [and] vanquishing the enemies in great battle </l>
+<l>so that [his weapon’s] iron mouth is ruined, is easy for anyone.</l>
+<l>Like the anthill in which a cobra stays,</l>
+<l>like the village common in which a murderous bull roams,</l>
+<l>there is with my lord a unique bright victorious eminent long spear</l>
+<l>that frightens the opponents with a vigour difficult to appease:</l>
+<l>“he is in the war camp!”   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">51M2G6M2G26MG14MG5ML9MG6MG69M2GM,198M</interp>
+<standOff type="wordsplit" corresp="#PN309"><interp type="alignment" select="0">51M2G6M2G26MG14MG5ML9MG6MG69M2GM,198M</interp>
 <entry>
 <form>irumpu</form>
 <def>iron</def>
