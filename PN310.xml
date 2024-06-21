@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 310.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN310">
       <lg type="edition">
 <l>pālkoṇṭu maṭuppavu muṇṇā ṉākaliṟ</l>
 <l>ceṟāa tōcciya ciṟukō lañciyō</l>
@@ -36,10 +36,20 @@
 <l>māṉuḷai yaṉṉa kuṭumit</l>
 <l>tōṉmicaik kiṭanta pullaṇa lōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>[My] mind suffers pangs</l>
+<l>with him who was afraid of the little stick I aimed without force</l>
+<l>because he would not drinl although I fed [him] with milk. Now,</l>
+<l>he who did not cease killing elephant bulls that took on a mottled colour,</l>
+<l>he the son of strong people who fell in earlier days,</l>
+<l>with an arrow one with the wound of which he said “I won’t heed [it]”,</l>
+<l>[his] shock of hair like a horse’s mane,</l>
+<l>is the one [here] with a tawny beard who lies on [his] shield.</l>
+</lg> 
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">15MG20MG20MG15ML4MG5MG22MG3MG28MG5MG16MG49MG2M,215MG</interp>
+<standOff type="wordsplit" corresp="#PN310"><interp type="alignment" select="0">15MG20MG20MG15ML4MG5MG22MG3MG28MG5MG16MG49MG2M,215MG</interp>
 <entry>
 <form>pāl</form>
 <def>milk</def>
