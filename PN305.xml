@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>vayalaik koṭiyiṉ vāṭiya maruṅku</l>
+<l>luyava lūrtip payalaip pārppā</l>
+<l>ṉelli vantunil lātu pukkuc</l>
+<l>colliya collō cilavē yataṟkē</l>
+<l>yēṇiyuñ cīppu māṟṟi</l>
+<l>māṇviṉai yāṉaiyu maṇikaḷain taṉavē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">87MG6MG8M2G5MG7M2G2ML17MG3ML13MG3M,161MG</interp>
+<entry>
+<form>vayalai<pc>+</pc></form>
+<def>purslane</def>
+</entry>
+<entry>
+<form>koṭiyiṉ</form>
+<def>creeper</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>vāṭiya</form>
+<def>withered-</def>
+</entry>
+<entry>
+<form>maruṅkul</form>
+<def>stomach</def>
+</entry>
+<entry>
+<form>uyaval</form>
+<def>suffering</def>
+</entry>
+<entry>
+<form>ūrti<pc>+</pc></form>
+<def>vehicle</def>
+</entry>
+<entry>
+<form>payalai<pc>+</pc></form>
+<def>pallor</def>
+</entry>
+<entry>
+<form>pārppāṉ</form>
+<def>brahmin</def>
+</entry>
+<entry>
+<form>elli</form>
+<def>night</def>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>nillātu</form>
+<def>stand-not</def>
+</entry>
+<entry>
+<form>pukku<pc>+</pc></form>
+<def>entered</def>
+</entry>
+<entry>
+<form>colliya</form>
+<def>spoken-</def>
+</entry>
+<entry>
+<form>col-<pc>+</pc>ō</form>
+<def>word</def>
+<form type="simple">col</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>cila-<pc>~</pc>ē</form>
+<def>few</def>
+<form type="simple">cila</form>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>ataṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>that</def>
+<form type="simple">ataṟku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>ēṇi-<pc>~</pc>um</form>
+<def>ladder</def>
+<form type="simple">ēṇi</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>cīpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>bolt</def>
+<form type="simple">cīppu</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>māṟṟi</form>
+<def>changed</def>
+</entry>
+<entry>
+<form>māṇ</form>
+<def>glory</def>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+</entry>
+<entry>
+<form>yāṉai-<pc>~</pc>um</form>
+<def>elephant</def>
+<form type="simple">yāṉai</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>bell</def>
+</entry>
+<entry>
+<form>kaḷaintaṉa-<pc>~</pc>ē</form>
+<def>they-removed</def>
+<form type="simple">kaḷaintaṉa</form>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
