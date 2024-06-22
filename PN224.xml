@@ -68,7 +68,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN224"><interp type="alignment" select="0">12MG13M2G25MG41M2G40MG104MR12MG20M2G9MG10MG19MG7MG81ML45MG30MG17MG2M,505MG</interp>
+<standOff type="wordsplit" corresp="#PN224"><interp type="alignment" select="0">12MG13M2G25MG41M2G40MG104MR12M3G20M2G9MG10MG19MG7MG81ML45MG30MG17MG2M,507MG</interp>
 <entry>
 <form>aruppam</form>
 <def>fort</def>
@@ -294,7 +294,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>vētam</form>
+<form>vēta<pc>(</pc>m<pc>)</pc></form>
 <def>Veda</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -351,9 +351,12 @@
 </gramGrp></entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)</def>
 <form type="simple">tāṉ</form>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
