@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 234.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -46,67 +46,79 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN234"><interp type="alignment" select="0">7MG85MG6MG33MG12MG2M,149MG</interp>
+<standOff type="wordsplit" corresp="#PN234"><interp type="alignment" select="0">7MG84MG7MG32MG13MG2M,149MG</interp>
 <entry>
 <form>nōkō</form>
 <def>ache-I</def>
-<form type="simple">nōk</form>
 <gramGrp><gram type="role">subjunctive</gram>
 <gram type="role">singular</gram>
 <gram type="role">first person</gram>
-</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
-</entry>
+</gramGrp></entry>
 <entry>
 <form>yāṉ-ē</form>
 <def>I</def>
 <form type="simple">yāṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>tēyka</form>
-<def>may-reduce</def>
+<def>may  be reduced</def>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
 <form>mā</form>
 <def>big/dark</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kālai</form>
 <def>time</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>piṭi</form>
 <def>she-elephant</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṭi</form>
 <def>foot</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṉṉa</form>
 <def>like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṟu</form>
 <def>small</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḻi</form>
 <def>way</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>meḻuki</form>
 <def>smeared</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>taṉ</form>
-<def>self-</def>
-</entry>
+<def>self</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>amar</form>
 <def>desire</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kātali</form>
 <def>beloved</def>
@@ -115,36 +127,41 @@
 <entry>
 <form>pul</form>
 <def>grass</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mēl</form>
 <def>upon</def>
-</entry>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
 <entry>
 <form>vaitta</form>
-<def>put-</def>
+<def>put</def>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>iṉ</form>
-<def>pleasant</def>
-</entry>
+<def>pleasing</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṟu</form>
 <def>little</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>piṇṭam</form>
 <def>riceball</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form>yāṅku</form>
+<form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>how</def>
 </entry>
 <entry>
-<form><pc type="ignored">(</pc>u<pc type="ignored">)</pc>ṇṭaṉaṉ-kol</form>
-<def>ate-he</def>
+<form>uṇṭaṉaṉ-kol</form>
+<def>he ate</def>
 <form type="simple">uṇṭaṉaṉ</form>
 <gramGrp><gram type="role">masculine singular</gram>
 <gram type="role">perfective aspect</gram>
@@ -153,7 +170,8 @@
 <entry>
 <form>ulaku</form>
 <def>world</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>puka</form>
 <def>enter</def>
@@ -161,22 +179,24 @@
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>tiṟanta</form>
-<def>closed-</def>
+<def>closed</def>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
 <form>vāyil</form>
 <def>door</def>
-</entry>
-<entry>
-<form>palarōṭu</form>
-<def>many</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc type="ignored">(</pc>u<pc type="ignored">)</pc>ṇṭal</form>
+<form>palarōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>many</def>
+<gramGrp><gram type="role">sociative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>uṇṭal</form>
 <def>eating</def>
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp></entry>
