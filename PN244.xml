@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 244.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -38,61 +38,74 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN244"><interp type="alignment" select="0">10MG12MG18MG29MG29M,93M9G</interp>
+<standOff type="wordsplit" corresp="#PN244"><interp type="alignment" select="0">10MG12MG18MG29MG29M,92M10G</interp>
 <entry>
 <form>pāṇar</form>
 <def>bard</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>ceṉṉi-<pc>~</pc>um</form>
 <def>top</def>
 <form type="simple">ceṉṉi</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>vaṇṭu</form>
 <def>bee</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ceṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>gone</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>ūtā</form>
-<def>gorge-not</def>
-</entry>
+<def>gorge-not-they</def>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form>viṟaliyar</form>
-<def>dancing-girl</def>
-</entry>
+<def>dancing girl</def>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
 <entry>
 <form>muṉkai-<pc>~</pc>um</form>
 <def>forearm</def>
 <form type="simple">muṉkai</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>toṭiyiṉ</form>
 <def>bracelet</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>poliyā</form>
-<def>flourish-not</def>
-</entry>
+<def>flourish-not-they</def>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>iraval</form>
 <def>begging</def>
-</entry>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mākkaḷ-um</form>
 <def>people</def>
 <form type="simple">mākkaḷ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>..................</form>
+<form>.................</form>
 <def>……………</def>
 </entry></standOff>
 </TEI>
