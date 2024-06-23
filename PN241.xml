@@ -7,7 +7,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 241.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -16,7 +16,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -38,7 +38,7 @@
 <l>“Antiraṉ with a cool garland, who gave firm chariots </l>
 <l>to mendicants, is coming”, so, (1-2c)</l>
 <l>while covered drums sounded (4)</l>
-<l>in the palace of the Tall one with the vajra in [his] broad hands with bright bracelets, (2d-3)</l>
+<l>in the temple of the Tall one (~ Indra) with the vajra in [his] broad hands with bright bracelets, (2d-3)</l>
 <l>rose the roaring to heaven. (5)</l>
             </lg>
     </div>
@@ -48,37 +48,47 @@
 <entry>
 <form>tiṇ</form>
 <def>firm</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>tēr</form>
 <def>chariot</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iravalarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>mendicant</def>
 <gramGrp><gram type="role">dative</gram>
 <gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>ītta</form>
-<def>given-</def>
-</entry>
+<def>given</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>taṇ</form>
 <def>cool</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>tār</form>
 <def>garland</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aṇṭiraṉ</form>
 <def>Aṇṭiraṉ</def>
-</entry>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">proper name</gram>
+</gramGrp></entry>
 <entry>
 <form>varūum</form>
 <def>comes</def>
-</entry>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉṉa</form>
 <def>say</def>
@@ -87,47 +97,59 @@
 <entry>
 <form><pc>~</pc>oḷ</form>
 <def>bright</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>toṭi</form>
 <def>bracelet</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vaccira<pc>+</pc></form>
 <def>club</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>taṭa<pc>+</pc></form>
 <def>broad</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kai</form>
 <def>hand</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>neṭiyōṉ</form>
 <def>Tall-he</def>
-</entry>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>kōyil</form>
 <def>temple</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uḷ</form>
 <def>inside</def>
-</entry>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>pōrpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>wrapping</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uṟu</form>
-<def>have-</def>
-</entry>
+<def>have</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>muracam</form>
 <def>drum</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṟaṅka</form>
 <def>sound</def>
@@ -136,12 +158,15 @@
 <entry>
 <form><pc>~</pc>ārpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>roaring</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>eḻuntaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
-<def>rose-it</def>
+<def>it rose</def>
 <form type="simple">eḻuntaṉṟu</form>
-<gramGrp type="particle"><m>āl</m></gramGrp>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp><gramGrp type="particle"><m>āl</m></gramGrp>
 </entry>
 <entry>
 <form>vicumpiṉāṉ-ē</form>
