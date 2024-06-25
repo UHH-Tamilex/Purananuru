@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 245.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN245">
       <lg type="edition">
 <l>yāṅkupperi tāyiṉu nōyaḷa veṉaittē</l>
 <l>yuyircekuk kallā matukait taṉmaiyiṟ</l>
@@ -35,10 +35,19 @@
 <l>ñāṅkar māyntaṉaḷ maṭantai</l>
 <l>yiṉṉum vāḻva leṉṉitaṉ paṇpē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>However big it may be, what is the measure of [my] pain,</l>
+<l>because of the nature of [my] strength, not [enough] to destroy [my] life?</l>
+<l>On the burning ground, saline, overgrown with spurge,</l>
+<l>in the open space, on the funeral pyre with mature firewood to cover [it],</l>
+<l>being put to sleep on a bed of bright fire,</l>
+<l>[my] girl hereafter is gone.</l>
+<l>Even now I live. What is the point of this?  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">11MG5MR7MG6M2G12MG77MG5MG70M2G2M,204MG</interp>
+<standOff type="wordsplit" corresp="#PN245"><interp type="alignment" select="0">11MG5MR7MG6M2G12MG77MG5MG70M2G2M,204MG</interp>
 <entry>
 <form>yāṅku<pc>+</pc></form>
 <def>how</def>
