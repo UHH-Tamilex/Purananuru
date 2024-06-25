@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 312.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN312">
       <lg type="edition">
 <l>īṉṟupuṟan taruta leṉṟalaik kaṭaṉē</l>
 <l>cāṉṟō ṉākkuta ṟantaikkuk kaṭaṉē</l>
@@ -34,10 +34,18 @@
 <l>yoḷiṟuvā ḷaruñcama murukkik</l>
 <l>kaḷiṟeṟintu peyartal kāḷaikkuk kaṭaṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Bringing forth [and] protecting [children] is the duty upon me. </l>
+<l>Making [them] into worthy men is the father’s duty.</l>
+<l>Forming spears [and] giving [them] is the smith’s duty.</l>
+<l>Granting villages is the king’s duty.</l>
+<l>Crushing [enemies] in difficult battle with shining swords</l>
+<l>[and] coming back after attacking elephant bulls is the young man’s duty.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">9MG9MG11MG14ML14MG34MG29MG19ML12MG28MG2M,190MG</interp>
+<standOff type="wordsplit" corresp="#PN312"><interp type="alignment" select="0">9MG9MG11MG14ML14MG34MG29MG19ML12MG28MG2M,190MG</interp>
 <entry>
 <form>īṉṟu</form>
 <def>brought-forth</def>
