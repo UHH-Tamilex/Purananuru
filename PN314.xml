@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 314.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN314">
       <lg type="edition">
 <l>maṉaikkuviḷak kākiya vāṇutal kaṇavaṉ</l>
 <l>muṉaikkuvaram pākiya veṉvē ṉeṭuntakai</l>
@@ -35,10 +35,19 @@
 <l>niṟaiyaḻin teḻutaru tāṉaikkuc</l>
 <l>ciṟaiyun tāṉētaṉ ṉiṟaiviḻu muṟiṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The husband of [her with] bright forehead who has become the light of the house,</l>
+<l>the paragon with a victoriuous spear who has become the border of the frontier,</l>
+<l>for the little village with hard soil [and] myrobalan tress with puny cores,</l>
+<l>in the waste lands where foliage has been placed that glistens with hero stones,</l>
+<l>he is the family and the lord, and he is also the dam</l>
+<l>for the army that rises, shrunk in size, raising banners,</l>
+<l>when his lord prevails/is in trouble.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14MG8ML25MG11ML4MG62MG7MG3ML2MG6MG23MG3MG18MG6MG18MG2M,226MG</interp>
+<standOff type="wordsplit" corresp="#PN314"><interp type="alignment" select="0">14MG8ML25MG11ML4MG62MG7MG3ML2MG6MG23MG3MG18MG6MG18MG2M,226MG</interp>
 <entry>
 <form>maṉaikku</form>
 <def>house</def>
