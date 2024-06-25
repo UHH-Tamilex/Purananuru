@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 311.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN311">
       <lg type="edition" style="pūṭṭuvil">
 <l>kaḷarppaṭu kūvaṟ ṟōṇṭi nāḷum</l>
 <l>pulaitti kaḻīiya tūveḷ ḷaṟuvai</l>
@@ -35,10 +35,20 @@
 <l>ciṟappuṭaic ceṅkaṇ pukaiyavōr</l>
 <l>tōlkoṇṭu maṟaikkuñ cālpuṭai yōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Being in the street with dust [and] dung so that</l>
+<l>the pure white cloth washed by the washer woman</l>
+<l>daily after hollowed out a pool suffused with saline soil</l>
+<l>	absorbs stains,</l>
+<l>[now] is there nobody for the majesty with a garland of blossoms</l>
+<l>who acted according to the requests of many,</l>
+<l>he who is worthy of being covered with [his] one shield,</l>
+<l>as [his] red eyes fumed with exultation in a fight?</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">23MG32MG13MG39MG6MG7MG20MG42MG7MG2M,199MG</interp>
+<standOff type="wordsplit" corresp="#PN311"><interp type="alignment" select="0">23MG32MG13MG39MG6MG7MG20MG42MG7MG2M,199MG</interp>
 <entry>
 <form>kaḷar<pc>+</pc></form>
 <def>saline-soil</def>
