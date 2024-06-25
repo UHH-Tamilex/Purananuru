@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 226.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -48,43 +48,48 @@
 <standOff type="wordsplit" corresp="#PN226"><interp type="alignment" select="0">7MG16MG12MG9MG4MG24MG13MG22MG40M2G2M,158MG</interp>
 <entry>
 <form>ceṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>destroyed-it</def>
-<gramGrp><gram type="role">neuter singular</gram>
-<gram type="role">perfective aspect</gram>
-</gramGrp></entry>
-<entry>
-<form>āyiṉum</form>
-<def>been-angry-it</def>
-<gramGrp><gram type="role">neuter singular</gram>
-<gram type="role">perfective aspect</gram>
-</gramGrp></entry>
-<entry>
-<form>ceyirttaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>if</def>
-</entry>
-<entry>
-<form>āyiṉum</form>
-<def>even</def>
-</entry>
-<entry>
-<form>uṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>had-it</def>
+<def>it destroyed</def>
 <gramGrp><gram type="role">neuter singular</gram>
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
 <form>āyiṉum</form>
 <def>if-even</def>
-</entry>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
+<entry>
+<form>ceyirttaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>It was angry</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
+<entry>
+<form>uṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>it had</def>
+<gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+<gramGrp><gram type="role">concessive</gram>
+</gramGrp></entry>
 <entry>
 <form>uyv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>escape</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉṟu-mātō</form>
 <def>not-it</def>
 <form type="simple">iṉṟu</form>
-<gramGrp type="particle"><m>mātō</m></gramGrp>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp><gramGrp type="particle"><m>mātō</m></gramGrp>
 </entry>
 <entry>
 <form>pāṭunar</form>
@@ -102,18 +107,21 @@
 <entry>
 <form>kai</form>
 <def>hand</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>toḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>worshipped</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>ētti</form>
 <def>praised</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>iṟantaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>gone-beyond-it</def>
+<def>it went beyond</def>
 <gramGrp><gram type="role">neuter singular</gram>
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
@@ -124,48 +132,58 @@
 </gramGrp></entry>
 <entry>
 <form>vēṇṭum</form>
-<def>is-necessary</def>
-</entry>
+<def>being-necessary-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>polam</form>
-<def>golden</def>
-</entry>
+<def>gold</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tār</form>
 <def>garland</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>maṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>rush-</def>
-</entry>
+<def>rush</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>amar</form>
 <def>fight</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭakkum</form>
-<def>overcoming</def>
+<def>overcoming-</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
 <form>tāṉai<pc>+</pc></form>
 <def>army</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tiṇ</form>
 <def>firm</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>tēr</form>
 <def>chariot</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷavaṉ</form>
 <def>Vaḷavaṉ</def>
-</entry>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">proper name</gram>
+</gramGrp></entry>
 <entry>
 <form>koṇṭa</form>
-<def>taken-</def>
+<def>taken</def>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
@@ -173,6 +191,7 @@
 <form>kūṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>Death</def>
 <form type="simple">kūṟṟu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>
