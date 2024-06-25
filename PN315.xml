@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 315.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN315">
       <lg type="edition">
 <l>uṭaiya ṉāyi ṉuṇṇavum vallaṉ</l>
 <l>kaṭavar mītu mirappōrk kīyu</l>
@@ -35,10 +35,19 @@
 <l>kāṉṟupaṭu kaṉaiyeri pōlat</l>
 <l>tōṉṟavum vallaṉṟāṉ ṟōṉṟuṅ kālē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>If he possesses [something], he is capable also of eating.</l>
+<l>He gives to mendicants even over those to whom he has a duty.</l>
+<l>He is the companion in delight of youthful [women], Neṭumāṉañci.</l>
+<l>Like a kindling stick tucked away in the eave of the house</l>
+<l>he is capablecabable of sitting without appearing. Then again, like</l>
+<l>the intense flame that shoots forth from that</l>
+<l>he is also capable of appearing, at the time he appears.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">15MG19M2G11MG4ML61MG6MG13M2G32MG18MG5M,194MG</interp>
+<standOff type="wordsplit" corresp="#PN315"><interp type="alignment" select="0">15MG19M2G11MG4ML61MG6MG13M2G32MG18MG5M,194MG</interp>
 <entry>
 <form>uṭaiyaṉ</form>
 <def>possess-he</def>
