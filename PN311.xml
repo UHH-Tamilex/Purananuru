@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 311.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN311">
+      <lg type="edition" style="pūṭṭuvil">
+<l>kaḷarppaṭu kūvaṟ ṟōṇṭi nāḷum</l>
+<l>pulaitti kaḻīiya tūveḷ ḷaṟuvai</l>
+<l>tāteru maṟukiṉ mācuṇa viruntu</l>
+<l>palarkuṟai ceyta malartā raṇṇaṟ</l>
+<l>koruvaru millai mātō ceruvattuc</l>
+<l>ciṟappuṭaic ceṅkaṇ pukaiyavōr</l>
+<l>tōlkoṇṭu maṟaikkuñ cālpuṭai yōṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Being in the street with dust [and] dung so that</l>
+<l>the pure white cloth washed by the washer woman</l>
+<l>daily after hollowed out a pool suffused with saline soil</l>
+<l>	absorbs stains,</l>
+<l>[now] is there nobody for the majesty with a garland of blossoms</l>
+<l>who acted according to the requests of many,</l>
+<l>he who is worthy of being covered with [his] one shield,</l>
+<l>as [his] red eyes fumed with exultation in a fight?</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN311"><interp type="alignment" select="0">23MG32MG13MG39MG6MG7MG20MG42MG7MG2M,199MG</interp>
+<entry>
+<form>kaḷar<pc>+</pc></form>
+<def>saline-soil</def>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>happen-</def>
+</entry>
+<entry>
+<form>kūval</form>
+<def>well</def>
+</entry>
+<entry>
+<form>tōṇṭi</form>
+<def>hollowed</def>
+</entry>
+<entry>
+<form>nāḷ-um</form>
+<def>day</def>
+<form type="simple">nāḷ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>pulaitti</form>
+<def>washer-woman</def>
+</entry>
+<entry>
+<form>kaḻīiya</form>
+<def>washed-</def>
+</entry>
+<entry>
+<form>tū</form>
+<def>pure</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form><pc>+</pc>aṟuvai</form>
+<def>cloth</def>
+</entry>
+<entry>
+<form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>dust</def>
+</entry>
+<entry>
+<form>eru</form>
+<def>dung</def>
+</entry>
+<entry>
+<form>maṟukiṉ</form>
+<def>street</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>māc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>stain</def>
+</entry>
+<entry>
+<form>uṇa</form>
+<def>absorb</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iruntu</form>
+<def>been</def>
+</entry>
+<entry>
+<form>palar</form>
+<def>many</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kuṟai</form>
+<def>request</def>
+</entry>
+<entry>
+<form>ceyta</form>
+<def>made-</def>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+</entry>
+<entry>
+<form>tār</form>
+<def>garland</def>
+</entry>
+<entry>
+<form>aṇṇaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>majesty</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>oruvar-um</form>
+<def>one-they</def>
+<form type="simple">oruvar</form>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>illai-mātō</form>
+<def>not</def>
+<form type="simple">illai</form>
+<gramGrp type="particle"><m>mātō</m></gramGrp>
+</entry>
+<entry>
+<form>ceruvattu<pc>+</pc></form>
+<def>fight</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟapp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>superiority</def>
+</entry>
+<entry>
+<form>uṭai<pc>+</pc></form>
+<def>possess</def>
+</entry>
+<entry>
+<form>cem</form>
+<def>red</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>pukaiya</form>
+<def>smoke</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ōr</form>
+<def>one</def>
+</entry>
+<entry>
+<form>tōl</form>
+<def>shield</def>
+</entry>
+<entry>
+<form>koṇṭu</form>
+<def>taken</def>
+</entry>
+<entry>
+<form>maṟaikkum</form>
+<def>hides</def>
+</entry>
+<entry>
+<form>cālp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>worthiness</def>
+</entry>
+<entry>
+<form>uṭaiyōṉ-ē</form>
+<def>possess-he</def>
+<form type="simple">uṭaiyōṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

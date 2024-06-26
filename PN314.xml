@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 314.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN314">
+      <lg type="edition">
+<l>maṉaikkuviḷak kākiya vāṇutal kaṇavaṉ</l>
+<l>muṉaikkuvaram pākiya veṉvē ṉeṭuntakai</l>
+<l>naṭukaṟ piṟaṅkiya vuvaliṭu paṟantalaip</l>
+<l>puṉkāḻ nelli vaṉpulac cīṟūrk</l>
+<l>kuṭiyu maṉṉun tāṉē koṭiyeṭuttu</l>
+<l>niṟaiyaḻin teḻutaru tāṉaikkuc</l>
+<l>ciṟaiyun tāṉētaṉ ṉiṟaiviḻu muṟiṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>The husband of [her with] bright forehead who has become the light of the house,</l>
+<l>the paragon with a victoriuous spear who has become the border of the frontier,</l>
+<l>for the little village with hard soil [and] myrobalan tress with puny cores,</l>
+<l>in the waste lands where foliage has been placed that glistens with hero stones,</l>
+<l>he is the family and the lord, and he is also the dam</l>
+<l>for the army that rises, shrunk in size, raising banners,</l>
+<l>when his lord prevails/is in trouble.  </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN314"><interp type="alignment" select="0">14MG8ML25MG11ML4MG62MG7MG3ML2MG6MG23MG3MG18MG6MG18MG2M,226MG</interp>
+<entry>
+<form>maṉaikku</form>
+<def>house</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>viḷakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>lamp</def>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>vāḷ</form>
+<def>brightness</def>
+</entry>
+<entry>
+<form>nutal</form>
+<def>forehead</def>
+</entry>
+<entry>
+<form>kaṇavaṉ</form>
+<def>husband</def>
+</entry>
+<entry>
+<form>muṉaikku</form>
+<def>frontier</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>varamp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>border</def>
+</entry>
+<entry>
+<form>ākiya</form>
+<def>become-</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>velvēl</form>
+<def>be-victorious</def>
+</entry>
+<entry>
+<form>neṭum-takai</form>
+<def>long-befittingness</def>
+</entry>
+<entry>
+<form>naṭukal</form>
+<def>hero-stone</def>
+</entry>
+<entry>
+<form>piṟaṅkiya</form>
+<def>glistened-</def>
+</entry>
+<entry>
+<form><pc>~</pc>uval</form>
+<def>foliage</def>
+</entry>
+<entry>
+<form>iṭu</form>
+<def>place-</def>
+</entry>
+<entry>
+<form>paṟantalai<pc>+</pc></form>
+<def>deserted-village</def>
+</entry>
+<entry>
+<form>puṉ</form>
+<def>low</def>
+</entry>
+<entry>
+<form>kāḻ</form>
+<def>core</def>
+</entry>
+<entry>
+<form>nelli</form>
+<def>myrobalan</def>
+</entry>
+<entry>
+<form>val</form>
+<def>hard</def>
+</entry>
+<entry>
+<form>pula<pc>+</pc></form>
+<def>soil</def>
+</entry>
+<entry>
+<form>cīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>little</def>
+</entry>
+<entry>
+<form>ūr<pc>+</pc></form>
+<def>village</def>
+</entry>
+<entry>
+<form>kuṭi-<pc>~</pc>um</form>
+<def>hamlet</def>
+<form type="simple">kuṭi</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>maṉ-<pc>+</pc>um</form>
+<def>king</def>
+<form type="simple">maṉ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>koṭi</form>
+<def>flag</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṭuttu</form>
+<def>raised</def>
+</entry>
+<entry>
+<form>niṟai</form>
+<def>fulness</def>
+</entry>
+<entry>
+<form><pc>~</pc>aḻint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>perished</def>
+</entry>
+<entry>
+<form>eḻu-taru</form>
+<def>rise-give-</def>
+</entry>
+<entry>
+<form>tāṉaikku<pc>+</pc></form>
+<def>army</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟai-<pc>~</pc>um</form>
+<def>dam</def>
+<form type="simple">ciṟai</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self-</def>
+</entry>
+<entry>
+<form><pc>+</pc>iṟai</form>
+<def>lord</def>
+</entry>
+<entry>
+<form>viḻumuṟiṉ-ē</form>
+<def>prevail-if</def>
+<form type="simple">viḻumuṟiṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
