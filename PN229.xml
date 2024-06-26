@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 229.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN229">
       <lg type="edition">
 <l>āṭiya laḻaṟkuṭṭat</l>
 <l>tāriru ḷaraiyiraviṉ</l>
@@ -55,10 +55,39 @@
 <l>kaḷantukoṭai yaṟiyā vīkai</l>
 <l>maṇivarai yaṉṉa māa yōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>In the middle of the night in difficult darkness, (2)</l>
+<l>in a port of fire whose nature is dancing, (1)</l>
+<l>while, with the root of the crooked palmyra tree as a base, (3)</l>
+<l>the deep of the pond was hot to the limit, (4)</l>
+<l>while in the high depth of Phalguni (5)</l>
+<l>the star on the first day did not move from [its] position, (6)</l>
+<l>while against it rose the star in the stable day, (7)</l>
+<l>while the star on the old day sank into the ghat, (8)</l>
+<l>not going east, not approaching north, (9)</l>
+<l>as the lamp of the ocean clan (10)</l>
+<l>while dense darkness spread, facing the time, boiling, (11)</l>
+<l>a star fell down indeed from the sky. (12)</l>
+<l>Seeing that, we and others [and] many different beggars (13)</l>
+<l>said “the fighter of the good land with waterfalls that sound [like] drums, </l>
+<l>if he were without pain it would be good”, (14f.)</l>
+<l>[and] while desolate hearts spread in [our] constricted insides, (16)</l>
+<l>seven days came with us in fear. Today, (17)</l>
+<l>while the mighty elephant put down [its] trunk [and] slumbered, (18)</l>
+<l>while the drum with taught straps tore [its] eye rolling, (19)</l>
+<l>while the protective white parasol broke [its] handle [and] withered, (20)</l>
+<l>while the spirited horses that move [like] the wind kept without motion, (21)</l>
+<l>because he reachind the world of those above, (22)</l>
+<l>being [now] the consort had by women with bright bracelets, (23)</l>
+<l>did he forget the group of his own consorts? (24)</l>
+<l>– the one dark like a sapphire mountain, (27)</l>
+<l>[who was] giving [gifts] that did not know of giving by measure (26)</l>
+<l>to those who yearned [for them], he capable of tying down the enemies. (25)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">2MG15MG98ML68MG9MG19MG50M2G12MG10MGMG3MG7MG8MG40ML10ML4MG3MG20ML36MG3M2G6MG17MG6MG26MG5MG25MG5MG30MG3ML38MG26ML9MG27ML9MG42MG2M,290MG439MG</interp>
+<standOff type="wordsplit" corresp="#PN229"><interp type="alignment" select="0">2MG15MG98ML68MG9MG19MG50M2G12MG10MGMG3MG7MG8MG40ML10ML4MG3MG20ML36MG3M2G6MG17MG6MG26MG5MG25MG5MG30MG3ML38MG26ML9MG27ML9MG42MG2M,290MG439MG</interp>
 <entry>
 <form>āṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>dance</def>
