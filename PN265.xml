@@ -89,12 +89,12 @@
 </gramGrp></entry>
 <entry>
 <form>nilai</form>
-<def>stand</def>
+<def>standing</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>vēṅkai</form>
-<def>kino-tree</def>
+<def>kino tree</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -119,8 +119,9 @@
 </gramGrp></entry>
 <entry>
 <form>pōntaiyam</form>
-<def>palmyra-tree</def>
-</entry>
+<def>palmyra tree</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>tōṭṭiṉ</form>
 <def>frond</def>
@@ -128,8 +129,11 @@
 </gramGrp></entry>
 <entry>
 <form>puṉaintaṉar</form>
-<def>decorated-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<def>they decorated</def>
+<gramGrp><gram type="role">muṟṟeccam</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>toṭuttu<pc>+</pc></form>
@@ -150,6 +154,7 @@
 <form>kōvalar</form>
 <def>cowherd</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>paṭalai</form>
@@ -168,7 +173,7 @@
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>āyiṉai-<pc>~</pc>ē</form>
-<def>became-you</def>
+<def>you became</def>
 <form type="simple">āyiṉai</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">singular</gram>
@@ -178,7 +183,7 @@
 <entry>
 <form>kaṭu</form>
 <def>fast</def>
-<gramGrp><gram type="role">verbal root</gram>
+<gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
 <form>māṉ</form>
@@ -187,7 +192,7 @@
 </gramGrp></entry>
 <entry>
 <form>tōṉṟal</form>
-<def>appearing-</def>
+<def>appearance</def>
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp></entry>
 <entry>
@@ -197,7 +202,7 @@
 </gramGrp></entry>
 <entry>
 <form>ēṟu</form>
-<def>thunder-clap</def>
+<def>thunder clap</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -207,8 +212,10 @@
 </gramGrp></entry>
 <entry>
 <form>niṉ</form>
-<def>your-</def>
+<def>your</def>
 <gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form>tāḷ</form>
@@ -227,8 +234,10 @@
 </gramGrp></entry>
 <entry>
 <form>paricilar</form>
-<def>solicitor</def>
-<gramGrp><gram type="role">honorific</gram>
+<def>gift seeker</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>celvam</form>
@@ -239,12 +248,12 @@
 <form>aṉṟi-<pc>~</pc>um</form>
 <def>besides</def>
 <form type="simple">aṉṟi</form>
-<gramGrp><gram type="role">adverb</gram>
+<gramGrp><gram type="role">postposition</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>viri</form>
-<def>expand-</def>
+<def>expand</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
@@ -254,13 +263,14 @@
 </gramGrp></entry>
 <entry>
 <form>kaṭum</form>
-<def>fast</def>
+<def>fierce</def>
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
 <form>pakaṭṭ<pc>(</pc>i<pc>)</pc></form>
-<def>hugeness-</def>
-</entry>
+<def>hugeness</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>yāṉai</form>
 <def>elephant</def>
@@ -270,12 +280,13 @@
 <form>vēntar</form>
 <def>king</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>oṭuṅkā</form>
-<def>restrained-not-</def>
-<gramGrp><gram type="role">absolutive</gram>
-<gram type="role">negative</gram>
+<def>restrained-not</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
 <form>veṉṟi-<pc>~</pc>um</form>
@@ -288,6 +299,8 @@
 <form>niṉṉoṭu</form>
 <def>you</def>
 <gramGrp><gram type="role">sociative</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form>cela-<pc>~</pc>ē</form>
