@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 316.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN316">
       <lg type="edition">
 <l>kaḷḷiṉ vāḻttik kaḷḷiṉ vāḻttik</l>
 <l>kāṭṭoṭu miṭainta cīyā muṉṟi</l>
@@ -40,10 +40,24 @@
 <l>ceṉṟuvāy civantumēl varuka</l>
 <l>ciṟukaṇ yāṉai vēntuviḻu muṟavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Praising the toddy, praising the toddy,</l>
+<l>he is the one sleeping in stuporstupour from the days pressings</l>
+<l>in the unswept front yard set close with the wilderness.</l>
+<l>He is our lord. We are his bards.</l>
+<l>For the guest, again, who came yesterday</l>
+<l>he put down the old sword from [his] large side. Today</l>
+<l>we are pawning this black-necked little lute. Taking it,</l>
+<l>without saying “He is a man who does not give!”, you too</l>
+<l>go, mouth reddened [and] come back</l>
+<l>so that [those with] glowing jewels adorn [their] vine-[thin] waists,</l>
+<l>while we sway in delight, with toddy in our pots,</l>
+<l>since the king on a small-eyed elephant is in distress.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">51ML8MG16MG56MG33MG17MGM3G17MG4MG36MG31ML59MG3M,345MG</interp>
+<standOff type="wordsplit" corresp="#PN316"><interp type="alignment" select="0">51ML8MG16MG56MG33MG17MGM3G17MG4MG36MG31ML59MG3M,345MG</interp>
 <entry>
 <form>kaḷḷiṉ</form>
 <def>toddy</def>
