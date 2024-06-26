@@ -94,7 +94,7 @@
 </gramGrp></entry>
 <entry>
 <form>vēṅkai</form>
-<def>kino tree</def>
+<def>kino-tree</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -119,7 +119,7 @@
 </gramGrp></entry>
 <entry>
 <form>pōntaiyam</form>
-<def>palmyra tree</def>
+<def>palmyra-tree</def>
 </entry>
 <entry>
 <form>tōṭṭiṉ</form>
@@ -128,11 +128,8 @@
 </gramGrp></entry>
 <entry>
 <form>puṉaintaṉar</form>
-<def>they decorated</def>
-<gramGrp><gram type="role">muṟṟeccam</gram>
-<gram type="role">perfective aspect</gram>
-<gram type="role">honorific</gram>
-<gram type="role">third person</gram>
+<def>decorated-they</def>
+<gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
 <form>toṭuttu<pc>+</pc></form>
@@ -153,7 +150,6 @@
 <form>kōvalar</form>
 <def>cowherd</def>
 <gramGrp><gram type="role">honorific</gram>
-<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>paṭalai</form>
@@ -172,7 +168,7 @@
 </gramGrp></entry>
 <entry>
 <form><pc>+</pc>āyiṉai-<pc>~</pc>ē</form>
-<def>you became</def>
+<def>became-you</def>
 <form type="simple">āyiṉai</form>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">singular</gram>
@@ -182,7 +178,7 @@
 <entry>
 <form>kaṭu</form>
 <def>fast</def>
-<gramGrp><gram type="role">adjective</gram>
+<gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
 <form>māṉ</form>
@@ -191,7 +187,7 @@
 </gramGrp></entry>
 <entry>
 <form>tōṉṟal</form>
-<def>appearance</def>
+<def>appearing-</def>
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp></entry>
 <entry>
@@ -201,7 +197,7 @@
 </gramGrp></entry>
 <entry>
 <form>ēṟu</form>
-<def>thunder clap</def>
+<def>thunder-clap</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -211,10 +207,8 @@
 </gramGrp></entry>
 <entry>
 <form>niṉ</form>
-<def>your</def>
+<def>your-</def>
 <gramGrp><gram type="role">oblique</gram>
-<gram type="role">singular</gram>
-<gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form>tāḷ</form>
@@ -233,10 +227,8 @@
 </gramGrp></entry>
 <entry>
 <form>paricilar</form>
-<def>gift-seeker</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">honorific</gram>
-<gram type="role">third person</gram>
+<def>solicitor</def>
+<gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
 <form>celvam</form>
@@ -252,7 +244,7 @@
 </entry>
 <entry>
 <form>viri</form>
-<def>expand</def>
+<def>expand-</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
@@ -262,14 +254,13 @@
 </gramGrp></entry>
 <entry>
 <form>kaṭum</form>
-<def>fierce</def>
+<def>fast</def>
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
 <form>pakaṭṭ<pc>(</pc>i<pc>)</pc></form>
-<def>hugeness</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<def>hugeness-</def>
+</entry>
 <entry>
 <form>yāṉai</form>
 <def>elephant</def>
@@ -279,13 +270,12 @@
 <form>vēntar</form>
 <def>king</def>
 <gramGrp><gram type="role">honorific</gram>
-<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>oṭuṅkā</form>
-<def>restrained-not</def>
-<gramGrp><gram type="role">negative</gram>
-<gram type="role">peyareccam</gram>
+<def>restrained-not-</def>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
 </gramGrp></entry>
 <entry>
 <form>veṉṟi-<pc>~</pc>um</form>
@@ -298,8 +288,6 @@
 <form>niṉṉoṭu</form>
 <def>you</def>
 <gramGrp><gram type="role">sociative</gram>
-<gram type="role">singular</gram>
-<gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form>cela-<pc>~</pc>ē</form>
