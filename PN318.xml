@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 318.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN318">
       <lg type="edition">
 <l>koyyaṭaku vāṭat taruviṟa kuṇaṅka</l>
 <l>mayilañ cāyaṉ māa yōḷoṭu</l>
@@ -37,10 +37,21 @@
 <l>puṉpuṟap peṭaiyoṭu vatiyum</l>
 <l>yāṇart tākum vēntuviḻu muṟiṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While the edible leaves that had been plucked fade [and] the firewood brought dries up</l>
+<l>the village of the paragon along with the dark women</l>
+<l>of peacock-like grace goes hungry, alas.</l>
+<l>[A place] where the black-bearded males of the house-dwelling sparrow</l>
+<l>feed together on grains of paddy from the big wet fields</l>
+<l>[and] dwell together with [their] low-backed females</l>
+<l>in [their] nests fashioned of curled-up lion(?) hair</l>
+<l>and fibres from the strings of bards,</l>
+<l>it will become fertile [again] when the king prevails.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">23MG36M2G9MG8MG115MG35MG18MG2M,253MG</interp>
+<standOff type="wordsplit" corresp="#PN318"><interp type="alignment" select="0">23MG36M2G9MG8MG115MG35MG18MG2M,253MG</interp>
 <entry>
 <form>koy</form>
 <def>pluck-</def>
