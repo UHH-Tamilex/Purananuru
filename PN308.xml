@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 308.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -55,7 +55,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN308"><interp type="alignment" select="0">60MGM3G20MG11MG13M3G14MG18MG3MG6MG5MG9MG11MG21M2G61MG53MG3M,328MG</interp>
+<standOff type="wordsplit" corresp="#PN308"><interp type="alignment" select="0">59MGMG32MG13M3G14MG18MG3MG6MG5MG9MG11MG21M2G61M2G53MG3M,326MG</interp>
 <entry>
 <form>poṉ</form>
 <def>gold</def>
@@ -75,8 +75,8 @@
 <entry>
 <form>narampiṉ</form>
 <def>string</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>miṉ</form>
 <def>flash</def>
@@ -98,8 +98,8 @@
 <def>voice</def>
 </entry>
 <entry>
-<form>cīṟi<pc>(</pc>ya<pc>)</pc></form>
-<def>litle</def>
+<form>cīṟ<pc>(</pc>i<pc>)</pc></form>
+<def>little</def>
 </entry>
 <entry>
 <form>yāḻ</form>
@@ -114,8 +114,12 @@
 <def>been-full-</def>
 </entry>
 <entry>
-<form>naya-varu</form>
-<def>long-come-</def>
+<form>naya</form>
+<def>long</def>
+</entry>
+<entry>
+<form>varu</form>
+<def>come-</def>
 </entry>
 <entry>
 <form>pāṇa</form>
@@ -192,8 +196,13 @@
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>eṉṉai</form>
-<def>my(obl.)lord</def>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>ai</form>
+<def>lord</def>
 </entry>
 <entry>
 <form>cānt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -264,8 +273,10 @@
 <def>time</def>
 </entry>
 <entry>
-<form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>avaṉ</form>
-<def>maṟṟu-he</def>
+<form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-avaṉ</form>
+<def>he</def>
+<form type="simple">avaṉ</form>
+<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>puṉ</form>
@@ -277,7 +288,7 @@
 </entry>
 <entry>
 <form>maṭa<pc>+</pc></form>
-<def>youtfulness</def>
+<def>youthfulness</def>
 </entry>
 <entry>
 <form>piṭi</form>
