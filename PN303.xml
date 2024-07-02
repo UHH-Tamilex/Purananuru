@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 303.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -38,40 +38,47 @@
 <l>vilaṅkumarup piyāṉai yeṟinta veṟkē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
-<l>The young man who destroys those who deride [him],</l>
-<l>upon a restless horse that finishes off the mind</l>
-<l>by pressing down [its] hooves as if putting behind the ground,</l>
+<l>The young man who destroys those who deride [him], (3a-c)</l>
+<l>upon a restless horse that finishes off the mind (2)</l>
+<l>by pressing down [its] hooves as if putting behind the ground, (1)</l>
 <l>with [his] sharp cruel powerful blade he made [them] fade </l>
-<l>when [their] hearts were exhausted by [their] injuries [and] comes in order to see</l>
-<l>me who yesterday had attacked an elephant with shining tusks</l>
-<l>so that [its] soft-headed youthful elephant cow would be lonely,</l>
-<l>[the elephant] of the kings with praise-worthy excellence</l>
-<l>who had previously cut into [our front numerous] like the waves of the sea that beats against the shore.</l>
+<l>when [their] hearts were exhausted by [their] injuries [and] comes in order to see (4-5c)</l>
+<l>me who yesterday had attacked an elephant with shining tusks (5d+9)</l>
+<l>so that [its] soft-headed youthful elephant cow would be lonely, (8)</l>
+<l>[the elephant] of the kings with praise-worthy excellence (6a-c)</l>
+<l>who had previously cut into [our front numerous] like the waves of the sea that beats against the shore. (6d-7)</l>
 </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN303"><interp type="alignment" select="0">11MG89MR34MG109M3G17M2G2M,269MG</interp>
+<standOff type="wordsplit" corresp="#PN303"><interp type="alignment" select="0">11MG89MR34MG109MGMG16M2G2M,268MG</interp>
 <entry>
 <form>nilam</form>
 <def>ground</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>piṟakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>rear</def>
-</entry>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
 <entry>
 <form>iṭuvatu</form>
 <def>place-it</def>
-</entry>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
 <entry>
 <form>pōl</form>
-<def>be-similar-</def>
-</entry>
+<def>be-similar</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>kuḷampu</form>
 <def>hoof</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṭaiyūu</form>
 <def>pressed-down</def>
@@ -79,60 +86,76 @@
 <entry>
 <form><pc>~</pc>uḷḷam</form>
 <def>inside</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>oḻikkum</form>
 <def>finishing-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>koṭpiṉ</form>
 <def>revolving</def>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>māṉ</form>
 <def>horse</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mēl</form>
 <def>upon</def>
-</entry>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
 <entry>
 <form>eḷḷunar<pc>+</pc></form>
 <def>censure-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
 <form>cekukkum</form>
 <def>destroying-</def>
-</entry>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>kāḷai</form>
-<def>young-man</def>
-</entry>
+<def>young man</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kūrtta</form>
-<def>bee-sharp-</def>
-</entry>
+<def>bee-sharp</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
 <form>vem</form>
 <def>hot</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>tiṟal</form>
 <def>power</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>eḵkam</form>
 <def>blade</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>neñcu</form>
 <def>heart</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vaṭu</form>
 <def>injury</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>iḷaippa</form>
 <def>be-exhausted</def>
@@ -151,72 +174,88 @@
 <form>varum-ē</form>
 <def>comes</def>
 <form type="simple">varum</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">habitual future</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>nerunai</form>
 <def>yesterday</def>
-</entry>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>urai</form>
-<def>word-</def>
-</entry>
+<def>word</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>cāl</form>
-<def>be-worthy-</def>
-</entry>
+<def>be-worthy</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṟappiṉ</form>
 <def>excellence</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vēntar</form>
 <def>king</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>muṉṉar<pc>+</pc></form>
 <def>earlier</def>
-</entry>
+<gramGrp><gram type="role">adverb</gram>
+</gramGrp></entry>
 <entry>
 <form>karai</form>
 <def>shore</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>poru</form>
-<def>dash-</def>
-</entry>
+<def>dash</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
 <form>munnīr<pc>+</pc></form>
 <def>three-water</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tiraiyiṉ</form>
 <def>wave</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>pōḻntavar</form>
 <def>crossed-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>kayam</form>
 <def>softness</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>talai</form>
 <def>head</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>maṭa<pc>+</pc></form>
 <def>youthfulness</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>piṭi</form>
 <def>she-elephant</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pulampa</form>
 <def>be-lonely</def>
@@ -224,25 +263,31 @@
 </gramGrp></entry>
 <entry>
 <form><pc>~</pc>ilaṅku</form>
-<def>shine-</def>
-</entry>
+<def>shine</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
 <entry>
-<form>marupp<pc>(</pc>u<pc>)</pc></form>
+<form>marupp<pc>(</pc>i<pc>)</pc></form>
 <def>tusk</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
-<form>i<pc>~</pc>āṉai</form>
+<form>yāṉai</form>
 <def>elephant</def>
 </entry>
 <entry>
 <form><pc>~</pc>eṟinta</form>
-<def>attacked-</def>
-</entry>
+<def>attacked</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
 <entry>
-<form>veṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form><pc>~</pc>eṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>me</def>
-<form type="simple">veṟku</form>
+<form type="simple">eṟku</form>
 <gramGrp><gram type="role">dative</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>
