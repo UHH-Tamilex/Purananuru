@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 321.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN321">
       <lg type="edition" style="pūṭṭuvil">
 <l>porippuṟap pūḻiṉ pōrval cēvaṉ</l>
 <l>mēntōl kaḷainta tīṅkōḷ veḷḷeṭ</l>
@@ -38,10 +38,22 @@
 <l>vāḷvaṭu viḷaṅkiya ceṉṉic</l>
 <l>ceruveṅ kuruci lōmpu mūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Where, because the cock strong in fighting of the quail with spotted back</l>
+<l>took, on the occasion of [it] drying in the winnow,</l>
+<l>of the white sesame in sweet bunches from which the upper skin had been removed,</l>
+<l>the rat with curved ears, like the pericarps of summerly </l>
+<l>Kōṅku flowers, from the [field] ridge gives chase,</l>
+<l>[and] it hides in the glistening tender ears of the bulging millet,</l>
+<l>it is in the region of hard soil,</l>
+<l>the village protected by our quarrelsome lord</l>
+<l>with a head that shines with sword scars,</l>
+<l>oh bard….</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">57MG69MG57MG27MG48MG2M,264MG</interp>
+<standOff type="wordsplit" corresp="#PN321"><interp type="alignment" select="0">57MG69MG57MG27MG48MG2M,264MG</interp>
 <entry>
 <form>pori<pc>+</pc></form>
 <def>spot</def>
