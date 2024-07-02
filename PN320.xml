@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 320.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN320">
       <lg type="edition" style="pūṭṭuvil">
 <l>muṉṟiṉ muññaiyoṭu mucuṇṭai pampip</l>
 <l>pantar vēṇṭāp palartūṅku nīḻaṟ</l>
@@ -46,10 +46,31 @@
 <l>marukā tīyum vaṇmai</l>
 <l>yuraicā ṉeṭuntakai yōmpu mūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Because, in the front yard, as bindweed and Muññai are growing thickly,</l>
+<l>in the shade in which many sleep who do not need an arbour</l>
+<l>the elephant hunter has dropped into deep sleep,</l>
+<l>while, embracing the youthful decoy doe, one other </l>
+<l>solitary stag whose work had ended was sporting [and] playing,</l>
+<l>the woman of the house who saw [them] in blissful union,</l>
+<l>afraid that [her] husband would get up and afraid</l>
+<l>that the stag would find [its] end by the side of the doe,</l>
+<l>because it was not moving at all, made loud noise</l>
+<l>[and] because the food of drying millet poured on the deer skin</l>
+<l>had been seized [and] eaten the the wild fowl and partridge,</l>
+<l>seasoned Āral fish with a fire of sandal wood:</l>
+<l>“stay here, </l>
+<l>eating sweetly together with [your] famous kinfolk</l>
+<l>from the whole meat that has been cut into pieces,</l>
+<l>  [and then] go, bard, without staying</l>
+<l>in the village protected by the paragon worthy to be spoken of,</l>
+<l>of a generosity that always gives without </l>
+<l>stinting to solicitors the excellent food given by the king.   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">119MG41MG39MG12MG18MG11M2G72MG11MG10M3G12ML13MG30MG5MG4MG59MG11MG18ML4MG13MG2M,525MG</interp>
+<standOff type="wordsplit" corresp="#PN320"><interp type="alignment" select="0">119MG41MG39MG12MG18MG11M2G72MG11MG10M3G12ML13MG30MG5MG4MG59MG11MG18ML4MG13MG2M,525MG</interp>
 <entry>
 <form>muṉṟil</form>
 <def>front-yard</def>
