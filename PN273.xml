@@ -47,7 +47,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN273"><interp type="alignment" select="0">7M2G8M2G64ML6M2G8MG25MG26MG18MG3M,175MG</interp>
+<standOff type="wordsplit" corresp="#PN273"><interp type="alignment" select="0">7M2G8M2G9MG55ML6M2G8MG25MG26MG18MG3M,176MG</interp>
 <entry>
 <form>mā</form>
 <def>horse</def>
@@ -81,10 +81,12 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>māvum</form>
+<form>mā-<pc>~</pc>um</form>
 <def>horse</def>
+<form type="simple">mā</form>
 <gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>vantaṉa</form>
 <def>they came</def>
