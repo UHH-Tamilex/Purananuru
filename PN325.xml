@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 325.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN325">
       <lg type="edition" style="pūṭṭuvil">
 <l>kaḷiṟunī ṟāṭiya viṭunila maruṅkiṉ</l>
 <l>vampap perumpeyal varaintucorin tiṟanteṉak</l>
@@ -43,10 +43,27 @@
 <l>vēntutalai variṉun tāṅkum</l>
 <l>tāṅkā vīkai neṭuntakai yūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>With a livelihood that is insufficient, where [people] drink in turn</l>
+<l>of what oozes from the murky spot that is dug in the mud,</l>
+<l>as the tawny cow had drunk the little water held by the pit,</l>
+<l>because the great new rains have traversed [the place], pouring to a limited amount</l>
+<l>on the loose ground where elephant bulls bathe in the dust,</l>
+<l>it is a seat with an enclosure difficult [to cross],</l>
+<l>where soft-headed boys play with arrows</l>
+<l>in the swaying shade that falls from the fig tree with a sickly crown,</l>
+<l>on the strong village common where all the streets are fragrant</l>
+<l>of the scent of rich fat to which a fire brand is put</l>
+<l>in order to make shares, in the front yard of the small house</l>
+<l>shaded by the core of the Oṭum tree when men of whole word(?)</l>
+<l>cut off the fat of an iguana, [men] who had killed a porcupine,</l>
+<l>the village of the paragon of unhalting generosity</l>
+<l>who will uphold even when the king with victorious spear come at [him].</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">9MG14ML37MG46M2G29MR52MG4MG26MG16MG25M3G11MG11ML13MG84MG46MG8MG2M,451MG</interp>
+<standOff type="wordsplit" corresp="#PN325"><interp type="alignment" select="0">9MG14ML37MG46M2G29MR52MG4MG26MG16MG25M3G11MG11ML13MG84MG46MG8MG2M,451MG</interp>
 <entry>
 <form>kaḷiṟu</form>
 <def>elephant-bull</def>
