@@ -47,7 +47,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN306"><interp type="alignment" select="0">35MG17MG63MG10MG6MG92MG3M,189MG41MG</interp>
+<standOff type="wordsplit" corresp="#PN306"><interp type="alignment" select="0">35MG17MG63MG10MG6MG92MG3M,188M2G41MG</interp>
 <entry>
 <form>kaḷiṟu</form>
 <def>elephant-bull</def>
@@ -171,18 +171,13 @@
 </gramGrp></entry>
 <entry>
 <form>virunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>feast</def>
+<def>guest</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>etir</form>
-<def>against</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
-<entry>
-<form>peṟuka-til</form>
-<def>may obtain</def>
-<form type="simple">peṟuka</form>
+<form>etirpeṟuka-til</form>
+<def>may receive</def>
+<form type="simple">etirpeṟuka</form>
 <gramGrp><gram type="role">optative</gram>
 </gramGrp><gramGrp type="particle"><m>til</m></gramGrp>
 </entry>
@@ -200,7 +195,7 @@
 <gramGrp><gram type="role">accusative</gram>
 </gramGrp></entry>
 <entry>
-<form>mo.........................................</form>
+<form>mo........................................</form>
 <def>……………………………………</def>
 </entry>
 <entry>
