@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 326.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN326">
       <lg type="edition">
 <l>ūrmutu vēlip pārnaṭai veruki</l>
 <l>ṉiruṭpakai verīiya nākiḷam pēṭai</l>
@@ -43,10 +43,29 @@
 <l>taṇṇal yāṉai yaṇinta</l>
 <l>poṉce yōṭaip perumpari cilaṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The village is a seat with a fence difficult [to cross],</l>
+<l>where the young hen(?) who is frightened by the enemy of the darkness,</l>
+<l>the wild cat on a look-out walk by the old fence,</l>
+<l>so that it, trembling for [its] life [and] letting go of [is piece of] flesh, wails,</l>
+<l>is calmed down by the rooster with a coral-flower crest</l>
+<l>in the lamp with a little fire of the cotton [plucking?] woman</l>
+<l>who rises to thrash the side and the bushes.</l>
+<l rend="indent8">	The house wife </l>
+<l>has a desire for preparing for guests coming</l>
+<l>as one with bards the good things freshly available</l>
+<l>with gruel on curd poured over the fat pieces</l>
+<l>of the short-legged iguana taken by the ? sluice</l>
+<l>without setting out of distant fields by the hunting boys,</l>
+<l	rend="indent14"> and [her] husband</l>
+<l>is one for large gifts of gold-made badges</l>
+<l>that adorned the majestic elephant</l>
+<l>in a great battle after attacking so that the difficult battle was tightly packed.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">45MG20MG13MG12MG9MG98MG9MG114MG16MG23MG36MG42MG2M,450MG</interp>
+<standOff type="wordsplit" corresp="#PN326"><interp type="alignment" select="0">45MG20MG13MG12MG9MG98MG9MG114MG16MG23MG36MG42MG2M,450MG</interp>
 <entry>
 <form>ūr</form>
 <def>village</def>
