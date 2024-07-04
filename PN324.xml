@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 324.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN324">
       <lg type="edition">
 <l>verukkuviṭai yaṉṉa vekuṇōkkuk kayantalaip</l>
 <l>puḷḷūṉ ṟiṉṟa pulavunāṟu kayavāy</l>
@@ -42,10 +42,26 @@
 <l>valampaṭu tāṉai vēntaṟ</l>
 <l>kulantuḻi yulakku neñcaṟi tuṇaiyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>In the little village with pretty homes that encompasses low/grassy fields,</l>
+<l>where with [their] chosen companions the sons of the hunters with white mouths(?),</l>
+<l>soft mouths reeking of flesh that have eaten bird’s meat </l>
+<l>[and] soft heads with glances angry as those of the wild tomcat,</l>
+<l>form into bends [their] strong Valāar-wood bows</l>
+<l>with arrows on which are tightened with fine Ūkam-grass stalk</l>
+<l>the [sharp-]tipped white thorns of the small-leaved Uṭai tree</l>
+<l>[and] look out for wild rats in the cotton fence,</l>
+<l>The paragon who possesses shame [of defeat] who sits with the bards</l>
+<l>by the lamp with small fire covered by the goatherd</l>
+<l>in the arbour on pretty stilts where are spread the white kernels</l>
+<l>ejected from the split mouth of the Kumiḻ-eating white goat,</l>
+<l>is the companion familiar to the heart of the king</l>
+<l>with a victorious army, who will die when he dies.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">22ML77M3G31MR98MG91MG18MG10MG16MG5M2G10MR4MG8MG3M,407MG</interp>
+<standOff type="wordsplit" corresp="#PN324"><interp type="alignment" select="0">22ML77M3G31MR98MG91MG18MG10MG16MG5M2G10MR4MG8MG3M,407MG</interp>
 <entry>
 <form>verukku</form>
 <def>wild-cat</def>
