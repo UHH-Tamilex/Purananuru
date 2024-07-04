@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 327.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN327">
       <lg type="edition">
 <l>erutukā luṟāa tiḷaiñar koṉṟa</l>
 <l>cilviḷai varakiṉ pulleṉ kuppai</l>
@@ -36,10 +36,20 @@
 <l>varakukaṭa ṉirakku neṭuntakai</l>
 <l>yaracuvariṟ ṟāṅkum vallā ḷaṉṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Who, because the puny heap of a little ripe millet</l>
+<l>that had been thrashed by the young men without undergoing the feet of the bull</l>
+<l>failed at the point when the famished bard had eaten</l>
+<l>the rest of what was given to those attached whose due it was,</l>
+<l>in order to remove the destitution of [their] kinfolk in his village</l>
+<l>talked in the assembly before little mean men</l>
+<l>[and] begged for a loan of millet, the paragon</l>
+<l>is a powerful man who holds out [even] when the king comes.   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">13MG141MG25MR5MG25MG5MG3M,222MG</interp>
+<standOff type="wordsplit" corresp="#PN327"><interp type="alignment" select="0">13MG141MG25MR5MG25MG5MG3M,222MG</interp>
 <entry>
 <form>erutu</form>
 <def>bull</def>
