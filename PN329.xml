@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 329.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN329">
       <lg type="edition">
 <l>illaṭu kaḷḷiṉ cilkuṭic cīṟūrp</l>
 <l>puṭainaṭu kalli ṉāṭpali yūṭṭi</l>
@@ -37,10 +37,21 @@
 <l>karukā tīyum vaṇmai</l>
 <l>yuraicā ṉeṭuntakai yōmpu mūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Even though it is a seat on the difficult frontier,</l>
+<l>where the streets all are fragrant with dark smoke in a cloud</l>
+<l>after kindling the fragrance with ghee, having splashed good water</l>
+<l>feeding a daily offering to the stone set up on the side</l>
+<l>of the little village with few home with toddy distilled in the houses,</l>
+<l>it is like a termite hill in which a snake with striped throat stays,</l>
+<l>the village protected by him who is greatly befitting, worthy of praise</l>
+<l>for [his] generosity that give unstintingly</l>
+<l>to mendicants without looking at the sorrow of those protected by him.   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">23MG18ML55MG29MG16MG4MG11MG3M2G4MG17ML5MG10MG6MG18ML4MG13MG2M,254MG</interp>
+<standOff type="wordsplit" corresp="#PN329"><interp type="alignment" select="0">23MG18ML55MG29MG16MG4MG11MG3M2G4MG17ML5MG10MG6MG18ML4MG13MG2M,254MG</interp>
 <entry>
 <form>il</form>
 <def>house</def>
