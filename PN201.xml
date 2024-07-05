@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 201.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN201">
       <lg type="edition">
 <l>ivaryā reṉkuvai yāyi ṉivarē</l>
 <l>yūruṭa ṉiravalark karuḷit tēruṭaṉ</l>
@@ -48,10 +48,34 @@
 <l>luṭaluna ruṭkun tāṉaik</l>
 <l>keṭalaruṅ kuraiya nāṭukiḻa vōyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>If “you ask who are these [girls]?”, they (1)</l>
+<l>are the daughters of tall great Pāri, (5a-c)</l>
+<l>the king of Paṟampu hill with elephants with ringing bells, (4)</l>
+<l>of fame that does not pass, who gave to a jasmine (3)</l>
+<l>a chariot after at the same time(?) gracing supplicants with a village. (2)</l>
+<l>	I, (5d)</l>
+<l>I am a [their] father’s friend, they are [my] daughters. (6)</l>
+<l>Taking [them] I, a brahmin, a scholar, have come. (7)</l>
+<l>You, having appeared inside the sacrificial pit of the sage of the northern part, (8)</l>
+<l>ruler among rulers (12ab)</l>
+<l>who have come for forty-nine generations, (11)</l>
+<l>ruling Dvāraka with unstinting generosity, (10)</l>
+<l>[its] fortification tall in the distance which is made [and] fashioned from copper, (9)</l>
+<l>	majesty of victorious battles, (12cd)</l>
+<l>Iruṅkō, ???, with garland-adorned elephants, (13)</l>
+<l>Pulikaṭimāal with a flourishing chaplet (15)</l>
+<l>who, because there is a duty towards men, is able to [perform his] duty towards bards, (14)</l>
+<l>while I give [them] you take them, (16a-c)</l>
+<l>lord of the gold-yielding great mountain (18a-c)</l>
+<l>of rare power in this world covered by the sky [and] encircled by the dark sea, (16d-17)</l>
+<l>with a victorious spear [and] an army dreaded by those who angered [you], (18d-19)</l>
+<l>lord of a land difficult to get lost. (20)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">23MG18MG21MG45ML20MG52MG3MG43MG11ML42MG30MG14ML15MG6MG90MG27MG83MG2M,561MG</interp>
+<standOff type="wordsplit" corresp="#PN201"><interp type="alignment" select="0">23MG18MG21MG45ML20MG52MG3MG43MG11ML42MG30MG14ML15MG6MG90MG27MG83MG2M,561MG</interp>
 <entry>
 <form>ivar</form>
 <def>this-one</def>
