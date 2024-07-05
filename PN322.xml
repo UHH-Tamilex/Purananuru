@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 322.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN322">
+      <lg type="edition" style="pūṭṭuvil">
+<l>uḻutūr kāḷai yūḻkō ṭaṉṉa</l>
+<l>kavaimuṭ kaḷḷip poriyaraip poruntip</l>
+<l>putuvara karikāṟ karuppai pārkkum</l>
+<l>puṉṟalaic ciṟāar villeṭut tārppiṟ</l>
+<l>peruṅkaṭ kuṟumuyal karuṅkala ṉuṭaiya</l>
+<l>maṉṟiṟ pāyum vaṉpulat tatuvē</l>
+<l>karumpi ṉentirañ cilaippi ṉayala</l>
+<l>tiruñcuval vāḷai piṟaḻu māṅkaṭ</l>
+<l>ṭaṇpaṇai yāḷum vēntarkkuk</l>
+<l>kaṇpaṭai yīyā vēlō ṉūrē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>It is one of hard soil,</l>
+<l>where, as the ruddy-headed boys lift [their] bows [and] shout,</l>
+<l>when they join the mottled trunk of the Kaḷḷi with thorns forked</l>
+<l>like the mature horns of the bull that creeps [home] after ploughing,</l>
+<l>[and] look out for the wild rat in the stubble of new millet,</l>
+<l>those with black ornaments, the huge-eyed small hares</l>
+<l>  leap on the village common,</l>
+<l>‒ in the village of the one with the spear who will not give rest</l>
+<l>to the king who rules cool field</l>
+<l>in that place, where big-necked Vāḷai fish leap</l>
+<l>in the neighbourhood when the sugarcane [juice] device resounds.</l>
+<l>6+7b</l>
+<l>huge-eyed small hares leap on the village common,</l>
+<l>  so that black vessels break.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN322"><interp type="alignment" select="0">4MG13MG45MG45MG59MG35MG68MG2M,277MG</interp>
+<entry>
+<form>uḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>ploughed</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>creep-</def>
+</entry>
+<entry>
+<form>kāḷai</form>
+<def>bull</def>
+</entry>
+<entry>
+<form><pc>~</pc>ūḻ</form>
+<def>mature-</def>
+</entry>
+<entry>
+<form>kōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>horn</def>
+</entry>
+<entry>
+<form>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>kavai</form>
+<def>fork-</def>
+</entry>
+<entry>
+<form>muḷ</form>
+<def>thorn</def>
+</entry>
+<entry>
+<form>kaḷḷi<pc>+</pc></form>
+<def>Kaḷḷi</def>
+</entry>
+<entry>
+<form>pori</form>
+<def>spot</def>
+</entry>
+<entry>
+<form><pc>~</pc>arai<pc>+</pc></form>
+<def>trunk</def>
+</entry>
+<entry>
+<form>porunti<pc>+</pc></form>
+<def>joined</def>
+</entry>
+<entry>
+<form>putu</form>
+<def>new</def>
+</entry>
+<entry>
+<form>varak<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>millet</def>
+</entry>
+<entry>
+<form>ari</form>
+<def>cut-</def>
+</entry>
+<entry>
+<form>kāl</form>
+<def>foot</def>
+</entry>
+<entry>
+<form>karuppai</form>
+<def>wild-rat</def>
+</entry>
+<entry>
+<form>pārkkum</form>
+<def>looking-out-</def>
+</entry>
+<entry>
+<form>puṉ</form>
+<def>ruddy</def>
+</entry>
+<entry>
+<form>talai<pc>+</pc></form>
+<def>head</def>
+</entry>
+<entry>
+<form>ciṟāar</form>
+<def>little-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>vil</form>
+<def>bow</def>
+</entry>
+<entry>
+<form><pc>+</pc>eṭutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>lifted</def>
+</entry>
+<entry>
+<form>ārppiṉ</form>
+<def>roaring-if</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>kuṟu</form>
+<def>short</def>
+</entry>
+<entry>
+<form>muyal</form>
+<def>hare</def>
+</entry>
+<entry>
+<form>karum</form>
+<def>black</def>
+</entry>
+<entry>
+<form>kalaṉ</form>
+<def>vessel/ornament</def>
+</entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>uṭaiya</form>
+<def>break</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry></entry>
+<entry><entry>
+<form>uṭaiya</form>
+<def>possess</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry></entry>
+</superEntry>
+<entry>
+<form>maṉṟiṉ</form>
+<def>village-commen</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>pāyum</form>
+<def>spreading-</def>
+</entry>
+<entry>
+<form>val</form>
+<def>hard</def>
+</entry>
+<entry>
+<form>pulatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>soil</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>atuvē</form>
+<def>it</def>
+<form type="simple">atuv</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>karumpiṉ</form>
+<def>sugarcane</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>entiram</form>
+<def>device</def>
+</entry>
+<entry>
+<form>cilaippiṉ</form>
+<def>resound-if</def>
+</entry>
+<entry>
+<form>ayalat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>neighbourhood-it</def>
+</entry>
+<entry>
+<form>irum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>cuval</form>
+<def>nape</def>
+</entry>
+<entry>
+<form>vāḷai</form>
+<def>Vāḷai-fish</def>
+</entry>
+<entry>
+<form>piṟaḻum</form>
+<def>leaping-</def>
+</entry>
+<entry>
+<form>āṅkaṇ</form>
+<def>that-place</def>
+</entry>
+<entry>
+<form>taṇ</form>
+<def>cool</def>
+</entry>
+<entry>
+<form>paṇai</form>
+<def>agricultural-tract</def>
+</entry>
+<entry>
+<form><pc>~</pc>āḷum</form>
+<def>ruling-</def>
+</entry>
+<entry>
+<form>vēntarkku<pc>+</pc></form>
+<def>king</def>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṇpaṭai</form>
+<def>eye-closing</def>
+</entry>
+<entry>
+<form><pc>~</pc>īyā</form>
+<def>give-not-</def>
+</entry>
+<entry>
+<form>vēlōṉ</form>
+<def>spear-he</def>
+</entry>
+<entry>
+<form>ūr-ē</form>
+<def>village</def>
+<form type="simple">ūr</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
