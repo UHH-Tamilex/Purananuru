@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 202.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN202">
       <lg type="edition">
 <l>veṭcik kāṉattu vēṭṭuva rāṭṭak</l>
 <l>kaṭci kāṇāk kaṭamā nallēṟu</l>
@@ -49,10 +49,34 @@
 <l>lirumpuli varippuṟaṅ kaṭukkum</l>
 <l>peruṅkal vaippi ṉāṭukiḻa vōyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>With gardens on the tall mountain, where races fast (4)</l>
+<l>the good bull of the wild cow that does not see a refuge (2)</l>
+<l>when hunter chase [it] in the Veṭci forest, (1)</l>
+<l>so that sapphires shine up in the wilderness, while scattered gold rolls about, (3)</l>
+<l>the beautiful/fearful ancient town that was named for two parts, (6)</l>
+<l>being one in excellent praise when victory was permanent, (5)</l>
+<l>about the loss of long-standing Araiyam now hear (8)</l>
+<l>that helped you with the wealth they had piled in many crore: (7)</l>
+<l>o Pulikaṭimāal with a flourishing chaplet (10)</l>
+<l>who fully attained the heritage of your father, (9)</l>
+<l>[it was] the result of disregarding (13ab)</l>
+<l>Kaḻāattalai with [his] verses in praise (12)</l>
+<l>of one among you with knowledge like your’s, (11)</l>
+<l>  o majesty with an advancing chariot. (13cd)</l>
+<l>Bear with my unclear lowly words, o great man, (16)</l>
+<l>that said “the daughters of Pāri generous of hand, </l>
+<l>may they settle in the ancient clan of Evvi.” (14f.)</l>
+<l>I leave [them here]/I take leave [of you]. May you spear be victorious, (17a-c)</l>
+<l>o lord of a land in the region of big rocks, (21)</l>
+<l>where the thick stones spread over with the bright blossoms with dark outer petals (19)</l>
+<l>of the black-trunked kino tree that bloomed so that [its] bud ceased on the mountain side (17d-18)</l>
+<l>resemble that striped backs of large tigers. (20)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">94MR70MG25ML5MG30M2G18MR41ML11ML56MG6ML31M2G40ML37MG10MG5MG34MG56ML10MG2M,600MG</interp>
+<standOff type="wordsplit" corresp="#PN202"><interp type="alignment" select="0">94MR70MG25ML5MG30M2G18MR41ML11ML56MG6ML31M2G40ML37MG10MG5MG34MG56ML10MG2M,600MG</interp>
 <entry>
 <form>veṭci<pc>+</pc></form>
 <def>scarlet-I</def>
