@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 205.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN205">
       <lg type="edition">
 <l>muṟṟiya tiruviṉ mūva rāyiṉum</l>
 <l>peṭpiṉ ṟītal yāmvēṇ ṭalamē</l>
@@ -42,10 +42,27 @@
 <l>ṭoḷiṟumarup pēntiya cemmaṟ</l>
 <l>kaḷiṟiṉṟu peyarala paricilar kaṭumpē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Even though there are the Three of accomplished fortune, (1)</l>
+<l>we don’t want [them] to give without desire. (2)</l>
+<l>O fighter of mount Kōṭai with a white-flowered hedges, (6)</l>
+<l>with an army abounding in swords who destroyed the laborious minds (5)</l>
+<l>of the enemies, there being a refuge to go to for those who have (4)</l>
+<l>fast-moving horses when victory has cooled the anger, (3)</l>
+<l>o hunter with a sturdy bow, (9ab)</l>
+<l>with fierce, speedy, angry dogs that destroyed a herd of deer, (8)</l>
+<l>whose loopholes, small or big, were blocked, (7)</l>
+<l>  may you be without pain. (9)</l>
+<l>the relatives of gift-seekers won’t return with bull elephants, (14)</l>
+<l>eminences who hold up [their] shining tusks, (13)</l>
+<l>along with chariots, who keep moving like majestic clouds</l>
+<l>without water that had come together on the side of the sea (11f.)</l>
+<l>after they wind had made [them] descend in order to bring fertility with full bustle. (10)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">29MG3MG15MG48MG65MG9MG53MR115MG11MG17MG27M2G2M,405MG</interp>
+<standOff type="wordsplit" corresp="#PN205"><interp type="alignment" select="0">29MG3MG15MG48MG65MG9MG53MR115MG11MG17MG27M2G2M,405MG</interp>
 <entry>
 <form>muṟṟiya</form>
 <def>completed</def>
