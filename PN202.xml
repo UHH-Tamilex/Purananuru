@@ -52,10 +52,10 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">94MR70MG25ML5MG30M2G18MR41ML11ML56MG6ML31MG40ML37MG10MG5MG34MG56ML10MG2M,599MG</interp>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">94MR70MG25ML5MG30M2G18MR41ML11ML56MG6ML31M2G40ML37MG10MG5MG34MG56ML10MG2M,600MG</interp>
 <entry>
 <form>veṭci<pc>+</pc></form>
-<def>scarlet-Ixora</def>
+<def>scarlet-I</def>
 </entry>
 <entry>
 <form>kāṉattu</form>
@@ -125,7 +125,7 @@
 </gramGrp></entry>
 <entry>
 <form>kaṭiya</form>
-<def>fast-they(n.pl.~adv.)</def>
+<def>fast-they</def>
 <gramGrp><gram type="role">neuter plural</gram>
 <gram type="role">adverb</gram>
 </gramGrp></entry>
@@ -189,8 +189,9 @@
 </entry>
 <entry>
 <form>keḻu</form>
-<def>have(postp.)</def>
-<gramGrp></gramGrp></entry>
+<def>have</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>old</def>
@@ -312,8 +313,8 @@
 </gramGrp></entry>
 <entry>
 <form>numar</form>
-<def>your-they(pron.n|3.h.)</def>
-<gramGrp><gram type="role">pronoun</gram>
+<def>your-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">honorific</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
@@ -384,15 +385,12 @@
 <gramGrp><gram type="role">optative</gram>
 </gramGrp></entry>
 <entry>
-<form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def></def>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
-</entry>
-<entry>
-<form>ivar</form>
+<form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ivar</form>
 <def>this-one</def>
+<form type="simple">ivar</form>
 <gramGrp><gram type="role">honorific</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+</entry>
 <entry>
 <form>kai</form>
 <def>hand</def>
@@ -479,7 +477,7 @@
 </entry>
 <entry>
 <form>aṟa</form>
-<def>be-severed(inf.~adv.fully)</def>
+<def>be-severed</def>
 <gramGrp><gram type="role">adverb</gram>
 <gram type="role">infinitive</gram>
 </gramGrp></entry>
