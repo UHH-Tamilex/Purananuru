@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 204.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN204">
       <lg type="edition">
 <l>īyeṉa viratta liḻintaṉ ṟataṉeti</l>
 <l>rīyē ṉeṉṟa lataṉiṉu miḻintaṉṟu</l>
@@ -42,10 +42,26 @@
 <l>karuvi vāṉam pōla</l>
 <l>varaiyātu curakkum vaḷḷiyōy niṉṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Begging while saying “give” is lowly. Against that, (1)</l>
+<l>saying “I won’t give” is more lowly than that. (2)</l>
+<l>Giving while saying “take” is lofty. Against that, (3)</l>
+<l>saying “I won’t take” is more lofty than that. (4)</l>
+<l>Those who want water will not be ones who drink (6)</l>
+<l>from the large sea with roaring waves, with an expanse of clear water. (5)</l>
+<l>Even though it is stirred up when cows and deer go [and] drink, (7)</l>
+<l>[and] of low quality as it occurs with mire, (8)</l>
+<l>there are roads many at the side of drinking water. (9)</l>
+<l>Apart from blaming bird [omens] and times, (10)</l>
+<l>those who go, remembering, are not not blame. Therefore, (11)</l>
+<l>I won’t be vexed with you, may you prosper, Ōri, (12a-c+14d)</l>
+<l>you generous one who gives without limit, (14a-c)</l>
+<l>like the clouds in a mass in the sky. (12d-13)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">21MG59MG40MG50MG3MG3MLMG7MG32MG35MG8M2G113MG3M,387MG</interp>
+<standOff type="wordsplit" corresp="#PN204"><interp type="alignment" select="0">21MG59MG40MG50MG3MG3MLMG7MG32MG35MG8M2G113MG3M,387MG</interp>
 <entry>
 <form>ī</form>
 <def>give</def>
