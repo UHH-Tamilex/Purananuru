@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 209.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN209">
       <lg type="edition">
 <l>poykai nārai pōrviṟ cēkku</l>
 <l>neytalaṅ kaḻaṉi nellari toḻuvar</l>
@@ -47,10 +47,33 @@
 <l>peruvarai yaṉṉa mārpiṟ</l>
 <l>ceruveñ cēeyniṉ makiḻiruk kaiyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>O fighter of a good land in the region of soft soil, (6)</l>
+<l>where the paddy-cutting workmen in the paddy fields with blue waterlilies (2)</l>
+<l>on heaps of which the herons from the pond rest, (1)</l>
+<l>feed on toddy from the wide leaves (4a-c)</l>
+<l>of white waterlilies that opened [their] soft outer petals to release the closed [buds] (3)</l>
+<l>[and] sway to the pleasing measured rhythm of the clear sea’s dashing waves, (4d-5) </l>
+<l>like a flock of birds that, (10cd)</l>
+<l>yearning for many ripe fruit, ascend the sky where they stay, (7)</l>
+<l>approach a big mountain so that the inside of caves resound, (8)</l>
+<l>are prostrate because the big tree that had fruit had coe to an end, (9)</l>
+<l>  [and] return without having obtained [anything], (10ab)</l>
+<l>having come yearning for you, shall I, a gift-seeker uttering your fame (11)</l>
+<l>return a poor man? O you who excel with the sword (12)</l>
+<l>even if you won’t give I will not lament. (13)</l>
+<l>Be without pain, great man. Among us, (14)</l>
+<l>it being seen in near proximity, (15a-c)</l>
+<l>there is the delightful seat of you, [like] the Red one, hot in fight, (19)</l>
+<l>with a chest like a big mountain, (18)</l>
+<l>for whose beat women with clear jewels look, (17)</l>
+<l>with sweet words, [their] hair sprouting in many fragrant [curls], (16)</l>
+<l>daily. (15d)   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">22MR113ML14ML38MG107MG46M2G38ML42MG6MGMR11MG16ML77MG3M,547MG</interp>
+<standOff type="wordsplit" corresp="#PN209"><interp type="alignment" select="0">22MR113ML14ML38MG107MG46M2G38ML42MG6MGMR11MG16ML77MG3M,547MG</interp>
 <entry>
 <form>poykai</form>
 <def>pond</def>
