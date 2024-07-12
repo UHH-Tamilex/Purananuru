@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 208.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN208">
       <lg type="edition">
 <l>kuṉṟu malaiyum palapi ṉoḻiya</l>
 <l>vantaṉeṉ paricil koṇṭaṉeṉ celaṟkeṉa</l>
@@ -37,10 +37,21 @@
 <l>tiṉaiyaṉait tāyiṉu miṉitavar</l>
 <l>tuṇaiyaḷa vaṟintu nalkiṉar viṭiṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The [royal] guardian difficult to bear, how did he know (5)</l>
+<l>me, to say “having taken this he can go in this manner”, (3d-4)</l>
+<l>having graciously longed for me who stood [there] (3a-c)</l>
+<l>saying “as hills and mountains many stayed behind, (1)</l>
+<l>I have come in order to go as one who has taken a gift.” (2)</l>
+<l>For this wealth that was given without seeing I for one (6)</l>
+<l>am not a merchant gift seeker. If he had let me go with honour [me] (7+9d)</l>
+<l>even if it was as much as a millet [seed], he would have granted</l>
+<l>something pleasing, having know to an extent his companion. (8-9c)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">4M2G2ML4MG44MG17MG13MG28MG9MG5MG16MG57MG10MG14MG19MG2M,258MG</interp>
+<standOff type="wordsplit" corresp="#PN208"><interp type="alignment" select="0">4M2G2ML4MG44MG17MG13MG28MG9MG5MG16MG57MG10MG14MG19MG2M,258MG</interp>
 <entry>
 <form>kuṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>hill</def>
