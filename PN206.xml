@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 206.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN206">
       <lg type="edition">
 <l>vāyi lōyē vāyi lōyē</l>
 <l>vaḷḷiyōr cevimutal vayaṅkumoḻi vittit</l>
@@ -41,10 +41,25 @@
 <l>maḻuvuṭaik kāṭṭakat taṟṟē</l>
 <l>yetticaic celiṉu matticaic cōṟē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Doorman! Doorman! (1)</l>
+<l>Sowing glowing words into the ears of generous people (2)</l>
+<l>with strong minds that achieve what they considered, (3)</l>
+<l>with this living for gifts that suffers for marks of honour, (4)</l>
+<l>doormen who do not close against/exclude gift-seekers: (5)</l>
+<l>Neṭumaṉ Añci who appears on a fast horse, (6)</l>
+<l>does he not know himself? Does he not know me? (7)</l>
+<l>Because those who have both knowledge and fame vanish (8)</l>
+<l>the world is not a poor place. Therefore, (9)</l>
+<l>We shoulder the vessels. We fold up the instrument bags. (10)</l>
+<l>It is like the inside of a forest with axes [in the hands] (12)</l>
+<l>of the dexterous youngsters of the carpenter who fells trees: (11)</l>
+<l> In whatever direction [we] go, in that direction there is rice. (13)</l>   
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">7MG8MG118MG13MG14ML22MG14MG7M2G7MG34MG5M2G20MG27ML31MG5MG3M2G28M2G2M,55MG329MG</interp>
+<standOff type="wordsplit" corresp="#PN206"><interp type="alignment" select="0">7MG8MG118MG13MG14ML22MG14MG7M2G7MG34MG5M2G20MG27ML31MG5MG3M2G28M2G2M,55MG329MG</interp>
 <entry>
 <form>vāyilōy-ē</form>
 <def>door-you</def>
