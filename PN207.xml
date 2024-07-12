@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 207.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN207">
       <lg type="edition">
 <l>eḻuviṉi neñcañ celkam yārō</l>
 <l>paruku vaṉṉa vēṭkai yilvaḻi</l>
@@ -39,10 +39,24 @@
 <l>nōvā tōṉvayiṟ ṟiraṅki</l>
 <l>vāyā vaṉkaṉik kulamavaru vōrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Rise now, heart, we will go. Who [is he]? (1)</l>
+<l>Like those who do not know, even if they see up close, (3)</l>
+<l>in a way without desire that is like drinking, (2)</l>
+<l>men without effort (5ab)</l>
+<l>with respect gifts that perish in the mouth to which in inner smile does not come,</l>
+<l>	are not rulers. (5cd)</l>
+<l>It is necessary to say “you may come” to those with marks of honour. (6)</l>
+<l>Vast is the world. Many are those who bestow honour. (7)</l>
+<l>– without restraining [our] mind, dying inside, (9a-c)</l>
+<l>like the Āḷi with the strength of a commander, (8)</l>
+<l>for the sake of an unfit hard fruit to the disturbed, (11)</l>
+<l>dried up at the side of one who clearly takes not pains. (9d-10)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">22MG36M2G17ML22ML23M3G21M2G6M2G20MG32MG47MG12MG2M,275MG</interp>
+<standOff type="wordsplit" corresp="#PN207"><interp type="alignment" select="0">22MG36M2G17ML22ML23M3G21M2G6M2G20MG32MG47MG12MG2M,275MG</interp>
 <entry>
 <form>eḻu</form>
 <def>rise</def>
