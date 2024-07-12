@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 210.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN210">
       <lg type="edition">
 <l>maṉpatai kākkuniṉ puraimai nōkkā</l>
 <l>taṉpukaṇ māṟiya vaṟaṉil kāṭciyoṭu</l>
@@ -43,10 +43,27 @@
 <l>raruṅkaṭi muṉaiyaraṇ pōlap</l>
 <l>peruṅkai yaṟṟaveṉ pulampumun tuṟuttē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Not looking at your greatness that guards humanity, (1)</l>
+<l>with virtueless sight that has changed from love, (2) </l>
+<l>if the likes of you are like this (3)</l>
+<l>should the likes of us be born here? (4)</l>
+<l>The beloved who is keen on us, with blemishless principles, (5)</l>
+<l>if she possesses a life that is small, without thinking</l>
+<l>about us, as for living [on], that is difficult. Therefore (6f.)</l>
+<l>“When the power of virtueless Death is determined today, (8)</l>
+<l>has he become another (~ is he dead)? May my life break”, (9)</l>
+<l>with a despondency that experienced talking [of that kind] she remains much vexed. (10)</l>
+<l>So that the affliction of her in the house ends, from this position (11)</l>
+<l>I take leave. Live [long]. lord – see here: (12)</l>
+<l>I go with a heavy heart, (13a-c)</l>
+<l>placing before me my loneliness that is greatly prostrate, (15)</l>
+<l>like a fortress on the heavily guarded frontier of those who angered you. (13d-14)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">13MR17MG37MG2M2G3MG31MG40MG23MG7MG6M2G47MG26MG23MG22ML49MR15ML65M2G2M,447MG</interp>
+<standOff type="wordsplit" corresp="#PN210"><interp type="alignment" select="0">13MR17MG37MG2M2G3MG31MG40MG23MG7MG6M2G47MG26MG23MG22ML49MR15ML65M2G2M,447MG</interp>
 <entry>
 <form>maṉpatai</form>
 <def>humanity</def>
