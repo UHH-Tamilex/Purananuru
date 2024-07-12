@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 205.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN205">
+      <lg type="edition">
+<l>muṟṟiya tiruviṉ mūva rāyiṉum</l>
+<l>peṭpiṉ ṟītal yāmvēṇ ṭalamē</l>
+<l>viṟaṟciṉan taṇinta viraiparip puravi</l>
+<l>yuṟuvar celcār vākic ceṟuvar</l>
+<l>tāḷuḷan taputta vāṇmiku tāṉai</l>
+<l>veḷvī vēlik kōṭaip poruna</l>
+<l>ciṟiyavum periyavum puḻaikeṭa vilaṅkiya</l>
+<l>māṉkaṇan tolaicciya kaṭuvicaik katanāy</l>
+<l>nōṉcilai vēṭṭuva nōyilai yākuka</l>
+<l>vārkali yāṇart tarīiya kālvīḻttuk</l>
+<l>kaṭalvayiṟ kuḻīiya vaṇṇalaṅ koṇmū</l>
+<l>nīriṉṟu peyarā vāṅkut tērō</l>
+<l>ṭoḷiṟumarup pēntiya cemmaṟ</l>
+<l>kaḷiṟiṉṟu peyarala paricilar kaṭumpē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Even though there are the Three of accomplished fortune, (1)</l>
+<l>we don’t want [them] to give without desire. (2)</l>
+<l>O fighter of mount Kōṭai with a white-flowered hedges, (6)</l>
+<l>with an army abounding in swords who destroyed the laborious minds (5)</l>
+<l>of the enemies, there being a refuge to go to for those who have (4)</l>
+<l>fast-moving horses when victory has cooled the anger, (3)</l>
+<l>o hunter with a sturdy bow, (9ab)</l>
+<l>with fierce, speedy, angry dogs that destroyed a herd of deer, (8)</l>
+<l>whose loopholes, small or big, were blocked, (7)</l>
+<l>  may you be without pain. (9)</l>
+<l>the relatives of gift-seekers won’t return with bull elephants, (14)</l>
+<l>eminences who hold up [their] shining tusks, (13)</l>
+<l>along with chariots, who keep moving like majestic clouds</l>
+<l>without water that had come together on the side of the sea (11f.)</l>
+<l>after they wind had made [them] descend in order to bring fertility with full bustle. (10)  </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN205"><interp type="alignment" select="0">29MG3MG15MG48MG65MG9MG53MR115MG11MG17MG27M2G2M,405MG</interp>
+<entry>
+<form>muṟṟiya</form>
+<def>completed</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>tiruviṉ</form>
+<def>fortune</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>mūvar</form>
+<def>three-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>peṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>desiring</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>without</def>
+</entry>
+<entry>
+<form>ītal</form>
+<def>giving</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+</entry>
+<entry>
+<form>vēṇṭalam-ē</form>
+<def>want-not-we</def>
+<form type="simple">vēṇṭalam</form>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>viṟal</form>
+<def>victory</def>
+</entry>
+<entry>
+<form>ciṉam</form>
+<def>anger</def>
+</entry>
+<entry>
+<form>taṇinta</form>
+<def>cooled-down</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>virai</form>
+<def>hasten</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>pari<pc>+</pc></form>
+<def>motion</def>
+</entry>
+<entry>
+<form>puravi</form>
+<def>horse</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṟuvar</form>
+<def>have-they</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>cel</form>
+<def>go</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>cārv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>refuge</def>
+</entry>
+<entry>
+<form>āki<pc>+</pc></form>
+<def>become</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>ceṟuvar</form>
+<def>quarrel-they</def>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>tāḷ</form>
+<def>effort</def>
+</entry>
+<entry>
+<form>uḷam</form>
+<def>mind</def>
+</entry>
+<entry>
+<form>taputta</form>
+<def>destroyed</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>vāḷ</form>
+<def>sword</def>
+</entry>
+<entry>
+<form>miku</form>
+<def>be-much</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>tāṉai</form>
+<def>army</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form>vī</form>
+<def>blossom</def>
+</entry>
+<entry>
+<form>vēli</form>
+<def>hedge</def>
+</entry>
+<entry>
+<form><pc>+</pc>kōṭai<pc>+</pc></form>
+<def>Kōṭai-mountain</def>
+</entry>
+<entry>
+<form>poruna</form>
+<def>fighter</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟiya-<pc>~</pc>um</form>
+<def>little-they</def>
+<form type="simple">ciṟiya</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>periya-<pc>~</pc>um</form>
+<def>big-they</def>
+<form type="simple">periya</form>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>puḻai</form>
+<def>hole</def>
+</entry>
+<entry>
+<form>keṭa</form>
+<def>get-lost</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vilaṅkiya</form>
+<def>blocked</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>māṉ</form>
+<def>deer</def>
+</entry>
+<entry>
+<form>kaṇam</form>
+<def>group</def>
+</entry>
+<entry>
+<form>tolaicciya</form>
+<def>exterminated</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭu</form>
+<def>fast</def>
+</entry>
+<entry>
+<form>vicai</form>
+<def>speed</def>
+</entry>
+<entry>
+<form><pc>+</pc>katam</form>
+<def>anger</def>
+</entry>
+<entry>
+<form>nāy</form>
+<def>dog</def>
+</entry>
+<entry>
+<form>nōṉ</form>
+<def>endure</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>cilai</form>
+<def>bow</def>
+</entry>
+<entry>
+<form>vēṭṭuva</form>
+<def>hunter</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
+</gramGrp></entry>
+<entry>
+<form>nōy</form>
+<def>pain</def>
+</entry>
+<entry>
+<form>ilai</form>
+<def>not-you</def>
+</entry>
+<entry>
+<form><pc>~</pc>ākuka</form>
+<def>may-become</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ār</form>
+<def>roar</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>kali</form>
+<def>bustle</def>
+</entry>
+<entry>
+<form>yāṇar</form>
+<def>fertility</def>
+</entry>
+<entry>
+<form><pc>+</pc>tarīiya</form>
+<def>give</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>kāl</form>
+<def>wind</def>
+</entry>
+<entry>
+<form>vīḻttu<pc>+</pc></form>
+<def>made-descend</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+</entry>
+<entry>
+<form>vayiṉ</form>
+<def>side</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>kuḻīiya</form>
+<def>come-together</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>aṇṇalam</form>
+<def>majesty</def>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
+<entry>
+<form>koṇmū</form>
+<def>cloud</def>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+</entry>
+<entry>
+<form>iṉṟu</form>
+<def>without</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>peyarāvāṅku<pc>+</pc></form>
+<def>moved-like</def>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>tērōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>chariot</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>oḷiṟu</form>
+<def>be-bright</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>marupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>tusk</def>
+</entry>
+<entry>
+<form>ēntiya</form>
+<def>been-eminent</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>cemmal</form>
+<def>superiority</def>
+</entry>
+<entry>
+<form>kaḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>elephant-bull</def>
+</entry>
+<entry>
+<form>iṉṟu</form>
+<def>without</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form>peyarala</form>
+<def>return-not-they</def>
+<gramGrp><gram type="role">neuter plural</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>paricilar</form>
+<def>supplicant</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭump<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>relations</def>
+<form type="simple">kaṭumpu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
