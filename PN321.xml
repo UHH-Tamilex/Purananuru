@@ -164,11 +164,13 @@
 <entry>
 <form>pokuṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>bud</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṭantaiyam</form>
 <def>curve</def>
@@ -317,7 +319,7 @@
 </gramGrp></entry>
 <entry>
 <form>ōmpum</form>
-<def>protecting</def>
+<def>protecting-</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
