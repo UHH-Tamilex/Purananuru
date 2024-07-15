@@ -57,7 +57,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN322"><interp type="alignment" select="0">4MG13MG45MG45MG59MG35MG68MG2M,277MG</interp>
+<standOff type="wordsplit" corresp="#PN322"><interp type="alignment" select="0">4MG13MG45MG45MG94MG68MG2M,276MG</interp>
 <entry>
 <form>uḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>ploughed</def>
@@ -245,13 +245,8 @@
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
-<form>pulatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>soil</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
-<entry>
-<form>atuvē</form>
-<def>thatt-it</def>
+<form>pulattatuvē</form>
+<def>soil-it</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
