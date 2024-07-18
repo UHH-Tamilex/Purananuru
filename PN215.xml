@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 215.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN215">
       <lg type="edition">
 <l>kavaikkatir varaki ṉavaippuṟu vākka</l>
 <l>ṟāteru maṟukiṟ pōtoṭu potuḷiya</l>
@@ -37,10 +37,21 @@
 <l>celvak kālai niṟpiṉu</l>
 <l>mallaṟ kālai nillalaṉ maṉṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Even in the good land of the one from the Southern heights, (6)</l>
+<l>where those who pluck field beans feed to satiation (5)</l>
+<l>on the sweet-sour food that was cooked by a cowherd woman (4)</l>
+<l>from a pounded preparation of fork-eared wild millet, (1)</l>
+<l>imbuing white curd with the white flower of Vēḷai, (3)</l>
+<l>that was full with buds from the street with pollen [and] dung, (2)</l>
+<l>the one they call Picirōṉ will protect my life. (7)</l>
+<l>Even though he may stay [away] at a time of affluence, (8)</l>
+<l>he will not stay [away] at a time of affliction. (9)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">24MG9ML2MG111ML6MG2MG28MG38MG3MG3M,234MG</interp>
+<standOff type="wordsplit" corresp="#PN215"><interp type="alignment" select="0">24MG9ML2MG111ML6MG2MG28MG38MG3MG3M,234MG</interp>
 <entry>
 <form>kavai<pc>+</pc></form>
 <def>fork</def>
