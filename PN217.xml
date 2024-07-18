@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 217.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN217">
       <lg type="edition">
 <l>niṉaikkuṅ kālai maruṭkai yuṭaittē</l>
 <l>yeṉaiperuñ ciṟappiṉō ṭīṅkitu tuṇita</l>
@@ -41,10 +41,25 @@
 <l>yaṉṉōṉai yiḻantaviv vulaka</l>
 <l>meṉṉā vatuko laḷiyatu tāṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>When thinking about [it] it is amazing, (1)</l>
+<l>resolving on this here with ever so much superiority. (2)</l>
+<l>More than that is amazing (3a-c)</l>
+<l>[his] coming here at a time that is like this, (6)</l>
+<l>being a pillar of friendship according to illustrious custom, (5)</l>
+<l>a worthy man paying respect who is worthy to appear in the land of another. (3d-4) </l>
+<l>The greatness of the king who said “he will come”, (7)</l>
+<l>and the knowledge of the one who came without fault in that (8)</l>
+<l>whenever wondering, whenever wondering it goes beyond wonder. (9)</l>
+<l>Therefore, the fame that is ancient obtained so as to be experience in the heart </l>
+<l>by the worthy man who stayed in a land unmoved by his sceptre,  (11)</l>
+<l>this world that has lost one like that, (12)</l>
+<l>what will become of it? It is pitiable. (13)</l> 
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">29M2G21MG3MG18ML14M2G6ML37MG13MG54MG11MG16M2G7MG10MG11MG8M2G28MG13ML3MG13MG37MG13MG2M,285MG105MG</interp>
+<standOff type="wordsplit" corresp="#PN217"><interp type="alignment" select="0">29M2G21MG3MG18ML14M2G6ML37MG13MG54MG11MG16M2G7MG10MG11MG8M2G28MG13ML3MG13MG37MG13MG2M,285MG105MG</interp>
 <entry>
 <form>niṉaikkum</form>
 <def>thinking-</def>
