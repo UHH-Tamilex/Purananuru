@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 220.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN220">
       <lg type="edition">
 <l>peruñcōṟu payantu palyāṇṭu puranta</l>
 <l>peruṅkaḷi ṟiḻanta paitaṟ pāka</l>
@@ -35,10 +35,19 @@
 <l>tērvaṇ kiḷḷi pōkiya</l>
 <l>pēricai mūtūr maṉṟaṅ kaṇṭē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>A suffering mahout who has lost a big elephant bull (2)</l>
+<l>he had protected for many years, pouring [it] great rice, (1)</l>
+<l>weeping like [him] when seeing that the post is in ruin (4)</l>
+<l>in the noisy stables where it had rested joined to it, (3)  </l>
+<l>was I not upset, I, (5a-c)</l>
+<l>when seeing the central place of the famous ancient town (7)</l>
+<l>from which Kiḷḷi, generous with chariots [and] golden garlands, went [away]? (5d-6)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">41MG25MG42M2G20MG4MG37MG12M2G2M,191MG</interp>
+<standOff type="wordsplit" corresp="#PN220"><interp type="alignment" select="0">41MG25MG42M2G20MG4MG37MG12M2G2M,191MG</interp>
 <entry>
 <form>perum</form>
 <def>big</def>
