@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 218.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN218">
       <lg type="edition">
 <l>poṉṉun tukiru muttu maṉṉiya</l>
 <l>māmalai payanta kāmaru maṇiyu</l>
@@ -35,10 +35,19 @@
 <l>cāṉṟōr pāla rāpa</l>
 <l>cālār cālār pālarā kupavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Although gold, coral, pearls and the desirable </l>
+<l>sapphire that was yielded by the lasting big mountain (1f.)</l>
+<l>were far apart when they appeared in space, (3a-c)</l>
+<l>at the time when a good ornament of rare prices is put together, (3d-4)</l>
+<l>appearing in one way worthy men always (5ab)</l>
+<l>are those that have a share in worthy men. (6)</l>
+<l>Unworthy ones are those that have a shar in the unworthy. (7)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">3MG8MG2ML3M2G2ML30MG35MG47MG45MG3M,187MG</interp>
+<standOff type="wordsplit" corresp="#PN218"><interp type="alignment" select="0">3MG8MG2ML3M2G2ML30MG35MG47MG45MG3M,187MG</interp>
 <entry>
 <form>poṉ-<pc>+</pc>um</form>
 <def>gold</def>
