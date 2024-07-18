@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 214.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN214">
       <lg type="edition">
 <l>ceykuvaṅ kollō nalviṉai yeṉavē</l>
 <l>yaiya maṟāar kacaṭīṇṭu kāṭci</l>
@@ -41,10 +41,26 @@
 <l>kōṭuyarn taṉṉa tammicai naṭṭut</l>
 <l>tītil yākkaiyoṭu māytaṟavat talaiyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>For those who have not cut off the doubt (2ab)</l>
+<l>as to whether they would do good work/deeds, (1) </l>
+<l>in hearts from which a flaw-gathering sight has not departed (2cd-3ab)</l>
+<l>  they are without determination. (3cd)</l>
+<l>An elephant hunter will get elephant, (4)</l>
+<l>and a quail hunter will come [back] empty-handed. (5)</l>
+<l>Therefore, if there is attaining [their] higher desires</l>
+<l>on account of the deeds done for those who are high, (6f.)</l>
+<l>enjoyment is met in the imperishable world, (8)</l>
+<l>and if there is no enjoyment in the imperishable world, (9)</l>
+<l>the absence of birth after changing is met. (10)</l>
+<l>If one is not born [again] after changing, (11a-c)</l>
+<l>the very best is being gone along with a flawless body (13)</l>
+<l>after erecting one’s fame as high as the peak of the Himālaya. (11d-12)   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">8MG17MG18MG28MG5MG18MG8MG25MG8MG23MG40MG82MG8ML29MG27MG18ML9MG3M,151MG238MG</interp>
+<standOff type="wordsplit" corresp="#PN214"><interp type="alignment" select="0">8MG17MG18MG28MG5MG18MG8MG25MG8MG23MG40MG82MG8ML29MG27MG18ML9MG3M,151MG238MG</interp>
 <entry>
 <form>ceykuvam-kollō</form>
 <def>we-do</def>
