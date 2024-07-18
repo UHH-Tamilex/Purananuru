@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 216.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN216">
       <lg type="edition">
 <l>kēṭṭaṉ māttirai yalla tiyāvatuṅ</l>
 <l>kāṇṭa lillā tiyāṇṭupala kaḻiya</l>
@@ -40,10 +40,24 @@
 <l>yiṉṉatōr kālai nillala</l>
 <l>ṉiṉṉē varukuva ṉoḻikkavavaṟ kiṭamē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  “While many years have passed without seeing (2) </l>
+<l>anything [of him] apart from hearing a bit, (1)</l>
+<l>even though he is a lord who is familiar, without blemish, (3)</l>
+<l>it would be difficult [for him] to turn up [here now]. ?????conduct”, (4)</l>
+<l>don’t take up such doubt, you men of rare knowledge. (5)</l>
+<l>He is without reproach, sweet, in friendship bound [to me]. (6)</l>
+<l>He won’t want a lie that comes to get [his] fame lost. (7)</l>
+<l>At the time his name rests, my name (8)</l>
+<l>says Pētai Cōḻaṉ. (9a-c)</l>
+<l>He has a right to [my] exulted love. On top of that, (9d-10)</l>
+<l>at [this] time that is not pleasant he won’t stay [away]. (11)</l>
+<l>He will come right now. May a place be kept for him. (12)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">26M2G66M2G25MG20MG9MG50MG65MG65MG4MG2M,342MG</interp>
+<standOff type="wordsplit" corresp="#PN216"><interp type="alignment" select="0">26M2G66M2G25MG20MG9MG50MG65MG65MG4MG2M,342MG</interp>
 <entry>
 <form>kēṭṭal</form>
 <def>listening</def>
