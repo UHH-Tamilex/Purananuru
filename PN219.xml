@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 219.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,17 +25,23 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN219">
       <lg type="edition">
 <l>uḷḷāṟṟuk kavalaip puḷḷi nīḻaṉ</l>
 <l>muḻūu vaḷḷūra muṇakku maḷḷa</l>
 <l>pulavuti mātō nīyē</l>
 <l>palarā lattainiṉ kuṟiyirun tōrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+O warrior whose whole meat is drying up
+in the dappled shade on the crossroad of the inner path,
+would you be vexed [now]?
+Many indeed are those who sit at your sign.
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">46ML12MG6MG9MG20MG2M,99MG</interp>
+<standOff type="wordsplit" corresp="#PN219"><interp type="alignment" select="0">46ML12MG6MG9MG20MG2M,99MG</interp>
 <entry>
 <form>uḷ</form>
 <def>inside</def>
