@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 331.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN331">
       <lg type="edition">
 <l>kallaṟut tiyaṟṟiya valluvark kūval</l>
 <l>villēr vāḻkkaic cīṟūr matavali</l>
@@ -41,10 +41,24 @@
 <l>pōkupali veḷcōṟu pōla</l>
 <l>tūvavum vallaṉavaṉ tūvuṅ kālē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Even if the strong man of the little village whose livelihood is the bow for a plough, (2)</l>
+<l>with a very brackish well made by cutting off the stones, (1)</l>
+<l>is very poor, like an untaught shepherd (3a-c+5ab)</l>
+<l>who kindles a little fire by friction on chilly [and] empty evenings, (3d-4)</l>
+<l>he is able to create what is not from [his] intention, (6)</l>
+<l>and even if there is very little that is there, like a woman </l>
+<l>shining in the house, who feeds in [proper] order the whole long arbour</l>
+<l>without saying “these [are] many people”, he is able</l>
+<l>to bestow according to merit at least a little, (7-10c)</l>
+<l>and, like the white rice [that is] the food offering (12)</l>
+<l>they suitably shed at the door of the guardian kings, (10d-11) </l>
+<l>he is able to shower [gifts], at a time of affluence. (13)   </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">154MG27ML13ML2ML63MG2MG37MG29MG23M,357MG</interp>
+<standOff type="wordsplit" corresp="#PN331"><interp type="alignment" select="0">154MG27ML13ML2ML63MG2MG37MG29MG23M,357MG</interp>
 <entry>
 <form>kal</form>
 <def>stone</def>
