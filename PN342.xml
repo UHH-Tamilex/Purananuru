@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 342.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN342">
       <lg type="edition">
 <l>kāṉak kākkaik kalicciṟa kēykku</l>
 <l>mayilaik kaṇṇip peruntōṭ kuṟumaka</l>
@@ -43,10 +43,29 @@
 <l>vāṭaka vaikalu muḻakkum</l>
 <l>māṭci yavariva ṭaṉṉai mārē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Oh paragon with a victorious spear who asks from me</l>
+<l>in haste </l>
+<l>“the young woman with large shoulders [and] a Mayilai chaplet</l>
+<l>that resembles the luxuriant wing of the forest crow,</l>
+<l>  is she another’s daughter?”</l>
+<l>Her innocence of a brilliant quality fit to be longed for,</l>
+<l>it is for no other than a fighter.</l>
+<l>Her father is the lord of the cool fields,</l>
+<l>where the child with gaping beaf of the green-legged heron</l>
+<l>after what it ate when searching the set shore in the soft mire</l>
+<l>[now] obtains the mustard-seed [small] eggs brought forth by the Āral fish</l>
+<l>along with the children of the abundant good crabs,</l>
+<l>  and the king,</l>
+<l>because, as they don’t obtain [her] they are making a great fight,</l>
+<l>her people will have glory</l>
+<l>when they ravage [them] daily, as is befitting the sword,</l>
+<l>with elephants as bulls that destroy glistening stacks of passed away corpses.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">22MG6ML39MG16MG3MG19ML4MG29ML4MG10MG13MG4M2G35MG14MG79ML5MG9MG48MG8MG4MG4ML9MG23ML8MG2M,441MG</interp>
+<standOff type="wordsplit" corresp="#PN342"><interp type="alignment" select="0">22MG6ML39MG16MG3MG19ML4MG29ML4MG10MG13MG4M2G35MG14MG79ML5MG9MG48MG8MG4MG4ML9MG23ML8MG2M,441MG</interp>
 <entry>
 <form>kāṉa<pc>+</pc></form>
 <def>forest</def>
