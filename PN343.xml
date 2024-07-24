@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 343.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN343">
       <lg type="edition">
 <l>mīṉoṭuttu neṟkuvaii</l>
 <l>micaiyampiyiṉ maṉaimaṟukkuntu</l>
@@ -45,10 +45,29 @@
 <l>tiṭaimatiṟ cēkkum puricaip</l>
 <l>paṭaimayaṅ kāriṭai neṭuna lūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Like Mucuṟi with drums [and] the thundering ocean</l>
+<l>of Kuṭṭuvaṉ with a golden garland, [his] toddy a flood,</l>
+<l>where, have bartered fish [and] heaped paddy,</l>
+<l>houses refuse high little boats,</l>
+<l>where the shores are busy, burdened with clamour</l>
+<l>by vessels with pepper that are heaped in the houses,</l>
+<l>where they bring ashore by the backwater boats</l>
+<l>the gold objects brought by ship,</l>
+<l>and where they meet strangers [and] give them</l>
+<l>goods from the mountains and goods from the sea</l>
+<l>if, even when he came humbly [and] gives excellent wealth superb in quality [like that],</l>
+<l>saying “she will not marry one who is not like [her]”</l>
+<l>[her] father did not give her, in between</l>
+<l>the ladders placed in order to find a way [in] by those who have come,</l>
+<l>did it suffer,</l>
+<l>the long good town with difficult ways confused by weapons</l>
+<l>[and] fortifications where kites sigh [and] rest on the inner walls.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">3ML93MG63MG12MG22MG141MG41MG14MG8MG7MG6MG34M2G15MG2M,474MG</interp>
+<standOff type="wordsplit" corresp="#PN343"><interp type="alignment" select="0">3ML93MG63MG12MG22MG141MG41MG14MG8MG7MG6MG34M2G15MG2M,474MG</interp>
 <entry>
 <form>mīṉ</form>
 <def>fish</def>
