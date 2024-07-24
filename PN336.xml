@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 336.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN336">
       <lg type="edition">
 <l>vēṭṭa vēntaṉum veñciṉat tiṉaṉē</l>
 <l>kaṭavaṉa kaḻippiva ṭantaiyuñ ceyyā</l>
@@ -41,10 +41,27 @@
 <l>takaivaḷart teṭutta nakaiyoṭu</l>
 <l>pakaivaḷart tiruntavip paṇpi ṟāyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The king who wants [her] is full of hot anger, (1)</l>
+<l>her father does not discharge [his] duties, (2)</l>
+<l>the elephant bulls with swelling ringed tusks that go up in [their]</l>
+<l>resplendent faces do not join the protective trees, and the assembled (3f.)</l>
+<l>bold warriors with resplendent spears keep [their] mouths shut. (5)</l>
+<l>While many instruments sound that are not known even to the musicians, (6)</l>
+<l>alas, (7)</l>
+<l>big folly underwent this well-protected old town. (8)</l>
+<l>She is without virtue indeed, (9a-c)</l>
+<l>‒ the mother without [good] qualities (13cd)</l>
+<l>who, by with a smile nurturing [and] raising as was fit (12)</l>
+<l>[her] with eminent young breasts not [yet] fully grown of the beauty (11)</l>
+<l>of the buds of cameg that unfold on the mountain of kino trees (10)</l>
+<l>  in the victorious mountains, (9d)</l>
+<l>  sat [there] growing enmity. (13ab)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">11MG15MG15MG4ML5MG20MG28M2G6MG31MG14MG44MG6MG14MG10MG8MG47MG33MG27MG13MG2ML2MG2M,378MG</interp>
+<standOff type="wordsplit" corresp="#PN336"><interp type="alignment" select="0">11MG15MG15MG4ML5MG20MG28M2G6MG31MG14MG44MG6MG14MG10MG8MG47MG33MG27MG13MG2ML2MG2M,378MG</interp>
 <entry>
 <form>vēṭṭa</form>
 <def>wanted</def>
