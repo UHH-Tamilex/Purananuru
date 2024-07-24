@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 338.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN338">
       <lg type="edition">
 <l>ērparanta vayaṉīr paranta ceṟuvi</l>
 <l>ṉeṉmalinta maṉaippoṉ malinta maṟukiṟ</l>
@@ -40,10 +40,25 @@
 <l>ṟuṇaṅkukala ṉāḻiyiṟ ṟōṉṟu</l>
 <l>mōreyiṉ maṉṉa ṉorumaṭa makaḷē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Like the Pōntai of Neṭuvēḷātaṉ, (4)</l>
+<l>with paddy fields spread with ploughs, fields spread with water, (1)</l>
+<l>houses abounding in paddy, streets abounding in gold, (2)</l>
+<l>groves of many blossoms where the descending bees hum (3)</l>
+<l>she of great excellence will be a lot difficult to [take]. (5a-c)  </l>
+<l>Having heads that wear black-branched Neem, </l>
+<l>laburnum and palmyra, having decorated bows (5d-7)</l>
+<l>even if those victorious kings come, he won’t </l>
+<l>give [her] to one who does not bow [to him] as it suits him, (8-9c)</l>
+<l>the king with a single fortress,  (12ab)</l>
+<l>that appears like a dry ship on the ocean, (11)</l>
+<l>well-protected among [his] paddy fields with ears intertwining with generous leaves, (9d-10)</l>
+	[and] one single youthful daughter. (12cd)
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14ML16ML40MG20ML3MG3MG35MG15M2G4M2G8MG3ML3M2G65MG50MG42MGM2G4MG2M,348MG</interp>
+<standOff type="wordsplit" corresp="#PN338"><interp type="alignment" select="0">14ML16ML40MG20ML3MG3MG35MG15M2G4M2G8MG3ML3M2G65MG50MG42MGM2G4MG2M,348MG</interp>
 <entry>
 <form>ēr</form>
 <def>plough</def>
