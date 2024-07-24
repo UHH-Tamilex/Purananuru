@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 345.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN345">
       <lg type="edition">
 <l>kaḷiṟaṇaippak kalaṅkiṉa kāa</l>
 <l>tērōṭat tukaḷkeḻumiṉa teruvu</l>
@@ -48,10 +48,32 @@
 <l>veṉṉā vatuko ṟāṉē</l>
 <l>paṉṉal vēliyip paṇainnal lūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>When the elephant bulls were tied, the groves were stirred up,</l>
+<l>when the chariots ran, the streets were full of dust,</l>
+<l>by the horses’ turning about, the roads got confused,</l>
+<l>by the vessels’ being washed, the harbours fell in chaos,</l>
+<l>many were those who came,</l>
+<l>for the ground to bend as the burden increased</l>
+<l>by the mass of seats for wrathful warriors.</l>
+<l>          A new king</l>
+<l>is yearning for the woman, with voluptuous looks:</l>
+<l>[her] firm(?) hot breasts taken in with [his] black eyes,</l>
+<l>aiming at the big rear guard close to pain</l>
+<l>from the iron seized by [his] hand, like the sigh of an elephant cow. (?!)</l>
+<l>To be pitied are her people:</l>
+<l>not caring for riches they wanted to enter a fight,</l>
+<l>saying “as for giving [her away] to someone out of the order, no!”</l>
+<l>they with shields tied from bamboo, they with jagged swords,</l>
+<l>their heads unwashed, long spears with black tips</l>
+<l>– even if it has warriors of that type, alas,</l>
+<l>what will become of it,</l>
+<l>this good village of fields with cotton hedges?  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">5MG63M2G34MG64MG23M2G19ML50ML10ML30MG6ML8MG46MG58MG55MG19MG3ML2MG26MG2M,542MG</interp>
+<standOff type="wordsplit" corresp="#PN345"><interp type="alignment" select="0">5MG63M2G34MG64MG23M2G19ML50ML10ML30MG6ML8MG46MG58MG55MG19MG3ML2MG26MG2M,542MG</interp>
 <entry>
 <form>kaḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>elephant</def>
