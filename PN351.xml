@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 351.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN351">
       <lg type="edition">
 <l>paṭumaṇi maruṅkiṉa paṇaittāḷ yāṉaiyuṅ</l>
 <l>koṭinuṭaṅku micaiya tēru māvum</l>
@@ -40,10 +40,24 @@
 <l>kāmaru kāñcit tuñcu</l>
 <l>mēmañcāl ciṟappiṉip paṇainal lūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Kings with drums beaten in victory,</l>
+<l>an army vast in area, as if one saw the sea,</l>
+<l>noisy, filled up with bold warriors suited to [their] weapons,</l>
+<l>large-footed elephants with ringing bells on their sides,</l>
+<l>chariots and horses with tops swaying with flags,</l>
+<l>won’t ever be content without [him] giving her beauty,</l>
+<l>like the Vākai of Eyiṉaṉ with a generous hand.</l>
+<l>What will become of it,</l>
+<l>‒ this good village of fields of an excellence worthy of protection,</l>
+<l>where the red-striped stork that grazed the pond with clear water,</l>
+<l>when it dislike the flower branches of the honey-holding myrobalan,</l>
+<l> sleeps on the desirable portia tree? </l> 
+</lg> 
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">31MG24MG2MLMG69MG49ML9MG22MG3ML2MG107MG2M,331MG</interp>
+<standOff type="wordsplit" corresp="#PN351"><interp type="alignment" select="0">31MG24MG2MLMG69MG49ML9MG22MG3ML2MG107MG2M,331MG</interp>
 <entry>
 <form>paṭu</form>
 <def>happen-</def>
