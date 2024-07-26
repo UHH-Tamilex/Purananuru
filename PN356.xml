@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 356.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN356">
       <lg type="edition">
 <l>kaḷari parantu kaḷḷi pōkip</l>
 <l>pakaluṅ kūvuṅ kūkaiyoṭu piṟaḻpal</l>
@@ -37,10 +37,21 @@
 <l>maṉpataik kellān tāṉāyt</l>
 <l>taṉpuṟaṅ kāṇpōrk kāṇpaṟi yātē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Fear has come to this old cremation ground engulfed by clouds [of smoke],</l>
+<l>with the Pēy women by the lights of the many </l>
+<l>irregular pyres, with owls that caw even by day,</l>
+<l>Kaḷḷi encroaching, brackish soil spreading.</l>
+<l>While tears cried for the lovers dwelling in the heart</l>
+<l>extinguish the white ashes on the burning ground littered with bones,</l>
+<l>seeing the back of everyone, in the world</l>
+<l>it/he being [the same] for all mankind,</l>
+<l>it never sees anyone who sees its/his back.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">28MG49MG11MG23MG43MG17MG9MG18MG30MG6M2G2M,246MG</interp>
+<standOff type="wordsplit" corresp="#PN356"><interp type="alignment" select="0">28MG49MG11MG23MG43MG17MG9MG18MG30MG6M2G2M,246MG</interp>
 <entry>
 <form>kaḷari</form>
 <def>saline-soil</def>
