@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 349.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN349">
       <lg type="edition">
 <l>nutivēl koṇṭu nutalviyar tuṭaiyāk</l>
 <l>kaṭiya kūṟum vēntē tantaiyu</l>
@@ -35,10 +35,19 @@
 <l>marampaṭu ciṟutīp pōla</l>
 <l>vaṇaṅkā yiṉaṭāṉ piṟanta vūrkkē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Wiping sweat off [his] forehead with [his] pointed spear</l>
+<l>the king talks harshly. And [her] father,</l>
+<l>besides [talking] at length does not speak humbly.</l>
+<l>If this [is] their penance, that dark young woman</l>
+<l>with sharp teeth [and] read-streaked beautiful rain eyes,</l>
+<l>like a small fire befalling a tree,</l>
+<l>has become a plague to the village she was born in.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">45M2G9MR29MG4MG24MG54MG6ML14M2G2M,196MG</interp>
+<standOff type="wordsplit" corresp="#PN349"><interp type="alignment" select="0">45M2G9MR29MG4MG24MG54MG6ML14M2G2M,196MG</interp>
 <entry>
 <form>nuti</form>
 <def>tip</def>

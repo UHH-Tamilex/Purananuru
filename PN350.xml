@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>tūrnta kiṭaṅkiṟ cōrnta ñāyiṟ</l>
+<l>citainta viñcik katuvāy mūtūr</l>
+<l>yāṅkā vatuko ṟāṉē tāṅkātu</l>
+<l>paṭumaḻai yurumi ṉiraṅku muraciṟ</l>
+<l>kaṭumāṉ vēntar kālai vanten</l>
+<l>neṭunilai vāyiṟ koṭkuvar mātō</l>
+<l>poruntā tamaruva rallar pōruḻan</l>
+<l>taṭumuraṇ muṉpiṟ ṟaṉṉaiya rēntiya</l>
+<l>vaṭivē leḵkiṟ civanta vuṇkaṭ</l>
+<l>ṭoṭipiṟaḻ muṉkai yiḷaiyō</l>
+<l>ḷaṇinal lākat tarumpiya cuṇaṅkē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">49MG6MG5MG3ML2MG59MG24MG12MG21MG89MG14M2G2M,297MG</interp>
+<entry>
+<form>tūrnta</form>
+<def>filled-up</def>
+</entry>
+<entry>
+<form>kiṭaṅkiṉ</form>
+<def>ditch</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>cōrnta</form>
+<def>slipped</def>
+</entry>
+<entry>
+<form>ñāyil</form>
+<def>bastion</def>
+</entry>
+<entry>
+<form>citainta</form>
+<def>been-spoiled-</def>
+</entry>
+<entry>
+<form><pc>~</pc>iñci<pc>+</pc></form>
+<def>rampart</def>
+</entry>
+<entry>
+<form>katuvāy</form>
+<def>blunt</def>
+</entry>
+<entry>
+<form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>old</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>yāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>how</def>
+</entry>
+<entry>
+<form>āvatu-kol</form>
+<def>become-it</def>
+<form type="simple">āvatu</form>
+<gramGrp type="particle"><m>kol</m></gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>tāṅkātu</form>
+<def>endure-not</def>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>fall</def>
+</entry>
+<entry>
+<form>maḻai</form>
+<def>rain</def>
+</entry>
+<entry>
+<form><pc>~</pc>urumiṉ</form>
+<def>thunder</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>iraṅku</form>
+<def>sound</def>
+</entry>
+<entry>
+<form>muraciṉ</form>
+<def>drum</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kaṭu</form>
+<def>fast</def>
+</entry>
+<entry>
+<form>māṉ</form>
+<def>horse</def>
+</entry>
+<entry>
+<form>vēntar</form>
+<def>king</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kālai</form>
+<def>time</def>
+</entry>
+<entry>
+<form>vant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>em</form>
+<def>our</def>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+</entry>
+<entry>
+<form>nilai</form>
+<def>state</def>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>door</def>
+</entry>
+<entry>
+<form>koṭkuvar-mātō</form>
+<def>revolve-they</def>
+<form type="simple">koṭkuvar</form>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>mātō</m></gramGrp>
+</entry>
+<entry>
+<form>poruntāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>be-suited-not</def>
+</entry>
+<entry>
+<form>amaruvar</form>
+<def>be-content-they</def>
+</entry>
+<entry>
+<form>allar</form>
+<def>not-so-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>pōr</form>
+<def>war</def>
+</entry>
+<entry>
+<form>uḻant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>borne</def>
+</entry>
+<entry>
+<form>aṭu</form>
+<def>kill</def>
+</entry>
+<entry>
+<form>muraṇ</form>
+<def>antagonism</def>
+</entry>
+<entry>
+<form>muṉpiṉ</form>
+<def>strength</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>taṉṉaiyar</form>
+<def>self-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ēntiya</form>
+<def>held-up</def>
+</entry>
+<entry>
+<form>vaṭi</form>
+<def>shape</def>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form>eḵkiṉ</form>
+<def>blade</def>
+</entry>
+<entry>
+<form>civanta</form>
+<def>reddened</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṇ</form>
+<def>kajal</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>toṭi</form>
+<def>bangle</def>
+</entry>
+<entry>
+<form>piṟaḻ</form>
+<def>sport(?)</def>
+<gramGrp></gramGrp></entry>
+<entry>
+<form>muṉkai</form>
+<def>forearm</def>
+</entry>
+<entry>
+<form><pc>~</pc>iḷaiyōḷ</form>
+<def>young-she</def>
+</entry>
+<entry>
+<form>aṇi</form>
+<def>adorn-</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form><pc>+</pc>ākatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>bosom</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>arumpiya</form>
+<def>budded-they</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>cuṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>beauty-spot</def>
+<form type="simple">cuṇaṅku</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
