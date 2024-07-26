@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 350.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN350">
       <lg type="edition">
 <l>tūrnta kiṭaṅkiṟ cōrnta ñāyiṟ</l>
 <l>citainta viñcik katuvāy mūtūr</l>
@@ -39,10 +39,23 @@
 <l>ṭoṭipiṟaḻ muṉkai yiḷaiyō</l>
 <l>ḷaṇinal lākat tarumpiya cuṇaṅkē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The blunt old town with ramparts that are ruined,</l>
+<l>with bastions that are fallen [and] ditches that are filled up,</l>
+<l>how will it become? Not enduring,</l>
+<l>as in the morning the king with a fast horse comes,</l>
+<l>with drums roaring like the thunder during the falling rains,</l>
+<l>will they not swing our doors of long standing [open]?</l>
+<l>Inconveniently, the won’t keep quiet, bearing with war,</l>
+<l>her people with murderous hostile strength.</l>
+<l>Beauty spots have budded on the adorned good breast</l>
+<l>of the young one with forearms that sport bangles,</l>
+  [her] kajal eyes reddened like the tips of the shapely spears they hold up.   
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">49MG6MG5MG3ML2MG59MG24MG12MG21MG89MG14M2G2M,297MG</interp>
+<standOff type="wordsplit" corresp="#PN350"><interp type="alignment" select="0">49MG6MG5MG3ML2MG59MG24MG12MG21MG89MG14M2G2M,297MG</interp>
 <entry>
 <form>tūrnta</form>
 <def>filled-up</def>
