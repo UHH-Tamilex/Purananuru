@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>araicutalai variṉu maṭaṅka lāṉā</l>
+<l>niraikā ḻeḵka nīriṉ mūḻkap</l>
+<l>puraiyōr cērnteṉat tantaiyum peyarkkum</l>
+<l>vayalamar kaḻaṉi vāyiṟ poykaik</l>
+<l>kayalār nārai yukaitta vāḷai</l>
+<l>puṉalāṭu makaḷir vaḷamaṉai yoyyu</l>
+<l>mūrkavi ṉiḻappavum varuvatu kollō</l>
+<l>cuṇaṅkaṇin teḻiliya vaṇaintēn tiḷamulai</l>
+<l>vīṅkiṟaip paṇaittōṇ maṭantai</l>
+<l>māṉpiṇai yaṉṉa makiḻmaṭa nōkkē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">40MR34MG84ML23MG11MG11MG5MG14MG3MG12MG44M3G4M2G2M,301MG</interp>
+<entry>
+<form>araicu</form>
+<def>king</def>
+</entry>
+<entry>
+<form>talaivariṉum</form>
+<def>come-against-if-even</def>
+</entry>
+<entry>
+<form>aṭaṅkal</form>
+<def>yielding</def>
+</entry>
+<entry>
+<form>āṉā</form>
+<def>end-not</def>
+</entry>
+<entry>
+<form>nirai</form>
+<def>put-in-row</def>
+</entry>
+<entry>
+<form>kāḻ</form>
+<def>core</def>
+</entry>
+<entry>
+<form>eḵkam</form>
+<def>blade</def>
+</entry>
+<entry>
+<form>nīriṉ</form>
+<def>water</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>mūḻka<pc>+</pc></form>
+<def>submerge</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>puraiyōr</form>
+<def>great-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>cērnteṉa<pc>+</pc></form>
+<def>joined-say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>tantai-<pc>~</pc>um</form>
+<def>father</def>
+<form type="simple">tantai</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>peyarkkum</form>
+<def>drives-away</def>
+</entry>
+<entry>
+<form>vayal</form>
+<def>field</def>
+</entry>
+<entry>
+<form>amar</form>
+<def>abide</def>
+</entry>
+<entry>
+<form>kaḻaṉi</form>
+<def>paddy-field</def>
+</entry>
+<entry>
+<form>vāyil</form>
+<def>gate</def>
+</entry>
+<entry>
+<form>poykai<pc>+</pc></form>
+<def>pond</def>
+</entry>
+<entry>
+<form>kayal</form>
+<def>Kayal-fish</def>
+</entry>
+<entry>
+<form>ār</form>
+<def>become-full</def>
+</entry>
+<entry>
+<form>nārai</form>
+<def>wader</def>
+</entry>
+<entry>
+<form><pc>~</pc>ukaitta</form>
+<def>moved-</def>
+</entry>
+<entry>
+<form>vāḷai</form>
+<def>Vāḷai-fish</def>
+</entry>
+<entry>
+<form>puṉal</form>
+<def>flood</def>
+</entry>
+<entry>
+<form>āṭu</form>
+<def>play</def>
+</entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+</entry>
+<entry>
+<form>vaḷam</form>
+<def>prosperity</def>
+</entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+</entry>
+<entry>
+<form><pc>~</pc>oyyum</form>
+<def>carrying</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>kaviṉ</form>
+<def>beauty</def>
+</entry>
+<entry>
+<form>iḻappa-<pc>~</pc>um</form>
+<def>be-lost</def>
+<form type="simple">iḻappa</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>varuvatu-kollō</form>
+<def>come-it</def>
+<form type="simple">varuvatu</form>
+<gramGrp type="particle"><m>kollō</m></gramGrp>
+</entry>
+<entry>
+<form>cuṇaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>beauty-spot</def>
+</entry>
+<entry>
+<form>aṇint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>adorned</def>
+</entry>
+<entry>
+<form>eḻiliya</form>
+<def>been-graceful-</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṇaint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>touched</def>
+</entry>
+<entry>
+<form>ēnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>be-eminent</def>
+</entry>
+<entry>
+<form>iḷa</form>
+<def>young</def>
+</entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+</entry>
+<entry>
+<form>vīṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>swell</def>
+</entry>
+<entry>
+<form>iṟai<pc>+</pc></form>
+<def>joint</def>
+</entry>
+<entry>
+<form>paṇai<pc>+</pc></form>
+<def>bamboo</def>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+</entry>
+<entry>
+<form>maṭantai</form>
+<def>girl</def>
+</entry>
+<entry>
+<form>māṉ</form>
+<def>deer</def>
+</entry>
+<entry>
+<form>piṇai</form>
+<def>doe</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>makiḻ</form>
+<def>de-delighted-</def>
+</entry>
+<entry>
+<form>maṭa<pc>(</pc>m<pc>)</pc></form>
+<def>ignorance</def>
+</entry>
+<entry>
+<form>nōkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>glance</def>
+<form type="simple">nōkku</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
