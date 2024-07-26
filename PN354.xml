@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 354.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN354">
       <lg type="edition">
 <l>araicutalai variṉu maṭaṅka lāṉā</l>
 <l>niraikā ḻeḵka nīriṉ mūḻkap</l>
@@ -38,10 +38,23 @@
 <l>vīṅkiṟaip paṇaittōṇ maṭantai</l>
 <l>māṉpiṇai yaṉṉa makiḻmaṭa nōkkē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Even if a king comes against [him], because [his] great [warriors]</l>
+<l>have joined to submerge [their] blades with shafts(?) in a row in the water</l>
+<l>that do not end yielding(?), [her] father too(?) will drive [him] away.</l>
+<l>Even if the beauty of [this] village is lost,</l>
+<l>where women bathing in the flood carry [back] to [their] prosperous houses</l>
+<l>the Vāḷai fish moved [out] by the heron feeding on Āral fish</l>
+<l>in the pond at the [flood] gate of the paddy field lying in the fields,</l>
+<l>  will it come [again],</l>
+<l>the delighted youthful look, like [that of] a doe,</l>
+<l>of the girl with bamboo shoulders with plump joints,</l>
+<l>[her] young breasts rising ? that are graceful, adorned with beauty spots?  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">40MR34MG84ML23MG11MG11MG5MG14MG3MG12MG44M3G4M2G2M,301MG</interp>
+<standOff type="wordsplit" corresp="#PN354"><interp type="alignment" select="0">40MR34MG84ML23MG11MG11MG5MG14MG3MG12MG44M3G4M2G2M,301MG</interp>
 <entry>
 <form>araicu</form>
 <def>king</def>
