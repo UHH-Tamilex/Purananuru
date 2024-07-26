@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 358.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN358">
       <lg type="edition">
 <l>paruti cūḻntavip payaṅkeḻu mānila</l>
 <l>morupaka leḻuva reyti yaṟṟē</l>
@@ -35,10 +35,18 @@
 <l>viṭṭōrai viṭāa ṭiruvē</l>
 <l>viṭāa tōrivaḷ viṭappaṭ ṭōrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>This fertile big earth surrounded by the disk</l>
+<l>is of the kind reached in one day by seven people.</l>
+<l>If one weighs the world and the penance, because</l>
+<l>for penance nothing changes to the extent of a mustard seed,</l>
+<l>lovers do let go. Therefore,</l>
+<l>Śrī does not let go of those who let go.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">53M2G7MG7MG17MG20MG9MG8MG28ML3MG25MG2M,189MG</interp>
+<standOff type="wordsplit" corresp="#PN358"><interp type="alignment" select="0">53M2G7MG7MG17MG20MG9MG8MG28ML3MG25MG2M,189MG</interp>
 <entry>
 <form>paruti</form>
 <def>disk</def>
