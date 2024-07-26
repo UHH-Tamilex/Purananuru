@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 359.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN359">
       <lg type="edition">
 <l>pāṟupaṭap paṟainta paṉmāṟu maruṅkiṉ</l>
 <l>vēṟupaṭu kurala vevvāy kūkaiyoṭu</l>
@@ -46,10 +46,30 @@
 <l>vāṇṭunī peyarnta piṉṉu</l>
 <l>mīṇṭunīṭu viḷaṅkunī yeytiya pukaḻē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Even those who have taken land have approached the cremation ground,</l>
+<l>where on sides with many changes laid waste when kites descend,</l>
+<l>along with hot-mouthed owls of changing(?) voices,</l>
+<l>those with fat-glittering teeth, the corpse-eating short jackals,</l>
+<l>[and] the Pēy women embrace [and] grip corpses,</l>
+<l>[their] bodies reeking of hot flesh as they have eaten white flesh,</l>
+<l>dancing, dislodging [their] legs, on the brackish soil</l>
+<l>[and] moving frightfully in the lights of the pyres.</l>
+<l>For you too will come such a day.</l>
+<l>Blame stays and fame stays.</l>
+<l>Therefore, repelling blame [and] wanting fame,</l>
+<l>not desiring what [you] wish for [and] speaking what is good,</l>
+<l>if you let go, saying “take!”, without being scarce, </l>
+<l>to mendicants large chariots on which jewels emerge,</l>
+<l>while mixing horses with golden gear</l>
+<l>with elephant that are many, with moonlight tusks,</l>
+<l>clearly, even after you return there</l>
+<l>the fame you attained will long shine here.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">169MG7M3G12MG22MG11MGMR6M2G18M2G6MG2MR10MG2MR32MG2MR23M2GMR46MG31MG69MR14MG2M,510MG</interp>
+<standOff type="wordsplit" corresp="#PN359"><interp type="alignment" select="0">169MG7M3G12MG22MG11MGMR6M2G18M2G6MG2MR10MG2MR32MG2MR23M2GMR46MG31MG69MR14MG2M,510MG</interp>
 <entry>
 <form>pāṟu</form>
 <def>kite</def>
