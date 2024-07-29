@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 367.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN367">
       <lg type="edition">
 <l>nākat taṉṉa pākār maṇṭilan</l>
 <l>tamavē yāyiṉun tam<supplied>moṭu cellā</supplied></l>
@@ -46,10 +46,30 @@
 <l>viyaṅku māmaḻai yuṟaiyiṉu</l>
 <l>muyarntumēn tōṉṟip polikanun nāḷē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Although the orb full of fates, like [that of] the snakes,</l>
+<l>was their’s, it did not go with them. (1f.)</l>
+<l>Although they were different ones, it stayed behind for those who were toiling. (3)</l>
+<l>It is necessary to live, in the days here that are limited, (9)</l>
+<l>showering without stinting precious ornaments to mendicants, (8)</l>
+<l>exulting in delight, drinking toddy filtered through fibres (7)</l>
+<l>that is offered from golden vessels by women with green[golden] jewels, (6)</l>
+<l>pouring so that flowers and gold fall in a flood (5)</l>
+<l>to fill the moist hands of the receiving brahmins. (4)</l>
+<l>Apart from the good deeds performed while living (10)</l>
+<l>there is no other support at the time one sinks. (11) </l>
+<l>You kings with bannered chariots [and] victorious white parasols (14)</l>
+<l>who sit, fit to be seen, like the three fires (13)</l>
+<l>of the men with two birth who desire [and] retain one thing, (12)</l>
+<l>as far as I know it is this. (15a-c)</l>
+<l>May your days of appearing on top be more numerous (18)</l>
+<l>more than the drops from dark clouds that move (17)</l>
+<l>noisily, more than the flashes of lightning that appear glowing in the sky. (15df.)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">6MG7MG14MG32MR8MG19MG16MG6MG23MG22MG34MG10MG74MG20MG16MG18MG73MG6MG23ML64MG2M,180MG331MG</interp>
+<standOff type="wordsplit" corresp="#PN367"><interp type="alignment" select="0">6MG7MG14MG32MR8MG19MG16MG6MG23MG22MG34MG10MG74MG20MG16MG18MG73MG6MG23ML64MG2M,180MG331MG</interp>
 <entry>
 <form>nākatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>snake</def>
