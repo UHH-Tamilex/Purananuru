@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 364.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN364">
       <lg type="edition">
 <l>vāṭā mālai pāṭiṉi yaṇiya</l>
 <l>pāṇaṉ ceṉṉik kēṇi pūvā</l>
@@ -41,10 +41,25 @@
 <l>kūkai kōḻi yāṉāt</l>
 <l>tāḻiya peruṅkā ṭeytiya ñāṉṟē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While unfading garlands adorn the songstresses (1),</l>
+<l>while big blossoms of flame-like lotus</l>
+<l>that did not bloom in wells sway on the heads of the bards (2f.)</l>
+<l>putting a big male black ram on the red fire, (4)</l>
+<l>while moving on the tongues of [our] toddy-drinking red mouths (6)</l>
+<l>fat pieces large in extent that melt with spices, (5)</l>
+<l>eating, feasting [and] giving to those who beg (7)</l>
+<l>let us make merry, come, you of valorous battle! (8)</l>
+<l>[Such things] are rightful, great man, as soon they will become difficult (9)</l>
+<l>– at the time when we reach the big cremation ground with urns (13)</l>
+<l>where the owl fowl do not end (12)</l>
+<l>that give sound harshly from the hollows of old trees (11)</l>
+<l>with many swaying roots that descend so that the ground is split. (10)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">49ML89MG28M2G6M2G11MG3M2G2ML22MG12MG101MG10M2G2M,349MG</interp>
+<standOff type="wordsplit" corresp="#PN364"><interp type="alignment" select="0">49ML89MG28M2G6M2G11MG3M2G2ML22MG12MG101MG10M2G2M,349MG</interp>
 <entry>
 <form>vāṭā</form>
 <def>fade-not</def>
