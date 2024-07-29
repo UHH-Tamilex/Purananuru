@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 368.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN368">
       <lg type="edition">
 <l>kaḷiṟu mukantu peyarkuva meṉiṉē</l>
 <l>yoḷiṟumaḻai tavirkkuṅ  kuṉṟam pōlak</l>
@@ -46,10 +46,30 @@
 <l>muḻavumaru ṟirumaṇi miṭaintaniṉ</l>
 <l>ṉaravuṟa ḻāra mukakkuva meṉavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>If we were to come back after bringing in elephant bulls, (1)</l>
+<l>like hills that retain bright clouds (2)</l>
+<l>all [those] hand animals would be lost when arrows were put [into them]. (3)</l>
+<l>If we were to come back after bringing in tall chariots with support staffs, (4)</l>
+<l>the fast-moving fine horses becoming weary on the curved side, (5)</l>
+<l>[their] long pride perishing they would join the ground. (6)</l>
+<l>If we were to return after bringing in horses with trimmed manes, (7)</l>
+<l>with scars that fill [their] bodies, encountering the great other, (8)</l>
+<l>like ships when the movement of the wind is cut off, (9)</l>
+<l>they would fill a great flood of blood. Thus, (10)</l>
+<l>In the absence of things to bring in, without things that drop, (11)</l>
+<l>on the unpleasant wide field where those who beg are aggrieved, (12)</l>
+<l>o you ploughman who ploughs with a sword that destroys men, (13)</l>
+<l>loudly beating the clear eye of my Teṭāri drum (15)</l>
+<l>that is like the way of a rutting elephant’s foot (14)</l>
+<l>singing came all the dancers, (16)</l>
+<l>thinking “we will draw upon your snake-like strings (18)</l>
+<l>that is set close with brilliant gems [large] as drums. (17)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">27MG93MG38MG19MG30MG30MG13MG44MG65MG28M3G27MG30MG23ML23MG8ML12MG3M,309MG220MG</interp>
+<standOff type="wordsplit" corresp="#PN368"><interp type="alignment" select="0">27MG93MG38MG19MG30MG30MG13MG44MG65MG28M3G27MG30MG23ML23MG8ML12MG3M,309MG220MG</interp>
 <entry>
 <form>kaḷiṟu</form>
 <def>elephant-bull</def>
