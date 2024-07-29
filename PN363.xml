@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 363.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN363">
       <lg type="edition">
 <l>iruṅkaṭa luṭuttavip peruṅkaṇ mānila</l>
 <l>muṭaiyilai naṭuvaṇat tiṭaipiṟark kiṉṟit</l>
@@ -46,10 +46,30 @@
 <l>ceynnī muṉṉiya viṉaiyē</l>
 <l>munnīr varaippaka muḻutuṭaṉ tuṟantē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>On this big earth of vast area that is encircled by the dark sea, (1)</l>
+<l>there are protective guardians who rule themselves (3)</l>
+<l>without [leaving] for others [as much] space that is in the middle of a babul leaf, (2)</l>
+<l>many more that the [grains of] sand by the sea that puts [them down], (4a-c)</l>
+<l>Having gone, burning corpses, to the cremation ground as [their] abode, (4d-5c)</l>
+<l>as others rule all their lands, they went [and] are gone. (5c-6)</l>
+<l>Therefore, you too listen [now]: (7a-c)</l>
+<l>there is no lasting life with the body, unperishing. (7d-8)</l>
+<l>The existence of Death an illusion? It is not. (9)</l>
+<l>In the thorny outer cremation ground covered by spurges, (10)</l>
+<l>in that vast inner place overgrown with woodapple (11)</l>
+<l>taking in hand boiled rice as an offering </l>
+<l>without salt, not looking behind (12f.)</l>
+<l>obtaining when a low-born man gives, (14)</l>
+<l>on the height of shining offerings with the ground as the vessel, (15)</l>
+<l>before unpleasant day comes (16)</l>
+<l>[just] do the work you consider, (17)</l>
+<l>abandoning altogether the inland bordered by the three-watered sea. (18)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">52MG11MG8MG40MG33MR28MG11MG10MG11MG18MG25MG5M2G17MG40MG38MG51MG20MG20MG5MG10MG4ML4MG10M2G2M,186MG310MG</interp>
+<standOff type="wordsplit" corresp="#PN363"><interp type="alignment" select="0">52MG11MG8MG40MG33MR28MG11MG10MG11MG18MG25MG5M2G17MG40MG38MG51MG20MG20MG5MG10MG4ML4MG10M2G2M,186MG310MG</interp>
 <entry>
 <form>irum</form>
 <def>big</def>
