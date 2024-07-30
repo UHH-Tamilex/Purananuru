@@ -62,7 +62,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN225"><interp type="alignment" select="0">104ML17ML18MG22MG81M2G28MG58MG73MR3M2G4MG2M,421MG</interp>
+<standOff type="wordsplit" corresp="#PN225"><interp type="alignment" select="0">104ML17ML18MG22MG81M2G28MG58MG72MGMR3M2G4MG2M,422MG</interp>
 <entry>
 <form>talaiyōr</form>
 <def>head-they</def>
@@ -419,10 +419,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>tōṉṟiṉum</form>
+<form>tōṉṟiṉ-um</form>
 <def>appear-if-even</def>
+<form type="simple">tōṉṟiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>nōk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
 <def>ache-I</def>

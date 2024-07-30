@@ -53,7 +53,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN289"><interp type="alignment" select="0">32MG2MG2MR21MG48MG8MG23MG26MG12MG10MG6MG26MG3MG7ML29MG2M,271MG</interp>
+<standOff type="wordsplit" corresp="#PN289"><interp type="alignment" select="0">21MG11MG2MG2MR21MG48MG8MG23MG26MG12MG10MG6MG26MG3MG7ML29MG2M,272MG</interp>
 <entry>
 <form>īra</form>
 <def>wetness</def>
@@ -71,10 +71,13 @@
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><pc>~</pc>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>pal</form>
 <def>many</def>
