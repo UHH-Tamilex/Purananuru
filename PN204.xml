@@ -61,7 +61,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN204"><interp type="alignment" select="0">21MG59MG40MG50MG3MG3MLMG7MG32MG35MG8M2G113MG3M,387MG</interp>
+<standOff type="wordsplit" corresp="#PN204"><interp type="alignment" select="0">21MG23MG36MG25MG65MG3MG3MLMG7MG32MG4MG31MG8M2G113MG3M,389MG</interp>
 <entry>
 <form>ī</form>
 <def>give</def>
@@ -106,10 +106,12 @@
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp></entry>
 <entry>
-<form>ataṉiṉum</form>
+<form>ataṉiṉ-um</form>
 <def>that</def>
+<form type="simple">ataṉiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>iḻintaṉṟu</form>
 <def>it was low</def>
@@ -160,10 +162,12 @@
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp></entry>
 <entry>
-<form>ataṉiṉum</form>
+<form>ataṉiṉ-um</form>
 <def>that</def>
+<form type="simple">ataṉiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>uyarntaṉṟu</form>
 <def>it was high</def>
@@ -171,23 +175,28 @@
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>teḷ-nīr</form>
-<def>be-clear</def>
+<form>teḷ</form>
+<def>be clear</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form>parappiṉ</form>
+<form>nīr</form>
 <def>water</def>
 </entry>
 <entry>
-<form>imiḻ</form>
+<form>parappiṉ</form>
 <def>expanse</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>tirai<pc>+</pc></form>
+<form>imiḻ</form>
 <def>buzz</def>
 <gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>tirai<pc>+</pc></form>
+<def>wave</def>
+<gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
 <form>perum</form>
@@ -229,10 +238,12 @@
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>ā-yum</form>
+<form><pc>~</pc>ā-<pc>~</pc>um</form>
 <def>cow</def>
+<form type="simple">ā</form>
 <gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>mā-<pc>~</pc>um</form>
 <def>deer</def>
@@ -272,10 +283,13 @@
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>uṇ</form>
 <def>drink</def>
