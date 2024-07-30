@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 369.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN369">
       <lg type="edition">
 <l>iruppumukañ ceṟitta vēnteḻiṉ maruppiṟ</l>
 <l>karuṅkai yāṉai koṇmū vāka</l>
@@ -56,10 +56,41 @@
 <l>vēḻa mukavai nalkumati</l>
 <l>tāḻā vīkait takaivey yōyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Black-trunked elephants with eminent graceful tusks,</l>
+<l>on which iron face[-masks are tightened, as clouds,</l>
+<l>swords that are raised by fighting valorous men of</l>
+<l>long[-lasting] word as lightning, drums, that have been offered blood,</l>
+<l>subjected to glowing drum sticks, as thunder,</l>
+<l>horses of hot speed at the tormenting time,</l>
+<l>when lordly snakes tremble, as gushing wind,</l>
+<l>the chariots on the wet field, an expanse of wide area,</l>
+<l>flown by drops: arrows discharged by the bulging string</l>
+<l>of the speedy strong bow, as ploughs,</l>
+<l>prolonging for a long time when dawn had entered,</l>
+<l>sowing white spears, thrown after gripping [them], along with arrows</l>
+<l>into the well-prepared fresh furrows thrown up by your fighting weapon,</l>
+<l>joining the flourishing [battle] field while Bhūtas stand guard,</l>
+<l>to establish a threshing floor, for demons along with jackals in groups,</l>
+<l>of many heaps of corspses, seized by Pēy demonesses,</l>
+<l>for frightening fresh crops, on which the excellent heads are bent,</l>
+<l>– o man full of greatness, who remained for the singers!</l>
+<l>Come, o great one, singing,</l>
+<l>pressing the Taṭāri drum with tinkling voice so that the covering</l>
+<l>burns, on the feast where no defect is seen,</l>
+<l>with tied fetters, resembling the dwindling white core.</l>
+<l>The songs having ended,</l>
+<l>please grant gifts of elephant bulls</l>
+<l>set in between Tuṭi-drum-footed elephant cows with calfs,</l>
+<l>not knowing of becoming weak, foreheads with metal plates,</l>
+<l>like the Himalaya with golden long peaks</l>
+<l>[and] waterfalls of buzzing sound that touch the clouds,</l>
+<l>o you who is keen on what is befitting [in the line of] undeclining giving.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">22MG86MG32MG8MG17MG44MG129MG16MG158MG9MG110MG3MG42MG7MG104MG2M,803MG</interp>
+<standOff type="wordsplit" corresp="#PN369"><interp type="alignment" select="0">22MG86MG32MG8MG17MG44MG129MG16MG158MG9MG110MG3MG42MG7MG104MG2M,803MG</interp>
 <entry>
 <form>iruppu</form>
 <def>iron</def>
