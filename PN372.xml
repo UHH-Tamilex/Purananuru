@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 372.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN372">
       <lg type="edition">
 <l>vicipiṇit taṭāri vimmeṉa voṟṟi</l>
 <l>yētti vanta tellā muḻutta</l>
@@ -41,10 +41,26 @@
 <l>pulavukkaḷam poliya vēṭṭōyniṉ</l>
 <l>ṉilavuttika ḻāra mukakkuva meṉavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Loudly beating the Taṭāri drum tied with straps (1)</l>
+<l>[we] came, praising [you], (2ab)</l>
+<l>in the war camp that joins the area where arrows had flown as [rain] drops, (4)</l>
+<l>with the shining light of shining swords flashing victorioulsly, (3)</l>
+<l>	all at once(?), (2cd)</l>
+<l>thinking that we will draw pearl-strings glimmering of moonlight, (13)</l>
+<l>from you who sacrificed so that the flesh-reeking battle field flourishes, (12)</l>
+<l>saying “let you Bhūtas be many into whose red mouths is poured (11)</l>
+<l>all [given to] newcomers at wedding feasts, (10)</l>
+<l>when the cook offers balls of dark kid (9)</l>
+<l>that was cooked, stirring the place, by a Vēṇmāḷ woman who had not given birth, (8)</l>
+<l>with a Vaṉṉi-wooden ladle into unending bowls, (7)</l>
+<l>on the fireplace [made] of the cut-off heads of uncouth enemies (5)</l>
+<l>kindling(?) firewood of Bael, swaying in lines. (6) </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">38MG5ML20MG156MG50MG28M3G47ML12MG3M,368MG</interp>
+<standOff type="wordsplit" corresp="#PN372"><interp type="alignment" select="0">38MG5ML20MG156MG50MG28M3G47ML12MG3M,368MG</interp>
 <entry>
 <form>vici</form>
 <def>strap</def>
