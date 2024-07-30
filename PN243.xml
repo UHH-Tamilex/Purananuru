@@ -63,7 +63,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN243"><interp type="alignment" select="0">10MG26MG35ML80MG47MG115MG5MG4MG24MG10MG3MG30MG17M2G2M,421MG</interp>
+<standOff type="wordsplit" corresp="#PN243"><interp type="alignment" select="0">10MG26MG35ML80MG47MG111M2G4MG5MG4MG24MG10MG3MG30MG17M2G2M,423MG</interp>
 <entry>
 <form>iṉi</form>
 <def>now</def>
@@ -363,11 +363,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>aḷitō</form>
+<form><pc>~</pc>aḷit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
 <def>pitiable-it</def>
+<form type="simple">aḷitu</form>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
 <entry>
 <form>tāṉ-ē</form>
 <def>self</def>

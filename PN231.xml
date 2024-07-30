@@ -46,7 +46,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN231"><interp type="alignment" select="0">35M3G54MG9MR42MG16MG3M,165MG</interp>
+<standOff type="wordsplit" corresp="#PN231"><interp type="alignment" select="0">60MG29MG8MGMR42MG16MG3M,164MG</interp>
 <entry>
 <form>eṟi</form>
 <def>flame</def>
@@ -79,7 +79,7 @@
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form>puṟa<pc>(</pc>m<pc>)</pc></form>
+<form>puṟa</form>
 <def>outside</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -103,10 +103,13 @@
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
 <entry>
-<form>kuṟukiṉum</form>
+<form>kuṟukiṉ-um</form>
 <def>come-near-if-even</def>
+<form type="simple">kuṟukiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>kuṟukuka</form>
 <def>may come near</def>
@@ -134,10 +137,13 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>nīḷiṉum</form>
+<form>nīḷiṉ-um</form>
 <def>extend-if-even</def>
+<form type="simple">nīḷiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>nīḷka</form>
 <def>may extend</def>

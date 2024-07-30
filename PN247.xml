@@ -54,7 +54,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN247"><interp type="alignment" select="0">18M3G85MG12ML62MG7MG41ML61M2G2M,297MG</interp>
+<standOff type="wordsplit" corresp="#PN247"><interp type="alignment" select="0">103MG12ML62MG7MG41ML24MG37M2G2M,295MG</interp>
 <entry>
 <form>yāṉai</form>
 <def>elephant</def>
@@ -72,7 +72,7 @@
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form>mara<pc>(</pc>m<pc>)</pc></form>
+<form>mara</form>
 <def>tree</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -239,9 +239,12 @@
 </entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)</def>
 <form type="simple">tāṉ</form>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
@@ -311,10 +314,13 @@
 <gram type="role">feminine singular</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>iṉ</form>
 <def>pleasing</def>

@@ -59,7 +59,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN257"><interp type="alignment" select="0">6MG36MG25ML55MGMG3MG14MG13MG14MG31MG16MR12MR47MG9ML34ML26MG10MG2M,370MG</interp>
+<standOff type="wordsplit" corresp="#PN257"><interp type="alignment" select="0">6MG36MG25ML55MGMG3MG14MG13MG14MG31MG16MR12MR47MG9ML13MG21ML26MG10MG2M,371MG</interp>
 <entry>
 <form>cerupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>sandal</def>
@@ -194,12 +194,9 @@
 </gramGrp></entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)(n.sg.|3.)</def>
+<def>self</def>
 <form type="simple">tāṉ</form>
-<gramGrp><gram type="role">neuter singular</gram>
-<gram type="role">singular</gram>
-<gram type="role">third person</gram>
-<gram type="role">noun</gram>
+<gramGrp><gram type="role">singular</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
@@ -362,10 +359,13 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><pc>~</pc>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>eṉ</form>
 <def>what</def>

@@ -58,7 +58,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN236"><interp type="alignment" select="0">56MG10MG4ML36MG38M2G18ML6MG5MG17MG4M3G23ML10MGM2G18MG48MG9MG17MG2M,342MG</interp>
+<standOff type="wordsplit" corresp="#PN236"><interp type="alignment" select="0">56MG10MG4ML36MG38M2G18ML6MG5MG17MG4M3G23ML10MGM2G18MG6MG42MG9MG17MG2M,343MG</interp>
 <entry>
 <form>kalai</form>
 <def>male monkey</def>
@@ -315,10 +315,13 @@
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><pc>~</pc>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>immai</form>
 <def>this birth</def>
