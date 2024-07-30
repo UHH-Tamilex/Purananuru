@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Puṟanāṉūṟu</title> 372.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 371.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN372">
+    <div xml:id="PN371">
       <lg type="edition">
 <l>akaṉṟalai vaiyattup puravalark kāṇātu</l>
 <l>marantalaic cērntu paṭṭiṉi vaikip</l>
@@ -87,7 +87,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN372"><interp type="alignment" select="0">67MG28MG61MG12MG14M3G126MG16MG5MG79MG65MG57ML35ML35MG11MG125MG56MG2M,811MG</interp>
+<standOff type="wordsplit" corresp="#PN371"><interp type="alignment" select="0">67MG28MG61MG12MG14M3G126MG16MG5MG79MG65MG57ML35ML35MG11MG125MG56MG2M,811MG</interp>
 <entry>
 <form>akal</form>
 <def>widen</def>
