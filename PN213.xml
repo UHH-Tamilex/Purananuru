@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 213.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -82,7 +82,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN213"><interp type="alignment" select="0">4MG52M2G72MG10ML36MG5MG27M2G3MG6MG50MG50MG22MG41MG22MG31ML18MG7MG24MG34MG15MG3MG13MG11MG30MG7MR6ML25MG2ML25MG13MG18MG10M2G2M,344MG198MG184MG</interp>
+<standOff type="wordsplit" corresp="#PN213"><interp type="alignment" select="0">4MG52M2G72MG10ML36MG5MG24MG3ML3M2G6MG55MG45MG22MG41MG22MG31ML18MG7MG24MG34MG15MG3MG13MG11MG30MG7MR6ML25MG2ML25MG13MG18MG10M2G2M,345MG198MG184MG</interp>
 <entry>
 <form>maṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>grow-fierce</def>
@@ -199,8 +199,8 @@
 <entry>
 <form>tuppiṉ</form>
 <def>strength</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>niṉ</form>
 <def>your</def>
@@ -209,10 +209,8 @@
 <entry>
 <form>pakaiñarum</form>
 <def>enemies</def>
-<form type="simple">pakaiñar</form>
 <gramGrp><gram type="role">honorific</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
+</gramGrp></entry>
 <entry>
 <form>allar</form>
 <def>not-so-they</def>
@@ -229,8 +227,8 @@
 <entry>
 <form>kāṭciyoṭu</form>
 <def>sight</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>māṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>opposition</def>
@@ -253,17 +251,19 @@
 <def>time</def>
 </entry>
 <entry>
-<form>nīyum-maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>youum</def>
-<form type="simple">nīyum</form>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+<form>nī-<pc>~</pc>um</form>
+<def>you</def>
+<form type="simple">nī</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>avarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>maṟṟuthey</def>
+<form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-avarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>they</def>
+<form type="simple">avarkku</form>
 <gramGrp><gram type="role">dative</gram>
 <gram type="role">honorific</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+</entry>
 <entry>
 <form>aṉaiyai</form>
 <def>thus-you</def>
@@ -302,14 +302,14 @@
 <def>sound</def>
 </entry>
 <entry>
-<form><pc>~</pc>eyti-maṟṟu</form>
+<form><pc>~</pc>eyti</form>
 <def>reached</def>
-<form type="simple">eyti</form>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
 </entry>
 <entry>
-<form>nī</form>
-<def>maṟṟuyou</def>
+<form>maṟṟu-nī</form>
+<def>you</def>
+<form type="simple">nī</form>
+<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>uyarntōr</form>
@@ -345,8 +345,6 @@
 <entry>
 <form>urittaṉṟē</form>
 <def>right-it</def>
-<form type="simple">urittaṉṟ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>ataṉāl</form>
@@ -359,8 +357,6 @@
 <entry>
 <form>ātalum</form>
 <def>becoming</def>
-<form type="simple">ātal</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>aṟivōy</form>
@@ -369,8 +365,6 @@
 <entry>
 <form>naṉṟum</form>
 <def>well</def>
-<form type="simple">naṉṟ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>iṉṉum</form>
@@ -398,8 +392,8 @@
 <entry>
 <form>tuppoṭu</form>
 <def>force</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>niṉ</form>
 <def>you</def>
@@ -599,8 +593,6 @@
 <entry>
 <form>naṉṟē</form>
 <def>good-it</def>
-<form type="simple">naṉṟ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>vāṉōr</form>
@@ -636,8 +628,8 @@
 <entry>
 <form>viruppoṭu</form>
 <def>longing</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>virunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>guest</def>
