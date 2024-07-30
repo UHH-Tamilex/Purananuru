@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 374.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN374">
       <lg type="edition">
 <l>kāṉaṉ mēyntu viyaṉpulat talkum</l>
 <l>pulvā yiralai neṟṟi yaṉṉa</l>
@@ -46,10 +46,41 @@
 <l>vaṇmaiyu muṭaiyaiyō ñāyiṟu</l>
 <l>koṉviḷaṅ kutiyāl vicumpi ṉāṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>As, (8d)</l>
+<l>so that the dishevelled hair one [my] golden shining head perspires (3)</l>
+<l>like the forehead of the Iralai deer (2)</l>
+<l>that grazes in the seashore grove [and] stays in the wide fields, (1)</l>
+<l>at the time that does not become dry when cool dew drips, (4)</l>
+<l>I join the big mountain with a jackfruit tree in a village common, (5)</l>
+<l>beat my clear-eyed Kiṇai drum so that it sounds, (6)</l>
+<l>sounding [it] while a dark stag/monkey listens, [and] visibly (7)</l>
+<l>sing by the slope with black-stalked Kuṟiñci, (8)</l>
+<l>resembling Āay Aṇṭiraṉ with anklets [and] bracelets, (16),</l>
+<l>our king, man from a land, where grants a seat at [his] feast/to guests (15)</l>
+<l>[even] the young man, after having departed to search the forest, with doe-eyed women (10)</l>
+<l>[and] ruddy-haired children with tiger-tooth Tālis, (9)</l>
+<l>[and] heaped on the striped skin of a dark, lustrous, strong tiger (14)</l>
+<l>three things, [namely] with the tusk of an elephant bull with spotted face (13)</l>
+<l>mature sandal from the branches in the mountain side with clefts [and] caves, (12)</l>
+<l>[and] fat pieces of a male porcupine that fell to the bow, (11)</l>
+<l>– do you also possess munificence, sun? (17)</l>
+<l>You would vainly shine in the sky. (18)</l>
+<lg type="alternate" sameAs="9-16">
+<l>resembling Āay Aṇṭiraṉ with anklets [and] bracelets, (16),</l>
+<l>our king, man from a land, who grants a seat at [his] feast/to guests (15)</l>
+<l>after heaping on the striped skin of a dark, lustrous, strong tiger (14)</l>
+<l>three things, [namely] with the tusk of an elephant bull with spotted face (13)</l>
+<l>mature sandal from the branches in the mountain side with clefts [and] caves, (12)</l>
+<l>[and] fat pieces of a male porcupine that fell to the bow, (11)</l>
+<l>when ruddy-haired youngsters with tiger-tooth Tālis (9)</l>
+<l>had departed to search the forest for the sake of doe-eyed women [and] come back, (10)   </l>
+</lg>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">22MG261MG82MG20M2G39MG9MR15ML24MG10MG20MG13MG2M,528MG</interp>
+<standOff type="wordsplit" corresp="#PN374"><interp type="alignment" select="0">22MG261MG82MG20M2G39MG9MR15ML24MG10MG20MG13MG2M,528MG</interp>
 <entry>
 <form>kāṉal</form>
 <def>seashore-grove</def>
