@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 210.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -63,7 +63,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN210"><interp type="alignment" select="0">13MR17MG37MG2M2G3MG31MG40MG23MG7MG6M2G47MG26MG23MG22ML49MR15ML65M2G2M,447MG</interp>
+<standOff type="wordsplit" corresp="#PN210"><interp type="alignment" select="0">13MR17MG37MG2ML3M2G31MG40MG23MG7MG6M2G47MG26MG23MG22ML49MR15ML65M2G2M,447MG</interp>
 <entry>
 <form>maṉpatai</form>
 <def>humanity</def>
@@ -110,16 +110,19 @@
 <gramGrp><gram type="role">sociative</gram>
 </gramGrp></entry>
 <entry>
-<form>nummaṉōr-um-maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>you-like-they(h.)um-</def>
-<form type="simple">nummaṉōr-um</form>
-<gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+<form>nummaṉōr-um</form>
+<def>you-like-they</def>
+<form type="simple">nummaṉōr</form>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>iṉaiyar</form>
+<form>maṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-iṉaiyar</form>
 <def>thus-they</def>
+<form type="simple">iṉaiyar</form>
 <gramGrp><gram type="role">honorific</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>maṟṟu</m></gramGrp>
+</entry>
 <entry>
 <form>āyiṉ</form>
 <def>if</def>
@@ -340,8 +343,8 @@
 <entry>
 <form>neñcamoṭu</form>
 <def>heart</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>celval</form>
 <def>go-I</def>

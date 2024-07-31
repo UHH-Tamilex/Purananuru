@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 216.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN216">
+      <lg type="edition">
+<l>kēṭṭaṉ māttirai yalla tiyāvatuṅ</l>
+<l>kāṇṭa lillā tiyāṇṭupala kaḻiya</l>
+<l>vaḻuviṉṟu paḻakiya kiḻamaiya rāyiṉu</l>
+<l>maritē tōṉṟa lataṉpaṭa voḻukaleṉ</l>
+<l>ṟaiyaṅ koḷḷaṉmi ṉāraṟi vāḷī</l>
+<l>rikaḻvila ṉiṉiya ṉiyātta naṇpiṉaṉ</l>
+<l>pukaḻkeṭa varūum poyvēṇ ṭalaṉē</l>
+<l>taṉpeyar kiḷakkuṅ kālai yeṉpeyar</l>
+<l>pētaic cōḻa ṉeṉṉuñ ciṟanta</l>
+<l>kātaṟ kiḻamaiyu muṭaiya ṉataṉṟalai</l>
+<l>yiṉṉatōr kālai nillala</l>
+<l>ṉiṉṉē varukuva ṉoḻikkavavaṟ kiṭamē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>  “While many years have passed without seeing (2) </l>
+<l>anything [of him] apart from hearing a bit, (1)</l>
+<l>even though he is a lord who is familiar, without blemish, (3)</l>
+<l>it would be difficult [for him] to turn up [here now]. ?????conduct”, (4)</l>
+<l>don’t take up such doubt, you men of rare knowledge. (5)</l>
+<l>He is without reproach, sweet, in friendship bound [to me]. (6)</l>
+<l>He won’t want a lie that comes to get [his] fame lost. (7)</l>
+<l>At the time his name rests, my name (8)</l>
+<l>says Pētai Cōḻaṉ. (9a-c)</l>
+<l>He has a right to [my] exulted love. On top of that, (9d-10)</l>
+<l>at [this] time that is not pleasant he won’t stay [away]. (11)</l>
+<l>He will come right now. May a place be kept for him. (12)</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN216"><interp type="alignment" select="0">26M2G66M2G25MG20MG9MG50MG65MG65MG4MG2M,342MG</interp>
+<entry>
+<form>kēṭṭal</form>
+<def>listening</def>
+</entry>
+<entry>
+<form>māttirai</form>
+<def>māttirai-measure</def>
+</entry>
+<entry>
+<form><pc>~</pc>allati</form>
+<def>besides</def>
+</entry>
+<entry>
+<form>yāvat<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>what</def>
+<form type="simple">yāvatu</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kāṇṭal</form>
+<def>seeing</def>
+</entry>
+<entry>
+<form>illāti</form>
+<def>without-it</def>
+</entry>
+<entry>
+<form>yāṇṭu</form>
+<def>year</def>
+</entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḻiya</form>
+<def>pass</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vaḻu</form>
+<def>fault</def>
+</entry>
+<entry>
+<form><pc>~</pc>iṉṟu</form>
+<def>not-it</def>
+</entry>
+<entry>
+<form>paḻakiya</form>
+<def>been-familiar</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kiḻamaiyar</form>
+<def>lordship-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>arit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>difficult-it</def>
+<form type="simple">aritu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>tōṉṟal</form>
+<def>appearing</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>ataṉ</form>
+<def>that</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>paṭa</form>
+<def>happen</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḻukal</form>
+<def>conduct</def>
+</entry>
+<entry>
+<form>eṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>said</def>
+</entry>
+<entry>
+<form>aiyam</form>
+<def>doubt</def>
+</entry>
+<entry>
+<form>koḷḷaṉmiṉ</form>
+<def>take-not</def>
+<gramGrp><gram type="role">imperative</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>ār</form>
+<def>rare</def>
+</entry>
+<entry>
+<form>aṟiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>knowledge</def>
+</entry>
+<entry>
+<form>āḷīr</form>
+<def>men-you</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>ikaḻv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>reproach</def>
+</entry>
+<entry>
+<form>ilaṉ</form>
+<def>not-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉiyaṉ</form>
+<def>pleasing-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>iyātta</form>
+<def>tied</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>naṇpiṉaṉ</form>
+<def>friendship-he</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>pukaḻ</form>
+<def>praise</def>
+</entry>
+<entry>
+<form>keṭa</form>
+<def>get-lost</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>varūum</form>
+<def>coming</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>poy</form>
+<def>lie</def>
+</entry>
+<entry>
+<form>vēṇṭalaṉ-ē</form>
+<def>need-not-he</def>
+<form type="simple">vēṇṭalaṉ</form>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">negative</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>peyar</form>
+<def>name</def>
+</entry>
+<entry>
+<form>kiḷakkum</form>
+<def>expressing-clearly</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kālai</form>
+<def>time</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>peyar</form>
+<def>name</def>
+</entry>
+<entry>
+<form>pētai</form>
+<def>folly</def>
+</entry>
+<entry>
+<form><pc>+</pc>cōḻaṉ</form>
+<def>Cōḻa</def>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṉum</form>
+<def>saying</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟanta</form>
+<def>been-superior</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kātal</form>
+<def>love</def>
+</entry>
+<entry>
+<form>kiḻamai-<pc>~</pc>um</form>
+<def>lordship</def>
+<form type="simple">kiḻamai</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>uṭaiyaṉ</form>
+<def>possess-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>ataṉ</form>
+<def>that</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>talai</form>
+<def>head</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṉṉatōr</form>
+<def>thus-it</def>
+<gramGrp><gram type="role">neuter singular</gram>
+</gramGrp></entry>
+<entry>
+<form>kālai</form>
+<def>time</def>
+</entry>
+<entry>
+<form>nillalaṉ</form>
+<def>stand-not-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form>iṉṉē</form>
+<def>now</def>
+</entry>
+<entry>
+<form>varukuvaṉ</form>
+<def>come-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>oḻikka</form>
+<def>may-finish</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>avaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>him</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>iṭam-ē</form>
+<def>place</def>
+<form type="simple">iṭam</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

@@ -35,7 +35,7 @@
 <l>pacipaṭu maruṅkulai kacipukai toḻāak</l>
 <l>kāṇaleṉ kolleṉa viṉaviṉai varūum</l>
 <l>pāṇa kēṇmati yāṇaratu nilaiyē</l>
-<l>puravuttoṭut tuṇkuvai yāyiṉu miravuyeḻun</l>
+<l>puravuttoṭut tuṇkuvai yāyiṉu miravuveḻun</l>
 <l>tevvaṅ koḷkuvai yāyiṉu miraṇṭuṅ</l>
 <l>kaiyuḷa pōluṅ kaṭitaṇ maiyavē</l>
 <l>muṉṉūrp pūcaliṟ ṟōṉṟit taṉṉūr</l>
@@ -90,17 +90,20 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN260"><interp type="alignment" select="0">65MR32ML43MG32MG61MG25MG44MG7MG144MG28MG9MG11ML40ML7MG29M2G10MGMG4MG66MG38MG84M,257MG542MG</interp>
+<standOff type="wordsplit" corresp="#PN260"><interp type="alignment" select="0">12MG53MR32ML43MG32MG61MG12MG13MG18MG26MG7MG144MG28MG9MG11ML40ML7MG29M2G10MGMG4MG66MG38MG81MG3M,804MG</interp>
 <entry>
 <form>vaḷara<pc>+</pc></form>
 <def>grow</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>toṭiṉum</form>
+<form>toṭiṉ-um</form>
 <def>touch-if-even</def>
+<form type="simple">toṭiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>vauvupu</form>
 <def>snatched</def>
@@ -137,7 +140,7 @@
 </gramGrp></entry>
 <entry>
 <form>niṉaiyā<pc>+</pc></form>
-<def>thought(pos.abs.)</def>
+<def>thought</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
@@ -230,14 +233,17 @@
 </gramGrp></entry>
 <entry>
 <form>toḻāa<pc>+</pc></form>
-<def>worshipped(pos.abs.)</def>
+<def>worshipped</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
 <form>kāṇaleṉ-kol</form>
-<def>see-not-I(neg.1.sg</def>
+<def>see-not-I</def>
 <form type="simple">kāṇaleṉ</form>
-<gramGrp type="particle"><m>kol</m></gramGrp>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
 </entry>
 <entry>
 <form><pc>+</pc>eṉa</form>
@@ -296,17 +302,20 @@
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
-<form>irav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>iravu</form>
 <def>begging</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>eḻunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form><pc>~</pc>eḻunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>risen</def>
 </entry>
 <entry>
@@ -322,10 +331,13 @@
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><pc>~</pc>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>iraṇṭum</form>
 <def>two-it</def>
@@ -600,9 +612,9 @@
 </gramGrp></entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)</def>
+<def>self</def>
 <form type="simple">tāṉ</form>
-<gramGrp><gram type="role">neuter singular</gram>
+<gramGrp><gram type="role">singular</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
@@ -815,9 +827,11 @@
 <def>stone</def>
 </entry>
 <entry>
-<form>micaiyatu<pc>~</pc>ē</form>
+<form>micaiyatu-<pc>~</pc>ē</form>
 <def>height-it</def>
+<form type="simple">micaiyatu</form>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
-</gramGrp></entry></standOff>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

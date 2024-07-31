@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 331.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN331">
+      <lg type="edition">
+<l>kallaṟut tiyaṟṟiya valluvark kūval</l>
+<l>villēr vāḻkkaic cīṟūr matavali</l>
+<l>naṉinal kūrntaṉa ṉāyiṉum paṉimikap</l>
+<l>pulleṉ mālai ciṟutī ñeliyuṅ</l>
+<l>kallā viṭaiyaṉ pōla kuṟippi</l>
+<l>ṉillatu paṭaikkavu valla ṉuḷḷatu</l>
+<l>tavaciṟi tāyiṉu mikapala reṉṉā</l>
+<l>ṇīṇeṭum panta rūṇmuṟai yūṭṭu</l>
+<l>milpoli makaṭūu pōla cilcila</l>
+<l>varicaiyi ṉaḷikkavu valla ṉuritiṉiṟ</l>
+<l>kāvaṉ maṉṉar kaṭaimukat tukukkum</l>
+<l>pōkupali veḷcōṟu pōla</l>
+<l>tūvavum vallaṉavaṉ tūvuṅ kālē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Even if the strong man of the little village whose livelihood is the bow for a plough, (2)</l>
+<l>with a very brackish well made by cutting off the stones, (1)</l>
+<l>is very poor, like an untaught shepherd (3a-c+5ab)</l>
+<l>who kindles a little fire by friction on chilly [and] empty evenings, (3d-4)</l>
+<l>he is able to create what is not from [his] intention, (6)</l>
+<l>and even if there is very little that is there, like a woman </l>
+<l>shining in the house, who feeds in [proper] order the whole long arbour</l>
+<l>without saying “these [are] many people”, he is able</l>
+<l>to bestow according to merit at least a little, (7-10c)</l>
+<l>and, like the white rice [that is] the food offering (12)</l>
+<l>they suitably shed at the door of the guardian kings, (10d-11) </l>
+<l>he is able to shower [gifts], at a time of affluence. (13)   </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN331"><interp type="alignment" select="0">154MG27ML13ML2ML63MG2MG37MG29MG23M,357MG</interp>
+<entry>
+<form>kal</form>
+<def>stone</def>
+</entry>
+<entry>
+<form><pc>+</pc>aṟutt</form>
+<def>cut-off</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>iyaṟṟiya</form>
+<def>effected</def>
+</entry>
+<entry>
+<form>val</form>
+<def>strong</def>
+</entry>
+<entry>
+<form><pc>+</pc>uvar</form>
+<def>saltishness</def>
+</entry>
+<entry>
+<form><pc>+</pc>kūval</form>
+<def>well</def>
+</entry>
+<entry>
+<form>vil</form>
+<def>bow</def>
+</entry>
+<entry>
+<form><pc>+</pc>ēr</form>
+<def>plough</def>
+</entry>
+<entry>
+<form>vāḻkkai</form>
+<def>livelihood</def>
+</entry>
+<entry>
+<form><pc>+</pc>cīṟūr</form>
+<def>little-village</def>
+</entry>
+<entry>
+<form>matavali</form>
+<def>strength(?)</def>
+<gramGrp></gramGrp></entry>
+<entry>
+<form>naṉi</form>
+<def>abundant</def>
+</entry>
+<entry>
+<form>nalkūrntaṉaṉ</form>
+<def>was-poor-he</def>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">perfective aspect</gram>
+</gramGrp></entry>
+<entry>
+<form>āyiṉum</form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>paṉi</form>
+<def>dew</def>
+</entry>
+<entry>
+<form>mika</form>
+<def>be-much</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>+</pc>pulleṉ</form>
+<def>grass-say</def>
+</entry>
+<entry>
+<form>mālai</form>
+<def>evening</def>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+</entry>
+<entry>
+<form>tī</form>
+<def>fire</def>
+</entry>
+<entry>
+<form>ñeliyum</form>
+<def>rubbing-fire</def>
+</entry>
+<entry>
+<form>kallā</form>
+<def>learn-not</def>
+</entry>
+<entry>
+<form><pc>~</pc>iṭaiyaṉ</form>
+<def>shepherd</def>
+</entry>
+<entry>
+<form>pōla</form>
+<def>be-similar</def>
+</entry>
+<entry>
+<form>kuṟippiṉ</form>
+<def>intention</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>illatu</form>
+<def>not-it</def>
+</entry>
+<entry>
+<form>paṭaikkavum</form>
+<def>create</def>
+<form type="simple">paṭaikkav</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>vallaṉ</form>
+<def>strong-he</def>
+</entry>
+<entry>
+<form>uḷḷatu</form>
+<def>be-it</def>
+</entry>
+<entry>
+<form>tava</form>
+<def>very</def>
+</entry>
+<entry>
+<form>ciṟit</form>
+<def>small-it</def>
+</entry>
+<entry>
+<form>āyiṉum</form>
+<def>even-if</def>
+</entry>
+<entry>
+<form>mika</form>
+<def>be-much</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>palar</form>
+<def>many</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉṉāḷ</form>
+<def>say-not-she</def>
+</entry>
+<entry>
+<form>nīḷ</form>
+<def>be-long</def>
+</entry>
+<entry>
+<form>neṭum</form>
+<def>long</def>
+</entry>
+<entry>
+<form>pantar</form>
+<def>arbour</def>
+</entry>
+<entry>
+<form>ūṇ</form>
+<def>food</def>
+</entry>
+<entry>
+<form>muṟai</form>
+<def>order</def>
+</entry>
+<entry>
+<form><pc>~</pc>ūṭṭum</form>
+<def>feeding</def>
+</entry>
+<entry>
+<form>ilpoli</form>
+<def>house</def>
+</entry>
+<entry>
+<form>makaṭūu</form>
+<def>flourish</def>
+</entry>
+<entry>
+<form>pōla</form>
+<def>woman</def>
+</entry>
+<entry>
+<form>cil</form>
+<def>be-similar</def>
+</entry>
+<entry>
+<form>cila</form>
+<def>few</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>varicaiyiṉ</form>
+<def>mark-of-honour</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>aḷikka-<pc>~</pc>um</form>
+<def>take-care</def>
+<form type="simple">aḷikka</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>vallaṉ</form>
+<def>strong-he</def>
+</entry>
+<entry>
+<form>uritiṉiṉ</form>
+<def>suitable-it-</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kāval</form>
+<def>guarding</def>
+</entry>
+<entry>
+<form>maṉṉar</form>
+<def>king</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṭaimukattu</form>
+<def>door-face</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form><pc type="ignored">(</pc>u<pc type="ignored">)</pc>kukkum</form>
+<def>shedding</def>
+</entry>
+<entry>
+<form>pōku</form>
+<def>food</def>
+</entry>
+<entry>
+<form>pali</form>
+<def>offering</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form>cōṟu</form>
+<def>cooked-rice</def>
+</entry>
+<entry>
+<form>pōla</form>
+<def>be-similar</def>
+</entry>
+<entry>
+<form>tūva-<pc>~</pc>um</form>
+<def>scatter</def>
+<form type="simple">tūva</form>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>vallaṉ</form>
+<def>strong-he</def>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>he</def>
+</entry>
+<entry>
+<form>tūvum</form>
+<def>scattering</def>
+</entry>
+<entry>
+<form>kālē</form>
+<def>time</def>
+<form type="simple">kāl</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

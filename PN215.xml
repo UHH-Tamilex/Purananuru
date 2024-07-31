@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 215.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN215">
+      <lg type="edition">
+<l>kavaikkatir varaki ṉavaippuṟu vākka</l>
+<l>ṟāteru maṟukiṟ pōtoṭu potuḷiya</l>
+<l>vēḷai veṇpū veṇṭayir koḷīi</l>
+<l>yāymaka ḷaṭṭa vampuḷi mitavai</l>
+<l>yavarai koyyuna rāra māntun</l>
+<l>teṉṉam poruppa ṉaṉṉāṭ ṭuḷḷum</l>
+<l>picirō ṉeṉpave ṉuyirōm punaṉē</l>
+<l>celvak kālai niṟpiṉu</l>
+<l>mallaṟ kālai nillalaṉ maṉṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Even in the good land of the one from the Southern heights, (6)</l>
+<l>where those who pluck field beans feed to satiation (5)</l>
+<l>on the sweet-sour food that was cooked by a cowherd woman (4)</l>
+<l>from a pounded preparation of fork-eared wild millet, (1)</l>
+<l>imbuing white curd with the white flower of Vēḷai, (3)</l>
+<l>that was full with buds from the street with pollen [and] dung, (2)</l>
+<l>the one they call Picirōṉ will protect my life. (7)</l>
+<l>Even though he may stay [away] at a time of affluence, (8)</l>
+<l>he will not stay [away] at a time of affliction. (9)  </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN215"><interp type="alignment" select="0">24MG9ML2MG111ML6MG2MG28MG38MG3MG3M,234MG</interp>
+<entry>
+<form>kavai<pc>+</pc></form>
+<def>fork</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>katir</form>
+<def>ray</def>
+</entry>
+<entry>
+<form>varakiṉ</form>
+<def>wild-millet</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>avaipp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pounding</def>
+</entry>
+<entry>
+<form>uṟu</form>
+<def>have</def>
+</entry>
+<entry>
+<form><pc>~</pc>ākkal</form>
+<def>creating</def>
+<gramGrp><gram type="role">verbal noun</gram>
+</gramGrp></entry>
+<entry>
+<form>tāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>pollen</def>
+</entry>
+<entry>
+<form>eru</form>
+<def>dung</def>
+</entry>
+<entry>
+<form>maṟukiṉ</form>
+<def>street</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>pōtoṭu</form>
+<def>bud</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>potuḷiya</form>
+<def>been-full</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>vēḷai</form>
+<def>Vēḷai-plant</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form>pū</form>
+<def>flower</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form>tayir</form>
+<def>curd</def>
+</entry>
+<entry>
+<form>koḷīi</form>
+<def>made-take</def>
+</entry>
+<entry>
+<form><pc>~</pc>āy</form>
+<def>select</def>
+</entry>
+<entry>
+<form>makaḷ</form>
+<def>girl</def>
+</entry>
+<entry>
+<form>aṭṭa</form>
+<def>cooked</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>am</form>
+<def>sourness</def>
+</entry>
+<entry>
+<form>puḷi</form>
+<def>cooked</def>
+</entry>
+<entry>
+<form>mitavai</form>
+<def>food</def>
+</entry>
+<entry>
+<form><pc>~</pc>avarai</form>
+<def>field-bean</def>
+</entry>
+<entry>
+<form>koyyunar</form>
+<def>pluck-they</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>āra</form>
+<def>become-full</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>māntum</form>
+<def>feeding</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>teṉṉam</form>
+<def>southern</def>
+</entry>
+<entry>
+<form>poruppaṉ</form>
+<def>hill-he</def>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">masculine singular</gram>
+</gramGrp></entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>land</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>uḷ-<pc>+</pc>um</form>
+<def>inside</def>
+<form type="simple">uḷ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry></entry>
+<entry><entry>
+<form>uḷḷum</form>
+<def>remembering-</def>
+</entry></entry>
+</superEntry>
+<entry>
+<form>picirōṉ</form>
+<def>Picirōṉ</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">proper name</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉpa</form>
+<def>they-say</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>uyir</form>
+<def>life</def>
+</entry>
+<entry>
+<form>ōmpunaṉ-ē</form>
+<def>protect-he</def>
+<form type="simple">ōmpunaṉ</form>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">imperfect aspect</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>celva<pc>+</pc></form>
+<def>wealth</def>
+</entry>
+<entry>
+<form>kālai</form>
+<def>time</def>
+</entry>
+<entry>
+<form>niṟpiṉum</form>
+<def>stand</def>
+<form type="simple">niṟpiṉ</form>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>allal</form>
+<def>distress</def>
+</entry>
+<entry>
+<form>kālai</form>
+<def>time</def>
+</entry>
+<entry>
+<form>nillalaṉ-maṉ-<pc>+</pc>ē</form>
+<def>stand-not-he(neg. m.sg.)maṉṉ</def>
+<form type="simple">nillalaṉ-maṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

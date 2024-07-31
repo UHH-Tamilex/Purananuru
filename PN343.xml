@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 343.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN343">
+      <lg type="edition">
+<l>mīṉoṭuttu neṟkuvaii</l>
+<l>micaiyampiyiṉ maṉaimaṟukkuntu</l>
+<l>maṉaikkuvaiiya kaṟimūṭaiyāṟ</l>
+<l>kaliccummaiya karaikalakkuṟuntu</l>
+<l>kalantanta poṟparicaṅ</l>
+<l>kaḻittōṇiyāṟ karaicērkkuntu</l>
+<l>malaittāramuṅ kaṭaṟṟāramum</l>
+<l>talaippeytu varunarkkīyum</l>
+<l>puṉalaṅ kaḷḷiṉ polantārk kuṭṭuvaṉ</l>
+<l>muḻaṅkukaṭaṉ muḻaviṉ mucuṟi yaṉṉa</l>
+<l>nalañcāl viḻupporuḷ paṇintuvantu koṭuppiṉum</l>
+<l>puraiya rallōr varaiyala ḷivaḷeṉat</l>
+<l>tantaiyuṅ koṭāa ṉāyiṉ vantōr</l>
+<l>vāyppaṭa viṟutta vēṇi yāyiṭai</l>
+<l>varuntiṉṟu kollō tāṉē paruntuyirt</l>
+<l>tiṭaimatiṟ cēkkum puricaip</l>
+<l>paṭaimayaṅ kāriṭai neṭuna lūrē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Like Mucuṟi with drums [and] the thundering ocean</l>
+<l>of Kuṭṭuvaṉ with a golden garland, [his] toddy a flood,</l>
+<l>where, have bartered fish [and] heaped paddy,</l>
+<l>houses refuse high little boats,</l>
+<l>where the shores are busy, burdened with clamour</l>
+<l>by vessels with pepper that are heaped in the houses,</l>
+<l>where they bring ashore by the backwater boats</l>
+<l>the gold objects brought by ship,</l>
+<l>and where they meet strangers [and] give them</l>
+<l>goods from the mountains and goods from the sea</l>
+<l>if, even when he came humbly [and] gives excellent wealth superb in quality [like that],</l>
+<l>saying “she will not marry one who is not like [her]”</l>
+<l>[her] father did not give her, in between</l>
+<l>the ladders placed in order to find a way [in] by those who have come,</l>
+<l>did it suffer,</l>
+<l>the long good town with difficult ways confused by weapons</l>
+<l>[and] fortifications where kites sigh [and] rest on the inner walls.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN343"><interp type="alignment" select="0">3ML93MG63MG12MG22MG141MG41MG14MG8MG7MG6MG34M2G15MG2M,474MG</interp>
+<entry>
+<form>mīṉ</form>
+<def>fish</def>
+</entry>
+<entry>
+<form>noṭuttu</form>
+<def>sold</def>
+</entry>
+<entry>
+<form>nel</form>
+<def>paddy</def>
+</entry>
+<entry>
+<form>kuvaii</form>
+<def>heaped</def>
+</entry>
+<entry>
+<form>micai</form>
+<def>height</def>
+</entry>
+<entry>
+<form><pc>~</pc>ampiyiṉ</form>
+<def>boat</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+</entry>
+<entry>
+<form>maṟukkuntu</form>
+<def>refusing-tu</def>
+</entry>
+<entry>
+<form>maṉai<pc>+</pc></form>
+<def>house</def>
+</entry>
+<entry>
+<form>kuvaiiya</form>
+<def>heaped</def>
+</entry>
+<entry>
+<form>kaṟi</form>
+<def>pepper</def>
+</entry>
+<entry>
+<form>mūṭaiyāl</form>
+<def>grain-receptacle</def>
+<gramGrp><gram type="role">instrumental</gram>
+</gramGrp></entry>
+<entry>
+<form>kali<pc>+</pc></form>
+<def>bustle</def>
+</entry>
+<entry>
+<form>cummaiya</form>
+<def>burden-they</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>karai</form>
+<def>shore</def>
+</entry>
+<entry>
+<form>kalakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>confusion</def>
+</entry>
+<entry>
+<form>uṟuntu</form>
+<def>having-tu</def>
+</entry>
+<entry>
+<form>kalam</form>
+<def>vessel</def>
+</entry>
+<entry>
+<form>tanta</form>
+<def>given-</def>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+</entry>
+<entry>
+<form>paricam</form>
+<def>object(?)</def>
+<gramGrp></gramGrp></entry>
+<entry>
+<form>kaḻi<pc>+</pc></form>
+<def>backwaters</def>
+</entry>
+<entry>
+<form>tōṇiyāl</form>
+<def>boat</def>
+<gramGrp><gram type="role">instrumental</gram>
+</gramGrp></entry>
+<entry>
+<form>karai</form>
+<def>shore</def>
+</entry>
+<entry>
+<form>cērkkuntu</form>
+<def>making-join-to</def>
+</entry>
+<entry>
+<form>malai<pc>+</pc></form>
+<def>mountain</def>
+</entry>
+<entry>
+<form>tāram-um</form>
+<def>article</def>
+<form type="simple">tāram</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+</entry>
+<entry>
+<form>tāram-um</form>
+<def>article</def>
+<form type="simple">tāram</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>talaippeytu</form>
+<def>encountered</def>
+</entry>
+<entry>
+<form>varunarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>come-they</def>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>īyum</form>
+<def>giving</def>
+</entry>
+<entry>
+<form>puṉalam</form>
+<def>flood</def>
+<gramGrp type="affix"><m>am</m></gramGrp>
+</entry>
+<entry>
+<form>kaḷḷiṉ</form>
+<def>toddy</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>polam</form>
+<def>golden</def>
+</entry>
+<entry>
+<form>tār<pc>+</pc></form>
+<def>garland</def>
+</entry>
+<entry>
+<form>kuṭṭuvaṉ</form>
+<def>Kuṭṭuvaṉ</def>
+</entry>
+<entry>
+<form>muḻaṅku</form>
+<def>thunder</def>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+</entry>
+<entry>
+<form>muḻaviṉ</form>
+<def>drum</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>mucuṟi</form>
+<def>Mucuṟi</def>
+</entry>
+<entry>
+<form><pc>~</pc>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>nalam</form>
+<def>goodness</def>
+</entry>
+<entry>
+<form>cāl</form>
+<def>abound</def>
+</entry>
+<entry>
+<form>viḻu<pc>+</pc></form>
+<def>excellent</def>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>wealth</def>
+</entry>
+<entry>
+<form>paṇintu</form>
+<def>humbled</def>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>koṭuppiṉum</form>
+<def>give-if-even</def>
+</entry>
+<entry>
+<form>puraiyar</form>
+<def>resemble/great-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>allōr</form>
+<def>not-so-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>varaiyalaḷ</form>
+<def>marry-not-she</def>
+</entry>
+<entry>
+<form>ivaḷ</form>
+<def>she</def>
+</entry>
+<entry>
+<form>eṉa<pc>+</pc></form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>tantai-<pc>~</pc>um</form>
+<def>father</def>
+<form type="simple">tantai</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>koṭāaṉ</form>
+<def>give-not-he</def>
+</entry>
+<entry>
+<form>āyiṉ</form>
+<def>if</def>
+</entry>
+<entry>
+<form>vantōr</form>
+<def>come-they</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>vāyppaṭa</form>
+<def>find-a-way</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṟutta</form>
+<def>tarried</def>
+</entry>
+<entry>
+<form><pc>~</pc>ēṇi</form>
+<def>boundary</def>
+</entry>
+<entry>
+<form><pc>~</pc>āy-iṭai</form>
+<def>between</def>
+</entry>
+<entry>
+<form>varuntiṉṟu-kollō</form>
+<def>it-suffered</def>
+<form type="simple">varuntiṉṟu</form>
+<gramGrp type="particle"><m>kollō</m></gramGrp>
+</entry>
+<entry>
+<form>tāṉ-ē</form>
+<def>self</def>
+<form type="simple">tāṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>parunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>kite</def>
+</entry>
+<entry>
+<form>uyirtt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>sighed</def>
+</entry>
+<entry>
+<form>iṭai</form>
+<def>middle</def>
+</entry>
+<entry>
+<form>matil</form>
+<def>wall</def>
+</entry>
+<entry>
+<form>cēkkum</form>
+<def>resting</def>
+</entry>
+<entry>
+<form>puricai<pc>+</pc></form>
+<def>fortification</def>
+</entry>
+<entry>
+<form>paṭai</form>
+<def>army</def>
+</entry>
+<entry>
+<form>mayaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ār</form>
+<def>be-confused</def>
+<form type="simple">mayaṅku</form>
+<gramGrp type="particle"><m>ār</m></gramGrp>
+</entry>
+<entry>
+<form>iṭai</form>
+<def>difficult</def>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>way</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>ūr-ē</form>
+<def>town</def>
+<form type="simple">ūr</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

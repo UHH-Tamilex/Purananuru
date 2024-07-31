@@ -45,7 +45,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN226"><interp type="alignment" select="0">7MG16MG12MG9MG4MG24MG13MG22MG40M2G2M,158MG</interp>
+<standOff type="wordsplit" corresp="#PN226"><interp type="alignment" select="0">7MG4MG12MG4MG8MG4MG5MG4MG24MG13MG22MG40M2G2M,161MG</interp>
 <entry>
 <form>ceṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>it destroyed</def>
@@ -53,10 +53,13 @@
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>ceyirttaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>It was angry</def>
@@ -64,10 +67,13 @@
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>uṟṟaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>it had</def>
@@ -75,10 +81,13 @@
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>uyv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>escape</def>

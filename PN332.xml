@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 332.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN332">
+      <lg type="edition">
+<l>piṟarvēl pōlā tāki yivvūr</l>
+<l>maṟavaṉ vēlō peruntakai yuṭaittē</l>
+<l>yirumpuṟa nīṟu māṭik kalantiṭaik</l>
+<l>kurampaik kūraik kiṭakkiṉuṅ kiṭakku</l>
+<l>maṅkala makaḷiroṭu mālai cūṭṭi</l>
+<l>yiṉkura lirumpai yāḻoṭu tatumpat</l>
+<l>teṇṇīrp paṭuviṉun teruviṉun tirintu</l>
+<l>maṇmuḻu taḻuṅkac celliṉuñ cellumāṅ</l>
+<l>kiruṅkaṭaṟ ṟāṉai vēntar</l>
+<l>peruṅkaḷiṟṟu mukattiṉuñ celavā ṉātē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Being unlike the spears of others, as for the spear </l>
+<l>of the bold man from this village, it possesses great befittingness. (1f.)</l>
+<l>Bathing [its] large back in ashes(?), mingling in between, (3)</l>
+<l>even if it lies, it will lie under the roof of a hut, (4)</l>
+<l>and, being adorned with garlands by auspicious women, (5)</l>
+<l>while sweet voices resound along with the lute in a large bag, (6)</l>
+<l>wandering from clear-watered wells to streets, (7)</l>
+<l>even if it goes it will go so that the whole earth is laid waste, and thus (8)</l>
+<l>it won’t end in going into the face of the large elephant bull (10)</l>
+<l>of kings with armies [like] the vast ocean. (9)   </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN332"><interp type="alignment" select="0">13MG19MG6MG12M2G10MR3M2G12MG38ML95MG24MG47MG4M2G2M,299MG</interp>
+<entry>
+<form>piṟar</form>
+<def>other</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form>pōlāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>be-similar-not-it</def>
+</entry>
+<entry>
+<form>āki</form>
+<def>become</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iv</form>
+<def>this</def>
+</entry>
+<entry>
+<form><pc>+</pc>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>maṟavaṉ</form>
+<def>bold-he</def>
+</entry>
+<entry>
+<form>vēl-ō</form>
+<def>spear</def>
+<form type="simple">vēl</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>perum-takai</form>
+<def>big-fitness</def>
+</entry>
+<entry>
+<form><pc>~</pc>uṭaitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>possess-it</def>
+<form type="simple">uṭaittu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>irum</form>
+<def>dark</def>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>back</def>
+</entry>
+<entry>
+<form>nīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>ashes</def>
+<form type="simple">nīṟu</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>āṭi<pc>+</pc></form>
+<def>played</def>
+</entry>
+<entry>
+<form>kalant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>mixed</def>
+</entry>
+<entry>
+<form>iṭai</form>
+<def>middle</def>
+</entry>
+<entry>
+<form><pc>+</pc>kurampai<pc>+</pc></form>
+<def>hut</def>
+</entry>
+<entry>
+<form>kūrai<pc>+</pc></form>
+<def>roof</def>
+</entry>
+<entry>
+<form>kiṭakkiṉum</form>
+<def>lie-if-even</def>
+</entry>
+<entry>
+<form>kiṭakkum</form>
+<def>it-will-lie</def>
+</entry>
+<entry>
+<form>maṅkala</form>
+<def>auspicious</def>
+</entry>
+<entry>
+<form>makaḷiroṭu</form>
+<def>women</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>mālai</form>
+<def>garland</def>
+</entry>
+<entry>
+<form>cūṭṭi</form>
+<def>put-on</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṉ</form>
+<def>sweet</def>
+</entry>
+<entry>
+<form>kural</form>
+<def>voice</def>
+</entry>
+<entry>
+<form>irum</form>
+<def>large</def>
+</entry>
+<entry>
+<form>pai</form>
+<def>bag</def>
+</entry>
+<entry>
+<form>yāḻoṭu</form>
+<def>lute</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>tatumpa<pc>+</pc></form>
+<def>resound</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>teḷ</form>
+<def>clear</def>
+</entry>
+<entry>
+<form>nīr<pc>+</pc></form>
+<def>water</def>
+</entry>
+<entry>
+<form>paṭuviṉum</form>
+<def>well</def>
+<form type="simple">paṭuviṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>teruviṉum</form>
+<def>street</def>
+<form type="simple">teruviṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>tirintu</form>
+<def>swerved</def>
+</entry>
+<entry>
+<form>maṇ</form>
+<def>earth</def>
+</entry>
+<entry>
+<form>muḻut<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>whole</def>
+</entry>
+<entry>
+<form>aḻuṅka<pc>+</pc></form>
+<def>be-spoilt</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>celliṉum</form>
+<def>go-if-even</def>
+</entry>
+<entry>
+<form>cellum</form>
+<def>it-will-go</def>
+</entry>
+<entry>
+<form>āṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>thus</def>
+</entry>
+<entry>
+<form>irum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>kaṭal</form>
+<def>sea</def>
+</entry>
+<entry>
+<form>tāṉai</form>
+<def>army</def>
+</entry>
+<entry>
+<form>vēntar</form>
+<def>king</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>kaḷiṟṟu</form>
+<def>elephant-bull</def>
+</entry>
+<entry>
+<form>mukattiṉum</form>
+<def>face</def>
+<form type="simple">mukattiṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>celav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>going</def>
+</entry>
+<entry>
+<form>āṉāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>end-not-it</def>
+<form type="simple">āṉātu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>

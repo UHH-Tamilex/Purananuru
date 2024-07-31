@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 218.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN218">
+      <lg type="edition">
+<l>poṉṉun tukiru muttu maṉṉiya</l>
+<l>māmalai payanta kāmaru maṇiyu</l>
+<l>miṭaipaṭac cēya vāyiṉun toṭaipuṇarn</l>
+<l>taruvilai naṉkala mamaikkuṅ kālai</l>
+<l>yoruvaḻit tōṉṟiyāṅ keṉṟuñ cāṉṟōr</l>
+<l>cāṉṟōr pāla rāpa</l>
+<l>cālār cālār pālarā kupavē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Although gold, coral, pearls and the desirable </l>
+<l>sapphire that was yielded by the lasting big mountain (1f.)</l>
+<l>were far apart when they appeared in space, (3a-c)</l>
+<l>at the time when a good ornament of rare prices is put together, (3d-4)</l>
+<l>appearing in one way worthy men always (5ab)</l>
+<l>are those that have a share in worthy men. (6)</l>
+<l>Unworthy ones are those that have a shar in the unworthy. (7)  </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN218"><interp type="alignment" select="0">3MG8MG2ML3M2G2ML30MG35MG47MG45MG3M,187MG</interp>
+<entry>
+<form>poṉ-<pc>+</pc>um</form>
+<def>gold</def>
+<form type="simple">poṉ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>tukir-um</form>
+<def>coral</def>
+<form type="simple">tukir</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>mutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>pearl</def>
+<form type="simple">muttu</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>maṉṉiya</form>
+<def>lasted</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>mā</form>
+<def>big/dark</def>
+</entry>
+<entry>
+<form>malai</form>
+<def>mountain</def>
+</entry>
+<entry>
+<form>payanta</form>
+<def>yielded</def>
+<gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kāmaru</form>
+<def>desirable</def>
+</entry>
+<entry>
+<form>maṇi-<pc>~</pc>um</form>
+<def>sapphire</def>
+<form type="simple">maṇi</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>iṭai</form>
+<def>middle</def>
+</entry>
+<entry>
+<form>paṭa<pc>+</pc></form>
+<def>happen</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>cēya</form>
+<def>distant-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āyiṉum</form>
+<def>if-even</def>
+</entry>
+<entry>
+<form>toṭai</form>
+<def>linking</def>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
+<entry>
+<form>puṇarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>united</def>
+</entry>
+<entry>
+<form>aru</form>
+<def>rare</def>
+</entry>
+<entry>
+<form>vilai</form>
+<def>price</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>kalam</form>
+<def>ornament</def>
+</entry>
+<entry>
+<form>amaikkum</form>
+<def>effecting</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>kālai</form>
+<def>time</def>
+</entry>
+<entry>
+<form><pc>~</pc>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>vaḻi<pc>+</pc></form>
+<def>way</def>
+</entry>
+<entry>
+<form>tōṉṟiyāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>apeared</def>
+<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>eṉṟum</form>
+<def>always</def>
+</entry>
+<entry>
+<form>cāṉṟōr</form>
+<def>been-worthy-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>cāṉṟōr</form>
+<def>been-worthy-they</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>pālar</form>
+<def>many-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>āpa</form>
+<def>become-they</def>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>cālār</form>
+<def>be-worthy-not-they</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>cālār</form>
+<def>be-worthy-not-they</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>pālar</form>
+<def>many-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>ākupa-<pc>~</pc>ē</form>
+<def>become-they</def>
+<form type="simple">ākupa</form>
+<gramGrp><gram type="role">imperfect aspect</gram>
+<gram type="role">plural</gram>
+<gram type="role">third person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
