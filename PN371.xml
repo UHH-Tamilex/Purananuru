@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 371.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -87,7 +87,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN371"><interp type="alignment" select="0">67MG28MG61MG12MG14M3G126MG16MG5MG79MG65MG57ML35ML35MG11MG125MG56MG2M,811MG</interp>
+<standOff type="wordsplit" corresp="#PN371"><interp type="alignment" select="0">67MG28MG61MG12MG14M3G126MG16MG5MG79MG65MG57ML35ML35MG11MG112MG13MG56MG2M,812MG</interp>
 <entry>
 <form>akal</form>
 <def>widen</def>
@@ -145,8 +145,8 @@
 <entry>
 <form>nāriṉ</form>
 <def>fibre</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>toṭuttu<pc>+</pc></form>
 <def>gathered</def>
@@ -175,8 +175,8 @@
 <entry>
 <form>paṟaiyoṭu</form>
 <def>Paṟai-drum</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>takaitta</form>
 <def>fixed</def>
@@ -224,8 +224,8 @@
 <entry>
 <form>vēmpiṉ</form>
 <def>neem-tree</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>oḷ</form>
 <def>bright</def>
@@ -254,7 +254,6 @@
 <entry>
 <form>nacaiya</form>
 <def>longing</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>irukkaiyeṉ</form>
@@ -267,8 +266,8 @@
 <entry>
 <form><pc>~</pc>iṉmaiyiṉ</form>
 <def>absence</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>ār</form>
 <def>difficult</def>
@@ -300,8 +299,8 @@
 <entry>
 <form>nīriṉ</form>
 <def>water</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>miḷirppa</form>
 <def>turn</def>
@@ -318,7 +317,6 @@
 <entry>
 <form><pc>~</pc>aḷiya</form>
 <def>care</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>aṉp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -422,8 +420,8 @@
 <entry>
 <form><pc>~</pc>eruttiṉ</form>
 <def>bull</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vāḷ</form>
 <def>sword</def>
@@ -455,8 +453,8 @@
 <entry>
 <form>kaṭāviṉ</form>
 <def>buffalo</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>matiyatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>moon</def>
@@ -503,7 +501,7 @@
 <entry>
 <form>toṭāliṉ</form>
 <def>not-touching(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>paṇai</form>
 <def>Paṇai-drum</def>
@@ -587,8 +585,8 @@
 <entry>
 <form>viḻukkoṭu</form>
 <def>fat</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>viraiiya</form>
 <def>mixed</def>
@@ -660,11 +658,11 @@
 <def>many</def>
 </entry>
 <entry>
-<form>mīṉiṉum</form>
+<form>mīṉiṉ-um</form>
 <def>star</def>
 <form type="simple">mīṉiṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>vāḻiyar</form>

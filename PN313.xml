@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 313.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -46,7 +46,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN313"><interp type="alignment" select="0">4MR36MG3M2G6MG65MG8MG26MG3M2G10MG3MG15MG2M,193MG</interp>
+<standOff type="wordsplit" corresp="#PN313"><interp type="alignment" select="0">4MR36MG3M2G6MG53MG12MG8MG26MG3M2G10MG3MG15MG2M,194MG</interp>
 <entry>
 <form>attam</form>
 <def>road</def>
@@ -119,8 +119,8 @@
 <entry>
 <form>kaḷiṟoṭu</form>
 <def>elephant-bull</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>neṭum</form>
 <def>long</def>
@@ -130,8 +130,12 @@
 <def>chariot</def>
 </entry>
 <entry>
-<form>vēṇṭiṉum</form>
+<form>vēṇṭiṉ-um</form>
 <def>desire-if-even</def>
+<form type="simple">vēṇṭiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>kaṭava</form>

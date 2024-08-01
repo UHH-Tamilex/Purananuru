@@ -45,7 +45,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN222"><interp type="alignment" select="0">14MG95MG11MG27MG4MG10MG2M,168MG</interp>
+<standOff type="wordsplit" corresp="#PN222"><interp type="alignment" select="0">14MG23MG72MG11MG27MG4MG10MG2M,169MG</interp>
 <entry>
 <form>aḻal</form>
 <def>fire</def>
@@ -78,10 +78,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>niḻaliṉum</form>
+<form>niḻaliṉ-um</form>
 <def>shadow</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<form type="simple">niḻaliṉ</form>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>pōkā</form>
 <def>go-not</def>

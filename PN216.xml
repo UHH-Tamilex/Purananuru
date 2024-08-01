@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 216.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -57,7 +57,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN216"><interp type="alignment" select="0">26M2G66M2G25MG20MG9MG50MG65MG65MG4MG2M,342MG</interp>
+<standOff type="wordsplit" corresp="#PN216"><interp type="alignment" select="0">26M2G60MG6M2G25MG20MG9MG50MG65MG65MG4MG2M,343MG</interp>
 <entry>
 <form>kēṭṭal</form>
 <def>listening</def>
@@ -120,8 +120,12 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>arit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>

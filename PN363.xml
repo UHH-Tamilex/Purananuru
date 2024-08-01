@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 363.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -69,7 +69,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN363"><interp type="alignment" select="0">52MG11MG8MG40MG33MR28MG11MG10MG11MG18MG25MG5M2G17MG40MG38MG51MG20MG20MG5MG10MG4ML4MG10M2G2M,186MG310MG</interp>
+<standOff type="wordsplit" corresp="#PN363"><interp type="alignment" select="0">52MG11MG8MG33MG7MG33MR28MG11MG10MG11MG18MG25MG5M2G17MG40MG38MG51MG20MG20MG5MG10MG4ML4MG10M2G2M,187MG310MG</interp>
 <entry>
 <form>irum</form>
 <def>big</def>
@@ -157,11 +157,12 @@
 <def>wave</def>
 </entry>
 <entry>
-<form>maṇaliṉum</form>
+<form>maṇaliṉ-um</form>
 <def>sand</def>
 <form type="simple">maṇaliṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">comparative</gram>
+<gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>palar-ē</form>
@@ -254,8 +255,8 @@
 <entry>
 <form>uṭampoṭu</form>
 <def>body</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>niṉṟa</form>
 <def>stood</def>

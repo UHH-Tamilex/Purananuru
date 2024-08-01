@@ -65,7 +65,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN230"><interp type="alignment" select="0">4MG14MG4MG28MG6MG8ML13MG8MG102ML111ML19MG63MG7MG21ML26MG23M2G2M,475MG</interp>
+<standOff type="wordsplit" corresp="#PN230"><interp type="alignment" select="0">4MG14MG4MG28MG6MG8ML13MG8MG102ML109MG2ML19MG63MG7MG21ML26MG23M2G2M,476MG</interp>
 <entry>
 <form>kaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>calf</def>
@@ -350,10 +350,12 @@
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>ulakiṉum</form>
+<form><pc>~</pc>ulakiṉ-um</form>
 <def>world</def>
+<form type="simple">ulakiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>mika</form>
 <def>be-much</def>

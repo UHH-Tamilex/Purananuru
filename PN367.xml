@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 367.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -33,7 +33,7 @@
 <l>mēṟṟa pārppārk kīrṅkai niṟaiyap</l>
 <l>pūvum poṉṉum puṉalpaṭac corintu</l>
 <l>pāciḻai makaḷir polaṅkalat tēntiya</l>
-<l>nārari tēṟaṉ ‍<supplied>mānti</supplied> makiḻ<supplied>ciṟan</supplied></l>
+<l>nārari tēṟaṉ <supplied>mānti</supplied> makiḻ<supplied>ciṟan</supplied></l>
 <l>tiravalark karuṅkala marukātu vīci</l>
 <l>vāḻtal vēṇṭumivaṇ varainta vaikal</l>
 <l>vāḻac ceyta nalviṉai yalla</l>
@@ -69,7 +69,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN367"><interp type="alignment" select="0">6MG7MG14MG32MR8MG19MG16MG6MG23MG22MG34MG10MG74MG20MG16MG18MG73MG6MG23ML64MG2M,180MG331MG</interp>
+<standOff type="wordsplit" corresp="#PN367"><interp type="alignment" select="0">6MG7MG14MG7MG24MGMR8MG19MG16MG6MG23MG22MG33MG10MG74MG20MG16MG18MG73MG6MG23ML4MG30MG30MG2M,515MG</interp>
 <entry>
 <form>nākatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>snake</def>
@@ -99,14 +99,18 @@
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><pc>~</pc>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>tammoṭu</form>
 <def>self</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-<gramGrp><gram type="role">plural</gram>
+<gramGrp><gram type="role">sociative</gram>
+<gram type="role">plural</gram>
 </gramGrp></entry>
 <entry>
 <form>cellā</form>
@@ -118,8 +122,12 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>nōṟṟōrkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -419,11 +427,11 @@
 <def>appearing</def>
 </entry>
 <entry>
-<form>mīṉiṉum</form>
+<form>mīṉiṉ-um</form>
 <def>lightning</def>
 <form type="simple">mīṉiṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>immeṉa</form>
@@ -443,8 +451,12 @@
 <def>rain</def>
 </entry>
 <entry>
-<form><pc>~</pc>uṟaiyiṉum</form>
+<form><pc>~</pc>uṟaiyiṉ-um</form>
 <def>drip-if-even</def>
+<form type="simple">uṟaiyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>uyarntu</form>

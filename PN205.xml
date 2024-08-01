@@ -62,7 +62,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN205"><interp type="alignment" select="0">29MG3MG15MG48MG65MG9MG53MR115MG11MG17MG27M2G2M,405MG</interp>
+<standOff type="wordsplit" corresp="#PN205"><interp type="alignment" select="0">23MG6MG3MG15MG48MG65MG9MG53MR115MG11MG17MG27M2G2M,406MG</interp>
 <entry>
 <form>muṟṟiya</form>
 <def>completed</def>
@@ -81,10 +81,13 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
-<gramGrp><gram type="role">conditional</gram>
-</gramGrp></entry>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>peṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>desiring</def>

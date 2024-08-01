@@ -45,7 +45,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN262"><interp type="alignment" select="0">5M2G14MG12MG26MG12MG65MG29M,169MG</interp>
+<standOff type="wordsplit" corresp="#PN262"><interp type="alignment" select="0">5M2G14MG12MG26ML12ML65MG13MG16M,170MG</interp>
 <entry>
 <form>naṟav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>toddy</def>
@@ -192,12 +192,14 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>taṉṉiṉum</form>
+<form>taṉṉiṉ-um</form>
 <def>self</def>
+<form type="simple">taṉṉiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
 <gram type="role">singular</gram>
 <gram type="role">third person</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>perum</form>
 <def>big</def>

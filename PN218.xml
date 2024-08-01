@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 218.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -47,7 +47,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN218"><interp type="alignment" select="0">3MG8MG2ML3M2G2ML30MG35MG47MG45MG3M,187MG</interp>
+<standOff type="wordsplit" corresp="#PN218"><interp type="alignment" select="0">3MG8MG2ML3M2G2ML30MG21MG14MG47MG45MG3M,188MG</interp>
 <entry>
 <form>poṉ-<pc>+</pc>um</form>
 <def>gold</def>
@@ -112,8 +112,12 @@
 <gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><pc>~</pc>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>toṭai</form>
@@ -160,8 +164,8 @@
 <entry>
 <form>tōṉṟiyāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>apeared</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>eṉṟum</form>
 <def>always</def>

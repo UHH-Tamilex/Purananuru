@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 375.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -84,7 +84,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN375"><interp type="alignment" select="0">110M3G10ML2MG5MG51MG23MG96ML12MG53MG38M2G9M3G13MG7MG6M2G16MG24MG45MG22MG23MG2M,591MG</interp>
+<standOff type="wordsplit" corresp="#PN375"><interp type="alignment" select="0">120ML2MG5MG51MG23MG96ML12MG53MG38M2G22MG7MG6M2G16MG24MG27MG18MG22MG23MG2M,586MG</interp>
 <entry>
 <form>alaṅku</form>
 <def>sway</def>
@@ -167,7 +167,7 @@
 <def>palmyra-tree</def>
 </entry>
 <entry>
-<form><pc>~</pc>ara<pc>(</pc>m<pc>)</pc></form>
+<form><pc>~</pc>ara</form>
 <def>file</def>
 </entry>
 <entry>
@@ -197,8 +197,8 @@
 <entry>
 <form>kiṇaiyoṭu</form>
 <def>Kiṇai-drum</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>curukki</form>
 <def>folded</def>
@@ -206,8 +206,8 @@
 <entry>
 <form><pc>~</pc>ēriṉ</form>
 <def>plough</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vāḻnar</form>
 <def>live-they</def>
@@ -342,8 +342,8 @@
 <entry>
 <form>iṉmaiyiṉ</form>
 <def>absence</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kiṇaippa<pc>+</pc></form>
 <def>sound</def>
@@ -411,7 +411,7 @@
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
-<form>nila<pc>(</pc>m<pc>)</pc></form>
+<form>nila</form>
 <def>ground</def>
 </entry>
 <entry>
@@ -482,8 +482,12 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>ōtiṉum</form>
+<form><pc>~</pc>ōtiṉ-um</form>
 <def>recite-if-even</def>
+<form type="simple">ōtiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>ciṟiya</form>
@@ -509,8 +513,8 @@
 <entry>
 <form>tiruviṉ</form>
 <def>fortune</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>pāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>singing/event</def>

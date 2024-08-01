@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 217.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -59,7 +59,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN217"><interp type="alignment" select="0">29M2G21MG3MG18ML14M2G6ML37MG13MG54MG11MG16M2G7MG10MG11MG8M2G28MG13ML3MG13MG37MG13MG2M,285MG105MG</interp>
+<standOff type="wordsplit" corresp="#PN217"><interp type="alignment" select="0">29M2G21MG3MG16MG2ML14M2G6ML37MG13MG54MG11MG16M2G7MG10MG11MG8M2G28MG13ML3MG13MG37MG13MG2M,286MG105MG</interp>
 <entry>
 <form>niṉaikkum</form>
 <def>thinking-</def>
@@ -89,8 +89,8 @@
 <entry>
 <form>ciṟappiṉōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>superiority</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>īṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>here</def>
@@ -104,10 +104,12 @@
 <def>resolving</def>
 </entry>
 <entry>
-<form>ataṉiṉum</form>
+<form>ataṉiṉ-um</form>
 <def>that</def>
+<form type="simple">ataṉiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>maruṭkai</form>
 <def>amazement</def>

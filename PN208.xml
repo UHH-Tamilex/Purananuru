@@ -51,7 +51,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN208"><interp type="alignment" select="0">4M2G2ML4MG44MG17MG13MG28MG9MG5MG16MG57MG10MG14MG19MG2M,258MG</interp>
+<standOff type="wordsplit" corresp="#PN208"><interp type="alignment" select="0">4M2G2ML4MG44MG17MG13MG28MG9MG5MG16MG57MG4MG6MG14MG19MG2M,259MG</interp>
 <entry>
 <form>kuṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>hill</def>
@@ -156,8 +156,11 @@
 </gramGrp></entry>
 <entry>
 <form>tāṉ</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)</def>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
@@ -264,10 +267,13 @@
 <gramGrp><gram type="role">neuter singular</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>iṉit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>pleasing-it</def>
