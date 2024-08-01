@@ -61,7 +61,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">134ML14MG14MG10MG46MG20MG97MG19MG20MG26MG16MG18M2G38ML15ML5ML2MG14ML2MG14MG18MG24MGMG116M2G4MG5MG32ML13M2G2M,574M6G188MG</interp>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">134ML14MG14MG10MG46MG20MG97MG19MG20MG26MG16MG18M2G38ML15ML5ML2MG14ML2MG14MG18MG24MGMG116M2G4MG5MG32ML13M2G2M,574M6G73MG114MG</interp>
 <entry>
 <form>paṉi</form>
 <def>dew</def>
@@ -576,8 +576,12 @@
 <def>Kiṇai-drum</def>
 </entry>
 <entry>
-<form>............nal</form>
-<def>............good</def>
+<form>...........</form>
+<def>...........</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
 </entry>
 <entry>
 <form>tēr</form>
