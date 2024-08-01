@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title>377.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN377">
       <lg type="edition">
 <l>paṉipaḻuṉiya palyāmattup</l>
 <l>pāṟutalai mayirnaṉaiya</l>
@@ -58,10 +58,42 @@
 <l>taṭaloli koṇṭa <supplied>tāṉai</supplied></l>
 <l>yaṭalveṅ kuruciṉī maṉṉiya neṭitē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>When the hair on [my] dishevelled head had become wet (2)</l>
+<l>for many midnights rife with dew (1)</l>
+<l>I approached, touching my Kiṇai drum in order to dispell despair (4)</l>
+<l>from within the bounds of the auspicious mansion where one sleeps sweetly, (3)</l>
+<l>[and], while those who eat offerings stood guard outside, (5)</l>
+<l>taking it in that [that] were the days he with a dutiful </l>
+<l>heart would praise [my] coming [in time], (6f.)</l>
+<l>[I] said “may he of a strong hand who covers without hiding live”, (8-9a)</l>
+<l>[and] “apart from him who is equal to others</l>
+<l>wo have obtained a name there is no other equal to him”; (9b-11)</l>
+<l>[and when,] seeing me who stood there, (13)</l>
+<l>[my] mind dull when thinking that, (12)</l>
+<l>[he] said “Kiṇai player who goes to strange lands, (14)</l>
+<l>you are a protection to us”,</l>
+<l>he who granted in reality, (20a)</l>
+<l>while [I] stood without suffering, seeing [them] as if in a dream (19)</l>
+<l>gold yielded by the mountain, sapphires yielded by the wilderness, (16)</l>
+<l>gleaming pearls yielded by the sea, (17)</l>
+<l>dresses that were different and pots made from clay, (18)</l>
+<l>  was an appearance worthy ofs my hand. (20cd)</l>
+<l>Those who talk about lands talk about his land, (21)</l>
+<l>those who talk about kings talk about him as a king. (22)</l>
+<l>Cutting down elephants with gold tusks, (23)</l>
+<l>as village commons crumble, [is there] affection in those who live by the sword: (28)</l>
+<l>belted good horses of expansive gait, (24)</l>
+<l>shapely bells roll [and] curved Kiṇai drums (25)</l>
+<l>those in a crowd of good chariots, (26)</l>
+<l>[and] those with strength of fast fame/sound (27)</l>
+<l>may you, lord cruel in killing, last long,</l>
+<l>with an army with the sound of killing. (29f.)    </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">134ML14MG14MG10MG46MG20MG97MG19MG20MG26MG16MG18M2G38ML15ML5ML2MG14ML2MG14MG18MG24MGMG116M2G4MG5MG32ML13M2G2M,574M6G73MG114MG</interp>
+<standOff type="wordsplit" corresp=""#PN377"><interp type="alignment" select="0">134ML14MG14MG10MG46MG20MG97MG19MG20MG26MG16MG18M2G38ML15ML5ML2MG14ML2MG14MG18MG24MGMG116M2G4MG5MG32ML13M2G2M,574M6G73MG114MG</interp>
 <entry>
 <form>paṉi</form>
 <def>dew</def>
