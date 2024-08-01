@@ -30,7 +30,7 @@
 <l>niṟampaṭaik kolkā yāṉai mēlōṉ</l>
 <l>kuṟumpark keṟiyu mēva ṟaṇṇumai</l>
 <l>nāṇuṭai mākkaṭ kiraṅku māyi</l>
-<l>ṉemmiṉum pēreḻi liḻantu viṉaiyeṉa</l>
+<l>ṉemmiṉum pēreḻi liḻantu viṉaiyeṉap</l>
 <l>piṟarmaṉai pukuvaḷ kollō</l>
 <l>vaḷiya ṭāṉē pūvilai peṇṭē.</l>
 </lg>
@@ -45,7 +45,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN293"><interp type="alignment" select="0">36MG10ML21MG40MG17MG12ML2MG12M2G2M,160MG</interp>
+<standOff type="wordsplit" corresp="#PN293"><interp type="alignment" select="0">36MG10ML21MG16MG42MG12ML2MG12M2G2M,161MG</interp>
 <entry>
 <form>niṟam</form>
 <def>vital spot</def>
@@ -122,12 +122,14 @@
 <gramGrp><gram type="role">conditional</gram>
 </gramGrp></entry>
 <entry>
-<form>emmiṉum</form>
+<form>emmiṉ-um</form>
 <def>us</def>
+<form type="simple">emmiṉ</form>
 <gramGrp><gram type="role">oblique</gram>
 <gram type="role">plural</gram>
 <gram type="role">first person</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>pēr</form>
 <def>great</def>
@@ -180,9 +182,17 @@
 </gramGrp></entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)(n.sg.|sg.|3.|n.|3.)</def>
 <form type="simple">tāṉ</form>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
+<gram type="role">neuter singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>

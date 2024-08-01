@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 214.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -60,7 +60,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN214"><interp type="alignment" select="0">8MG17MG18MG28MG5MG18MG8MG25MG8MG23MG40MG82MG8ML29MG27MG18ML9MG3M,151MG238MG</interp>
+<standOff type="wordsplit" corresp="#PN214"><interp type="alignment" select="0">8MG17MG18MG28MG5MG18MG8MG25MG8MG23MG40MG82MG8ML15MG14MG27MG18ML9MG3M,151MG239MG</interp>
 <entry>
 <form>ceykuvam-kollō</form>
 <def>we-do</def>
@@ -142,7 +142,7 @@
 <entry>
 <form>kuṟumpūḻ</form>
 <def>quail (short bird)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>vēṭṭuvaṉ</form>
 <def>hunter</def>
@@ -181,11 +181,8 @@
 </gramGrp></entry></entry>
 <entry><entry>
 <form>vēṭṭatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>desire</def>
-<gramGrp><gram type="role">participial noun</gram>
-<gram type="role">neuter singular</gram>
-<gram type="role">perfective aspect</gram>
-</gramGrp></entry></entry>
+<def>desire(part.n.</def>
+</entry></entry>
 </superEntry>
 <entry>
 <form>uyarnticiṉōrkku<pc>+</pc></form>
@@ -204,8 +201,8 @@
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>eytal</form>
 <def>reaching</def>
@@ -229,8 +226,6 @@
 <entry>
 <form>nukarcci<pc>~</pc>um</form>
 <def>enjoyment</def>
-<form type="simple">nukarcci</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>kūṭum</form>
@@ -264,8 +259,8 @@
 <entry>
 <form>piṟappiṉ</form>
 <def>birth</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉmai-<pc>~</pc>um</form>
 <def>non-existence</def>
@@ -287,8 +282,12 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>even-if</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>imayattu<pc>+</pc></form>
@@ -326,8 +325,8 @@
 <entry>
 <form>yākkaiyoṭu</form>
 <def>body</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>māytal</form>
 <def>disappearing</def>

@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 332.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -53,7 +53,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN332"><interp type="alignment" select="0">13MG19MG6MG12M2G10MR3M2G12MG38ML95MG24MG47MG4M2G2M,299MG</interp>
+<standOff type="wordsplit" corresp="#PN332"><interp type="alignment" select="0">13MG19MG6MG12M2G10MR3M2G12MG28MG10ML69MG9MG17MG13MG11MG40MG7MG4M2G2M,304MG</interp>
 <entry>
 <form>piṟar</form>
 <def>other</def>
@@ -135,8 +135,12 @@
 <def>roof</def>
 </entry>
 <entry>
-<form>kiṭakkiṉum</form>
+<form>kiṭakkiṉ-um</form>
 <def>lie-if-even</def>
+<form type="simple">kiṭakkiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>kiṭakkum</form>
@@ -149,8 +153,8 @@
 <entry>
 <form>makaḷiroṭu</form>
 <def>women</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>mālai</form>
 <def>garland</def>
@@ -179,8 +183,8 @@
 <entry>
 <form>yāḻoṭu</form>
 <def>lute</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>tatumpa<pc>+</pc></form>
 <def>resound</def>
@@ -195,18 +199,18 @@
 <def>water</def>
 </entry>
 <entry>
-<form>paṭuviṉum</form>
+<form>paṭuviṉ-um</form>
 <def>well</def>
 <form type="simple">paṭuviṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>teruviṉum</form>
+<form>teruviṉ-um</form>
 <def>street</def>
 <form type="simple">teruviṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>tirintu</form>
@@ -226,8 +230,12 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>celliṉum</form>
+<form>celliṉ-um</form>
 <def>go-if-even</def>
+<form type="simple">celliṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>cellum</form>
@@ -263,11 +271,11 @@
 <def>elephant-bull</def>
 </entry>
 <entry>
-<form>mukattiṉum</form>
+<form>mukattiṉ-um</form>
 <def>face</def>
 <form type="simple">mukattiṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>celav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>

@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 345.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -73,7 +73,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN345"><interp type="alignment" select="0">5MG63M2G34MG64MG23M2G19ML50ML10ML30MG6ML8MG46MG58MG55MG19MG3ML2MG26MG2M,542MG</interp>
+<standOff type="wordsplit" corresp="#PN345"><interp type="alignment" select="0">5MG63M2G34MG64MG23M2G19ML50ML10ML30MG6ML8MG46MG58MG55MG4MG15MG3ML2MG26MG2M,543MG</interp>
 <entry>
 <form>kaḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>elephant</def>
@@ -121,8 +121,8 @@
 <entry>
 <form>maṟukaliṉ</form>
 <def>whirling</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>mayakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-uṟṟaṉa</form>
 <def>confusion</def>
@@ -139,8 +139,8 @@
 <entry>
 <form>kaḻāaliṉ</form>
 <def>washing</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tuṟai</form>
 <def>harbour</def>
@@ -170,8 +170,8 @@
 <entry>
 <form>kūrtaliṉ</form>
 <def>being-abundant</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>poṟai</form>
 <def>burden</def>
@@ -233,8 +233,8 @@
 <entry>
 <form>irumpiṉ</form>
 <def>iron</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nō</form>
 <def>pain</def>
@@ -290,8 +290,8 @@
 <entry>
 <form>nōkkiṉ</form>
 <def>look</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>taiyalai</form>
 <def>woman</def>
@@ -403,13 +403,12 @@
 <entry>
 <form>kuruti-<pc>~</pc>am</form>
 <def>blood</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>pulavoṭu</form>
 <def>stench</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻāa<pc>+</pc></form>
 <def>wash-not</def>
@@ -445,8 +444,12 @@
 <def>warrior(h.)-it</def>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>aṉṉō</form>
@@ -471,7 +474,7 @@
 <entry>
 <form>paṉṉal</form>
 <def>cotton(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>vēli</form>
 <def>hedge</def>

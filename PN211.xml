@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 211.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -78,7 +78,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN211"><interp type="alignment" select="0">4MG26MG5MG35MG27MG21MG5MG26MG26ML5ML107MG52MR12MR10MR12ML91MG8MG7MG128MG12ML11M2G2M,653MG</interp>
+<standOff type="wordsplit" corresp="#PN211"><interp type="alignment" select="0">4MG26MG5MG35MG27MG21MG5MG26MG26ML5ML107MG52MR12MR9MGMR12ML91MG8MG7MG128MG12ML11M2G2M,654MG</interp>
 <entry>
 <form>añcu-varu</form>
 <def>fear-come</def>
@@ -197,8 +197,8 @@
 <entry>
 <form>tāṉaiyoṭu</form>
 <def>army</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>talai<pc>+</pc></form>
 <def>head</def>
@@ -364,8 +364,8 @@
 <entry>
 <form>poyyoṭu</form>
 <def>lie</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>niṉṟa</form>
 <def>stood</def>
@@ -392,8 +392,12 @@
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>nāṇa<pc>+</pc></form>
@@ -596,8 +600,8 @@
 <entry>
 <form>putalvaṉoṭu</form>
 <def>son</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>maṉai</form>
 <def>house</def>

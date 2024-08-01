@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 203.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -57,7 +57,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN203"><interp type="alignment" select="0">79M2G4MG41MG33M2G9ML56MG9MG10MG22MG3MG2MR5MG56M2G2M,346MG</interp>
+<standOff type="wordsplit" corresp="#PN203"><interp type="alignment" select="0">29MG37MG13M2G4MG41MG33M2G9ML30MG26MG9MG10MG22MG3MG2MR5MG56M2G2M,349MG</interp>
 <entry>
 <form>kaḻintatu</form>
 <def>passed-it</def>
@@ -82,10 +82,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>māṟiṉum</form>
+<form>māṟiṉ-um</form>
 <def>change-if-even</def>
+<form type="simple">māṟiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>tollatu</form>
 <def>old-it</def>
@@ -109,10 +112,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>karappiṉum</form>
+<form>karappiṉ-um</form>
 <def>hide-if-even</def>
+<form type="simple">karappiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>ellā</form>
 <def>all</def>
@@ -240,14 +246,17 @@
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp></entry>
 <entry>
-<form>āṟṟātōriṉum</form>
+<form>āṟṟātōriṉ-um</form>
 <def>be-capable-not-they</def>
+<form type="simple">āṟṟātōriṉ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">negative</gram>
 <gram type="role">oblique</gram>
 <gram type="role">honorific</gram>
 <gram type="role">third person</gram>
-</gramGrp></entry>
+<gram type="role">comparative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>uḷḷi</form>
 <def>remembered</def>

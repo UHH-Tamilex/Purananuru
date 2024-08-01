@@ -59,7 +59,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN206"><interp type="alignment" select="0">7MG8MG118MG13MG14ML22MG14MG7M2G7MG34MG5M2G20MG27ML31MG5MG3M2G28M2G2M,55MG329MG</interp>
+<standOff type="wordsplit" corresp="#PN206"><interp type="alignment" select="0">7MG8MG118MG13MG14ML22MG14MG7M2G7MG34MG5M2G20MG27ML31MG5MG3M2G15MG13M2G2M,55MG330MG</interp>
 <entry>
 <form>vāyilōy-ē</form>
 <def>door-you</def>
@@ -396,10 +396,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>celiṉum</form>
+<form><pc>+</pc>celiṉ-um</form>
 <def>go-if-even</def>
+<form type="simple">celiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>a<pc>+</pc></form>
 <def>that-</def>
