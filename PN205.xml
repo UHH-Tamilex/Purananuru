@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 205.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -83,7 +83,8 @@
 <entry>
 <form>āyiṉum</form>
 <def>if-even</def>
-</entry>
+<gramGrp><gram type="role">conditional</gram>
+</gramGrp></entry>
 <entry>
 <form>peṭp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>desiring</def>
@@ -92,7 +93,8 @@
 <entry>
 <form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>without</def>
-</entry>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>ītal</form>
 <def>giving</def>
@@ -101,7 +103,9 @@
 <entry>
 <form>yām</form>
 <def>we</def>
-</entry>
+<gramGrp><gram type="role">plural</gram>
+<gram type="role">first person</gram>
+</gramGrp></entry>
 <entry>
 <form>vēṇṭalam-ē</form>
 <def>want-not-we</def>
@@ -114,11 +118,13 @@
 <entry>
 <form>viṟal</form>
 <def>victory</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṉam</form>
 <def>anger</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>taṇinta</form>
 <def>cooled-down</def>
@@ -133,11 +139,13 @@
 <entry>
 <form>pari<pc>+</pc></form>
 <def>motion</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>puravi</form>
 <def>horse</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>uṟuvar</form>
 <def>have-they</def>
@@ -154,7 +162,8 @@
 <entry>
 <form>cārv<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>refuge</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>āki<pc>+</pc></form>
 <def>become</def>
@@ -163,17 +172,21 @@
 <entry>
 <form>ceṟuvar</form>
 <def>quarrel-they</def>
-<gramGrp><gram type="role">honorific</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">imperfect aspect</gram>
+<gram type="role">honorific</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>tāḷ</form>
 <def>effort</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uḷam</form>
 <def>mind</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>taputta</form>
 <def>destroyed</def>
@@ -183,7 +196,8 @@
 <entry>
 <form>vāḷ</form>
 <def>sword</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>miku</form>
 <def>be-much</def>
@@ -192,27 +206,34 @@
 <entry>
 <form>tāṉai</form>
 <def>army</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>veḷ</form>
 <def>white</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>vī</form>
 <def>blossom</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vēli</form>
 <def>hedge</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>kōṭai<pc>+</pc></form>
-<def>Kōṭai-mountain</def>
-</entry>
+<def>Kōṭai mountain</def>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
 <entry>
 <form>poruna</form>
 <def>fighter</def>
-<gramGrp><gram type="role">masculine singular</gram>
+<gramGrp><gram type="role">participial noun</gram>
+<gram type="role">masculine singular</gram>
+<gram type="role">imperfect aspect</gram>
 <gram type="role">vocative</gram>
 </gramGrp></entry>
 <entry>
@@ -234,7 +255,8 @@
 <entry>
 <form>puḻai</form>
 <def>hole</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>keṭa</form>
 <def>get-lost</def>
@@ -249,11 +271,13 @@
 <entry>
 <form>māṉ</form>
 <def>deer</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇam</form>
 <def>group</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tolaicciya</form>
 <def>exterminated</def>
@@ -263,19 +287,23 @@
 <entry>
 <form>kaṭu</form>
 <def>fast</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>vicai</form>
 <def>speed</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>katam</form>
 <def>anger</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nāy</form>
 <def>dog</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nōṉ</form>
 <def>endure</def>
@@ -284,21 +312,26 @@
 <entry>
 <form>cilai</form>
 <def>bow</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vēṭṭuva</form>
 <def>hunter</def>
-<gramGrp><gram type="role">masculine singular</gram>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">masculine singular</gram>
 <gram type="role">vocative</gram>
 </gramGrp></entry>
 <entry>
 <form>nōy</form>
 <def>pain</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ilai</form>
 <def>not-you</def>
-</entry>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>ākuka</form>
 <def>may-become</def>
@@ -312,11 +345,13 @@
 <entry>
 <form>kali</form>
 <def>bustle</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>yāṇar</form>
 <def>fertility</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>tarīiya</form>
 <def>give</def>
@@ -325,7 +360,8 @@
 <entry>
 <form>kāl</form>
 <def>wind</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vīḻttu<pc>+</pc></form>
 <def>made-descend</def>
@@ -334,7 +370,8 @@
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vayiṉ</form>
 <def>side</def>
@@ -354,11 +391,13 @@
 <entry>
 <form>koṇmū</form>
 <def>cloud</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nīr</form>
 <def>water</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉṟu</form>
 <def>without</def>
@@ -373,8 +412,8 @@
 <entry>
 <form>tērōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>chariot</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>oḷiṟu</form>
 <def>be-bright</def>
@@ -383,7 +422,8 @@
 <entry>
 <form>marupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>tusk</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ēntiya</form>
 <def>been-eminent</def>
@@ -393,11 +433,13 @@
 <entry>
 <form>cemmal</form>
 <def>superiority</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>elephant-bull</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉṟu</form>
 <def>without</def>
@@ -411,13 +453,15 @@
 </gramGrp></entry>
 <entry>
 <form>paricilar</form>
-<def>supplicant</def>
+<def>gift-seeker</def>
 <gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
 <form>kaṭump<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>relations</def>
 <form type="simple">kaṭumpu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>
