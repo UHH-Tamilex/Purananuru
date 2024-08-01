@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title>377.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -93,7 +91,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp=""#PN377"><interp type="alignment" select="0">134ML14MG14MG10MG46MG20MG97MG19MG20MG26MG16MG18M2G38ML15ML5ML2MG14ML2MG14MG18MG24MGMG116M2G4MG5MG32ML13M2G2M,574M6G73MG114MG</interp>
+<standOff type="wordsplit" corresp="#PN377"><interp type="alignment" select="0">134ML14MG14MG10MG46MG20MG97MG19MG20MG26MG16MG18M2G38ML15ML5ML2MG14ML2MG14MG18MG24MGMG116M2G4MG5MG32ML13M2G2M,574M6G72M2G114MG</interp>
 <entry>
 <form>paṉi</form>
 <def>dew</def>
@@ -147,8 +145,8 @@
 <entry>
 <form>varaippiṉ</form>
 <def>boundary</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉaiyal</form>
 <def>despairing</def>
@@ -449,13 +447,13 @@
 <entry>
 <form>kaṉaviṉ</form>
 <def>dream</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṭāṅku</form>
 <def>seen</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>varuntātu</form>
 <def>suffer-not</def>
@@ -468,8 +466,8 @@
 <entry>
 <form>naṉaviṉ</form>
 <def>reality</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nalkiyōṉ</form>
 <def>granted-he</def>
@@ -576,11 +574,11 @@
 <def>seize</def>
 </entry>
 <entry>
-<form>pari</form>
+<form>pari<pc>+</pc></form>
 <def>motion</def>
 </entry>
 <entry>
-<form><pc>+</pc>kaccai</form>
+<form>kaccai</form>
 <def>belt</def>
 </entry>
 <entry>
@@ -608,19 +606,19 @@
 <def>Kiṇai-drum</def>
 </entry>
 <entry>
-<form>...........</form>
-<def>...........</def>
+<form>..........</form>
+<def>..........</def>
 </entry>
 <entry>
 <form>nal</form>
 <def>good</def>
 </entry>
 <entry>
-<form>tēr</form>
+<form>tēr<pc>+</pc></form>
 <def>chariot</def>
 </entry>
 <entry>
-<form><pc>+</pc>kuḻuviṉar</form>
+<form>kuḻuviṉar</form>
 <def>crowded-they</def>
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
@@ -640,8 +638,8 @@
 <entry>
 <form>vāḷiṉ</form>
 <def>sword</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vāḻnar</form>
 <def>live-they</def>
