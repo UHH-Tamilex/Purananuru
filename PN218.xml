@@ -52,19 +52,22 @@
 <form>poṉ-<pc>+</pc>um</form>
 <def>gold</def>
 <form type="simple">poṉ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>tukir-um</form>
 <def>coral</def>
 <form type="simple">tukir</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>mutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>pearl</def>
 <form type="simple">muttu</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>maṉṉiya</form>
@@ -75,11 +78,13 @@
 <entry>
 <form>mā</form>
 <def>big/dark</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>malai</form>
 <def>mountain</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>payanta</form>
 <def>yielded</def>
@@ -89,17 +94,20 @@
 <entry>
 <form>kāmaru</form>
 <def>desirable</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>maṇi-<pc>~</pc>um</form>
 <def>sapphire</def>
 <form type="simple">maṇi</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>iṭai</form>
 <def>middle</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>paṭa<pc>+</pc></form>
 <def>happen</def>
@@ -127,32 +135,38 @@
 <entry>
 <form>puṇarnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>united</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>aru</form>
 <def>rare</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>vilai</form>
 <def>price</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nal</form>
 <def>good</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kalam</form>
 <def>ornament</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>amaikkum</form>
-<def>effecting</def>
+<def>effecting-</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
 <form>kālai</form>
 <def>time</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>oru</form>
 <def>one</def>
@@ -160,10 +174,11 @@
 <entry>
 <form>vaḻi<pc>+</pc></form>
 <def>way</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tōṉṟiyāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>apeared</def>
+<def>apeared-like</def>
 <gramGrp><gram type="role">comparative</gram>
 </gramGrp></entry>
 <entry>
@@ -191,7 +206,7 @@
 </gramGrp></entry>
 <entry>
 <form>āpa</form>
-<def>become-they</def>
+<def>they become</def>
 <gramGrp><gram type="role">imperfect aspect</gram>
 <gram type="role">plural</gram>
 <gram type="role">third person</gram>
@@ -217,7 +232,7 @@
 </gramGrp></entry>
 <entry>
 <form>ākupa-<pc>~</pc>ē</form>
-<def>become-they</def>
+<def>they become</def>
 <form type="simple">ākupa</form>
 <gramGrp><gram type="role">imperfect aspect</gram>
 <gram type="role">plural</gram>

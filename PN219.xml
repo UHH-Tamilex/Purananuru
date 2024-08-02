@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 219.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -41,11 +41,12 @@ Many indeed are those who sit at your sign.
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN219"><interp type="alignment" select="0">46ML12MG6MG9MG20MG2M,99MG</interp>
+<standOff type="wordsplit" corresp="#PN219"><interp type="alignment" select="0">46ML12MG6MG7MG22MG2M,99MG</interp>
 <entry>
 <form>uḷ</form>
 <def>inside</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>āṟṟu<pc>+</pc></form>
 <def>way</def>
@@ -54,23 +55,28 @@ Many indeed are those who sit at your sign.
 <entry>
 <form>kavalai<pc>+</pc></form>
 <def>fork</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>puḷḷi</form>
 <def>dot</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>nīḻal</form>
 <def>shade</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>muḻūu</form>
 <def>whole</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷḷūram</form>
 <def>meat</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>uṇakkum</form>
 <def>drying-up</def>
@@ -79,7 +85,8 @@ Many indeed are those who sit at your sign.
 <entry>
 <form>maḷḷa</form>
 <def>warrior</def>
-<gramGrp><gram type="role">vocative</gram>
+<gramGrp><gram type="role">masculine singular</gram>
+<gram type="role">vocative</gram>
 </gramGrp></entry>
 <entry>
 <form>pulavuti-mātō</form>
@@ -94,23 +101,28 @@ Many indeed are those who sit at your sign.
 <form>nī-<pc>~</pc>ē</form>
 <def>you</def>
 <form type="simple">nī</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">second person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form>palarāl-attai</form>
-<def>manyāl-</def>
-<form type="simple">palarāl</form>
-<gramGrp type="particle"><m>attai</m></gramGrp>
-</entry>
+<form>palar-ālattai</form>
+<def>many</def>
+<gramGrp><gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
 <entry>
 <form>niṉ</form>
-<def>you</def>
+<def>your</def>
 <gramGrp><gram type="role">oblique</gram>
+<gram type="role">singular</gram>
+<gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
 <form>kuṟi</form>
 <def>sign</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>iruntōr-ē</form>
 <def>been-they</def>
