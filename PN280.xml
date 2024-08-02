@@ -63,7 +63,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN280"><interp type="alignment" select="0">14MG12MG13MG11MR24M2GMR14MG7MG27MG7MR42MG2MR40MG15M2G17MG7M2G4MG2ML3MG87ML21MG19M2G2M,416MG</interp>
+<standOff type="wordsplit" corresp="#PN280"><interp type="alignment" select="0">14MG12MG13MG11MR24M2GMR14MG7MG27MG7MR42MG2MR40MG15M2G17MG7M2G4MG2ML3MG87ML21MG13MG6M2G2M,417MG</interp>
 <entry>
 <form>eṉ</form>
 <def>my</def>
@@ -469,10 +469,12 @@
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp></entry>
 <entry>
-<form>ataṉiṉum</form>
+<form>ataṉiṉ-um</form>
 <def>that</def>
+<form type="simple">ataṉiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>arit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>difficult-it</def>

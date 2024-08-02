@@ -45,7 +45,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN277"><interp type="alignment" select="0">23ML30MG43M2G65M,164MG</interp>
+<standOff type="wordsplit" corresp="#PN277"><interp type="alignment" select="0">23ML30MG36MG7M2G56MG9M,166MG</interp>
 <entry>
 <form>mīṉ</form>
 <def>fish</def>
@@ -131,10 +131,12 @@
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>ñāṉṟiṉum</form>
+<form>ñāṉṟiṉ-um</form>
 <def>time</def>
+<form type="simple">ñāṉṟiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>big-it</def>
@@ -190,10 +192,12 @@
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>citariṉum</form>
+<form>citariṉ-um</form>
 <def>drop</def>
+<form type="simple">citariṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>pala<pc>~</pc>ē</form>
 <def>many</def>

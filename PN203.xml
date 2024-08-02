@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"/> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 203.
             <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN203">
       <lg type="edition">
 <l>kaḻintatu poḻinteṉa vāṉkaṇ māṟiṉun</l>
 <l>tollatu viḷainteṉa nilamvaḷaṅ karappiṉu</l>
@@ -40,10 +40,24 @@
 <l>pāṇkaṭa ṉiṟukkum vaḷḷiyōy</l>
 <l>pūṇkaṭa ṉentainī yiravalar puravē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>If, because in the past [rain] flew, the clouds changed area, (1)</l>
+<l>if because it ripened of old, the soil would hide [its] fertility, (2)</l>
+<l>there would be no living for all the beings. (3)</l>
+<l>If the likes of us beg “give [us something] yet again”, (4)</l>
+<l>the likes of you refusing “you took before” (5)</l>
+<l>is unpleasant, ah, majesty with an advancing chariot. (6)</l>
+<l>More than those who are not able to fill what is not there (7)</l>
+<l>there are those who lose the love for those who come, remembering, (8)</l>
+<l>and you are not like that. (9a-c)</l>
+<l>You capable of performing [your] duty to bards, (11)</l>
+<l>saying “the enemy fortress difficult [to break], being their place is [now] your’s.” (9d-10)</l>
+<l>You, father of ornamental virtue, are the protection for supplicants.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">79M2G4MG41MG33M2G9ML56MG9MG10MG22MG3MG2MR5MG56M2G2M,346MG</interp>
+<standOff type="wordsplit" corresp="#PN203"><interp type="alignment" select="0">29MG37MG13M2G4MG41MG33M2G9ML30MG26MG9MG10MG22MG3MG2MR5MG56M2G2M,349MG</interp>
 <entry>
 <form>kaḻintatu</form>
 <def>passed-it</def>
@@ -68,10 +82,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>māṟiṉum</form>
+<form>māṟiṉ-um</form>
 <def>change-if-even</def>
+<form type="simple">māṟiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>tollatu</form>
 <def>old-it</def>
@@ -95,10 +112,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>karappiṉum</form>
+<form>karappiṉ-um</form>
 <def>hide-if-even</def>
+<form type="simple">karappiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>ellā</form>
 <def>all</def>
@@ -226,14 +246,17 @@
 <gramGrp><gram type="role">verbal noun</gram>
 </gramGrp></entry>
 <entry>
-<form>āṟṟātōriṉum</form>
+<form>āṟṟātōriṉ-um</form>
 <def>be-capable-not-they</def>
+<form type="simple">āṟṟātōriṉ</form>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">negative</gram>
 <gram type="role">oblique</gram>
 <gram type="role">honorific</gram>
 <gram type="role">third person</gram>
-</gramGrp></entry>
+<gram type="role">comparative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>uḷḷi</form>
 <def>remembered</def>

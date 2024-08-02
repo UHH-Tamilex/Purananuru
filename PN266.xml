@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -57,7 +58,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN266"><interp type="alignment" select="0">114MG27MR49MGM2G28MG7MG2MG28MG24MG71MG3M,364MG</interp>
+<standOff type="wordsplit" corresp="#PN266"><interp type="alignment" select="0">54MG60MG27MR78MG7MG2MG28MG24MG71MG3M,362MG</interp>
 <entry>
 <form>payam</form>
 <def>yield</def>
@@ -99,8 +100,12 @@
 <def>west-wind</def>
 </entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><pc>~</pc>āyiṉ-um</form>
 <def>even-if</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>puḻal</form>
@@ -221,7 +226,7 @@
 <def>parasol</def>
 </entry>
 <entry>
-<form>vaya<pc>(</pc>m<pc>)</pc></form>
+<form>vaya</form>
 <def>strength</def>
 </entry>
 <entry>

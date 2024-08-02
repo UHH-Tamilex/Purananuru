@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 329.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -51,7 +51,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN329"><interp type="alignment" select="0">23MG18ML55MG29MG16MG4MG11MG3M2G4MG17ML5MG10MG6MG18ML4MG13MG2M,254MG</interp>
+<standOff type="wordsplit" corresp="#PN329"><interp type="alignment" select="0">23MG18ML55MG29MG4MG12MG4MG11MG3M2G4MG17ML5MG10MG6MG18ML4MG13MG2M,255MG</interp>
 <entry>
 <form>il</form>
 <def>house</def>
@@ -63,8 +63,8 @@
 <entry>
 <form>kaḷḷiṉ</form>
 <def>toddy</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>cil</form>
 <def>few</def>
@@ -92,8 +92,8 @@
 <entry>
 <form>kalliṉ</form>
 <def>ston</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -167,8 +167,12 @@
 <def>seat-it</def>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>vari</form>

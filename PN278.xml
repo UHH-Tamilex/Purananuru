@@ -51,7 +51,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN278"><interp type="alignment" select="0">6MG5MG84MG6MG32MG75MG45MG9MG2M,271MG</interp>
+<standOff type="wordsplit" corresp="#PN278"><interp type="alignment" select="0">6MG5MG84MG6MG32MG75MG38MG7MG9MG2M,272MG</interp>
 <entry>
 <form>naramp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>blood vessel</def>
@@ -228,7 +228,7 @@
 </gramGrp></entry>
 <entry>
 <form>peyarā<pc>+</pc></form>
-<def>moved(pos.abs.)(abs.)</def>
+<def>moved(pos.abs.)(abs.)(abs.)</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
@@ -291,10 +291,12 @@
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>ñāṉṟiṉum</form>
+<form>ñāṉṟiṉ-um</form>
 <def>day</def>
+<form type="simple">ñāṉṟiṉ</form>
 <gramGrp><gram type="role">comparative</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>big-it</def>

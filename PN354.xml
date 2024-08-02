@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 354.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -54,14 +54,18 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN354"><interp type="alignment" select="0">40MR34MG84ML23MG11MG11MG5MG14MG3MG12MG44M3G4M2G2M,301MG</interp>
+<standOff type="wordsplit" corresp="#PN354"><interp type="alignment" select="0">16MG24MR34MG84ML23MG11MG11MG5MG14MG3MG12MG48M2G2M,299MG</interp>
 <entry>
 <form>araicu</form>
 <def>king</def>
 </entry>
 <entry>
-<form>talaivariṉum</form>
+<form>talaivariṉ-um</form>
 <def>come-against-if-even</def>
+<form type="simple">talaivariṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>aṭaṅkal</form>
@@ -86,8 +90,8 @@
 <entry>
 <form>nīriṉ</form>
 <def>water</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>mūḻka<pc>+</pc></form>
 <def>submerge</def>
@@ -263,7 +267,7 @@
 <def>de-delighted-</def>
 </entry>
 <entry>
-<form>maṭa<pc>(</pc>m<pc>)</pc></form>
+<form>maṭa</form>
 <def>ignorance</def>
 </entry>
 <entry>

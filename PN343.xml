@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 343.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -67,7 +67,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN343"><interp type="alignment" select="0">3ML93MG63MG12MG22MG141MG41MG14MG8MG7MG6MG34M2G15MG2M,474MG</interp>
+<standOff type="wordsplit" corresp="#PN343"><interp type="alignment" select="0">3ML93MG63MG12MG22MG102MG39MG41MG14MG8MG7MG6MG34M2G15MG2M,475MG</interp>
 <entry>
 <form>mīṉ</form>
 <def>fish</def>
@@ -91,8 +91,8 @@
 <entry>
 <form><pc>~</pc>ampiyiṉ</form>
 <def>boat</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maṉai</form>
 <def>house</def>
@@ -154,7 +154,7 @@
 <entry>
 <form>paricam</form>
 <def>object(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>kaḻi<pc>+</pc></form>
 <def>backwaters</def>
@@ -209,13 +209,12 @@
 <entry>
 <form>puṉalam</form>
 <def>flood</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>kaḷḷiṉ</form>
 <def>toddy</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>polam</form>
 <def>golden</def>
@@ -239,8 +238,8 @@
 <entry>
 <form>muḻaviṉ</form>
 <def>drum</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>mucuṟi</form>
 <def>Mucuṟi</def>
@@ -275,8 +274,12 @@
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
-<form>koṭuppiṉum</form>
+<form>koṭuppiṉ-um</form>
 <def>give-if-even</def>
+<form type="simple">koṭuppiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>puraiyar</form>
