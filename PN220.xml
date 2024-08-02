@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 220.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -47,23 +47,27 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN220"><interp type="alignment" select="0">41MG25MG42M2G20MG4MG37MG12M2G2M,191MG</interp>
+<standOff type="wordsplit" corresp="#PN220"><interp type="alignment" select="0">41MG25MG62MG4MG37MG12M2G2M,189MG</interp>
 <entry>
 <form>perum</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>cōṟu</form>
 <def>rice</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>payantu</form>
 <def>yielded</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>pal</form>
 <def>many</def>
-</entry>
+<gramGrp><gram type="role">pronoun</gram>
+</gramGrp></entry>
 <entry>
 <form>yāṇṭu</form>
 <def>year</def>
@@ -77,11 +81,13 @@
 <entry>
 <form>perum</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>elephant-bull</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>iḻanta</form>
 <def>lost</def>
@@ -91,11 +97,13 @@
 <entry>
 <form>paital</form>
 <def>suffering</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pākaṉ</form>
 <def>mahout</def>
-</entry>
+<gramGrp><gram type="role">masculine singular</gram>
+</gramGrp></entry>
 <entry>
 <form>atu</form>
 <def>that</def>
@@ -103,7 +111,8 @@
 <entry>
 <form>cērnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>joined</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
 <form>alkiya</form>
 <def>rested</def>
@@ -113,19 +122,23 @@
 <entry>
 <form><pc>~</pc>aḻuṅkal</form>
 <def>noise</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ālai</form>
 <def>stable</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>veḷil</form>
 <def>post</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>pāḻ</form>
 <def>ruin</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ākka</form>
 <def>become</def>
@@ -134,16 +147,17 @@
 <entry>
 <form>kaṇṭu</form>
 <def>seen</def>
-</entry>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
 <entry>
-<form>kaluḻnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āṅku<pc>+</pc></form>
+<form>kaluḻntāṅku<pc>+</pc></form>
 <def>wept-like</def>
 <gramGrp><gram type="role">comparative</gram>
 <gram type="role">absolutive</gram>
 </gramGrp></entry>
 <entry>
 <form>kalaṅkiṉeṉ</form>
-<def>stirred-up-I</def>
+<def>I was stirred up</def>
 <gramGrp><gram type="role">perfective aspect</gram>
 <gram type="role">singular</gram>
 <gram type="role">first person</gram>
@@ -161,28 +175,35 @@
 <form>yāṉ-ē</form>
 <def>I</def>
 <form type="simple">yāṉ</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">singular</gram>
+<gram type="role">first person</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>polam</form>
 <def>golden</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>tār</form>
 <def>garland</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>tēr</form>
 <def>chariot</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷ</form>
 <def>generous</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kiḷḷi</form>
 <def>Kiḷḷi</def>
-</entry>
+<gramGrp><gram type="role">proper name</gram>
+</gramGrp></entry>
 <entry>
 <form>pōkiya</form>
 <def>gone</def>
@@ -192,27 +213,33 @@
 <entry>
 <form>pēr</form>
 <def>big</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>icai</form>
 <def>sound</def>
-</entry>
+<gramGrp><gram type="role">root noun</gram>
+</gramGrp></entry>
 <entry>
 <form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>old</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram>
+</gramGrp></entry>
 <entry>
 <form>ūr</form>
 <def>town</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>maṉṟam</form>
-<def>village-common</def>
-</entry>
+<def>village common</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>seen</def>
 <form type="simple">kaṇṭu</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
 </TEI>
