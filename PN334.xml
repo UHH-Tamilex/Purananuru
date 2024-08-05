@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 334.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN334">
       <lg type="edition">
 <l>kāmaru paḻaṉak kaṇpi ṉaṉṉa</l>
 <l>tūmayirk kuṟuntā ṇeṭuñcevik kuṟumuyal</l>
@@ -39,10 +39,23 @@
 <l>paricil paricilark kīya</l>
 <l>vuravuvēṟ kāḷaiyuṅ kaitū vāṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The little hare with long ears, short legs [and] a pur fur,</l>
+<l>like the elephant grass by the desirable paddy field,</l>
+<l>keeps itself to the garden(?)</l>
+<l>when the little boys with ruddy heads make noise in the village common.</l>
+<l>…………………… The lady of the house,</l>
+<l>in order to feed bard and protect solicitors</l>
+<l>does not rest with the sound that comes [from making] food,</l>
+<l>……. golden…………..</l>
+<l>that adorn the spotted faces of elephants with high tusks……..</l>
+<l>and the young man with a strong spear does not rest</l>
+<l>in order to give gifts to those who seek them.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">39ML40MG12MG7MG51MG19MG16MG26MG12MGMG17MG78MG17MG11MG2M,108MG40MG211MG</interp>
+<standOff type="wordsplit" corresp="#PN334"><interp type="alignment" select="0">39ML40MG12MG7MG51MG19MG16MG26MG12MGMG17MG78MG17MG11MG2M,108MG40MG211MG</interp>
 <entry>
 <form>kāmaru</form>
 <def>desirable</def>
