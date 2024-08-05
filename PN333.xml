@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 333.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN333">
       <lg type="edition">
 <l>nīruṭ paṭṭa mārip pēruṟai</l>
 <l>mokku ḷaṉṉa pokuṭṭuviḻik kaṇṇa</l>
@@ -47,10 +47,25 @@
 <l>muṇpatu maṉṉu matuvē</l>
 <l>pariciṉ maṉṉuṅ kuricilkoṇ  ṭatuvē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>When you set out for that place with a village common with holes,</l>
+<l>where the little hares with large ears, heads with black napes</l>
+<l>[and] bud eyes like bubbles</l>
+<l>of big rain drop when they fall into the water</l>
+<l>hop [and] frolick among the little bushes of the inner villages,</l>
+<l>even if it is a troubled place where you don’t perceive [them saying] “please eat!”,</l>
+<l>stay [there and] go, you scholars.</l>
+<l>The lady of the house, much desirous of taking what is gone,</l>
+<l>because all that was there of millet and millet</l>
+<l>was finished, when she took [it] so that the mendicant folk would eat,</l>
+<l>[and] because of not obtaining the return of the exchange intended,</l>
+<l>pours into the mortar the millet [meant] for seed drying on the ears</l>
+<l>[and] does not turn [her] back at all.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">131MG15M3G17MG30M2G35M2G7MG56MG66MG7M2G6ML15MG78MG7MG31MG3MG6MG9MG3MG17MG3M,448M2G115MG</interp>
+<standOff type="wordsplit" corresp="#PN333"><interp type="alignment" select="0">131MG15M3G17MG30M2G35M2G7MG56MG66MG7M2G6ML15MG78MG7MG31MG3MG6MG9MG3MG17MG3M,448M2G115MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
