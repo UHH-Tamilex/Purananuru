@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 323.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN323">
       <lg type="edition">
 <l>pulippāṟ paṭṭa vāmāṉ kuḻavikkuc</l>
 <l>ciṉaṅkaḻi mūtāk kaṉṟumaṭut tūṭṭum</l>
@@ -35,10 +35,19 @@
 <l>kaṟaiyaṭi yāṉaik kalla</l>
 <l>tuṟaikaḻip paṟiyā vēlō ṉūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Where the old cow whose temperament has calmed down feeds [its] calf</l>
+<l>[and also] gives [milk] to the calf of the wild cow that fell a share to the tiger,</l>
+<l>……………………………………</l>
+<l>the village of the one with a spear who never removes from [its] sheath,</l>
+<l>except for the elephant with mortar feet,</l>
+<l>[his] bright sword, if there is a war of victorious spears,</l>
+<l>of unguarded generosity who showers what[ever] is thought of…</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">40MG13MG62MG60MG5MG10MG12MG2M,210MG</interp>
+<standOff type="wordsplit" corresp="#PN323"><interp type="alignment" select="0">40MG13MG62MG60MG5MG10MG12MG2M,210MG</interp>
 <entry>
 <form>puli<pc>+</pc></form>
 <def>tiger</def>
