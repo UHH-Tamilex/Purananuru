@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 300.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN300">
       <lg type="edition">
 <l>tōṟā tōṟā veṉṟi tōloṭu</l>
 <l>tuṟukaṉ maṟaiyiṉu muykuvai pōlāy</l>
@@ -34,10 +34,18 @@
 <l>pērū raṭṭa kaḷḷiṟ</l>
 <l>kōriṟ kōyiṟ ṟērumā ṉiṉṉē</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>You may [well] say “shield [me], shield [me]!” Even if you hide</l>
+<l>with the shield behind a thick stone, it seems you will not escape.</l>
+<l>The younger brother of the one you slayed yesterday [now], </l>
+<l>his eyes rolling like Kuṉṟi seeds poured into a bowl,</l>
+<l>he will for sure [have to] search you like the ladle in the single house</l>
+<l>for toddy which is prepared in the great village.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">3ML4ML114MG14MG2MG2MG2M,147M</interp>
+<standOff type="wordsplit" corresp="#PN300"><interp type="alignment" select="0">3ML4ML114MG14MG2MG2MG2M,147M</interp>
 <entry>
 <form>tōl</form>
 <def>shield</def>
