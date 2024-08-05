@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 328.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -63,7 +61,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN328"><interp type="alignment" select="0">21MG17MG13M2G6M2G7MG31MG39MG10MG30MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,MG266MG171MG96MG</interp>
+<standOff type="wordsplit" corresp="#PN328"><interp type="alignment" select="0">21MG17MG13M2G6M2G7MG31MG39MG10MG30MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,MG265M2G170M2G96MG</interp>
 <entry>
 <form>…</form>
 <def>…</def>
@@ -178,8 +176,6 @@
 <entry>
 <form>naṉṟum</form>
 <def>good-it</def>
-<form type="simple">naṉṟ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>veḷḷatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -219,8 +215,8 @@
 <def>like</def>
 </entry>
 <entry>
-<form>viḷai...................</form>
-<def>ripen…………….</def>
+<form>viḷai..................</form>
+<def>ripen……………</def>
 </entry>
 <entry>
 <form>..........................vāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -249,8 +245,8 @@
 <entry>
 <form>ariciyoṭu</form>
 <def>rice</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>ney</form>
 <def>ghee</def>
@@ -266,8 +262,8 @@
 <entry>
 <form>tuṭuppoṭu</form>
 <def>ladle</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>civaṇiya</form>
 <def>gone-with</def>
@@ -301,7 +297,7 @@
 <def>sat</def>
 </entry>
 <entry>
-<form>piṉ.................................</form>
+<form>piṉ................................</form>
 <def>after</def>
 </entry>
 <entry>
@@ -367,7 +363,8 @@
 <entry>
 <form>pāṭiṉai</form>
 <def>sang-you</def>
-</entry>
+<gramGrp><gram type="role">muṟṟeccam</gram>
+</gramGrp></entry>
 <entry>
 <form>celiṉ-ē</form>
 <def>go-if</def>
