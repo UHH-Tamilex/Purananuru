@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>veṉvēl..................................natu</l>
+<l>muṉṟiṟ kiṭanta peruṅkaḷi yāḷaṟ</l>
+<l>kataḷuṇ ṭāyiṉum pāyuṇṭāyiṉum</l>
+<l>yātuṇ ṭāyiṉuṅ koṭumiṉ vallē</l>
+<l>vēṭkai mīḷapa .......</l>
+<l>..............ku memakkum piṟarkkum</l>
+<l>yārkku mīyntu tuyilēṟ piṉaṉē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">72MG7MG4MG8MG4MG5MG3MG4MG13MG42M2G9M2G7M2G19MG2M,162MG51MG</interp>
+<entry>
+<form>vel</form>
+<def>be-victorious-</def>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form>..................................natu</form>
+<def>…</def>
+</entry>
+<entry>
+<form>muṉṟil</form>
+<def>front-yard</def>
+</entry>
+<entry>
+<form>kiṭanta</form>
+<def>lied-</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>kaḷi</form>
+<def>intoxication</def>
+</entry>
+<entry>
+<form><pc>~</pc>āḷaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>man</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>ataḷ</form>
+<def>skin</def>
+</entry>
+<entry>
+<form>uṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>is</def>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>pāy</form>
+<def>mat</def>
+</entry>
+<entry>
+<form>uṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>is</def>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>yāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>what</def>
+</entry>
+<entry>
+<form>uṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>is</def>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>koṭumiṉ</form>
+<def>give</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>vall-ē</form>
+<def>quickly</def>
+<form type="simple">vall</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>vēṭkai</form>
+<def>desire</def>
+</entry>
+<entry>
+<form>mīḷapa......</form>
+<def>……</def>
+</entry>
+<entry>
+<form>..............kum</form>
+<def>...</def>
+</entry>
+<entry>
+<form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>us</def>
+<form type="simple">emakku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>piṟarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>other</def>
+<form type="simple">piṟarkku</form>
+<gramGrp><gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>yārkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>who</def>
+<form type="simple">yārkku</form>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>īyntu</form>
+<def>given</def>
+</entry>
+<entry>
+<form>tuyil</form>
+<def>sleep</def>
+</entry>
+<entry>
+<form>ēṟpiṉaṉ-ē</form>
+<def>received-he</def>
+<form type="simple">ēṟpiṉaṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
