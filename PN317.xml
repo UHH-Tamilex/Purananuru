@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 317.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN317">
       <lg type="edition">
 <l>veṉvēl..................................natu</l>
 <l>muṉṟiṟ kiṭanta peruṅkaḷi yāḷaṟ</l>
@@ -35,10 +35,18 @@
 <l>..............ku memakkum piṟarkkum</l>
 <l>yārkku mīyntu tuyilēṟ piṉaṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>To the highly intoxicated man who lies in the front yard</l>
+<l>give, be it a skin, be it a mat,</l>
+<l>be it whatever, quickly!</l>
+<l></l>
+<l>The got to sleep after having given to us, </l>
+<l>to others, to everyone.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">72MG7MG4MG8MG4MG5MG3MG4MG13MG42M2G9M2G7M2G19MG2M,162MG51MG</interp>
+<standOff type="wordsplit" corresp="#PN317"><interp type="alignment" select="0">72MG7MG4MG8MG4MG5MG3MG4MG13MG42M2G9M2G7M2G19MG2M,162MG51MG</interp>
 <entry>
 <form>vel</form>
 <def>be-victorious-</def>
