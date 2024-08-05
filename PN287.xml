@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 287.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN287">
       <lg type="edition">
 <l>tuṭiyeṟiyum pulaiya</l>
 <l>veṟikōl koḷḷu miḻiciṉa</l>
@@ -42,10 +42,27 @@
 <l>vampa vēntaṉ ṟāṉai</l>
 <l>yimpar niṉṟum kāṇṭirō varavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Drummer who beats the Tuṭi drum,</l>
+<l>lowcaste man(?) who takes the fighting stick,</l>
+<l>Great men who don’t go running,</l>
+<l>although pierced with arrows as with timely showers,</l>
+<l>although spears leap [at them] like Keṇṭai fish in the tank,</l>
+<l>although the tips of the shining pure tusks of majestic elephants </l>
+<l>with gold-decorated front-plates gore [and] fix [onto them],</l>
+<l>what of [their] obtaining a villages,</l>
+<l>that abound in granaries in large mansions that possess paddy</l>
+<l>[and] Vāḷai fish that leap in the ponds with long water?</l>
+<l>	If they fall,</l>
+<l>they will enjoy well the marriage with faultless women</l>
+<l>in the world of high standing. Therefore,</l>
+<l>although standing here, would you see the coming </l>
+<l>of the new king’s army?</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">43ML89ML9MG20MG98MG4MG15ML71MG6M2G2M,366MG</interp>
+<standOff type="wordsplit" corresp="#PN287"><interp type="alignment" select="0">43ML89ML9MG20MG98MG4MG15ML71MG6M2G2M,366MG</interp>
 <entry>
 <form>tuṭi</form>
 <def>Tuṭi-drum</def>
