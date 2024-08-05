@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>tōṟā tōṟā veṉṟi tōloṭu</l>
+<l>tuṟukaṉ maṟaiyiṉu muykuvai pōlāy</l>
+<l>nerunal lellainī yeṟintōṉ ṟampi</l>
+<l>yakalpey kuṉṟiyiṟ cuḻaluṅ kaṇṇaṉ</l>
+<l>pērū raṭṭa kaḷḷiṟ</l>
+<l>kōriṟ kōyiṟ ṟērumā ṉiṉṉē</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">3ML4ML114MG14MG2MG2MG2M,147M</interp>
+<entry>
+<form>tōl</form>
+<def>shield</def>
+</entry>
+<entry>
+<form>tā</form>
+<def>give</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form>tōl</form>
+<def>shield</def>
+</entry>
+<entry>
+<form>tā</form>
+<def>give</def>
+<gramGrp><gram type="role">imperative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>eṉṟi</form>
+<def>say-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp></entry>
+<entry>
+<form>tōloṭu</form>
+<def>shield</def>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>tuṟu</form>
+<def>round</def>
+</entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+</entry>
+<entry>
+<form>maṟaiyiṉum</form>
+<def>hide-even-if</def>
+</entry>
+<entry>
+<form>uykuvai</form>
+<def>you-escape</def>
+</entry>
+<entry>
+<form>pōlāy</form>
+<def>be-similar-not-you</def>
+</entry>
+<entry>
+<form>nerunal</form>
+<def>yesterday</def>
+</entry>
+<entry>
+<form><pc>+</pc>ellai</form>
+<def>day</def>
+</entry>
+<entry>
+<form>nī</form>
+<def>you</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṟintōṉ</form>
+<def>attacked-he</def>
+</entry>
+<entry>
+<form>tampi</form>
+<def>brother</def>
+</entry>
+<entry>
+<form><pc>~</pc>akal</form>
+<def>bowl</def>
+</entry>
+<entry>
+<form>pey</form>
+<def>pour</def>
+</entry>
+<entry>
+<form>kuṉṟiyiṉ</form>
+<def>Kuṉṟi-seed</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>cuḻalum</form>
+<def>rolling</def>
+</entry>
+<entry>
+<form>kaṇṇaṉ</form>
+<def>eye-he</def>
+</entry>
+<entry>
+<form>pēr</form>
+<def>big</def>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>aṭṭa</form>
+<def>cooked</def>
+</entry>
+<entry>
+<form>kaḷḷiṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>toddy</def>
+<gramGrp><gram type="role">dative</gram>
+</gramGrp></entry>
+<entry>
+<form>ōr</form>
+<def>one</def>
+</entry>
+<entry>
+<form>il</form>
+<def>house</def>
+</entry>
+<entry>
+<form>kōyiṉ</form>
+<def>scooping-vessel</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>tērum-āl</form>
+<def>will-search</def>
+<form type="simple">tērum</form>
+<gramGrp type="particle"><m>āl</m></gramGrp>
+</entry>
+<entry>
+<form>niṉ-<pc>+</pc>ē</form>
+<def>you</def>
+<form type="simple">niṉ</form>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
