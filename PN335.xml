@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 335.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN335">
       <lg type="edition">
 <l>aṭalarun tuppiṉ............</l>
 <l>.........................kuruntē mullai yeṉ</l>
@@ -40,10 +40,24 @@
 <l>kallē paravi ṉallatu</l>
 <l>nellukuttup paravuṅ kaṭavuḷu milavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Of a strength difficult to kill….</l>
+<l>…………..the wild line and the jasmine,</l>
+<l>apart from these four there is no [other] flower,</l>
+<l>the black-stalked millet, the large-eared miller,</l>
+<l>the little horse-gram along with the spotted field bean,</l>
+<l>apart from these four there is no [other] food,</l>
+<l>and the Tuṭi drummer, the bard, the Paṛai drummer and the Kaṭampaṉ,</l>
+<l>apart from these four there is no [other] clan.</l>
+<l>Because he fell after standing in front of the disagreeing enemies [and] blocking [them], </l>
+<l>having attacked an elephant bull with resplendent eminent tusks,</l>
+<l>except if one worships the very stone</l>
+<l>there are no [other] gods that are worshipped by scattering paddy.</l>  
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">57M2G11MG6MG8MG21M2G17MG14MG20MG6MG5MG3MG39MG6MG10MG40MG17MG58MG5MG3M,49M2G314MG</interp>
+<standOff type="wordsplit" corresp="#PN335"><interp type="alignment" select="0">57M2G11MG6MG8MG21M2G17MG14MG20MG6MG5MG3MG39MG6MG10MG40MG17MG58MG5MG3M,49M2G314MG</interp>
 <entry>
 <form>aṭal</form>
 <def>killing</def>
