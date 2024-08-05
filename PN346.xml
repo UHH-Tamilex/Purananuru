@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>piṟa....................ḷa pāleṉa maṭuttali</l>
+<l>ṉīṉṟa tāyō vēṇṭā ḷallaḷ</l>
+<l>kalviye ṉeṉṉum vallāṇ ciṟāa</l>
+<l>ṉolvē ṉalla ṉatuvā yākuta</l>
+<l>laḻintō raḻiya voḻintō rokkaṟ</l>
+<l>pēṇunarp peṟāatu viḷiyum</l>
+<l>puṉṟalaip perumpāḻ ceyumiva ṇalaṉē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">49MG132ML4MG2M,189MG</interp>
+<entry>
+<form>piṟa....................ḷa</form>
+<def>other….</def>
+</entry>
+<entry>
+<form>pāl</form>
+<def>milk</def>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>maṭuttaliṉ</form>
+<def>taking-food</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>īṉṟa</form>
+<def>brought-forth-</def>
+</entry>
+<entry>
+<form>tāy-ō</form>
+<def>mother</def>
+<form type="simple">tāy</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>vēṇṭāḷ</form>
+<def>want-not-she</def>
+</entry>
+<entry>
+<form>allaḷ</form>
+<def>not-so-she</def>
+</entry>
+<entry>
+<form>kalvi</form>
+<def>learning</def>
+</entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form><pc>~</pc>eṉ</form>
+<def>what</def>
+</entry></entry>
+<entry><entry>
+<form>kalviyeṉ</form>
+<def>learn-I</def>
+</entry></entry>
+</superEntry>
+<entry>
+<form>eṉṉum</form>
+<def>saying-</def>
+</entry>
+<entry>
+<form>val<pc>+</pc></form>
+<def>strong</def>
+</entry>
+<entry>
+<form>āṇ</form>
+<def>man</def>
+</entry>
+<entry>
+<form>ciṟāaṉ</form>
+<def>little-he</def>
+</entry>
+<entry>
+<form>olvēṉ</form>
+<def>agree-not-I</def>
+</entry>
+<entry>
+<form>allaṉ</form>
+<def>not-so-I</def>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+</entry>
+<entry>
+<form>vāy</form>
+<def>truth</def>
+</entry>
+<entry>
+<form>ākutal</form>
+<def>becoming</def>
+</entry>
+<entry>
+<form>aḻintōr</form>
+<def>perished-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>aḻiya</form>
+<def>perish</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>oḻintōr</form>
+<def>stayed-behind-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>okkal</form>
+<def>being-equal</def>
+</entry>
+<entry>
+<form>pēṇunar<pc>+</pc></form>
+<def>cherish-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>peṟāatu</form>
+<def>obtain-not</def>
+</entry>
+<entry>
+<form>viḷiyum</form>
+<def>perishes</def>
+</entry>
+<entry>
+<form>pul</form>
+<def>ruddy</def>
+</entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>talai</form>
+<def>head</def>
+</entry></entry>
+<entry><entry>
+<form>talai</form>
+<def>low</def>
+</entry></entry>
+</superEntry>
+<entry>
+<form><pc>+</pc>perum</form>
+<def>place-big</def>
+</entry>
+<entry>
+<form>pāḻ</form>
+<def>ruin</def>
+</entry>
+<entry>
+<form>ceyum</form>
+<def>making</def>
+</entry>
+<entry>
+<form>ivaḷ</form>
+<def>she</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>nalaṉ-ē</form>
+<def>goodness</def>
+<form type="simple">nalaṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
