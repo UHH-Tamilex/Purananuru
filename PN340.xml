@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 340.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN340">
       <lg type="edition">
 <l>aṇittaḻai nuṭaṅka vōṭi maṇippoṟik</l>
 <l>kuralaṅ kuṉṟi koḷḷu miḷaiyōḷ</l>
@@ -37,10 +37,21 @@
 <l>karantaiyañ ceṟuviṟ peyarkkum</l>
 <l>peruntakai maṉṉarkku varaintirun taṉaṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>“The young one who runs so that [her] decorative leaf [skirt] sways</l>
+<l>[and] who takes Kuṉṟi seeds from the ears with jewel dots,</l>
+<l>the dark girl………………………</l>
+<l>………………….” you will ask. Listen:</l>
+<l>……………………………..</l>
+<l>[Her] father of warriors</l>
+<l>sits, having limited [his] choice] to paragon kings,</l>
+<l>who bring back from the Karantai fight</l>
+<l>elephants with trunks large like big palmyra trees.  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">151ML146MG21MG9MG2M,135MG88MG107MG</interp>
+<standOff type="wordsplit" corresp="#PN340"><interp type="alignment" select="0">151ML146MG21MG9MG2M,135MG88MG107MG</interp>
 <entry>
 <form>aṇi<pc>+</pc></form>
 <def>adorn</def>
