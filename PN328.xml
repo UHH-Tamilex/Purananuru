@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 328.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN328">
       <lg type="edition">
 <l>….  ṭaimutaṟ puṟavucērn tirunta</l>
 <l>puṉpulac cīṟūr nelviḷai yātē</l>
@@ -44,10 +44,26 @@
 <l>muyalvantu kaṟikku muṉṟiṟ</l>
 <l>cīṟūr maṉṉaṉaip pāṭiṉai celiṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  Paddy does not ripen in the little village of grassy fields</l>
+<l>that lies in the woodlands…..</l>
+<l>All there was of millet and millet</l>
+<l>is lost for giving it to the mendicant folks.</l>
+<l>………………………….he is suitable.</l>
+<l>Even if he is like that, oh bard, ??????</l>
+<l>…………………..???????????</l>
+<l>after eating delightful white rice gone with the laddle</l>
+<l>after cooking [and] pouring ghee along with the rice of plucked ears</l>
+<l>with fat pieces of dried meat………………. [and] sitting [there] sweetly,</l>
+<l>…………………………will he not give,</l>
+<l>if you go after having sung the king of the little village</l>
+<l>in the front yard, where the hare comes [and] chews </l>
+<l>the little fragrant Muññai grown long at the base of the talipot palm?</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">21MG17MG13M2G6M2G7MG31MG39MG10MG30MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,MG266MG171MG96MG</interp>
+<standOff type="wordsplit" corresp="#PN328"><interp type="alignment" select="0">21MG17MG13M2G6M2G7MG31MG39MG10MG30MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,MG266MG171MG96MG</interp>
 <entry>
 <form>…</form>
 <def>…</def>
