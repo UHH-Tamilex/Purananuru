@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 341.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN341">
       <lg type="edition">
 <l>vēntu kuṟaiyuṟavuṅ koṭāa ṉēntukōṭ</l>
 <l>ṭampūn toṭalai yaṇittaḻai yalkul</l>
@@ -47,10 +47,30 @@
 <l>peruṅkavi ṉiḻappatu kollō</l>
 <l>meṉpula vaippiṉit taṇpaṇai yūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Even though a king makes a request he won’t give [her],</l>
+<l>the father of the young one, [her] anklets with refined markings,</l>
+<l>[her] hips with foliage as a decoration in a skirt of pretty flowers, with eminent curves.</l>
+<l>Banners sway daily on the ramparts half of earth</l>
+<l>with doors in firm condition fixed by letting go cross bars.</l>
+<l>………………</l>
+<l>Along with [his] fierce-eyed retinue, like a pack of tigers,</l>
+<l>the angry man who gives fight, not one who changes [his] reply,</l>
+<l>has entered the ? pond as for the flower giving [ceremony].</l>
+<l>[Pondering] “tomorrow being the day of entering into union</l>
+<l>with her of beautiful breasts adorned with beauty spots,</l>
+<l>of soft nature who is willing(?), flourishing with shining jewels, is one thing</l>
+<l>[and] one thing is entering the world that is coming </l>
+<l>with a body cut up by a long leaf[-shaped] blade?”</l>
+<l>the lord touched [his] weapon. In between these [two],</l>
+<l>like a cool pondy stirred up when an elephant thrashes about</l>
+<l>will it lose [its] great beauty,</l>
+<l>the village in the cool fields in a region of soft soil?</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14MG17MG51ML13MG125MG27ML47MG7MG30MG49M2G31MG49MG17MG8MG58MG12M3G5MG15MG2M,209M4G384MG</interp>
+<standOff type="wordsplit" corresp="#PN341"><interp type="alignment" select="0">14MG17MG51ML13MG125MG27ML47MG7MG30MG49M2G31MG49MG17MG8MG58MG12M3G5MG15MG2M,209M4G384MG</interp>
 <entry>
 <form>vēntu</form>
 <def>king</def>
