@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 347.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN347">
       <lg type="edition">
 <l>uṇpōṉ ṟāṉaṟuṅ kaḷḷi ṉiṭaccila</l>
 <l>nāviṭaip paḵṟēr kōlac civanta</l>
@@ -40,10 +40,23 @@
 <l>viṉainavil yāṉai piṇippa</l>
 <l>vērtuḷaṅ kiṉanam mūruṇ maraṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  Like Kūṭal within the bounds of the deep water</l>
+<l>of Akutai of bold battle, [his] chest fragrant with scent,</l>
+<l>with a blunt spear the leaf [tip] of which is broken after throwing [it],</l>
+<l>with fresh Tumpai that is withered so that [its] resplendent light fades(?),</l>
+<l>when the beauties sought out by the teeth on the tongue turned red,</l>
+<l>few, as the eater himself plut [them] with the fragrant toddy?????????????,</l>
+<l>while [she] with coming breasts [and] massed dark tress dwells [there]</l>
+<l>what will become of it?</l>
+<l>Even if [their] large trunks flourish(?), when kings</l>
+<l>tie work-trained elephants [to them]</l>
+<l>the trees inside our village will break at the roots.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">8ML49MG31MG27MR112MG3ML2MG12MG72MG2M,326MG</interp>
+<standOff type="wordsplit" corresp="#PN347"><interp type="alignment" select="0">8ML49MG31MG27MR112MG3ML2MG12MG72MG2M,326MG</interp>
 <entry>
 <form>uṇpōṉ</form>
 <def>eat-he</def>
