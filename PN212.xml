@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>nuṅkō yāreṉa viṉavi ṉeṅkōk</l>
+<l>kaḷamark karitta viḷaiyal veṅkaḷ</l>
+<l>yāmaip puḻukkiṟ kāmam vīṭa vārā</l>
+<l>vāraṟ koḻuñcū ṭaṅkavu ḷaṭāa</l>
+<l>vaikutoḻiṉ maṭiyu maṭiyā viḻaviṉ</l>
+<l>yāṇar naṉṉāṭ ṭuḷḷum pāṇar</l>
+<l>paitaṟ cuṟṟattup pacippakai yākik</l>
+<l>kōḻi yōṉē kōpperuñ cōḻaṉ</l>
+<l>potti ṉaṇpiṟ pottiyoṭu keḻīi</l>
+<l>vāyār perunakai vaikalu nakkē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">32MG60MG28ML24MG2MG45MG18MG2ML24MG15MGMR4M2G2M,269MG</interp>
+<entry>
+<form>num</form>
+<def>your</def>
+<gramGrp><gram type="role">oblique</gram>
+<gram type="role">plural</gram>
+</gramGrp></entry>
+<entry>
+<form>kō</form>
+<def>king</def>
+</entry>
+<entry>
+<form>yār</form>
+<def>who</def>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>viṉaviṉ</form>
+<def>ask-if</def>
+</entry>
+<entry>
+<form>em</form>
+<def>our</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kō<pc>+</pc></form>
+<def>king</def>
+</entry>
+<entry>
+<form>kaḷamarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>husbandmen</def>
+<gramGrp><gram type="role">pronominalised noun</gram>
+<gram type="role">dative</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
+</gramGrp></entry>
+<entry>
+<form>aritta</form>
+<def>filtered-</def>
+</entry>
+<entry>
+<form>viḷaiyal</form>
+<def>ripening</def>
+</entry>
+<entry>
+<form>vem</form>
+<def>hot</def>
+</entry>
+<entry>
+<form>kaḷ</form>
+<def>toddy</def>
+</entry>
+<entry>
+<form>yāmai</form>
+<def>tortoise</def>
+</entry>
+<entry>
+<form><pc>+</pc>puḻukkiṉ</form>
+<def>boiled-food</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+</entry>
+<entry>
+<form>vīṭa</form>
+<def>perish</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>ārā</form>
+<def>become-full-not</def>
+<gramGrp><gram type="role">absolutive</gram>
+<gram type="role">negative</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>āral</form>
+<def>Āral-fish</def>
+</entry>
+<entry>
+<form>koḻum</form>
+<def>fat</def>
+</entry>
+<entry>
+<form>cūṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>roast</def>
+</entry>
+<entry>
+<form>am</form>
+<def>pretty</def>
+</entry>
+<entry>
+<form>kavuḷ</form>
+<def>cheek</def>
+</entry>
+<entry>
+<form>aṭāa</form>
+<def>cooked</def>
+</entry>
+<entry>
+<form>vaiku</form>
+<def>be-kept</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>toḻil</form>
+<def>task</def>
+</entry>
+<entry>
+<form>maṭiyum</form>
+<def>drooping</def>
+<gramGrp><gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>maṭiyā</form>
+<def>droop-not</def>
+<gramGrp><gram type="role">negative</gram>
+<gram type="role">peyareccam</gram>
+</gramGrp></entry>
+<entry>
+<form>viḻaviṉ</form>
+<def>festival</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>yāṇar</form>
+<def>fertility</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+</entry>
+<entry>
+<form>nāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>land</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>uḷ-<pc>+</pc>um</form>
+<def>inside</def>
+<form type="simple">uḷ</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>pāṇar</form>
+<def>enemy</def>
+</entry>
+<entry>
+<form>paital</form>
+<def>suffering</def>
+</entry>
+<entry>
+<form>cuṟṟattu<pc>+</pc></form>
+<def>relations</def>
+</entry>
+<entry>
+<form>paci<pc>+</pc></form>
+<def>hunger</def>
+</entry>
+<entry>
+<form>pakai</form>
+<def>enemy</def>
+</entry>
+<entry>
+<form><pc>~</pc>āki<pc>+</pc></form>
+<def>become</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>kōḻiyōṉ-ē</form>
+<def>Kōḻi-he</def>
+<form type="simple">kōḻiyōṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kōpperum</form>
+<def>Kōpper</def>
+<form type="simple">kōpper</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>cōḻaṉ</form>
+<def>Cōḻaṉ</def>
+</entry>
+<entry>
+<form>pott<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>hollow</def>
+</entry>
+<entry>
+<form>il</form>
+<def>not</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>naṇpiṉ</form>
+<def>friendship</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>pottiyoṭu</form>
+<def>Potti</def>
+<gramGrp><gram type="role">proper name</gram>
+<gram type="role">sociative</gram>
+</gramGrp></entry>
+<entry>
+<form>keḻīi</form>
+<def>united</def>
+</entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>ār-peru</form>
+<def>become-full</def>
+<gramGrp><gram type="role">verbal root</gram>
+</gramGrp></entry>
+<entry>
+<form>nakai</form>
+<def>smile</def>
+</entry>
+<entry>
+<form>vaikal-um</form>
+<def>day</def>
+<form type="simple">vaikal</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>nakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>laughed</def>
+<form type="simple">nakku</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
