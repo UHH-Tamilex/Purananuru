@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 223.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN223">
       <lg type="edition">
 <l>palarkkuniḻa lāki yulakamīk kūṟit</l>
 <l>talaippō kaṉmaiyiṟ ciṟuvaḻi maṭaṅki</l>
@@ -34,10 +34,18 @@
 <l>ṭiṉṉuyir virumpuṅ kiḻamait</l>
 <l>toṉṉaṭ puṭaiyār tammuḻaic celiṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Being shade for many, lauded by the world, (1)</l>
+<l>bending over a little way in the absence of [total] destruction, (2)</l>
+<l>also in the places where they have become upright hero stones (3)</l>
+<l>they surely will provide a place, (4a-c)</l>
+<l>– if, with a claim that desires sweet life along with the body (4df.) </l>
+<l>those who feel old friendship go near them. (6)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">23ML16MG48MG13MG19MG30MG21MG2M,178MG</interp>
+<standOff type="wordsplit" corresp="#PN223"><interp type="alignment" select="0">23ML16MG48MG13MG19MG30MG21MG2M,178MG</interp>
 <entry>
 <form>palarkku</form>
 <def>many</def>
