@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 337.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN337">
       <lg type="edition">
 <l>ārkali yiṉaṉē cōṇāṭ ṭaṇṇal</l>
 <l>kavikai maṇṇāḷ celva rāyiṉum</l>
@@ -50,10 +50,34 @@
 <l>yurutta palcuṇaṅ kaṇinta</l>
 <l>maruppiḷa vaṉamulai ñemukku vōrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>He is a very busy man, the majesty of Cōṇāṭu.</l>
+<l>Even if they are wealthy people who rule the earth with protective hands,</l>
+<l>they have gone singing while the strength of [their] swords stayed behind.</l>
+<l>……………….</l>
+<l>Being one as difficult to see</l>
+<l>as the dewy pool on the Paṟampu hill of Pāri</l>
+<l>with bright-bangled broad hands that do not cease giving,</l>
+<l>with the full flourishing of [her] glorious womenhood</l>
+<l>with the scent that pervaded the brown long mansion</l>
+<l>in which the smoke fully fragrant of cool eagle wood is contained, going </l>
+<l>wonderfully, swaying so that it resembles an expanse of washed cloth,</l>
+<l>she was confined to the house. Now,</l>
+<l>because it is not so, besides those who guard </l>
+<l>the quick-eyed elephants in every grove, clearly protecting </l>
+<l>[and] feeding [them] with unripe paddy balls</l>
+<l>kings do not cease coming. Her people</l>
+<l>have frightening heads who seized blood</l>
+<l>with [their] frightful long spears that withstood in the battles they fought.</l>
+<l>Like this, again, is their valour indeed. Clearly,</l>
+<l>who with be the one,</l>
+<l>the man who squeezes the horn[-like] young beautiful breasts</l>
+<l>adorned with many beauty spots that formed of [her with] fine jewels.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">11MG7MG39MG21M2G110MG100MG14MR16MR25MG4ML7MG6MG3MG43MG104MG16M2G9MG5M2G18MG3ML2MG24MG12MG22MG2M,130MG518MG</interp>
+<standOff type="wordsplit" corresp="#PN337"><interp type="alignment" select="0">11MG7MG39MG21M2G110MG100MG14MR16MR25MG4ML7MG6MG3MG43MG104MG16M2G9MG5M2G18MG3ML2MG24MG12MG22MG2M,130MG518MG</interp>
 <entry>
 <form>ār</form>
 <def>be-full</def>
