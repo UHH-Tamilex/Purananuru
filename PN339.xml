@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 339.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN339">
       <lg type="edition">
 <l>viyaṉpulam paṭarnta pallā neṭuvēṟu</l>
 <l>maṭalai māṇiḻa lacaiviṭak kōvalar</l>
@@ -42,10 +42,26 @@
 <l>muṟañcevi yāṉai vēntar</l>
 <l>maṟaṅkeḻu neñcaṅ koṇṭoḷit tōḷē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Where, while the large bull of many cows that set out for the wide fields</l>
+<l>chew the cud in the glorious shade of the Maṭalai tree, the cowherds</l>
+<l>pull out the flowers of the jasmine in dense bloom,</l>
+<l>while the little hare with long ears that is hit with a short stick</l>
+<l>is leaping along with the Vāḷai fish in the expanse of long water,</l>
+<l>while women with bangled arms [and] wreath[-covered] hips</l>
+<l>bathe in the sea, jump into tanks</l>
+<l>[and] pluck the flowers of the waterlily in the backwaters,</l>
+<l>in the fields where [their] fresh leaf skirt come into swinging…………..</l>
+<l>……………</l>
+<l>although ? says “she must [still] grow”,</l>
+<l>being a girl for battle, something that endures difficult fights,</l>
+<l>she had taken [and] hidden the bold hearts</l>
+<l>of kings on elephant with winnow ears.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">41ML80ML23MG91MG79MG5M2G15M2G52MG7MG2M,296MG108MG</interp>
+<standOff type="wordsplit" corresp="#PN339"><interp type="alignment" select="0">41ML80ML23MG91MG79MG5M2G15M2G52MG7MG2M,296MG108MG</interp>
 <entry>
 <form>viyal</form>
 <def>width</def>
