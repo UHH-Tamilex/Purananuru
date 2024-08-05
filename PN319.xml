@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 319.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN319">
       <lg type="edition">
 <l>pūvaṟ paṭuviṟ kūvaṟ ṟōṇṭiya</l>
 <l>ceṅkaṭ ciṉṉīrpeyta cīṟil</l>
@@ -43,10 +43,32 @@
 <l>pāṭiṉi mālai yaṇiya</l>
 <l>vāṭāt tāmarai cūṭṭuva ṉiṉakkē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The jar with a frayed opening that was in the front yard</l>
+<l>of the little house into which a little red-soiled water had been poured</l>
+<l>when a hollow had been made in the well of red soil,</l>
+<l>since there it has been drunk to the bottom, it is empty. There is no blame.</l>
+<l>The time is without light for strewing </l>
+<l>dried grains of little millet in the shaded front yard</l>
+<l>thinking “let the doves and partridges eat [it] completely.” Therefore,</l>
+<l>We shall give [you] hare, even if it is [only] roasted [pieces]. Enter</l>
+<l>[and] sit here, bard with old truth!</l>
+<l>Yesterday here the lord of the little village,</l>
+<l>where ruddy-haired boys fasten as a [house] calf</l>
+<l>the calf with trembling head of the wild cow with curved horns,</l>
+<l>has gone with a task set by the king. Coming back</l>
+<l>he will put on you an unfading lotus,</l>
+<l>while your songstress will be adorned with a garland.</l>
+<lg type="alternate" sameAs="4b">
+<l>we will know that there is [some] on the bottom there.</l>
+</lg>
+</lg>
+
+
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">44MG30MG3MG15MG39M2G6MG6M2G5M4G11MG12M2G38MG4MG3MG12MG17MG4ML37MG13MG8ML82ML5M2G2M,423MG</interp>
+<standOff type="wordsplit" corresp="#PN319"><interp type="alignment" select="0">44MG30MG3MG15MG39M2G6MG6M2G5M4G11MG12M2G38MG4MG3MG12MG17MG4ML37MG13MG8ML82ML5M2G2M,423MG</interp>
 <entry>
 <form>pūval</form>
 <def>red-soil</def>
