@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 212.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN212">
       <lg type="edition">
 <l>nuṅkō yāreṉa viṉavi ṉeṅkōk</l>
 <l>kaḷamark karitta viḷaiyal veṅkaḷ</l>
@@ -38,10 +38,22 @@
 <l>potti ṉaṇpiṟ pottiyoṭu keḻīi</l>
 <l>vāyār perunakai vaikalu nakkē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  If you ask “who is your king?”, our king (1)</l>
+<l>  is the one from Kōḻi, Kōpperum Cōḻaṉ, (8)</l>
+<l>  being an enemy to the hunger of the suffering retinue (7)</l>
+<l>  of bards in all [his] fertile good land (6)</l>
+<l>  with festivals do not droop while the ongoing tasks droop, (5)</l>
+<l>  cooking pretty cheeks of fat Āral roast, (4)</l>
+<l>  not being satiated so that passion dies along with the cooked [meat] of tortoise (3)</l>
+<l>  [and] ripe hot toddy that is filtered for the husbandmen, (2)</l>
+<l>  – united with Potti in a friendship without hollowness, (9)</l>
+<l>  smiling daily a big smile with [his] full mouth. (10)  </l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">32MG60MG28ML24MG2MG45MG18MG2ML24MG15MGMR4M2G2M,269MG</interp>
+<standOff type="wordsplit" corresp="#PN212"><interp type="alignment" select="0">32MG60MG28ML24MG2MG45MG18MG2ML24MG15MGMR4M2G2M,269MG</interp>
 <entry>
 <form>num</form>
 <def>your</def>
