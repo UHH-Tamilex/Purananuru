@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 382.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN382">
       <lg type="edition">
 <l>kaṭaṟpaṭai yaṭaṟkoṇṭi</l>
 <l>maṇṭuṟṟa malirnōṉṟāṭ</l>
@@ -50,10 +50,38 @@
 <l>kēṭṭoṟu naṭuṅka vēttuveṉ</l>
 <l>veṉṟa tērpiṟar vēttavai yāṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While [we] say: (7d)</l>
+<l>“the fighter of the cool Cōḻa land, (3)</l>
+<l>with ??? sturdy feet that experienced rushing (2)</l>
+<l>for the murderous plunder of the ocean[-like] army, (1)</l>
+<l>Nalaṅkiḷḷi, (5a)</l>
+<l>[his] horses adorned with swaying manes, (4)</l>
+<l>	[his] loving bards we are. (5b)</l>
+<l>We don’t need to obtain singing others. (6)</l>
+<l>We will sing him. May his foot prosper,”</l>
+<l>while [your] giving is excellent (15b)</l>
+<l>of things with sweet taste in a lot of rice (10)</l>
+<l>that accentuates the meat seasoned with ghee, (9)</l>
+<l>	dispelling the drought [with toddy] (15a)</l>
+<l>that resembles a snake that hit the very life spot, (14)</l>
+<l>with a forked tongue [and] hearing by [its] eyes, (13)</l>
+<l>with a head ornament adorned with the lustre of seven gems, (12)</l>
+<l>the kids who know [you] of old who had left you on a former day (11)</l>
+<l>along with [their] distress of hunger because of poverty (10)</l>
+<l>and me, (12k)</l>
+<l>leut us go, appearance on a fast horse! (16)</l>
+<l>So that this wide world encirlcled by the three-watered [seas] knows of you (17)</l>
+<l>we shall praise [you] so that whenever they hear [it] they will tremble, (21)</l>
+<l>your enemies, wavering like (20bc)</l>
+<l>the Kiṇai drum with a clear eye like ??? of mine (18)</l>
+<l>whenever the fine ??? little stick tied to the middle of the eye is beaten, (19-20a)</l>
+<l>in the royal assembly of others with victorious chariot. (22)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">24MG40MG100ML45ML16MG9MG5MG42ML49MG19ML4M2G5MG21MG10M2G63MG4MR26MG4MR32MG7MG2M,366MG39MG141MG</interp>
+<standOff type="wordsplit" corresp="#PN382"><interp type="alignment" select="0">24MG40MG100ML45ML16MG9MG5MG42ML49MG19ML4M2G5MG21MG10M2G63MG4MR26MG4MR32MG7MG2M,366MG39MG141MG</interp>
 <entry>
 <form>kaṭal</form>
 <def>sea</def>
