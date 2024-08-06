@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 379.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN379">
       <lg type="edition">
 <l>yāṉē peṟukavaṉ ṟāṇiḻal vāḻkkai</l>
 <l>yavaṉē peṟukaveṉ ṉāvicai nuvaṟa</l>
@@ -46,10 +46,31 @@
 <l>varumaḻai maṅkuliṉ maṟukuṭaṉ maṟaikkuṅ</l>
 <l>kuṟumpa<supplied>ṭu kuṇṭakaḻ</supplied> nīṇmati lūrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>  “I, let me get a living in the shade of his foot. (1)</l>
+<l>He, let him get fame by the utterances of my tongue. (2) </l>
+<l>O great man, we are the Kiṇai players of Villiyātaṉ, (7)</l>
+<l>lord of Laṅkā, [its] fields dense with paddy, (6)</l>
+<l>where, when [their] sharp sickles become blunt, the paddy-cutting workmen (3) </l>
+<l>think of stones that are difficult [to find] for [their] earlier force (4) </l>
+<l>and rub [them] against rubs the humped backs of the tortoises in the mire, (5)</l>
+<l>melting in white fragrant ghee with fat-eyes</l>
+<l>the short-legged male [and] giving the rice of the day (8f.) </l>
+<l>our father is able to remove hunger”, (10)</l>
+<l>upon taking in what we heard (12ab)</l>
+<l>when so told your Kiṇai player, with a living by coming early, (11)</l>
+<l>	desire not cooling down, (12cd)</l>
+<l>while hills with sky-touching peaks were left behind (13)</l>
+<l>………………… I came (14)</l>
+<l>to that place like a calf that has not eaten without a mother, (15)</l>
+<l>to [your] village with tall fortifications [and] a murderous deep moat, a stronghold, (18)</l>
+<l>where fragrant smoke appearing wonderfully from those auspicious houses that possess Śrī, (16)</l>
+<l>hides all the streets like coming rain clouds. (17)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">3MG6MG7ML16MG24ML41MG13MG20MG6MR102MG33MG40M2G77MG6ML18MG63MG19MG7MG14MG2M,386M2G148MG</interp>
+<standOff type="wordsplit" corresp="#PN379"><interp type="alignment" select="0">3MG6MG7ML16MG24ML41MG13MG20MG6MR102MG33MG40M2G77MG6ML18MG63MG19MG7MG14MG2M,386M2G148MG</interp>
 <entry>
 <form>yāṉ-ē</form>
 <def>I</def>
