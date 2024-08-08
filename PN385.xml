@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 385.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN385">
       <lg type="edition">
 <l>veḷḷi tōṉṟap puḷḷukkura liyampap</l>
 <l>pulari viṭiyaṟ pakaṭupala vāḻttit</l>
@@ -40,10 +40,24 @@
 <l>vēṅkaṭa viṟalvaraip paṭṭa</l>
 <l>vōṅkal vāṉat tuṟaiyiṉum palavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>When Venus appeared, when bird voices word sounding, (1)</l>
+<l>although right at dawn, praising the many bulls, (2)</l>
+<l>I appeared at his gate, he was not there. Graciously listening </l>
+<l>to the song of [my] wide-eyed Taṭāri drum at the gate of another, (3f.) </l>
+<l>wanting me to be rid of drought from my middle (5)</l>
+<l>he removed the blue-coloured rag, (6)</l>
+<l>putting something white on [me] it was he who removed my hunger. (7)</l>
+<l>The lord beyond there of the paddy-ripening fields (9)</l>
+<l>by the hanging water garndens that touch upon the Kāviri, (8)</l>
+<l>good Aruvantai may live to embrace [me] (10)</l>
+<l>many more [days] than are [rain] drops in the high clouds (12)</l>
+<l>that descend on the victorious mountain of Vēṅkaṭam. (11)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">80MG34MG13ML21ML25MG20MG57ML33M3G28MG13MG3M,338MG</interp>
+<standOff type="wordsplit" corresp="#PN385"><interp type="alignment" select="0">80MG34MG13ML21ML25MG20MG57ML33M3G28MG13MG3M,338MG</interp>
 <entry>
 <form>veḷḷi</form>
 <def>Venus</def>
