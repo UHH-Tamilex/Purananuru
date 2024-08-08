@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 386.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN386">
       <lg type="edition">
 <l>neṭunīra niṟaikayattup</l>
 <l>paṭumārit tuḷipōla</l>
@@ -53,10 +53,38 @@
 <l>yāṇṭu niṟka veḷḷiyām</l>
 <l>vēṇṭiya tuṇarntōṉ ṟāḷvā ḻiyavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>He who gives (9a)</l>
+<l>like the drops from a falling shower (2)</l>
+<l>into a full pond with long[-lasting] water, (1) </l>
+<l>so that we draw fried meat dripping with ghee, (3)</l>
+<l>eat dried meat, tearing roasted meat, (4)</l>
+<l>and wholly demolish the yield of the cow (6)</l>
+<l>in the white/empty bowls that had held [those] viands, (5)  </l>
+<l>apart from the sweat when eating what is hot, (7)</l>
+<l>ignorance of sweating by work that is done, (8)</l>
+<l>	is our father. Since [such] fame is his, (9)</l>
+<l>in the fields, the sections of sugarcane are full </l>
+<l>of many blooming flowers sugarcane as a fence for paddy; (10f.)</l>
+<l>in the woodlands, with the many cow herds that eat grass (12)</l>
+<l>there is a fierce stronghold where bows sit; (13)</l>
+<l>by the sea, for those who count the vessels brought in by the wind (14)</l>
+<l>the branches of the Puṉṉai trees in the seashore groves are durable; (15)</l>
+<l>in the backwaters, announcing the price for little white salt (16)</l>
+<l>the salt merchants from the good land of big rocks are noisy. (17)</l>
+<l>In a good land like that we are fighters. (18)</l>
+<l>Fighter that do not fight (i.e., artists) are we. (19)</l>
+<l>Whether, standing in the eastern direction, one goes to the west, (20)</l>
+<l>whether, standing in the western direction, one goes to the east, (21)</l>
+<l>whether, standing in the northern direction, one goes to the south, (22)</l>
+<l>whether, standing in the southern direction, one extends without coming close, (23)</l>
+<l>let Venus stand wherever. (24)</l>
+<l>May the foot of him who understands what we need live. (25)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">60MG26MG34MG6MG7MG11MG23MG29MG8MG58M2G51MG5ML48MG36ML6MG12MG23MG36M2G15MG15M2G28MG44M2GMR38MG3M,214MG59MG51MG55MG267MG</interp>
+<standOff type="wordsplit" corresp="#PN386"><interp type="alignment" select="0">60MG26MG34MG6MG7MG11MG23MG29MG8MG58M2G51MG5ML48MG36ML6MG12MG23MG36M2G15MG15M2G28MG44M2GMR38MG3M,214MG59MG51MG55MG267MG</interp>
 <entry>
 <form>neṭu</form>
 <def>long</def>
