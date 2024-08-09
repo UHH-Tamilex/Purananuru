@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 394.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN394">
       <lg type="edition">
 <l>cilaiyulāy nimirnta cāntupaṭu mārpi</l>
 <l>ṉolikatir kaḻaṉi veṇkuṭaik kiḻavōṉ</l>
@@ -46,10 +46,30 @@
 <l>tuṉṉarum parici ṟarumeṉa</l>
 <l>veṉṟuñ cellēṉavaṉ kuṉṟukeḻu nāṭṭē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The lord of a white parasol, [his] paddy fields with sprouting ears, (2)</l>
+<l>with a sandal-smeared chest, who moves about [and] holds up a bow, (1)</l>
+<l>Kūṭṭuvaṉ with an excellent sword [and] broad hands where strength lies dormant, (3)</l>
+<l>more than [his] fame in the world of being munificent (4)</l>
+<l>beware of thinking [of him], o scholars with lofty words. (5)</l>
+<l>When I, too, at day-making dawn when the moonlit darkness has passed (6)</l>
+<l>pressing, so that it sounded, [my] one-eyed big Kiṇai drum, (7)</l>
+<l>sang in unfading Vañci (9)</l>
+<l>the father with advancing chariots [and] a song-emitting drum, (8)</l>
+<l>when, wanting to come near with joy filling [my] breast, (10)</l>
+<l>afraid that he would grant an elephant bull in hot anger, (12)</l>
+<l>with flesh-reeking tusks who anger had not cooled down after killing, (11)</l>
+<l>I went back from it, he was ashamed a little</l>
+<l>because of perceiving that, [and] granted another</l>
+<l>big elephant bull. Taking that in, (13d-15) </l>
+<l>also [my] great big kinfolk experienced great loneliness, (16)</l>
+<l>thinking “he will give present difficult to approach”, (17)</l>
+<l>I will never [again] go to his mountainous land.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">154MG7ML59MG15ML33ML13MG54MG4MR44MG24M2G23MG10MG23MG10MG11ML36M2G2M,157MG381MG</interp>
+<standOff type="wordsplit" corresp="#PN394"><interp type="alignment" select="0">154MG7ML59MG15ML33ML13MG54MG4MR44MG24M2G23MG10MG23MG10MG11ML36M2G2M,157MG381MG</interp>
 <entry>
 <form>cilai</form>
 <def>bow</def>
