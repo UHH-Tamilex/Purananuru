@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>vaḷḷukira vayalāmai</l>
+<l>veḷḷakaṭu kaṇṭaṉṉa</l>
+<l>vīṅkuvicip putuppōrvait</l>
+<l>teṇkaṇ mākkiṇai yiyakki yeṉṟu</l>
+<l>māṟukoṇṭōr matiliṭaṟi</l>
+<l>nīṟāṭiya naṟuṅkavuḷa</l>
+<l>pūmpoṟi paṇaiyeruttiṉa</l>
+<l>vēṟuvēṟu parantiyaṅki</l>
+<l>vēntuṭaimiḷai yayalparakku</l>
+<l>mēntukōṭ ṭirumpiṇar taṭakkait</l>
+<l>tiruntutoḻiṟ palapakaṭu</l>
+<l>pakaippula maṉṉar paṇitiṟai tantuniṉ</l>
+<l>ṉakaippula vāṇar nalkura vakaṟṟi</l>
+<l>mikappoliyartaṉ cēvaṭi yattaiyeṉ</l>
+<l>ṟiyāṉicaippi ṉaṉinaṉṟeṉāp</l>
+<l>palapiṟa vāḻtta viruntō reṉkō...............</l>
+<l>maruvaviṉaka rakaṉ.................................</l>
+<l>tiruntukaḻaṟ cēvaṭi kuṟukal vēṇṭi</l>
+<l>veṉṟiraṅkum viṟaṉmuraciṉō</l>
+<l>ṉeṉciṟumaiyi ṉiḻittunōkkāṉ</l>
+<l>taṉperumaiyiṟ ṟakavunōkkik</l>
+<l>kuṉṟuṟaḻnta kaḷiṟeṉkō</l>
+<l>koyyuḷaiya māveṉkō</l>
+<l>maṉṟuniṟaiyu niraiyeṉkō</l>
+<l>maṉaikkaḷamaroṭu kaḷameṉkō</l>
+<l>vāṅkavai, kaṉaveṉa maruḷa vallē naṉavi</l>
+<l>ṉalki yōṉē nacaicā ṟōṉṟa</l>
+<l>lūḻi vāḻi pūḻiyar perumakaṉ</l>
+<l>piṇarmarup piyāṉaic cerumiku nōṉṟāṭ</l>
+<l>celvak kaṭuṅkō vāḻi yāta</l>
+<l>ṉoṉṉāt tevva ruyarkuṭai paṇittivaṇ</l>
+<l>viṭuvar mātō neṭitē ni...................</l>
+<l>pullilai vañcip puṟamati lalaikkuṅ</l>
+<l>kalleṉ porunai maṇaliṉu māṅkaṭ</l>
+<l>pallūr cuṟṟiya kaḻaṉi</l>
+<l>yellām viḷaiyu nelliṉum palavē.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">84ML22MG51MG10MG30MG51ML32M3G13MG27MG22ML7MG54ML75MG74MG12MG3M2G17M2G13MR9M2G25M2G5MG10MG21ML7MG9ML108MG11MG50ML71MR12MG3M,392M15G36M15G209MG196M2G107MG</interp>
+<entry>
+<form>vaḷ</form>
+<def>sharp</def>
+</entry>
+<entry>
+<form><pc>+</pc>ukira</form>
+<def>nail</def>
+<gramGrp type="affix"><m>a</m></gramGrp>
+</entry>
+<entry>
+<form>vayal</form>
+<def>paddy-field</def>
+</entry>
+<entry>
+<form>āmai</form>
+<def>tortoise</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+</entry>
+<entry>
+<form><pc>+</pc>akaṭu</form>
+<def>belly</def>
+</entry>
+<entry>
+<form>kaṇṭaṉṉa</form>
+<def>seen-like</def>
+</entry>
+<entry>
+<form>vīṅku</form>
+<def>be-taught</def>
+</entry>
+<entry>
+<form>vici<pc>+</pc></form>
+<def>leather-strap</def>
+</entry>
+<entry>
+<form>putu<pc>+</pc></form>
+<def>new</def>
+</entry>
+<entry>
+<form>pōrvai<pc>+</pc></form>
+<def>covering</def>
+</entry>
+<entry>
+<form>teḷ</form>
+<def>be-clear</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>mā<pc>+</pc></form>
+<def>big</def>
+</entry>
+<entry>
+<form>kiṇai</form>
+<def>Kiṇai-drum</def>
+</entry>
+<entry>
+<form><pc>~</pc>iyakki</form>
+<def>made-go</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉṟum</form>
+<def>always</def>
+</entry>
+<entry>
+<form>māṟu</form>
+<def>opposition</def>
+</entry>
+<entry>
+<form>koṇṭōr</form>
+<def>taken-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>matil</form>
+<def>fortification</def>
+</entry>
+<entry>
+<form>iṭaṟi</form>
+<def>struck</def>
+</entry>
+<entry>
+<form>nīṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>dust</def>
+</entry>
+<entry>
+<form>āṭiya</form>
+<def>bathed</def>
+</entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+</entry>
+<entry>
+<form>kavuḷa</form>
+<def>cheek</def>
+<gramGrp type="affix"><m>a</m></gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+</entry>
+<entry>
+<form>poṟi</form>
+<def>dot</def>
+</entry>
+<entry>
+<form>paṇai</form>
+<def>thickness</def>
+</entry>
+<entry>
+<form><pc>~</pc>eruttiṉa</form>
+<def>neck</def>
+<gramGrp type="affix"><m>a</m></gramGrp>
+</entry>
+<entry>
+<form>vēṟu</form>
+<def>different</def>
+</entry>
+<entry>
+<form>vēṟu</form>
+<def>different</def>
+</entry>
+<entry>
+<form>parant<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>spread</def>
+<gramGrp><gram type="role">absolutive</gram>
+</gramGrp></entry>
+<entry>
+<form>iyaṅki</form>
+<def>stirred</def>
+</entry>
+<entry>
+<form>vēnt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>king</def>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>possess</def>
+</entry>
+<entry>
+<form>miḷai</form>
+<def>enclosure</def>
+</entry>
+<entry>
+<form><pc>~</pc>ayal</form>
+<def>neighbourhood</def>
+</entry>
+<entry>
+<form>parakkum</form>
+<def>spreading</def>
+</entry>
+<entry>
+<form>ēntu</form>
+<def>be-eminent</def>
+</entry>
+<entry>
+<form>kōṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>tusk</def>
+</entry>
+<entry>
+<form>irum</form>
+<def>big</def>
+</entry>
+<entry>
+<form>piṇar</form>
+<def>roughness</def>
+</entry>
+<entry>
+<form>taṭa<pc>+</pc></form>
+<def>broad</def>
+</entry>
+<entry>
+<form>kai<pc>+</pc></form>
+<def>hand</def>
+</entry>
+<entry>
+<form>tiruntu</form>
+<def>be-perfect</def>
+</entry>
+<entry>
+<form>toḻil</form>
+<def>task</def>
+</entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>pakaṭu</form>
+<def>bull</def>
+</entry>
+<entry>
+<form>pakai<pc>+</pc></form>
+<def>enemy</def>
+</entry>
+<entry>
+<form>pulam</form>
+<def>field</def>
+</entry>
+<entry>
+<form>maṉṉar</form>
+<def>king</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>paṇi</form>
+<def>be-humble</def>
+</entry>
+<entry>
+<form>tiṟai</form>
+<def>tribute</def>
+</entry>
+<entry>
+<form>tantu</form>
+<def>given</def>
+</entry>
+<entry>
+<form>niṉ</form>
+<def>you</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>nakai<pc>+</pc></form>
+<def>smile</def>
+</entry>
+<entry>
+<form>pula<pc>(</pc>m<pc>)</pc></form>
+<def>wisdom</def>
+</entry>
+<entry>
+<form>vāṇar</form>
+<def>Vāṇar</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>nalkurav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>poverty</def>
+</entry>
+<entry>
+<form>akaṟṟi</form>
+<def>dispelled</def>
+</entry>
+<entry>
+<form>mika<pc>+</pc></form>
+<def>be-much</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>poliyar</form>
+<def>may-flourish</def>
+<gramGrp><gram type="role">optative</gram>
+</gramGrp></entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+</entry>
+<entry>
+<form>cē</form>
+<def>red</def>
+</entry>
+<entry>
+<form>vaṭi-<pc>~</pc>attai</form>
+<def>foot-</def>
+<form type="simple">vaṭi</form>
+<gramGrp type="particle"><m>attai</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>eṉṟi</form>
+<def>said</def>
+</entry>
+<entry>
+<form>yāṉ</form>
+<def>I</def>
+</entry>
+<entry>
+<form>icaippiṉ</form>
+<def>sound-if</def>
+</entry>
+<entry>
+<form>naṉi</form>
+<def>much</def>
+</entry>
+<entry>
+<form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>good-it</def>
+</entry>
+<entry>
+<form>eṉā<pc>+</pc></form>
+<def>said</def>
+</entry>
+<entry>
+<form>pala</form>
+<def>many</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>piṟa</form>
+<def>other</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>vāḻtta</form>
+<def>praised</def>
+</entry>
+<entry>
+<form><pc>~</pc>iruntōr</form>
+<def>been-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>eṉkō</form>
+<def>say-I</def>
+<form type="simple">eṉk</form>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>maruva</form>
+<def>join</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form><pc>~</pc>iṉ</form>
+<def>pleasing</def>
+</entry>
+<entry>
+<form>nakar</form>
+<def>mansion</def>
+</entry>
+<entry>
+<form>akal</form>
+<def>widen</def>
+</entry>
+<entry>
+<form>..................</form>
+<def>………….</def>
+</entry>
+<entry>
+<form>tiruntu</form>
+<def>be-perfect</def>
+</entry>
+<entry>
+<form>kaḻal</form>
+<def>anklet</def>
+</entry>
+<entry>
+<form>cē</form>
+<def>red</def>
+</entry>
+<entry>
+<form>vaṭi</form>
+<def>foot</def>
+</entry>
+<entry>
+<form>kuṟukal</form>
+<def>coming-near</def>
+</entry>
+<entry>
+<form>vēṇṭi</form>
+<def>wanted</def>
+</entry>
+<entry>
+<form>veṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>been-victorious</def>
+</entry>
+<entry>
+<form>iraṅkum</form>
+<def>sounding</def>
+</entry>
+<entry>
+<form>viṟal</form>
+<def>victory</def>
+</entry>
+<entry>
+<form>muraciṉōṉ</form>
+<def>drum-he</def>
+</entry>
+<entry>
+<form>eṉ</form>
+<def>my</def>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>ciṟumaiyiṉ</form>
+<def>smallness</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>iḻittu</form>
+<def>made-fall</def>
+</entry>
+<entry>
+<form>nōkkāṉ</form>
+<def>look-at-not-he</def>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+</entry>
+<entry>
+<form>perumaiyiṉ</form>
+<def>greatness</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>takavu</form>
+<def>fitness</def>
+</entry>
+<entry>
+<form>nōkki<pc>+</pc></form>
+<def>looked-at</def>
+</entry>
+<entry>
+<form>kuṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>hill</def>
+</entry>
+<entry>
+<form>uṟaḻnta</form>
+<def>been-close</def>
+</entry>
+<entry>
+<form>kaḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>elephant-bull</def>
+</entry>
+<entry>
+<form>eṉk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>say-I</def>
+<form type="simple">eṉku</form>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>koy</form>
+<def>pluck</def>
+</entry>
+<entry>
+<form><pc>+</pc>uḷaiya</form>
+<def>mane</def>
+<gramGrp type="affix"><m>a</m></gramGrp>
+</entry>
+<entry>
+<form>mā</form>
+<def>horse</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>say-I</def>
+<form type="simple">eṉku</form>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>maṉṟu</form>
+<def>village-common</def>
+</entry>
+<entry>
+<form>niṟaiyum</form>
+<def>being-full</def>
+</entry>
+<entry>
+<form>nirai</form>
+<def>herd</def>
+</entry>
+<entry>
+<form><pc>~</pc>eṉk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>say-I</def>
+<form type="simple">eṉku</form>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>maṉai<pc>+</pc></form>
+<def>house</def>
+</entry>
+<entry>
+<form>kaḷamaroṭu</form>
+<def>threshing-floor-they</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>kaḷam</form>
+<def>threshing-floor</def>
+</entry>
+<entry>
+<form>eṉk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ō</form>
+<def>say-I</def>
+<form type="simple">eṉku</form>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form><pc>~</pc>āṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>thus</def>
+</entry>
+<entry>
+<form>avai</form>
+<def>those</def>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp></entry>
+<entry>
+<form>kaṉav<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>dream</def>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>maruḷa</form>
+<def>be-confused</def>
+<gramGrp><gram type="role">infinitive</gram>
+</gramGrp></entry>
+<entry>
+<form>vallē</form>
+<def>quickly</def>
+</entry>
+<entry>
+<form>naṉaviṉ</form>
+<def>reality</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>nalkiyōṉ-ē</form>
+<def>granted-he</def>
+<form type="simple">nalkiyōṉ</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>nacai</form>
+<def>longing</def>
+</entry>
+<entry>
+<form>cāl</form>
+<def>abound</def>
+</entry>
+<entry>
+<form>tōṉṟal</form>
+<def>appearance</def>
+</entry>
+<entry>
+<form>ūḻi</form>
+<def>aeon</def>
+</entry>
+<entry>
+<form>vāḻi</form>
+<def>live-you</def>
+<gramGrp><gram type="role">subjunctive</gram>
+</gramGrp></entry>
+<entry>
+<form>pūḻiyar</form>
+<def>Puḻiyar</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>peru</form>
+<def>great</def>
+</entry>
+<entry>
+<form>makaṉ</form>
+<def>son</def>
+</entry>
+<entry>
+<form>piṇar</form>
+<def>roughness</def>
+</entry>
+<entry>
+<form>maruppi</form>
+<def>tusk</def>
+</entry>
+<entry>
+<form>yāṉai<pc>+</pc></form>
+<def>elephant</def>
+</entry>
+<entry>
+<form>ceru</form>
+<def>fight</def>
+</entry>
+<entry>
+<form>miku</form>
+<def>be-much</def>
+</entry>
+<entry>
+<form>nōṉ</form>
+<def>endure</def>
+</entry>
+<entry>
+<form>tāḷ</form>
+<def>foot</def>
+</entry>
+<entry>
+<form>celvakkaṭuṅkō</form>
+<def>Celvakkaṭuṅk</def>
+<form type="simple">celvakkaṭuṅk</form>
+<gramGrp type="particle"><m>ō</m></gramGrp>
+</entry>
+<entry>
+<form>vāḻiyātaṉ</form>
+<def>Vāḻiyātaṉ</def>
+</entry>
+<entry>
+<form>oṉṉā<pc>+</pc></form>
+<def>be-one-not</def>
+</entry>
+<entry>
+<form>tevvar</form>
+<def>enemies</def>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp></entry>
+<entry>
+<form>uyar</form>
+<def>be-high</def>
+</entry>
+<entry>
+<form>kuṭai</form>
+<def>parasol</def>
+</entry>
+<entry>
+<form>paṇitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>humbled</def>
+</entry>
+<entry>
+<form>ivaṇ</form>
+<def>here</def>
+</entry>
+<entry>
+<form>viṭuvar-mātō</form>
+<def>let-go-they</def>
+<form type="simple">viṭuvar</form>
+<gramGrp><gram type="role">honorific</gram>
+</gramGrp><gramGrp type="particle"><m>mātō</m></gramGrp>
+</entry>
+<entry>
+<form>neṭitēni</form>
+<def>long-itē</def>
+</entry>
+<entry>
+<form>.................</form>
+<def>……………</def>
+</entry>
+<entry>
+<form>pul</form>
+<def>low</def>
+</entry>
+<entry>
+<form><pc>+</pc>ilai</form>
+<def>leaf</def>
+</entry>
+<entry>
+<form>vañci<pc>+</pc></form>
+<def>Vañci</def>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>outside</def>
+</entry>
+<entry>
+<form>matil</form>
+<def>fortification</def>
+</entry>
+<entry>
+<form>alaikkum</form>
+<def>harassing-</def>
+</entry>
+<entry>
+<form>kalleṉ</form>
+<def>‘kal’-say</def>
+</entry>
+<entry>
+<form>porunai</form>
+<def>Porunai</def>
+</entry>
+<entry>
+<form>maṇaliṉum</form>
+<def>sand</def>
+<form type="simple">maṇaliṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>āṅkaṇ</form>
+<def>that-place</def>
+</entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+</entry>
+<entry>
+<form><pc>+</pc>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>cuṟṟiya</form>
+<def>circled</def>
+</entry>
+<entry>
+<form>kaḻaṉi</form>
+<def>paddy-field</def>
+</entry>
+<entry>
+<form><pc>~</pc>ellām</form>
+<def>all</def>
+</entry>
+<entry>
+<form>viḷaiyum</form>
+<def>ripening</def>
+</entry>
+<entry>
+<form>nelliṉum</form>
+<def>paddy</def>
+<form type="simple">nelliṉ</form>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>pala-<pc>~</pc>ē</form>
+<def>many</def>
+<form type="simple">pala</form>
+<gramGrp><gram type="role">neuter plural</gram>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
+</TEI>
