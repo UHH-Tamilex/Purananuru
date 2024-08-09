@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 400.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN400">
       <lg type="edition">
 <l>mākavicumpiṉ veṇṭiṅkaṇ</l>
 <l>mūvaintāṉ muṟaimuṟṟak</l>
@@ -51,10 +51,37 @@
 <l>tuṟaitoṟum piṇikku nallū</l>
 <l>ruṟaiviṉ yāṇar ............kiḻa vōṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Late in the night when [I] appear at the gate, (5)</l>
+<l>praising according to custom, my instruments sounding (4)</l>
+<l>that looked like, in the middle of the sea, (3) </l>
+<l>the white moon in the sky (1)</l>
+<l>when the order of three [times] five [days] was completed, (2)</l>
+<l>although many slept he does not sleep, (6)</l>
+<l>my father who has heard (8ab)</l>
+<l>…………… high who guards the world, (7)</l>
+<l>and when understanding what he heard, (9ab)</l>
+<l>	[namely] the very voice of my Kiṇai drum, (8cd)</l>
+<l>	[his] zeal unabated, (9cd)</l>
+<l>he removes from [my] sides the rags turned old, (10)</l>
+<l>distinction of very great excellence……… (11)</l>
+<l>……………………………………………. (12)</l>
+<l>provides a Kaliṅkam cloth, looked at my waist, (13)</l>
+<l>[and] sways in day[-fresh] intoxication from fibre-filtered toddy. (14)</l>
+<l>Although I who do not know the time was familiar with the abode, (15)</l>
+<l>apart from chasing away his own enemies, (16a-c)</l>
+<l>is he not capable of chasing away the eney hunger from those who join [him]? (16d-17)</l>
+<l>……………. that abounded in brave men, (18)</l>
+<l>at poles for sacrifices that abound in Vedic learning, (19) </l>
+<l>…. where descend into the dark backwaters (20ab)</l>
+<l>the lord of fertile ???, pleasing to stay in (23)</l>
+<l>a good town where bustling ships are moored at every harbour, (22+20d)</l>
+<l>being sent sweepingly along the river to the expanse of the clear water. (21)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">46ML33MG42MG27MG54MG13M2G156MG3MG25ML18MG17MG22MG27MG8MG81MG12MG47MG23MR11MG26MG2M,358MG203MG50MG99MG</interp>
+<standOff type="wordsplit" corresp="#PN400"><interp type="alignment" select="0">46ML33MG42MG27MG54MG13M2G156MG3MG25ML18MG17MG22MG27MG8MG81MG12MG47MG23MR11MG26MG2M,358MG203MG50MG99MG</interp>
 <entry>
 <form>māka</form>
 <def>sky</def>
