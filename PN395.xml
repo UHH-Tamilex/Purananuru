@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 395.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN395">
       <lg type="edition">
 <l>meṉpulattu vayaluḻavar</l>
 <l>vaṉpulattup pakaṭuviṭṭuk</l>
@@ -68,10 +68,52 @@
 <l>vuḷḷatu millatu maṟiyā</l>
 <l>tāṅkamain taṉṟāl vāḻkavaṉ ṟāḷē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>The ploughman of the field in the soft soil, (1)</l>
+<l>letting go the bulls on the hard soil, (2)</l>
+<l>eating food of old rice (5)</l>
+<l>with many dishes of long Vāḷai fish (4)</l>
+<l>along with a soft roast of little hare, (3)</l>
+<l>wearing the flowers of golden jasmine from bushes (6)</l>
+<l>………………………………. (7)</l>
+<l>…………………. drinks toddy. (8)</l>
+<l>Like(?) fresh crop for the house fowl (9)</l>
+<l>with the seizing voice of the forest fowl (10)</l>
+<l>crows the water fowl [and] makes move ???. (11)</l>
+<l>??? will drive birds from the wide mire (15)</l>
+<l>like parakeets [seeking] protection (14)</l>
+<l>on the bamboo-like soft shoulders (12)</l>
+<l>of those with soft grace who are like peacocks. (13)</l>
+<l>we are kin, of great man, to Cāttaṉ with a name for virtue, (21)</l>
+<l>from the heavily protected Piṭavūr of Vēṇmān with long arms(?) (20)</l>
+<l>to the east of Uṟantai of unpassing fame, (19)</l>
+<l>[ruled] by Tittaṉ, difficult to obtain, on a small-eyed elephant, (18)</l>
+<l>of excellent glory that abounds in eminence, (17)</l>
+<l>which lies close to those many good fields which are like that. (16)</l>
+<l>He, seeing me who stood there, (26)</l>
+<l>after having suffered enduring the desert at high noon on a former day, (22) </l>
+<l>the rays much …………. evening, (23)</l>
+<l>having appeared at his gate, because of the soundings of my experience, (24)</l>
+<l>sweet voice ……… with [my] harsh-voiced Taṭāri drum, (25)</l>
+<l>did not stand [still] a little and did not talk a lot. (27)</l>
+<l>Wanting to grace [my] coming with precious ornaments, (28)</l>
+<l>apart from saying ……., granting, showing [me]</l>
+<l>to the gold-like girl of his house (29-30c)</l>
+<l>he said ‘respect this one like me!’ Taking in that, (31)</l>
+<l>I won’t forget him. I won’t think of others. (32)</l>
+<l>Even though the wide world be greatly heated, (33)</l>
+<l>even though flames appear much in the sky, (34)</l>
+<l>even though ?????????????, (35)</l>
+<l>having eaten together with green-eyed karuṉai roots (37)</l>
+<l>boiled rice [as long as] crane’s nails from the paddy of the big fields, (36)</l>
+<l>thinking “is there one ripening? Let the flood take [it]”, (38)</l>
+<l>not knowing what is and what is not, (39)</l>
+<l>it was content there, may his foot live. (40)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">104MG127MG92MG28MG165ML100MG58MG22M2GMR11M2G21M2G34MG59MG5MG10MG13MG13MG25ML24ML4M2G33MG45MG3M2G11M3G9M2G7M2G8MG3MG9M2G6MGM2G6MG2M,1101MG</interp>
+<standOff type="wordsplit" corresp="#PN395"><interp type="alignment" select="0">104MG127MG92MG28MG165ML100MG58MG22M2GMR11M2G21M2G34MG59MG5MG10MG13MG13MG25ML24ML4M2G33MG45MG3M2G11M3G9M2G7M2G8MG3MG9M2G6MGM2G6MG2M,1101MG</interp>
 <entry>
 <form>mel</form>
 <def>soft</def>
