@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 391.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN391">
       <lg type="edition">
 <l>taṇṭuḷi palapoḻin teḻili yicaikkum</l>
 <l>viṇṭu vaṉaiya viṇṭōy piṟaṅkaṉ</l>
@@ -49,10 +49,33 @@
 <l>ṟuḷipata ṉaṟintu poḻiya</l>
 <l>vēli yāyiram viḷaikaniṉ vayalē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Because the northern region hungers within the bounds of Vēṅkaṭam, (7)</l>
+<l>where those who feed on toddy [used to] rejoice sweetly in eating (6)</l>
+<l>after cutting so that they fall in a spread the imperfect pieces (5)</l>
+<l>they had obtained, praising the great prosperity brought by bulls, (4)</l>
+<l>while delight comes with paddy high on top (3)</l>
+<l>in sky-touching heaps that are like mountains, (2)</l>
+<l>when the clouds sound [in thunder] after many cool drops flew, (1)</l>
+<l>the meritless old clans that released from ending (9)</l>
+<l>my very big kinfolk that came here [and] camped, (8)</l>
+<l>………………………… because of asking, (10)</l>
+<l>as those who understand [and] know you understand [and] talk about me: (13)</l>
+<l>“he who came before, he who is now without side, (11)</l>
+<l>since he is pitiable. He is an artist.”,</l>
+<l>I have come to see [you], o great man. ……….. (14)</l>
+<l>worth of ………………….. in sweet sleep (19)</l>
+<l>with her who is keen on you with love that abides in the heart, (18)</l>
+<l>in the bounds of your rich mansion by the packed waves(?), (17)</l>
+<l>where dense-feathered cranes dwell </l>
+<l>who eat the fish that roams in the big backwaters…., (15)</l>
+<l>may drop know the right time [and] flow. (20)</l>
+<l>May your fields of a thousand Vēli ripen [paddy]. (21)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">17MG45MG104MG4MG14M3G36MG40MG67MG15MG45MG136ML20ML3MG9ML10MG52ML46MG2M,315M9G141M6G144M15G53MG</interp>
+<standOff type="wordsplit" corresp="#PN391"><interp type="alignment" select="0">17MG45MG104MG4MG14M3G36MG40MG67MG15MG45MG136ML20ML3MG9ML10MG52ML46MG2M,315M9G141M6G144M15G53MG</interp>
 <entry>
 <form>taṇ</form>
 <def>cool</def>
