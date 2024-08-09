@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 390.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN390">
       <lg type="edition">
 <l>aṟavai neñcat tāyar vaḷaru</l>
 <l>maṟavai neñcat tāyi vāḷa</l>
@@ -57,10 +57,44 @@
 <l>laṇṇal yāṉai vēnta</l>
 <l>ruṇmaiyō vaṟiyal kāṇpaṟi yalarē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>You are virtuous at heart ??? (1)</l>
+<l>You are valorous at heart ??? (2)</l>
+<l>In the front yard that is like … (4)</l>
+<l>fragrant of the long-stalked blossoms of the pear-tree with budding blooms, (3)</l>
+<l>in the protected wide mansion that is not approached even in dream (6)</l>
+<l>by watchmen, unless solicitors approach, (5)</l>
+<l>besides the many days that I stood [there] singing, (9)</l>
+<l>furtively(?) pressing my Taṭāri drum with grating voice (8)</l>
+<l>so that storied buildings, that are like a group of mountain, rang, (7)</l>
+<l>he, taking in [my] arrival (11ab)</l>
+<l>at night that went [and] was leaving when I went (10)</l>
+<l>saying: “pitiable is he, the ruddy-headed artist (12)</l>
+<l>	who stands at the tall gate (11cd)</l>
+<l>wanted [me] to come close to him, removed</l>
+<l>the dress that was like lichen in old water from my middle (13f.)</l>
+<l>put on [me] a new cloth that was like luminous blossoms, (15)</l>
+<l>and besides the fermented liquor of the custom of giving delight/intoxication (16)</l>
+<l>besides feeding [me] from a silver-white vessel (18)</l>
+<l>with boiled rice [and] meat curry of a custom that is like ambrosia, (17)</l>
+<l>[and], to dispel the great loneliness of my very big kinfolk (20)</l>
+<l>with soft gait who had joined the public hall of the front town (19)</l>
+<l>he granted, together with war, red paddy brought by bulls (22)</l>
+<l>that looked like the blossoms of the kino tree wet in [its] belly, (21)</l>
+<l>[and] said “let you get some of the plunder”. (23a-c)</l>
+<l>If you see the man from the watery land whose head is adorned </l>
+<l>with mountain flowers from the drinking ghat, (23d-25a)</l>
+<l>although taking [him] in, praising his perfect feet (25b-d)</l>
+<l>…………………………………… (26)</l>
+<l>the heavens won’t know of the making go of my happening(?) hunger. (27)</l>
+<l>Knowing, ah, the existence (28ab)</l>
+<l>of kings on majestic elephants, (28)</l>
+<l>	they won’t know of seeing [that]. (29cd)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">13MG11ML13MG13MG74MG57ML16MG66MG195M2G6MG8MG38MG61MG71MG5MG48M2G7ML5MG126MG13MG8MG2M,114M2G602MG69M17G73MG</interp>
+<standOff type="wordsplit" corresp="#PN390"><interp type="alignment" select="0">13MG11ML13MG13MG74MG57ML16MG66MG195M2G6MG8MG38MG61MG71MG5MG48M2G7ML5MG126MG13MG8MG2M,114M2G602MG69M17G73MG</interp>
 <entry>
 <form>aṟavai</form>
 <def>virtue-you</def>
