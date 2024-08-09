@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 396.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN396">
       <lg type="edition">
 <l>kīḻnīrāṉ mīṉvaḻaṅkuntu</l>
 <l>mīnīrāṟ kaṇṇaṉṉa malarpūk kuntu</l>
@@ -59,10 +59,43 @@
 <l>niraicā ṉaṉkala ṉalki</l>
 <l>yuraicelac ciṟakkavaṉ pāṭalcāl vaḷaṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Fish roam in the water below. (1)</l>
+<l>Eye-like blossoms flower above the water. (2)</l>
+<l>Birds are chased away by the grating Paṟai drum (4)</l>
+<l>from the ripening paddy fields encircled by backwaters. (3)</l>
+<l>Birds flee before the soft Paṟai drum (6)</l>
+<l>into the cool forest on the sand where they crow by the long water. (5)</l>
+<l>Delighting in the drink of sweet toddy (8)</l>
+<l>of the Kōcar in the house of bud[-seasoned] toddy, (7)</l>
+<l>the melody of the sweet Kuravai endures(?). (9)</l>
+<l>For those in the inner house he will be strength. (10)</l>
+<l>For those without kin he will be kin. (11)</l>
+<l>O ruler with an amply victorious spear, (12)</l>
+<l>we are the kin, o great man, (14)</l>
+<l>of Eḻiṉiyātaṉ from Vāṭṭāṟu by the fertile water. (13)</l>
+<l>Will I say “roast with fat pieces”? (15)</l>
+<l>Will I say “fermented liquor with fertile buds”? (16)</l>
+<l>Will I say “rice with fragrant ghee (18)</l>
+<l>on which is poured the fat of the little hare”? (17)</l>
+<l>Will I say “food that they draw [and] take (20)</l>
+<l>from the granary that was forgotten after having been opened”? (19)</l>
+<l>Many many such like ………… (21)</l>
+<l>………………………………..(22)</l>
+<l>The one who gave joyfully, providing what is left</l>
+<l>to eat to [my] great big kinfolk is our father. (24f.)</l>
+<l>Is there is limit to the gain of our people? (25)</l>
+<l>Like the white moon with expanding rays (27)</l>
+<l>in midst the stars in the rainy sky (26)</l>
+<l>let his unsullied fame appear shining! (28)</l>
+<l>While we and others praise, daily (29)</l>
+<l>let him grant good vessels/ornaments in numerous rows (30)</l>
+<l>[and] let his prosperity worthy to be sung be eminent beyond words. (31)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">106ML64ML37MG58MG5MR9MG38MG3M2G5MR12MG3M2G12ML7MG17MG3M2G20MG22MG3M2G117MG12MG32MG3M2G15ML40MGM2G21MG7MG11MGMR8ML7ML20MGM2G16MG2M,536MG241MG</interp>
+<standOff type="wordsplit" corresp="#PN396"><interp type="alignment" select="0">106ML64ML37MG58MG5MR9MG38MG3M2G5MR12MG3M2G12ML7MG17MG3M2G20MG22MG3M2G117MG12MG32MG3M2G15ML40MGM2G21MG7MG11MGMR8ML7ML20MGM2G16MG2M,536MG241MG</interp>
 <entry>
 <form>kīḻ</form>
 <def>below</def>
