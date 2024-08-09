@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 398.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN398">
       <lg type="edition">
 <l>matinilāk karappa veḷḷi yērtara</l>
 <l>vakaimā ṇalliṟ.............................</l>
@@ -58,10 +58,43 @@
 <l>muraicela varuḷi yōṉē</l>
 <l>paṟaiyicai yaruvip pāyaṟ kōvē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>When the moon hides [its] light, when Venus rises, (1)</l>
+<l>in the good house glorious for [its] kind…………. (2)</l>
+<l>when, knowing the time, the fowl with dotted feathers calls, (3)</l>
+<l>when the buds in the pond bloom into flowers, when the bards, (4)</l>
+<l>knowing [their] duty, make sound [their] dexterous little lutes, (5)</l>
+<l>at delightful dawn that gets the back of the night, (6)</l>
+<l>the speed of solicitors………………………….. (7)</l>
+<l>in the town of great name to which I had gone to approach (11)</l>
+<l>Vañcaṉ of true word who bestows marks of honour, (8)</l>
+<l>[he who is,] unless when smiling people come near [him], for [his] enemies (9)</l>
+<l>like a stone hole in which a pack of tigers dozes, (10)</l>
+<l>swinging, so that [its] long straps that talk at night wear away. (13) </l>
+<l>my Taṭāri drum with grating voice that is like the moon, (12)</l>
+<l>remembering [him], making my arrival known (14a+16)</l>
+<l>by saying “o you who fills vessels to be taken by those who come,</l>
+<l>may your position be unimpeded!”, (14bf.)</l>
+<l>[he] rejoicing greatly over one little thing, (17)</l>
+<l>becoming one of wistful face, removing</l>
+<l>from my middle the rags falling into pieces of thread, putting [on it], </l>
+<l>from his own middle, a foaming cloth that was like spread out smoke, (18-20)</l>
+<l>pouring to the fill clarified toddy in which one sees [one’s] shadow (22)</l>
+<l>into a bowl difficult to obtain as if it was spitting fire, (21)</l>
+<l>while, apart from gracing that I should eat, (23a-c)</l>
+<l>[my] kinfolk fed on rice grains [as long as] crane’s nails (25)</l>
+<l>with karuṇai roots [and] meat of deer that was seen in the bowls he himself ate from, 23d-24</l>
+<l>the great man (28a)</l>
+<l>with a pearl string that resembles [that of] a snake that shine with mixed gems, (27)</l>
+<l>who illuminates the world with [his] mountain-like chest, (26)</l>
+<l>	………? that flowered in body, (28b-d)</l>
+<l>the one gracious so that words fail (29)</l>
+<l>is the king of mount Pāyal with waterfalls that sound [like] drums. (30)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">24MG12ML55MG5MG42MGMG13MG27M3G91ML41ML44MG10MG28MG24MG18MR34MG11MG20MG105M2G33ML28MG42MG66MG9MG62MG25MG3M,901MG</interp>
+<standOff type="wordsplit" corresp="#PN398"><interp type="alignment" select="0">24MG12ML55MG5MG42MGMG13MG27M3G91ML41ML44MG10MG28MG24MG18MR34MG11MG20MG105M2G33ML28MG42MG66MG9MG62MG25MG3M,901MG</interp>
 <entry>
 <form>mati</form>
 <def>moon</def>
