@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 392.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN392">
       <lg type="edition">
 <l>matiyēr veṇkuṭai yatiyar kōmāṉ</l>
 <l>koṭumpū ṇeḻiṉi neṭuṅkaṭai niṉṟiyāṉ</l>
@@ -48,6 +48,32 @@
 <l>viruntiṟai nalki yōṉē yantarat</l>
 <l>tarumpeṟa lamiḻta maṉṉa</l>
 <l>karumpivaṭ ṭantōṉ perumpiṟaṅ kaṭaiyē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>As I standing at the tall gate of Eḻiṉi with curved ornaments, (2)</l>
+<l>the king of the Atiyar with a moon-like white parasol, (1)</l>
+<l>a dawn when dew fell in the pale moonlight (3)</l>
+<l>pressing the one-eyed big Kiṇai drum (5a-c)</l>
+<l>in my hand like the trace of the feet of a fighting elephant bull, (4)</l>
+<l>[and] saying (11d)</l>
+<l>“you who overcome the fortresses difficult [to conquer] of feardul kings who do not give [tribute], (6)</l>
+<l>yoke grass[-eating] groups of white donkeys (9)</l>
+<l>according to frightful custom on every great battle field (8)</l>
+<l>with the wetness of great events of blood falling with fat, (7)</l>
+<l>[and] sow white wild millet and babul, (10)</l>
+<l>ploughman, may you live long for [many] days”, (11)</l>
+<l>having gone I stood [there], on that very day (12)</l>
+<l>he removed the rags resembling the roots (14a-c)</l>
+<l>of lichen with huge leaves in the drinking well of a village, (13)</l>
+<l>put [on me] a Kaliṅkam cloth with thin threads [and] a fine border, (14d-15c)</l>
+<l>	saying “eat!”, </l>
+<l>mixed in a golden vessel like the stars of an asterism (17)</l>
+<l>toddy made [that] day that [stung] like the throbbing of a scorpion’s [attack] (16)</l>
+<l>and apart from giving courses of food (18a-c)</l>
+<l>he granted a seat at [his] feast in the order of taking, (19a-c)</l>
+<l>he gave here sugarcane (21ab)</l>
+<l>that was like difficult to obtain ambrosia from heaven, (19d-29)</l>
+<l>	the great descendant. (21d)</l>
 </lg>
     </div>
   </body>
