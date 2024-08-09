@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 399.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN399">
       <lg type="edition">
 <l>aṭumakaṇ mukanta vaḷavā veṇṇeṟ</l>
 <l>ṟoṭimā ṇulakkai parūukkuṟ ṟarici</l>
@@ -62,10 +62,49 @@
 <l>viḻumeṉa viḻitaru maruvi</l>
 <l>vāṉṟo yuyarcimait tōṉṟik kōvē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>If, kindling the fire place white with the rice water (10d+3a-c)</l>
+<l>from the grains pounded from [their] bigness by the pestle glorious for [its] ring (2)</l>
+<l>of white paddy that was drawn by the cooking women, (1)</l>
+<l>removing from the body (8a)</l>
+<l>fat pieces of finned Varāal fish big in the belly, (5)</l>
+<l>for the fragrant sourness of sweet mango fruit from high branches in the shade, (3d-4)</l>
+<l>as if the trumpet tree opened [and] let go of [its] mature buds (7)</l>
+<l>with bindweed from the field [and] balsam pear in small creeper, (6)</l>
+<l>	[and] mixing [it] with the group, (8bc) …</l>
+<l>boiled dish of who rice poured so that closes???</l>
+<l>he keeps [them] so that intoxication fells those who fall like straws (10)</l>
+<l>Remembering Kiḷḷivaḷavaṉ (13ab)</l>
+<l>of imperishable fame, lord of the Kāviri (12)</l>
+<l>with gardens by the thundering water where they eat old rice, (11)</l>
+<l>	we would set out for him. (13cd)</l>
+<l>I won’t go. I won’t go. I won’t see the faces of others. (14)</l>
+<l>The tamarind porridge in a spread that was cooked by the Kiṇai drum daughter (16)</l>
+<l>after seeling the fish released from the long bamboo fish-hook, (15)</l>
+<l>I with a food that is eaten disregarding the [proper] times, taking in my ruin (17a-c)</l>
+<l>I sat on one side. What [to do] now? (18)</l>
+<l>The one virtuous among the virtuous, brave among the brave, (19)</l>
+<l>warrior among warriors, scion of the ancients, (20) </l>
+<l>when he took in [that] sound [and] said “let [him] eat ambrosia!”, (21)</l>
+<l>I set out for [and] camped on the height, washed [my] strong staff, (22)</l>
+<l>??? the wrappings with new hardness that were fixed by applying tyings (24)</l>
+<l>to unite …. as the leather straps lay broken,(?) (23)</l>
+<l>swung {the missing drum} so that it roared an unmeasured garland [of sounds], (25)</l>
+<l>I who did not touch [what was for] the god, thinking “the food scares [me] off,” (26)</l>
+<l>I had come wanting just a bull, (28)</l>
+<l>with sturdy neck that does not tire for mud [when drawing] a swift cart, (27)</l>
+<l>	Thinking so, (28d)</l>
+<l>before even I had expressed desire for one thing, (29)</l>
+<l>he granted [me], along with the vehicles, (32a-c)</l>
+<l>many shapely herds that bloomed like stars (31) </l>
+<l>in the sky that was like ??????????? (30)</l>
+<l>the king of mount Tōṉṟi with high peaks that touch the sky (34)</l>
+<l>[and] waterfalls that tumble sweetly in an excellent way. (33)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">51MG62MG93MG93MG6ML96MR6ML23ML46MG21MG18MG6MG67ML9MG3M3G13MG65MG5MG26MG33MG13M2G21MG18M2GMG29MGMG19M2G14MG56MG20MG34MG3M,1006MG</interp>
+<standOff type="wordsplit" corresp="#PN399"><interp type="alignment" select="0">51MG62MG93MG93MG6ML96MR6ML23ML46MG21MG18MG6MG67ML9MG3M3G13MG65MG5MG26MG33MG13M2G21MG18M2GMG29MGMG19M2G14MG56MG20MG34MG3M,1006MG</interp>
 <entry>
 <form>aṭu</form>
 <def>cook</def>
