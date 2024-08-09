@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 387.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN387">
       <lg type="edition">
 <l>vaḷḷukira vayalāmai</l>
 <l>veḷḷakaṭu kaṇṭaṉṉa</l>
@@ -64,10 +64,50 @@
 <l>pallūr cuṟṟiya kaḻaṉi</l>
 <l>yellām viḷaiyu nelliṉum palavē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Always stirring [my] big Kiṇai drum with a clear eye, (4)</l>
+<l>with a new covering with taught leather straps, (3)</l>
+<l>that looks like the white belly (2)</l>
+<l>of the sharp-nailed tortoise in the pond, (1)</l>
+<l>when I sing: (15a) </l>
+<l>“Having dispelled the poverty of you Vāṇar with smiling wisdom (13)</l>
+<l>by giving [them] the humble tribute of the kings from enemy regions, (12)</l>
+<l>[that is,] the many [elephant] bulls of perfect training (11)</l>
+<l>with large rough broad trunks [and] eminent tusks, (10)</l>
+<l>who spread in the neighbourhood of the king’s enclosure (9)</l>
+<l>after having struck the fortification of those who took up opposition, (5)</l>
+<l>with fragrant cheeks that were bathed in ashes, (6)</l>
+<l>with flower-dotted bulky necks, (7)</l>
+<l>stirring and fanning out one after another, (8)</l>
+<l>may his red feet much flourish.”, (14)</l>
+<l>	thinking that is is very good, (15b)</l>
+<l>shall I say “there where those who praise many other things”? (16)</l>
+<l>while … </l>
+<l>come together, in the pleasing mansion, wide………. (17f.)</l>
+<l>Wanting to come neat the red feet with perfect anklets, (18)</l>
+<l>the one with a victorious drum that sounds victoriously, (19)</l>
+<l>who does not look disparagingly at my smallness (20)</l>
+<l>shall I look at the fitness of his greatness (21)</l>
+<l>[and] speak of [his] elephant that is like a hill? (22)</l>
+<l>Shall I speak of [his] big horse with trimmed mane? (23)</l>
+<l>Shall I speak of the herd that fills the manger? (24)</l>
+<l>Shall I speak of the threshing floor with those who thresh by the house? (25)</l>
+<l>While being strongly confused as by a dream about those that are such, in reality (26)</l>
+<l>he is the one who granted. Appearance worthy to be longed for. (27)</l>
+<l>may you live for aeons, great son of the Pūḻiyar. (28)</l>
+<l>[On?] and elephant with rough tusks [and] fight-lusty sturdy feet, (29)</l>
+<l>Celvakkaṭuṅkō Vāḻiyātaṉ, (30)</l>
+<l>Will the enemies, who were in disagreement, having been humbled here under [his] high parasol, (31)</l>
+<l>not let go for a long time? ….. (32)</l>
+<l>more than the [grains of] sand in the noisy Porunai (34a-c)</l>
+<l>that slaps against the out fortification of Vañci with puny leaves (~ the city, not the tree), (33)</l>
+<l>more than the [grains] of paddy that all ripen (36)</l>
+<l>in the fields that encircle the many villages there. (34df.)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">84ML22MG51MG10MG30MG51ML32M3G13MG27MG22ML7MG54ML75MG74MG12MG3M2G17M2G13MR9M2G25M2G5MG10MG21ML7MG9ML108MG11MG50ML71MR12MG3M,392M15G36M15G209MG196M2G107MG</interp>
+<standOff type="wordsplit" corresp="#PN387"><interp type="alignment" select="0">84ML22MG51MG10MG30MG51ML32M3G13MG27MG22ML7MG54ML75MG74MG12MG3M2G17M2G13MR9M2G25M2G5MG10MG21ML7MG9ML108MG11MG50ML71MR12MG3M,392M15G36M15G209MG196M2G107MG</interp>
 <entry>
 <form>vaḷ</form>
 <def>sharp</def>
