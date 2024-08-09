@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 389.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN389">
       <lg type="edition">
 <l>nīrnuṅkiṉ kaṇvalippak</l>
 <l>kāṉavēmpiṉ kāytiraṅkak</l>
@@ -45,10 +45,30 @@
 <l>vaitaka lalkuṉ makaḷir</l>
 <l>neytalkē ḷaṉmār neṭuṅkaṭai yāṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Saying (6a)</l>
+<l>“when they force the watery eye of the palmyra fruit, (1)</l>
+<l>when the unripe fruit of the forest neem becomes dry, (2)</l>
+<l>even though there is west wind that dries up the ponds, (3)</l>
+<l>at the time when there is war about the white gold that is not received, (4)</l>
+<l>will he remember us, too, the youthful fighter?”,</l>
+<l>he gave, a paragon worth of fame. (6)</l>
+<l>He is not one on a way where he has gone [and] will reach today. (7)</l>
+<l>He is not one on a way where he won’t be seen when going. (8)</l>
+<l>The lord of Vēṅkaṭam with waterfalls falling from rocks, (11)</l>
+<l>where, while the ruddy-headed elephant cows are desperate, they bring calves (9)</l>
+<l>[and] tie them up on the village common of the good village inside the hills, (10)</l>
+<l>Mutiyaṉ with a good plough that does not rise while going, (12)</l>
+<l>Ātaṉunkaṉ, like him you too (13)</l>
+<l>grant many vessels worth of pre-eminence, o great man, (15)</l>
+<l>so that the distress of [my] famished kinfolk is destroyed. (14)</l>
+<l>Women with wonderfully wide hips (16)</l>
+<l>won’t hear the Neytal [tune] at the tall gate. (17)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">24M3G64MG8MG20MG7MG9ML4MG14MG12MG12MG12MG46MG3MR55MG36MG35ML6MR19MG43MG2M,451MG</interp>
+<standOff type="wordsplit" corresp="#PN389"><interp type="alignment" select="0">24M3G64MG8MG20MG7MG9ML4MG14MG12MG12MG12MG46MG3MR55MG36MG35ML6MR19MG43MG2M,451MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
