@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 397.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN397">
       <lg type="edition">
 <l>veḷḷiyu miruvicum pērtarum puḷḷu</l>
 <l>muyarciṉaik kuṭampaik kuraṟṟōṟ ṟiṉavē</l>
@@ -55,10 +55,40 @@
 <l>laruñcamaṅ kaṭakku māṟṟalavaṉ</l>
 <l>ṟiruntukaḻa ṉōṉṟāṭ taṇṇiḻa lēmē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Venus rises in the dark sky and the birds, (1)</l>
+<l>made heard [their] voice from the nests in high branches, (2)</l>
+<l>and in the ponds buds opened [their] eyes gently (3)</l>
+<l>and the sun shrunk in light. As singing rises, (4)</l>
+<l>as right-spiralling conched roar together with resonant drums, (5)</l>
+<l>appearing at the time when one sees the back of the night, (6)</l>
+<l>in the protected war camp that repels the darkness with blades (7)</l>
+<l>“may you listen to the sounds of dawn, for takings that are many, (8)</l>
+<l>you whose chest has a [well]made garland, rise from sleep”, so saying, (9)</l>
+<l>pressing so that it sounds [my] clear-eyed big Kiṇai drum (10)</l>
+<l>I have appeared at the tall gate. “this one is a solicitor</l>
+<l>who came, longing for that [and] remembering”, so saying, (11f.)</l>
+<l>a tall rost with seasoning that was fried while it had ghee, (13)</l>
+<l>clarified toddy fragrant with scent that filled a bejewelled vessel, (14)</l>
+<l>together with a white flowery Kaliṅkam cloth that was like a snake skin (15)</l>
+<l>– pouring [his] bounty like the showers, (16)</l>
+<l>so that my heat that was like the summer left, (17)</l>
+<l>he is the one who granted precious ornaments, always (18)</l>
+<l>a lotus with red petals that bloomed in the field, (19)</l>
+<l>the man from a land that shine with the fires (21a-c)</l>
+<l>raised, acting in accordance with dharma, by brahmins with six tasks, (20)</l>
+<l>	[his] sword excellent, (21d)</l>
+<l>benefactor with golden ornaments, like an island where fertility happens. (22)</l>
+<l>Even if we fo to the end of the great sea with dashing waves, (23)</l>
+<l>even if the sun with scorching rays appears in the southern directions, (24)</l>
+<l>we will not be afraid, saying “what?”, (25a-c)</l>
+<l>we who are in the cool shade of his sturdy feet with perfect anklets, (27)</l>
+<l>[he] capable of winning difficult fights with [his] victorious spear. (25d-26)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">5MG12MG2MG8MG34MG8MG32MG11MG3MG5MG5MG68MG125MG11MG67ML11MR13MG82MR8MG60MG19MR114MG10MG45ML15MG2M,799MG</interp>
+<standOff type="wordsplit" corresp="#PN397"><interp type="alignment" select="0">5MG12MG2MG8MG34MG8MG32MG11MG3MG5MG5MG68MG125MG11MG67ML11MR13MG82MR8MG60MG19MR114MG10MG45ML15MG2M,799MG</interp>
 <entry>
 <form>veḷḷi-<pc>~</pc>um</form>
 <def>Venus</def>
