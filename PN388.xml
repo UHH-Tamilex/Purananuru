@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 388.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN388">
       <lg type="edition">
 <l>veḷḷi teṉpulat tuṟaiya viḷaivayaṟ</l>
 <l>paḷḷam vāṭiya payaṉil kālai</l>
@@ -44,10 +44,28 @@
 <l>yaṇṇal yāṉai vaḻuti</l>
 <l>kaṇmā ṟiliyareṉ peruṅkiḷaip puravē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>“While Venus stays in the southern region, at the yield-less</l>
+<l>time when the ditches [between] the ripening paddy field fade, (1f.)</l>
+<l>as the son of the Kiṇai with the big Paṟai drum, being one who goes, (3a-c)</l>
+<l>joining ……………. with great name, (3d-4)</l>
+<l>[and] one who knows his own state, goes </l>
+<l>in order to escape the affliction of that state, (5-6c)</l>
+<l>the one who gave possessions is our father, an appearance supreme in giving. (6df.)</l>
+<l>……………………….. as the horn, (8)</l>
+<l>Did you hear, dullards, of Paṇṇaṉ who moves (x?), (10)</l>
+<l>with victorious true words, possessing grass?” (9) </l>
+<l>If, touching [my] Kiṇai drum, about the ploughs accepted by working oxen (11) </l>
+<l>I don’t sing thus daily without end, (12)</l>
+<l>may the scion of the Southern king in [his] jewel-shining front yard, (13)</l>
+<l>with a great army where strapped drums sound, (14)</l>
+<l>Vāluti on a majestic elephant (15)</l>
+<l>be without opposition to the protection of my great kin. (16)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">14MG249MG47MG21MG21M2G55MG43MG24M2G2M,129M3G112M12G229MG</interp>
+<standOff type="wordsplit" corresp="#PN388"><interp type="alignment" select="0">14MG249MG47MG21MG21M2G55MG43MG24M2G2M,129M3G112M12G229MG</interp>
 <entry>
 <form>veḷḷi</form>
 <def>Venus</def>
