@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 362.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN362">
       <lg type="edition">
 <l>ñāyiṟ ṟaṉṉa vāymaṇi miṭainta</l>
 <l>matiyuṟa ḻāra mārpiṟ puraḷap</l>
@@ -50,10 +50,34 @@
 <l>viṭañciṟi totuṅka lañci</l>
 <l>yuṭampoṭuñ ceṉmā ruyarntōr nāṭṭē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While moon-like pearl-strings roll on [his] chest (2)</l>
+<l>that are set close with sun-like choice gems, (1) </l>
+<l>while in the warcamp the offering-receiving drum resounds, (3)</l>
+<l>that spreads in the grove……………… (4)</l>
+<l>white victory banners…………………. (5)</l>
+<l>a grouped army that takes shape like Aṇaṅkus, (6)</l>
+<l>with a strength difficult to sway that is like [that of] Death, (7)</l>
+<l>you brahmin men with the sight [and] cow voices, (8)</l>
+<l>the sign of the four Vedas……………. (9)</l>
+<l>virtue is intended. Because that is wealth, (10)</l>
+<l>ending delusion, dispelling confusion, (11)</l>
+<l>grating villages(?) that are by the water (13)</l>
+<l>while an ocean of water poured by hand spreads, (12)</l>
+<l>giving rice, much and a lot, (14)</l>
+<l>abounding in excellence………..good (15)</l>
+<l>– in order to go, along with the body, to the land of the high-born(?), (21)</l>
+<l>afraid of stepping aside a little from the place, (20)</l>
+<l>softly, while moving from the house, saying “no”, (19)</l>
+<l>along with the noisy retinue that hides the space of the wilderness/cremation ground, (18)</l>
+<l>there in the width, where they shriek even by day: (17)</l>
+<l>the beak-strong crows along with the owls, gathering, (16)</l>
+<l>in the large white saline soil with little white bones. (15)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">6MG32ML129M3G13MG30MG8MG113ML11MG68M2G34M2G15ML44MG47MG6MG28MG19M2G20M2G2M,647MG</interp>
+<standOff type="wordsplit" corresp="#PN362"><interp type="alignment" select="0">6MG32ML129M3G13MG30MG8MG113ML11MG68M2G34M2G15ML44MG47MG6MG28MG19M2G20M2G2M,647MG</interp>
 <entry>
 <form>ñāyiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>sun</def>
