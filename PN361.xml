@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 361.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN361">
       <lg type="edition">
 <l>kāreti rurumi ṉuraṟik kalleṉa</l>
 <l>vāruyirk kalamaru mārāk kūṟṟa</l>
@@ -49,10 +49,33 @@
 <l>ṉillā vulakattu......... mainī</l>
 <l>colla vēṇṭā.......... muntaṟinta</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Insatiable Death who roars like the thunder facing the rainy season,</l>
+<l>noisily, [and] is upsetting to [people’s] precious lives, (1f.)</l>
+<l>won’t he be afraid of your coming, (3a-c)</l>
+<l>the paragon, having, in a sacrifice that is completed with a good many</l>
+<l>śruti [verses], splashed out precious vessels to brahmins along with water. (3d-5)</l>
+<l>Giving good things to many like a mother (6)</l>
+<l>being very gracious to those who sing his grace (8)</l>
+<l>with clear(?)-gaited big elephant bulls, (9)</l>
+<l>giving what is sweet to those who join his feet (10)</l>
+<l>that ended……………….rolling gait (9)</l>
+<l>offering golden vessels [of toddy] (18)</l>
+<l>to songstresses who have garlands in strands, (11)</l>
+<l>on [his] tall seat where he freely mingles (13)</l>
+<l>with bards with golden lotus flowers, (12)</l>
+<l>resting softly when the hips don’t endure  (17)</l>
+<l>of women with thorn teeth feared by [their] tongues, if they grant (16)</l>
+<l>quickly the brows that lie athwart like bows, (15)</l>
+<l>with deer glances, [with abundant fidelity] along with forebearance, (14)</l>
+<l>eating when [something] is offered as ambrosia he is without reproach. (19)</l>
+<l>in the world that does not last …. </l>
+<l>it is not necessary for you to say………….. that was known before (20f.)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">35MG17MR8MG7MG38MG8MR29ML11MG10ML37MG5MG7ML22MG18MG4MG3M2G54MG48ML43ML7ML21ML36MG10MG21MG4ML57M,586M</interp>
+<standOff type="wordsplit" corresp="#PN361"><interp type="alignment" select="0">35MG17MR8MG7MG38MG8MR29ML11MG10ML37MG5MG7ML22MG18MG4MG3M2G54MG48ML43ML7ML21ML36MG10MG21MG4ML57M,586M</interp>
 <entry>
 <form>kār</form>
 <def>rainy-season</def>
