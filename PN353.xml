@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 353.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN353">
       <lg type="edition">
 <l>ācil kammiyaṉ mācaṟap puṉainta</l>
 <l>polañcey palkā caṇinta valku</l>
@@ -45,10 +45,30 @@
 <l>pañciyuṅ kaḷaiyāp puṇṇa</l>
 <l>rañcutaka vuṭaiyariva ṭaṉṉai mārē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Looking at the grace of her who moves according to Dharma,</l>
+<l>having attached, so that it shines, a golden chaplet,</l>
+<l>[her] hips adorned with many beads made of gold,</l>
+<l>crafted without flaw by a flawless artisan,</l>
+<l>you who retains the chariot, you with eyes that have turned pale, </l>
+<l>majesty victorious in war who does not stop asking [me],</l>
+<l>who says “who is she?”, listen now to [what I have to] say:</l>
+<l>She is the daughter of a king of an ancient family</l>
+<l>who does not change the lasting readiness of [his] young warriors with strong bows,</l>
+<l>with heaps of vast area destroyed daily by urging</l>
+<l>into many heaps of a height as if one saw hills. On a former day,</l>
+<l>to a great ancient king who came asking [for her],</l>
+<l>………………………………..</l>
+<l>…………………….ravaging, making the blood run,</l>
+<l>with blades with pointed edges that have gone blunt,</l>
+<l>with wounds from which the cotton has [not yet] been removed,</l>
+<l>they are fit to evoke fear, her people.</l>
+</lg>
+
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">2MG13MG26MG44MG12ML113MG38MG9ML23MG134MG26MG11ML8MG2M,369MG103MG</interp>
+<standOff type="wordsplit" corresp="#PN353"><interp type="alignment" select="0">2MG13MG26MG44MG12ML113MG38MG9ML23MG134MG26MG11ML8MG2M,369MG103MG</interp>
 <entry>
 <form>āc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>flaw</def>
