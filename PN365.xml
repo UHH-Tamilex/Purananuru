@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 365.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN365">
       <lg type="edition">
 <l>mayaṅkiruṅ karuviya vicumpumuka ṉāka</l>
 <l>viyaṅkiya virucuṭar kaṇṇeṉap peyariya</l>
@@ -39,10 +39,24 @@
 <l>ṇilamaka ḷaḻuta kāñciyu</l>
 <l>muṇṭeṉa vuraipparā luṇarntici ṉōrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>While, </l>
+<l>with the sky as a face that has masses of obscure dark [clouds], (1)</l>
+<l>while the two stirring luminaries are named as eyes, (2)</l>
+<l>in the flood difficult to navigate when the wind does not roam in between, (3)</l>
+<l>with a string of glowing gems with a diamond frontlet (4)</l>
+<l>rolling to the front battle on golden wheels, (5)</l>
+<l>which much strength in fight which is not seen by fighters, (6)</l>
+<l>not going even now, although those before did go, (7)</l>
+<l>while many praise, like women whose beauty has a price, (8)</l>
+<l>saying many times “I exist – let them live”, (9)</l>
+<l>the lady earth cries, also transience exists, (10)</l>
+<l>so say those indeed who have understood [the world]. (11)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">6MG83MG64MG45MG9MG61ML4ML14MG6MG12MG14MG2M,330MG</interp>
+<standOff type="wordsplit" corresp="#PN365"><interp type="alignment" select="0">6MG83MG64MG45MG9MG61ML4ML14MG6MG12MG14MG2M,330MG</interp>
 <entry>
 <form>mayaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>be-confuse</def>
