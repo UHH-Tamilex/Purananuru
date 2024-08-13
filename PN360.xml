@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 360.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN360">
       <lg type="edition">
 <l>peritārāc ciṟuciṉattar</l>
 <l>cilacollāṟ palakēḷviyar</l>
@@ -50,10 +50,34 @@
 <l>ṭaḻalvāyp pukka piṉṉum</l>
 <l>palarvāyt tirāar paruttuṇ ṭōrē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Those with little anger that is not fully satiated, (1)</l>
+<l>those who listen to many [words] by means of few words, (2)</l>
+<l>those with great gifts through subtle understanding, (3) </l>
+<l>those with cool toddy [spiced] with turbid buds, (4)</l>
+<l>those with fat meat with fruity seasoning, (5)</l>
+<l>those with words that embrace, rejoicing at bowing down, (6)</l>
+<l>appeasing to many people to make them have the yield, (7)</l>
+<l>those who rule this ground so that it is protected (8)</l>
+<l>are but few, great man – now listen: daily (9)</l>
+<l>there are many who do now know that that is befitting, (10)</l>
+<l>and the riches of suchlike, having lasted, are not permanent. (11)</l>
+<l>Even now [that] is the nature of that. Therefore, (12)</l>
+<l>You are no hindrance to the daily conduct. (13a-c)</l>
+<l>Beware of filling the hands of those who covet gifts. (13d-14)</l>
+<l>When fear comes, (15)</l>
+<l>o minstrel in the waste land where the kites took a seat, (16)</l>
+<l>in the saline soil where the spurge has gone large, (17)</l>
+<l>after they have been placed on the bier, for food </l>
+<l>a little rice that is placed in the grass, along with toddy, (18f.)</l>
+<l>and after, when the Pulaiyaṉ gives the command, they remained</l>
+<l>on the grass [and] entered the mouth of the fire, being eaten, (20f.)</l>
+<l>they don’t remain, being superior(?) to many, those eaten by kites. (22)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">5MG125ML25MG30MG23MG10MG8MG13MG2ML10MG5M2G3MG8M2G14MG9ML3MG25ML28MG56ML29MG41MG3MG29MG11MG5MG2M,548MG</interp>
+<standOff type="wordsplit" corresp="#PN360"><interp type="alignment" select="0">5MG125ML25MG30MG23MG10MG8MG13MG2ML10MG5M2G3MG8M2G14MG9ML3MG25ML28MG56ML29MG41MG3MG29MG11MG5MG2M,548MG</interp>
 <entry>
 <form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>big-it</def>
