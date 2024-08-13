@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 373.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN373">
       <lg type="edition">
 <l>urumicai muḻakkeṉa muraca micaippac</l>
 <l>cerunavil vēḻaṅ koṇmū vākat</l>
@@ -67,10 +67,53 @@
 <l>ceñcevi yeruvai kuḻīi</l>
 <l>yañcuvaru kiṭakkaiya kaḷaṅkiḻa vōyē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>With a war camp wide in area, where, (4cd)</l>
+<l>while drums sound like thunder-sounding thunder, (1)</l>
+<l>with fight-trained elephant bulls as clouds,</l>
+<l>showering dwindling drops of chariot horses, fearfully, (3)</l>
+<l>	the wind raises arrows, (4ab)</l>
+<l>with a mixed(?) big army in which warriors dance, (7)</l>
+<l>while [their] bright swords that they hold up with blood flowing down (5)</l>
+<l>rejoice in obstacles ???, like squeezing [them] out, (6)</l>
+<l>o victorious king who obtained the outside of the Koṅku land, (8)</l>
+<l>...............</l>
+<l>thus fighting [their] natures of peacocks with large dots [and] innocent eyes (9d-10)</l>
+<l>passing the gate so that the good hall with tall walls is lonely, (11)</l>
+<l>women with soft shoulders won’t mind the village common, (12)</l>
+<l>……… </l>
+<l>in order to join the good shade, in the absence of the shade of words (15)</l>
+<l>saying “may [your] decorated horses live”, (14)</l>
+<l>ruddy-headed youngsters, fine ornaments on [their] chests, (16)</l>
+<l>not seeing the faces of their people at the time arrows destroy [them], (17)</l>
+<l>…….</l>
+<l>in the wasteland, destroyed [and] wasted, on which the king had turned [his] back, (19)</l>
+<l>thrusting confused flames at the mansions, tusks breaking, (20)</l>
+<l>he who has gone indeed (22ab)</l>
+<l>to join the dark ground like a mountain struck by thunder (21) </l>
+<l>…………</l>
+<l>While the eyes are harrassed, seeing, of those who know…, (23)</l>
+<l>with Vañci as a strong vessel with a courtyard, (24)</l>
+<l>destroying heaps of men, fearless warriors, (25)</l>
+<l>you have taken, great man, the thrashing cattle of the western region. (26)</l>
+<l>May your Paṇai drum flourish. … (27a-c)</l>
+<l>Going to each battle field of kings with shining families, (28)</l>
+<l>may those with spotted faces that were drawn by you flourish. – thus praising (29)</l>
+<l>they have taken, they say, great people. While I too, (30=</l>
+<l>beat [my] pretty-eyed Kiṇai drum so that it reverberates, (31a-c)</l>
+<l>although ………………. praising with love (32)</l>
+<l>in the absence here of any others who would be like your people, (33)</l>
+<l>I have come to [your] royal fortress for the things you drew, great man, (34)</l>
+<l>– you who are the lord of the battle field of expanses to which fear comes, (39)</l>
+<l>as red-eared kites flock [there] (38)</l>
+<l>eating fat in that place where jackals roam in hordes (37)</l>
+<l>along with Pēy of quality who will help without fault, (36)</l>
+<l>for those who smile at [your] manliness that is praised [even] by [your] enemies. (35)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">4MG10MG78MG25MG13MG34MG57M3G4M2G29ML29MG143M3G20ML41MG44M4GML28MG18ML5MG12MG4MG34MG31M11G66MG31MG11MG24MG26MG20ML11M3G3MG27MG67MG94MG3MG22MR8MG10ML34MG26MG2M,421MG785MG</interp>
+<standOff type="wordsplit" corresp="#PN373"><interp type="alignment" select="0">4MG10MG78MG25MG13MG34MG57M3G4M2G29ML29MG143M3G20ML41MG44M4GML28MG18ML5MG12MG4MG34MG31M11G66MG31MG11MG24MG26MG20ML11M3G3MG27MG67MG94MG3MG22MR8MG10ML34MG26MG2M,421MG785MG</interp>
 <entry>
 <form>urum<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>thunder</def>
