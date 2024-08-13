@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 352.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN352">
       <lg type="edition">
 <l>tēeṅkoṇṭa veṇmaṇṭaiyāṉ</l>
 <l>vī.........................................kaṟakkuntu</l>
@@ -44,10 +44,31 @@
 <l>ciṟukō luḷaiyum puravie............</l>
 <l>..............................................yamarē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Even if he(?) were to give</l>
+<l>good ornament/vessels worthy to be spoken about, like the Uṟantai</l>
+<l>with a fence of white paddy of great generous Tittaṉ,</l>
+<l>with toddy to barter……………….</l>
+<l>…………………………………</l>
+<l>…………………………..</l>
+<l>women with hands [wearing] lotus stalk bangles leaping into the flood,</l>
+<l>where they pull out the flowers of jasmine from bushes</l>
+<l>into green baskets divided into compartments(?),</l>
+<l>where they hide…………………..</l>
+<l>in white bowls that hold honey,</l>
+<l>	he would not take [them].</l>
+<l>To her with breasts blooming with dark nipples, </l>
+<l>with many fine beauty spots that shine [and] glitter in the light</l>
+<l>like youthful young kino [blossoms] given……..</l>
+<l>…………………………………</l>
+<l>…………………………………..</l>
+<l>horse ???..........</l>
+<l>……………………….fight.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">153MG96MG40ML14MG42MG19MG9MR36ML5MG14MG73MG2M,513MG</interp>
+<standOff type="wordsplit" corresp="#PN352"><interp type="alignment" select="0">153MG96MG40ML14MG42MG19MG9MR36ML5MG14MG73MG2M,513MG</interp>
 <entry>
 <form>tēem</form>
 <def>honey</def>
