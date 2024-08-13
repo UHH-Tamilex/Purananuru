@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta"></title> XX.
+            <persName xml:lang="ta"></persName>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p></p>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="poemXX">
+      <lg type="edition">
+<l>matilu ñāyi liṉṟē kiṭaṅku</l>
+<l>nīi riṉmaiyiṟ kaṉṟumēyn tukaḷu</l>
+<l>mūratu nilaimaiyu mituvē.</l>
+<l>(cu)vicumpu nītta miṟanta ñāyiṟṟup</l>
+<l>pacuṅkatir civantu vāṅkantic ciṟunaṉi</l>
+<l>piṟanta piṉṟaic ceṟipiṉac citāar</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">5MGMG8M2G7M2GMR22MG19MG6MG55MG32MG10M,81MG96M</interp>
+<entry>
+<form>matil-um</form>
+<def>wall</def>
+<form type="simple">matil</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>ñāyil</form>
+<def>bastion</def>
+</entry>
+<entry>
+<form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<def>not-it</def>
+<form type="simple">iṉṟu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form>kiṭaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<def>moat</def>
+<form type="simple">kiṭaṅku</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>nīir</form>
+<def>water</def>
+</entry>
+<entry>
+<form>iṉmaiyiṉ</form>
+<def>absence</def>
+<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+</entry>
+<entry>
+<form>kaṉṟu</form>
+<def>calf</def>
+</entry>
+<entry>
+<form>mēynt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>grazed</def>
+</entry>
+<entry>
+<form>ukaḷum</form>
+<def>jumping</def>
+</entry>
+<entry>
+<form>ūratu</form>
+<def>village</def>
+<gramGrp><gram type="role">genitive</gram>
+</gramGrp></entry>
+<entry>
+<form>nilaimai-<pc>~</pc>um</form>
+<def>state</def>
+<form type="simple">nilaimai</form>
+<gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
+<entry>
+<form>itu-<pc>~</pc>ē</form>
+<def>this</def>
+<form type="simple">itu</form>
+<gramGrp type="particle"><m>ē</m></gramGrp>
+</entry>
+<entry>
+<form><pc>(</pc>C:<pc>)</pc></form>
+<def>C2:</def>
+</entry>
+<entry>
+<form>vicumpu</form>
+<def>sky</def>
+</entry>
+<entry>
+<form>nīttam</form>
+<def>flood</def>
+</entry>
+<entry>
+<form>iṟanta</form>
+<def>traversed</def>
+</entry>
+<entry>
+<form>ñāyiṟṟu<pc>+</pc></form>
+<def>sun</def>
+</entry>
+<entry>
+<form>pacum</form>
+<def>green</def>
+</entry>
+<entry>
+<form>katir</form>
+<def>ray</def>
+</entry>
+<entry>
+<form>civantu</form>
+<def>reddened</def>
+</entry>
+<entry>
+<form>vāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>bend</def>
+</entry>
+<entry>
+<form>anti<pc>+</pc></form>
+<def>twilight</def>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+</entry>
+<entry>
+<form>naṉi</form>
+<def>much</def>
+</entry>
+<entry>
+<form>piṟanta</form>
+<def>born</def>
+</entry>
+<entry>
+<form>piṉṟai<pc>+</pc></form>
+<def>after</def>
+</entry>
+<entry>
+<form>ceṟip<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>been-tight</def>
+</entry>
+<entry>
+<form>iṉa<pc>+</pc></form>
+<def>group</def>
+</entry>
+<entry>
+<form>citāar</form>
+<def>rag</def>
+</entry></standOff>
+</TEI>
