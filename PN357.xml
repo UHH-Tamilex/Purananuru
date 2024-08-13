@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 357.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN357">
       <lg type="edition">
 <l>kuṉṟutalai maṇanta malaipiṇit tiyāttamaṇ</l>
 <l>potumai cuṭṭiya mūva rulakamum</l>
@@ -37,10 +37,21 @@
 <l>tokkuyir vauvuṅ kālai</l>
 <l>yikkarai niṉṟivarn tukkarai koḷalē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>Over the earth fettered [and] tied with mountains that join [their] heads as hills,</l>
+<l>over the world of the Three that was pointed out as common,</l>
+<l>over those who ruled without [it] being common</l>
+<l>the years rule, don’t they? Help,</l>
+<l>there is none available. Riches……..</l>
+<l>………………………………….</l>
+<l>Difficult for those who let go of the raft, at the time [their] lives</l>
+<l>are snatched [away] while [their] companions cry,</l>
+<l>is, after having stood on this shore, climbing [and] reaching that shore.</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">28MGMG33MG26M2G10M2G9ML4MG9MG3M2G88MG4M2G15MG27MG6MG12MG2M,203MG91MG</interp>
+<standOff type="wordsplit" corresp="#PN357"><interp type="alignment" select="0">28MGMG33MG26M2G10M2G9ML4MG9MG3M2G88MG4M2G15MG27MG6MG12MG2M,203MG91MG</interp>
 <entry>
 <form>kuṉṟu</form>
 <def>hill</def>
