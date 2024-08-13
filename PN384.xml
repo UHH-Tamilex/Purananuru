@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> XX.
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 384.
             <persName xml:lang="ta"></persName>
         </title>     
       </titleStmt>
@@ -25,7 +25,7 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="poemXX">
+    <div xml:id="PN384">
       <lg type="edition">
 <l>meṉpālā ṉuṭaṉaṇaii</l>
 <l>vañcikōṭ ṭuṟaṅkunārai</l>
@@ -52,10 +52,36 @@
 <l>vanta vaika lallatu</l>
 <l>ceṉṟa vellaic celavaṟi yēṉē.</l>
 </lg>
+<lg type="translation" xml:lang="en">
+<l>In the soft soil, the egrets(?) that slumber,</l>
+<l>huddling together on the branches of the mahua trees (1f.)</l>
+<l>eat flowers of the hacked-off sugarcane.</l>
+<l>In the hard soil, with black-stalked millet (4)</l>
+<l>…………………………………….. (5)</l>
+<l>so that the pretty-eyed little hares are frightened in the neighbourhood, (6)</l>
+<l>flowers drip from black-branched mahua trees. (7)</l>
+<l>Even though there is a festival today, the bowls of the ploughmen (8)</l>
+<l>contain flowery toddy along with a dish of big Keṭiṟu fish. (9)</l>
+<l>……………………. We are companions, of great man. (10)</l>
+<l>Not considering paddy, not considering gold, (11)</l>
+<l>not considering hot things, not considering liquors (12)</l>
+<l>…………. not considering the house, those many things, (13)</l>
+<l>when I am eager [for them], he will not stint. (14)</l>
+<l>Into the fat rice enriched with fat, (15)</l>
+<l>wanting fame that puts to shame the earth, (16)</l>
+<l>giving ghee that put to shame the water, (17)</l>
+<l>our father is the one who protects [us]. After having suffered … (18)</l>
+<l>we [now] possess one like him, they say. … (19)</l>
+<l>Let Venus stand wherever. (20a-c)</l>
+<l>Expect of the day that comes (23)</l>
+<l>[for us] to pour [and] wash the good vessels from which we eat glorious things (20d-21)</l>
+<l>and to dig out meat [pieces] from between [our] teeth that have eaten, (22)</l>
+<l>we won’t know of going [away] to the extent we went. (24)</l>
+</lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">26MG145MG26MG3MG140MG40MG11MG12ML20MG61MG14MG30MGMG5MR40MG21MG37MG6MG2M,278M18G68M2G165M2G124MG</interp>
+<standOff type="wordsplit" corresp="#PN384"><interp type="alignment" select="0">26MG145MG26MG3MG140MG40MG11MG12ML20MG61MG14MG30MGMG5MR40MG21MG37MG6MG2M,278M18G68M2G165M2G124MG</interp>
 <entry>
 <form>mel</form>
 <def>soft</def>
