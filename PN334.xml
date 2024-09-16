@@ -30,12 +30,12 @@
 <l>kāmaru paḻaṉak kaṇpi ṉaṉṉa</l>
 <l>tūmayirk kuṟuntā ṇeṭuñcevik kuṟumuyal</l>
 <l>puṉṟalaic ciṟāar maṉṟat tārppiṟ</l>
-<l>paṭappoṭuṅ kummē.....piṉpu.......</l>
-<l>.............................ṉūrē maṉaiyōḷ</l>
+<l>paṭappoṭuṅ kummē <gap quantity="5" unit="character" reason="lost"/>piṉpu<gap quantity="7" unit="character" reason="lost"/></l>
+<l><gap quantity="29" unit="character" reason="lost"/>ṉūrē maṉaiyōḷ</l>
 <l>pāṇa rārttavum paricila rōmpavu</l>
 <l>mūṇoli yaravamoṭu kaitū vāḷē</l>
 <l>yuyarmarup piyāṉaip pukarmukat taṇinta</l>
-<l>polam................................................p</l>
+<l>polam<gap quantity="48" unit="character" reason="lost"/>p</l>
 <l>paricil paricilark kīya</l>
 <l>vuravuvēṟ kāḷaiyuṅ kaitū vāṉē.</l>
 </lg>
@@ -55,7 +55,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN334"><interp type="alignment" select="0">39ML40MG12MG7MG51MG19MG16MG26MG30MG78MG17MG11MG2M,107M2G37M4G209MG</interp>
+<standOff type="wordsplit" corresp="#PN334"><interp type="alignment" select="0">39ML40MG12MG7MG51MG19MG16MG26MG12MGMG17MG78MG17MG11MG2M,361MG</interp>
 <entry>
 <form>kāmaru</form>
 <def>desirable</def>
@@ -156,21 +156,18 @@
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form>...</form>
-<def>...</def>
+<form><gap quantity="5" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>piṉpu</form>
 <def>after</def>
 </entry>
 <entry>
-<form>...</form>
-<def>...</def>
+<form><gap quantity="7" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form>.............................ṉūr-ē</form>
-<def>...........................??</def>
-<form type="simple">ṉūr</form>
+<form><gap quantity="29" unit="character" reason="lost"/>ṉūr-ē</form>
+<form type="simple"><gap quantity="29" unit="character" reason="lost"/>ṉūr</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
@@ -235,7 +232,7 @@
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form>marupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>marupp<pc>(</pc>i<pc>)</pc></form>
 <def>tusk</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -266,8 +263,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>................................................p</form>
-<def>...............................................</def>
+<form><gap quantity="48" unit="character" reason="lost"/><pc>+</pc></form>
 </entry>
 <entry>
 <form>paricil</form>
