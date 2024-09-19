@@ -56,7 +56,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN254"><interp type="alignment" select="0">7MG2ML6MG6M2G28ML19MG89MG45MG3M2G14MG8MG7MG6MG23MG6MG12MG2M,300MG</interp>
+<standOff type="wordsplit" corresp="#PN254"><interp type="alignment" select="0">7MG2ML6MG36ML19MG89MG45MG3M2G14MG8MG7MG6MG23MG6MG12MG2M,300MG</interp>
 <entry>
 <form>iḷaiyar-um</form>
 <def>youth-they</def>
@@ -358,9 +358,12 @@
 </gramGrp></entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)</def>
+<def>self(pron.sg.3.)(n.sg.|3.)</def>
 <form type="simple">tāṉ</form>
 <gramGrp><gram type="role">neuter singular</gram>
+<gram type="role">singular</gram>
+<gram type="role">third person</gram>
+<gram type="role">noun</gram>
 <gram type="role">third person</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
