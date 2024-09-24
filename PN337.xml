@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,7 +28,7 @@
 <l>ārkali yiṉaṉē cōṇāṭ ṭaṇṇal</l>
 <l>kavikai maṇṇāḷ celva rāyiṉum</l>
 <l>vāḷvalat toḻiyap pāṭic ceṉṟāar</l>
-<l>vāṟo kamalara.......................................</l>
+<l>vāṟo kamalara<gap quantity="39" reason="lost" unit="character"/></l>
 <l>īta lāṉā vilaṅkutoṭit taṭakkaip</l>
 <l>pāri paṟampiṟ paṉiccuṉai pōlak</l>
 <l>kāṇṭaṟ kariya ḷāki māṇṭa</l>
@@ -77,7 +75,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN337"><interp type="alignment" select="0">11MG7MG39MG21M2G110MG100MG14MR16MR25MG4ML7MG6MG3MG163M2G9MG5M2G18MG3ML2MG24MG12MG8ML14MG2M,78MG35M17G517MG</interp>
+<standOff type="wordsplit" corresp="#PN337"><interp type="alignment" select="0">11MG7MG28MG11MG21M2G110MG100MG14MR16MR25MG4ML7MG6MG3MG163M2G9MG5M2G18MG3ML2MG24MG12MG8ML14MG2M,79MG569MG</interp>
 <entry>
 <form>ār</form>
 <def>be-full</def>
@@ -129,10 +127,13 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>vāḷ</form>
 <def>sword</def>
@@ -166,8 +167,7 @@
 <def>path</def>
 </entry>
 <entry>
-<form>kamalara......................</form>
-<def>???......................</def>
+<form>kamalara<gap quantity="39" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>ītal</form>
@@ -484,10 +484,8 @@
 </entry></entry>
 <entry><entry>
 <form>āṉār</form>
-<def>end-not-they</def>
-<gramGrp><gram type="role">negative</gram>
-<gram type="role">honorific</gram>
-</gramGrp></entry></entry>
+<def>end-not-they(neg.</def>
+</entry></entry>
 </superEntry>
 <entry>
 <form>vēntar</form>
