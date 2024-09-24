@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 285.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,11 +29,11 @@
 <l>tuṭiyaṉ kaiyatu vēlē yaṭipuṇar</l>
 <l>vāṅkiru maruppiṟ ṟīntoṭaic cīṟiyāḻp</l>
 <l>pāṇaṉ kaiyatu tōlē kāṇvarak</l>
-<l>kaṭunteṟṟu mūṭaiyiṉ ………</l>
+<l>kaṭunteṟṟu mūṭaiyiṉ <gap quantity="9" reason="lost" unit="character"/></l>
 <l>vāṭiya mālai malainta ceṉṉiyaṉ</l>
 <l>vēntutoḻi layaru maruntalaic cuṟṟamoṭu</l>
 <l>neṭunakar vanteṉa viṭukaṇai yocitta</l>
-<l>mūri veṇṭōṟ …………</l>
+<l>mūri veṇṭōṟ <gap quantity="12" reason="lost" unit="character"/></l>
 <l>cēṟupaṭu kurutic cemmaluk kōo</l>
 <l>māṟuceṟu neṭuvēṉ mārpuḷam pōka</l>
 <l>niṇampoti kaḻaloṭu nilañcērn taṉaṉē</l>
@@ -67,7 +65,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN285"><interp type="alignment" select="0">10MG11MG32MG23MGMG202MG39MG42MG10MG57MG14MG14MG13MG3M,335MG147MG</interp>
+<standOff type="wordsplit" corresp="#PN285"><interp type="alignment" select="0">10MG11MG32MG23MGMG216MG39MG42MG10MG57MG14MG14MG13MG3M,349MG147MG</interp>
 <entry>
 <form>pācaṟaiyīr-ē</form>
 <def>warcamp-you</def>
@@ -93,8 +91,6 @@
 <entry>
 <form>vēlē</form>
 <def>spear</def>
-<form type="simple">vēl</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form><pc>~</pc>aṭi</form>
@@ -102,11 +98,11 @@
 </entry>
 <entry>
 <form>puṇar</form>
-<def>join-</def>
+<def>join</def>
 </entry>
 <entry>
 <form>vāṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>bend-</def>
+<def>bend</def>
 </entry>
 <entry>
 <form>iru</form>
@@ -115,8 +111,8 @@
 <entry>
 <form>maruppiṉ</form>
 <def>neck</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tīm</form>
 <def>sweet</def>
@@ -144,8 +140,6 @@
 <entry>
 <form>tōlē</form>
 <def>shield</def>
-<form type="simple">tōl</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
 <form>kāṇ</form>
@@ -162,19 +156,18 @@
 </entry>
 <entry>
 <form>teṟṟu</form>
-<def></def>
+<def>grain</def>
 </entry>
 <entry>
 <form>mūṭaiyiṉ</form>
-<def>grain-receptacle</def>
+<def>receptacle</def>
 </entry>
 <entry>
-<form>………</form>
-<def></def>
+<form><gap quantity="9" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>vāṭiya</form>
-<def>faded-</def>
+<def>faded</def>
 </entry>
 <entry>
 <form>mālai</form>
@@ -182,7 +175,7 @@
 </entry>
 <entry>
 <form>malainta</form>
-<def>worne-</def>
+<def>worne</def>
 </entry>
 <entry>
 <form>ceṉṉiyaṉ</form>
@@ -198,7 +191,7 @@
 </entry>
 <entry>
 <form>ayarum</form>
-<def>being-engaged-</def>
+<def>being-engaged</def>
 </entry>
 <entry>
 <form>arum</form>
@@ -211,8 +204,8 @@
 <entry>
 <form>cuṟṟamoṭu</form>
 <def>retinue</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>neṭu</form>
 <def>long</def>
@@ -228,7 +221,7 @@
 </gramGrp></entry>
 <entry>
 <form>viṭu</form>
-<def>let-go-</def>
+<def>let-go</def>
 </entry>
 <entry>
 <form>kaṇai</form>
@@ -236,7 +229,7 @@
 </entry>
 <entry>
 <form><pc>~</pc>ocitta</form>
-<def>broken-</def>
+<def>broken</def>
 </entry>
 <entry>
 <form>mūri</form>
@@ -251,8 +244,7 @@
 <def>shield</def>
 </entry>
 <entry>
-<form>…………</form>
-<def></def>
+<form><gap quantity="12" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>cēṟu</form>
@@ -260,7 +252,7 @@
 </entry>
 <entry>
 <form>paṭu</form>
-<def>happen-</def>
+<def>happen</def>
 </entry>
 <entry>
 <form>kuruti<pc>+</pc></form>
@@ -314,8 +306,8 @@
 <entry>
 <form>kaḻaloṭu</form>
 <def>anklet</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>nilam</form>
 <def>ground</def>
@@ -370,7 +362,7 @@
 </entry>
 <entry>
 <form>piṇaṅku</form>
-<def>be-intertwined-</def>
+<def>be-intertwined</def>
 </entry>
 <entry>
 <form>katir</form>
@@ -378,7 +370,7 @@
 </entry>
 <entry>
 <form>alamarum</form>
-<def>whirling-</def>
+<def>whirling</def>
 </entry>
 <entry>
 <form>kaḻaṉi<pc>+</pc></form>
