@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +30,7 @@
 <l>rolimeṉ kūnta loṇṇuta larivai</l>
 <l>naṭukaṟ kaitoḻutu paravu moṭiyātu</l>
 <l>viruntetir peṟukatil yāṉē yeṉṉaiyu</l>
-<l>mo........................................... vēntaṉoṭu</l>
+<l>mo<gap quantity="43" reason="lost" unit="character"/> vēntaṉoṭu</l>
 <l>nāṭutaru viḻuppakai yeytuka veṉavē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
@@ -47,7 +45,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN306"><interp type="alignment" select="0">35MG17MG63MG10MG6MG92MG3M,188M2G41MG</interp>
+<standOff type="wordsplit" corresp="#PN306"><interp type="alignment" select="0">35MG17MG63MG10MG6MG92MG3M,231MG</interp>
 <entry>
 <form>kaḷiṟu</form>
 <def>elephant-bull</def>
@@ -195,8 +193,7 @@
 <gramGrp><gram type="role">accusative</gram>
 </gramGrp></entry>
 <entry>
-<form>mo........................................</form>
-<def>……………………………………</def>
+<form>mo<gap quantity="42" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>vēntaṉoṭu</form>
