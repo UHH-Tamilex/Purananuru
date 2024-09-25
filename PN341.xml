@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +30,7 @@
 <l>cempoṟic cilampi ṉiḷaiyō ṭantai</l>
 <l>yeḻuviṭ  ṭamaitta tiṇṇilaik katavi</l>
 <l>ṉaraima ṇiñci nāṭkoṭi nuṭaṅkum</l>
-<l>.................................................................</l>
+<l><gap quantity="65" reason="lost" unit="character"/></l>
 <l>pulikkaṇat taṉṉa kaṭuṅkaṭ cuṟṟamoṭu</l>
 <l>māṟṟa māṟāṉ maṟaliya ciṉattaṉ</l>
 <l>pūkkō ḷeṉavēeyk kayampuk kaṉaṉē</l>
@@ -70,7 +68,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN341"><interp type="alignment" select="0">14MG17MG51ML13MG125MG27ML47MG7MG30MG8ML41M2G31MG49MG17MG66MG12M3G5MG15MG2M,185M28G384MG</interp>
+<standOff type="wordsplit" corresp="#PN341"><interp type="alignment" select="0">14MG17MG51ML13MG125MG27ML47MG7MG30MG8ML41M2G31MG49MG17MG66MG12M3G5MG15MG2M,208M5G384MG</interp>
 <entry>
 <form>vēntu</form>
 <def>king</def>
@@ -222,8 +220,7 @@
 <gramGrp><gram type="role">habitual future</gram>
 </gramGrp></entry>
 <entry>
-<form>.....................................</form>
-<def>.....................................</def>
+<form><gap quantity="60" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>puli<pc>+</pc></form>
@@ -460,15 +457,13 @@
 <superEntry type="ambiguous">
 <entry><entry>
 <form>vārā</form>
-<def>come(pos.abs.)</def>
+<def>come(pos.abs.)(abs.)</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry></entry>
 <entry><entry>
 <form>vārā</form>
-<def>come-not</def>
-<gramGrp><gram type="role">absolutive</gram>
-<gram type="role">negative</gram>
-</gramGrp></entry></entry>
+<def>come-not(abs.</def>
+</entry></entry>
 </superEntry>
 <entry>
 <form><pc>~</pc>ulakam</form>

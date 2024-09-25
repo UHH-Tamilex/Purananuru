@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 361.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -35,7 +33,7 @@
 <l>tāyiṉaṉṟu palarkkīttut</l>
 <l>teruṇaṭai mākaḷiṟṟoṭu taṉ</l>
 <l>ṉaruḷpāṭunarkku naṉkaruḷiyu</l>
-<l>muruṇaṭai ..................ṉṟataṉ</l>
+<l>muruṇaṭai <gap quantity="18" reason="lost" unit="character"/>ṉṟataṉ</l>
 <l>ṟāḷcērunark kiṉitīttum</l>
 <l>purimālaiyar pāṭiṉikkup</l>
 <l>polantāmaraip pūmpāṇaroṭu</l>
@@ -46,8 +44,8 @@
 <l>ralku ṟāṅkā vacaii melleṉa</l>
 <l><supplied>ER: tēṟal</supplied> polaṅkalat tēnti</l>
 <l>yamiḻteṉa maṭuppa mānti yikaḻvila</l>
-<l>ṉillā vulakattu......... mainī</l>
-<l>colla vēṇṭā.......... muntaṟinta</l>
+<l>ṉillā vulakattu<gap quantity="9" reason="lost" unit="character"/> mainī</l>
+<l>colla vēṇṭā<gap quantity="10" reason="lost" unit="character"/> muntaṟinta</l>
 </lg>
 <lg type="translation" xml:lang="en">
 <l>Insatiable Death who roars like the thunder facing the rainy season,</l>
@@ -87,8 +85,8 @@
 <entry>
 <form>urumiṉ</form>
 <def>thunder</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>uraṟi<pc>+</pc></form>
 <def>roared</def>
@@ -172,8 +170,8 @@
 <entry>
 <form>nīroṭu</form>
 <def>water</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>citaṟi<pc>+</pc></form>
 <def>scattered</def>
@@ -189,8 +187,8 @@
 <entry>
 <form>tāyiṉ</form>
 <def>mother</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>naṉṟu</form>
 <def>good-it</def>
@@ -220,8 +218,8 @@
 <entry>
 <form>kaḷiṟṟoṭu</form>
 <def>elephant-bull</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>taṉ</form>
 <def>self</def>
@@ -248,11 +246,18 @@
 </entry>
 <entry>
 <form>uruḷ</form>
-<def>turn-</def>
+<def>turn</def>
 </entry>
 <entry>
-<form>naṭai..................āṉṟa</form>
-<def>gait……..ended</def>
+<form>naṭai</form>
+<def>gait</def>
+</entry>
+<entry>
+<form><gap quantity="18" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>āṉṟa</form>
+<def>ended</def>
 </entry>
 <entry>
 <form>taṉ</form>
@@ -354,8 +359,8 @@
 <entry>
 <form>nōkkiṉ</form>
 <def>glace</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vil</form>
 <def>bow</def>
@@ -474,8 +479,11 @@
 <def>world</def>
 </entry>
 <entry>
-<form>.........mai</form>
-<def>…..kajal</def>
+<form><gap quantity="9" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>mai</form>
+<def>kajal</def>
 </entry>
 <entry>
 <form>nī</form>
@@ -491,8 +499,7 @@
 <def>need-not</def>
 </entry>
 <entry>
-<form>..........</form>
-<def>..........</def>
+<form><gap quantity="10" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>munt</form>

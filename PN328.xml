@@ -29,15 +29,15 @@
 <l>puṉpulac cīṟūr nelviḷai yātē</l>
 <l>varakun tiṉaiyu muḷḷavai yellā</l>
 <l>miravaṉ mākkaḷuk kīyat tolaintaṉa</l>
-<l>........................ṭamain taṉaṉē</l>
+<l><gap quantity="24" reason="lost" unit="character"/>ṭamain taṉaṉē</l>
 <l>yaṉṉa ṉāyiṉum pāṇa naṉṟum</l>
 <l>veḷḷat tiṭumpā luḷḷuṟai tōṭ</l>
-<l>kaḷavup puḷiyaṉṉa viḷai....................</l>
-<l>..........................vāṭūṉ koḻuṅkuṟai</l>
+<l>kaḷavup puḷiyaṉṉa viḷai<gap quantity="20" reason="lost" unit="character"/></l>
+<l><gap quantity="26" reason="lost" unit="character"/>vāṭūṉ koḻuṅkuṟai</l>
 <l>koykura lariciyoṭu neypey taṭṭut</l>
 <l>tuṭuppoṭu civaṇiya kaḷikkoḷ veṇcō</l>
-<l>ṟuṇṭiṉi tirunta piṉ..................................</l>
-<l>..........................................tarukuvaṉ mātō</l>
+<l>ṟuṇṭiṉi tirunta piṉ<gap quantity="34" reason="lost" unit="character"/></l>
+<l><gap quantity="42" reason="lost" unit="character"/>tarukuvaṉ mātō</l>
 <l>tāḷimuta ṉīṭiya ciṟunaṟu muññai</l>
 <l>muyalvantu kaṟikku muṉṟiṟ</l>
 <l>cīṟūr maṉṉaṉaip pāṭiṉai celiṉē.</l>
@@ -149,8 +149,8 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form>........................ṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>........................was</def>
+<form><gap quantity="24" reason="lost" unit="character"/>ṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def><gap quantity="24" reason="lost" unit="character"/>was</def>
 </entry>
 <entry>
 <form>amaintaṉaṉ-ē</form>
@@ -215,11 +215,11 @@
 <def>like</def>
 </entry>
 <entry>
-<form>viḷai..................</form>
+<form>viḷai<gap quantity="18" reason="lost" unit="character"/></form>
 <def>ripen……………</def>
 </entry>
 <entry>
-<form>..........................vāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form><gap quantity="26" reason="lost" unit="character"/>vāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>…………………….fade-</def>
 </entry>
 <entry>
@@ -297,11 +297,11 @@
 <def>sat</def>
 </entry>
 <entry>
-<form>piṉ................................</form>
+<form>piṉ<gap quantity="32" reason="lost" unit="character"/></form>
 <def>after</def>
 </entry>
 <entry>
-<form>..........................................tarukuvaṉ-mātō</form>
+<form><gap quantity="42" reason="lost" unit="character"/>tarukuvaṉ-mātō</form>
 <def>…………………………..will-give-he</def>
 <form type="simple">tarukuvaṉ</form>
 <gramGrp type="particle"><m>mātō</m></gramGrp>

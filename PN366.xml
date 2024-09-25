@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 366.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -33,21 +31,21 @@
 <l>vorutā mākiya perumai yōrun</l>
 <l>tampukaḻ niṟīic ceṉṟumāyn taṉarē</l>
 <l>yataṉā laṟavōṉ makaṉē ma<supplied>ṟavōr cemmāl</supplied></l>
-<l>..........................uraippak <supplied>kēṇmati</supplied></l>
+<l><gap quantity="26" reason="lost" unit="character"/>uraippak <supplied>kēṇmati</supplied></l>
 <l>niṉṉūṟṟam piṟaraṟiyātu</l>
 <l>piṟarkūṟiya moḻiteriyā</l>
 <l>ñāyiṟ ṟellai yāḷviṉaik kutavi</l>
 <l>yiravi ṉellai varuvatu nāṭi</l>
-<l>yurai.........................................</l>
+<l>yurai<gap quantity="41" reason="lost" unit="character"/></l>
 <l>uḻavoḻi perumpaka ṭaḻitiṉ ṟāṅkuc</l>
 <l>ceṅkaṇ makaḷiroṭu ciṟutuṉi yaḷaii</l>
 <l>yaṅkaṭ ṭēṟa lāykalat tukuppak</l>
-<l>keṭalarun tiruva.............................</l>
+<l>keṭalarun tiruva<gap quantity="29" reason="lost" unit="character"/></l>
 <l>maṭaivēṇṭunark kiṭaiyarukā</l>
 <l>taviḻvēṇṭunark kiṭaiyaruḷi</l>
 <l>viṭaivīḻttuc cūṭukiḻippa</l>
 <l>nīrnilai perutta vārmaṇa laṭaikaraik</l>
-<l>kāvutoṟum..........................</l>
+<l>kāvutoṟum<gap quantity="26" reason="lost" unit="character"/></l>
 <l>maṭaṅka luṇmai māyamō vaṉṟē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
@@ -113,8 +111,8 @@
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>oru</form>
 <def>one</def>
@@ -139,8 +137,8 @@
 <entry>
 <form><pc>~</pc>urumiṉ</form>
 <def>thunder</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>uraṟupu</form>
 <def>roared</def>
@@ -219,8 +217,7 @@
 <gramGrp><gram type="role">vocative</gram>
 </gramGrp></entry>
 <entry>
-<form>..........................</form>
-<def>…………</def>
+<form><gap quantity="26" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>uraippa<pc>+</pc></form>
@@ -291,8 +288,8 @@
 <entry>
 <form><pc>~</pc>iraviṉ</form>
 <def>night</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>ellai</form>
 <def>border</def>
@@ -306,8 +303,11 @@
 <def>examined</def>
 </entry>
 <entry>
-<form><pc>~</pc>urai.........................................</form>
-<def>talk……………………………</def>
+<form><pc>~</pc>urai</form>
+<def>talk</def>
+</entry>
+<entry>
+<form><gap quantity="41" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>uḻav<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-oḻi</form>
@@ -328,8 +328,8 @@
 <entry>
 <form>tiṉṟāṅku<pc>+</pc></form>
 <def>eaten</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>cem</form>
 <def>red</def>
@@ -341,8 +341,8 @@
 <entry>
 <form>makaḷiroṭu</form>
 <def>women</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>ciṟu</form>
 <def>little</def>
@@ -390,8 +390,7 @@
 <def>difficult</def>
 </entry>
 <entry>
-<form>tiruva.............................</form>
-<def>…………….</def>
+<form>tiruva<gap quantity="29" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>maṭai</form>
@@ -475,8 +474,11 @@
 <def>shore</def>
 </entry>
 <entry>
-<form>kāvu-toṟum..........................</form>
-<def>grove-ever…………</def>
+<form>kāvu-toṟum</form>
+<def>grove-ever</def>
+</entry>
+<entry>
+<form><gap quantity="26" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>maṭaṅkal</form>

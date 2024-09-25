@@ -27,12 +27,12 @@
   <body>
     <div xml:id="PN317">
       <lg type="edition">
-<l>veṉvēl..................................natu</l>
+<l>veṉvēl<gap quantity="34" reason="lost" unit="character"/>natu</l>
 <l>muṉṟiṟ kiṭanta peruṅkaḷi yāḷaṟ</l>
 <l>kataḷuṇ ṭāyiṉum pāyuṇṭāyiṉum</l>
 <l>yātuṇ ṭāyiṉuṅ koṭumiṉ vallē</l>
-<l>vēṭkai mīḷapa .......</l>
-<l>..............ku memakkum piṟarkkum</l>
+<l>vēṭkai mīḷapa <gap quantity="7" reason="lost" unit="character"/></l>
+<l><gap quantity="14" reason="lost" unit="character"/>ku memakkum piṟarkkum</l>
 <l>yārkku mīyntu tuyilēṟ piṉaṉē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
@@ -56,7 +56,7 @@
 <def>spear</def>
 </entry>
 <entry>
-<form>..................................natu</form>
+<form><gap quantity="34" reason="lost" unit="character"/>natu</form>
 <def>…</def>
 </entry>
 <entry>
@@ -144,12 +144,12 @@
 <def>desire</def>
 </entry>
 <entry>
-<form>mīḷapa......</form>
+<form>mīḷapa<gap quantity="6" reason="lost" unit="character"/></form>
 <def>……</def>
 </entry>
 <entry>
-<form>..............kum</form>
-<def>...</def>
+<form><gap quantity="14" reason="lost" unit="character"/>kum</form>
+<def><gap quantity="3" reason="lost" unit="character"/></def>
 </entry>
 <entry>
 <form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>

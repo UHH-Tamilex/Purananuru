@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -37,7 +35,7 @@
 <l>pakaliṭaṅ kaṇṇip palaroṭuṅ kūṭi</l>
 <l>yoruvaḻip paṭṭaṉṟu maṉṉē yiṉṟē</l>
 <l>yaṭaṅkiya kaṟpi ṉāynutaṉ maṭantai</l>
-<l>yuyarnilai yulaka mavaṉpuka...lari</l>
+<l>yuyarnilai yulaka mavaṉpuka<gap quantity="3" reason="lost" unit="character"/>lari</l>
 <l>nīṟāṭu cuḷakiṟ cīṟiṭa nīkki</l>
 <l>yaḻuta lāṉāk kaṇṇaṇ</l>
 <l>meḻuku māppikaṇ kaluḻnī rāṉē.</l>
@@ -364,8 +362,7 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>...l</form>
-<def>…</def>
+<form><gap quantity="3" unit="character" reason="lost"/>l</form>
 </entry>
 <entry>
 <form>ari</form>

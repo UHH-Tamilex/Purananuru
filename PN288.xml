@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 288.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -33,7 +31,7 @@
 <l>tiṇpiṇi muraca miṭaippulat tiraṅka</l>
 <l>vāramar mayaṅkiya ñāṭpiṟ ṟeṟuvara</l>
 <l>neṭuvēl pāynta nāṇuṭai neñcat</l>
-<l>tarukukai............................................maṉṟa</l>
+<l>tarukukai<gap quantity="44" reason="lost" unit="character"/>maṉṟa</l>
 <l>kurutiyoṭu tuyalvaru mārpiṉ</l>
 <l>muyakkiṭai yīyātu moyttaṉa paruntē.</l>
 </lg>
@@ -63,7 +61,7 @@
 </gramGrp></entry>
 <entry>
 <form>varinta</form>
-<def>lined-</def>
+<def>lined</def>
 </entry>
 <entry>
 <form>vai<pc>+</pc></form>
@@ -76,8 +74,8 @@
 <entry>
 <form>maruppiṉ</form>
 <def>horn</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>aṇṇal</form>
 <def>majesty</def>
@@ -104,11 +102,11 @@
 </entry>
 <entry>
 <form>veṉṟa</form>
-<def>bee-victorious-</def>
+<def>bee-victorious</def>
 </entry>
 <entry>
 <form>taṉ</form>
-<def>self-</def>
+<def>self</def>
 </entry>
 <entry>
 <form>paccai</form>
@@ -120,7 +118,7 @@
 </entry>
 <entry>
 <form>pōrtta</form>
-<def>covered-</def>
+<def>covered</def>
 </entry>
 <entry>
 <form>tiṇ</form>
@@ -158,13 +156,13 @@
 </entry>
 <entry>
 <form>mayaṅkiya</form>
-<def>confused-</def>
+<def>confused</def>
 </entry>
 <entry>
 <form>ñāṭpiṉ</form>
 <def>battle</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>teṟu</form>
 <def>scorch</def>
@@ -184,7 +182,7 @@
 </entry>
 <entry>
 <form>pāynta</form>
-<def>leapt-</def>
+<def>leapt</def>
 </entry>
 <entry>
 <form>nāṇ</form>
@@ -192,7 +190,7 @@
 </entry>
 <entry>
 <form>uṭai</form>
-<def>possess-</def>
+<def>possess</def>
 </entry>
 <entry>
 <form>neñcatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -201,30 +199,29 @@
 </gramGrp></entry>
 <entry>
 <form>aru</form>
-<def></def>
+<def>rare</def>
 </entry>
 <entry>
-<form>kukai............................................maṉṟa</form>
-<def></def>
+<form>kukai<gap quantity="44" unit="character" reason="lost"/>maṉṟa</form>
 </entry>
 <entry>
 <form>kurutiyoṭu</form>
 <def>blood</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>tuyal</form>
 <def>swing</def>
 </entry>
 <entry>
 <form>varu</form>
-<def>come-</def>
+<def>come</def>
 </entry>
 <entry>
 <form>mārpiṉ</form>
 <def>chest</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>muyakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>embrace</def>

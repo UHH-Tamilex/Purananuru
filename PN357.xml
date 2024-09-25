@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 357.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,8 +29,8 @@
 <l>potumai cuṭṭiya mūva rulakamum</l>
 <l>potumai yiṉṟi yāṇṭici ṉōrkku</l>
 <l>māṇṭa vaṉṟē yāṇṭuka ṭuṇaiyē</l>
-<l>vaitta taṉṟē veṟukkai vi.........</l>
-<l>.................................................ṇai</l>
+<l>vaitta taṉṟē veṟukkai vi<gap quantity="9" reason="lost" unit="character"/></l>
+<l><gap quantity="49" reason="lost" unit="character"/>ṇai</l>
 <l>puṇaikai viṭṭōrk karitē tuṇaiyaḻat</l>
 <l>tokkuyir vauvuṅ kālai</l>
 <l>yikkarai niṉṟivarn tukkarai koḷalē.</l>
@@ -51,7 +49,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN357"><interp type="alignment" select="0">28MGMG33MG26M2G10M2G9ML4MG9MG3M2G88MG4M2G15MG27MG6MG12MG2M,203MG91MG</interp>
+<standOff type="wordsplit" corresp="#PN357"><interp type="alignment" select="0">62MG26M2G10M2G9ML4MG9MG3M2G88MG4M2G15MG27MG6MG12MG2M,201MG91MG</interp>
 <entry>
 <form>kuṉṟu</form>
 <def>hill</def>
@@ -69,7 +67,7 @@
 <def>mountain</def>
 </entry>
 <entry>
-<form>piṇitt<pc>(</pc>u<pc>)</pc></form>
+<form>piṇitti</form>
 <def>fettered</def>
 </entry>
 <entry>
@@ -152,12 +150,10 @@
 <def>wealth</def>
 </entry>
 <entry>
-<form>vi........</form>
-<def>…………</def>
+<form>vi<gap quantity="8" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form>.................................................ṇai</form>
-<def>.................................................</def>
+<form><gap quantity="49" unit="character" reason="lost"/>ṇai</form>
 </entry>
 <entry>
 <form>puṇai</form>

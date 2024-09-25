@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,7 +25,7 @@
   <body>
     <div xml:id="PN346">
       <lg type="edition">
-<l>piṟa....................ḷa pāleṉa maṭuttali</l>
+<l>piṟa<gap quantity="20" reason="lost" unit="character"/>ḷa pāleṉa maṭuttali</l>
 <l>ṉīṉṟa tāyō vēṇṭā ḷallaḷ</l>
 <l>kalviye ṉeṉṉum vallāṇ ciṟāa</l>
 <l>ṉolvē ṉalla ṉatuvā yākuta</l>
@@ -47,10 +45,13 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN346"><interp type="alignment" select="0">49MG17MG115ML4MG2M,17M7G166MG</interp>
+<standOff type="wordsplit" corresp="#PN346"><interp type="alignment" select="0">49MG17MG115ML4MG2M,190MG</interp>
 <entry>
-<form>piṟa.............ḷa</form>
-<def>other............</def>
+<form>piṟa</form>
+<def>other</def>
+</entry>
+<entry>
+<form><gap quantity="20" unit="character" reason="lost"/>ḷa</form>
 </entry>
 <entry>
 <form>pāl</form>
@@ -98,11 +99,8 @@
 </entry></entry>
 <entry><entry>
 <form>kalviyeṉ</form>
-<def>learn-I</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">singular</gram>
-<gram type="role">first person</gram>
-</gramGrp></entry></entry>
+<def>learn-I(pron.n.</def>
+</entry></entry>
 </superEntry>
 <entry>
 <form>eṉṉum</form>

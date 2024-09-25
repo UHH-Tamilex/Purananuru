@@ -1,6 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,7 +27,7 @@
       <lg type="edition">
 <l><supplied>pā</supplied>ṇar ceṉṉiyum vaṇṭuceṉ ṟūtā</l>
 <l>viṟaliyar muṉkaiyun toṭiyiṟ poliyā</l>
-<l>viravaṉ mākkaḷu............................</l></lg>
+<l>viravaṉ mākkaḷu<gap quantity="28" reason="lost" unit="character"/></l></lg>
 <lg type="translation" xml:lang="en">
 <l>From the bards’ heads the bees go [and] don’t gorge themselves,</l>
 <l>the forearms of the dancing girls don’t flourish with bracelets,</l>
@@ -38,7 +36,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN244"><interp type="alignment" select="0">10MG12MG18MG29MG29M,92M10G</interp>
+<standOff type="wordsplit" corresp="#PN244"><interp type="alignment" select="0">10MG12MG18MG29MGMG28M,103M</interp>
 <entry>
 <form>pāṇar</form>
 <def>bard</def>
@@ -105,7 +103,6 @@
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>.................</form>
-<def>……………</def>
+<form><gap quantity="28" unit="character" reason="lost"/></form>
 </entry></standOff>
 </TEI>

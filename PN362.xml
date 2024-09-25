@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 362.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -30,18 +28,18 @@
 <l>ñāyiṟ ṟaṉṉa vāymaṇi miṭainta</l>
 <l>matiyuṟa ḻāra mārpiṟ puraḷap</l>
 <l>palipeṟu muracam pācaṟaic cilaippap</l>
-<l>poḻilakam paranta pe................................</l>
-<l>.........................kuma vicaya veṇkoṭi</l>
+<l>poḻilakam paranta pe<gap quantity="32" reason="lost" unit="character"/></l>
+<l><gap quantity="25" reason="lost" unit="character"/>kuma vicaya veṇkoṭi</l>
 <l>yaṇaṅkurut taṉṉa kaṇaṅkoṭ ṭāṉaik</l>
 <l>kūṟṟat taṉṉa māṟṟaru muṉpi</l>
 <l>ṉākkuraṟ kāṇpi ṉanta ṇāḷir</l>
-<l>nāṉmaṟai kuṟi...................................yi</l>
+<l>nāṉmaṟai kuṟi<gap quantity="35" reason="lost" unit="character"/>yi</l>
 <l>ṉaṟaṅkuṟit taṉṟu poruḷā kutaliṉ</l>
 <l>maruṭīrntu mayakkorīik</l>
 <l>kaipeytanīr kaṭaṟparappa</l>
 <l>vāmirunta vaṭainalkic</l>
 <l>cōṟukoṭuttu mikaperitum</l>
-<l>vīṟucāṉ ..................... naṉṟuñ</l>
+<l>vīṟucāṉ <gap quantity="21" reason="lost" unit="character"/> naṉṟuñ</l>
 <l>ciṟuveḷ ḷeṉpi ṉeṭuveṇ kaḷariṉ</l>
 <l>vāyvaṉ kākkai kūkaiyoṭu kūṭip</l>
 <l>pakaluṅ kūvu makalu ḷāṅkaṭ</l>
@@ -155,12 +153,10 @@
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>pe.........................</form>
-<def>………</def>
+<form>pe<gap quantity="25" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form>................................kuma</form>
-<def>………</def>
+<form><gap quantity="32" unit="character" reason="lost"/>kuma</form>
 </entry>
 <entry>
 <form>vicaya<pc>(</pc>m<pc>)</pc></form>
@@ -226,8 +222,8 @@
 <entry>
 <form>kāṇpiṉ</form>
 <def>sight</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>antaṇ</form>
 <def>brahmin</def>
@@ -246,8 +242,11 @@
 <def>Veda</def>
 </entry>
 <entry>
-<form>kuṟi...................................yiṉ</form>
-<def>sign…………….</def>
+<form>kuṟi</form>
+<def>sign</def>
+</entry>
+<entry>
+<form><gap quantity="35" unit="character" reason="lost"/>yiṉ</form>
 </entry>
 <entry>
 <form>aṟam</form>
@@ -264,8 +263,8 @@
 <entry>
 <form>ākutaliṉ</form>
 <def>becoming</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maruḷ</form>
 <def>delusion</def>
@@ -346,8 +345,7 @@
 <def>abound</def>
 </entry>
 <entry>
-<form>.....................</form>
-<def>………</def>
+<form><gap quantity="21" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
@@ -366,8 +364,8 @@
 <entry>
 <form><pc>+</pc>eṉpiṉ</form>
 <def>bone</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>neṭu</form>
 <def>long</def>
@@ -379,8 +377,8 @@
 <entry>
 <form>kaḷariṉ</form>
 <def>saline-soil</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vāy</form>
 <def>mouth</def>
@@ -396,8 +394,8 @@
 <entry>
 <form>kūkaiyoṭu</form>
 <def>owl</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kūṭi<pc>+</pc></form>
 <def>united</def>
@@ -443,8 +441,8 @@
 <entry>
 <form>cuṟṟamōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>retinue</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>il</form>
 <def>no</def>
@@ -490,8 +488,8 @@
 <form><pc>~</pc>uṭampoṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>body</def>
 <form type="simple">uṭampoṭu</form>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>ceṉmār</form>

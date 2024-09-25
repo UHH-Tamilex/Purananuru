@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -35,8 +33,8 @@
 <l>toṭalai yalkuṟ ṟoṭittōṇ makaḷir</l>
 <l>kaṭalāṭik kayampāyntu</l>
 <l>kaḻineytaṟ pūkkuṟūuntu</l>
-<l>paintaḻai tuyalvaruñ ceṟuviṟ ṟa........</l>
-<l>....................................latti</l>
+<l>paintaḻai tuyalvaruñ ceṟuviṟ ṟa<gap quantity="8" reason="lost" unit="character"/></l>
+<l><gap quantity="36" reason="lost" unit="character"/>latti</l>
 <l>vaḷara vēṇṭu mavaḷē yeṉṟu</l>
 <l>mārama ruḻappatu mamariya ḷāki</l>
 <l>muṟañcevi yāṉai vēntar</l>
@@ -61,7 +59,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN339"><interp type="alignment" select="0">41ML80ML23MG91MG79MG5M2G15M2G52MG7MG2M,295M2G108MG</interp>
+<standOff type="wordsplit" corresp="#PN339"><interp type="alignment" select="0">41ML80ML23MG91MG79MG5M2G15M2G52MG7MG2M,296MG108MG</interp>
 <entry>
 <form>viyal</form>
 <def>width</def>
@@ -174,7 +172,7 @@
 <entry>
 <form>kuṟu</form>
 <def>short</def>
-<gramGrp/></entry>
+</entry>
 <entry>
 <form>muyal</form>
 <def>hare</def>
@@ -288,12 +286,10 @@
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>ṟa......</form>
-<def>…</def>
+<form>ṟa<gap quantity="6" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form>....................................latti</form>
-<def>…………………………</def>
+<form><gap quantity="37" unit="character" reason="lost"/>latti</form>
 </entry>
 <entry>
 <form>vaḷara</form>

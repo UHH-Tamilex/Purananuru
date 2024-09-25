@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 323.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -29,7 +27,7 @@
       <lg type="edition">
 <l>pulippāṟ paṭṭa vāmāṉ kuḻavikkuc</l>
 <l>ciṉaṅkaḻi mūtāk kaṉṟumaṭut tūṭṭum</l>
-<l>kā.....................................................k</l>
+<l>kā<gap quantity="53" reason="lost" unit="character"/>k</l>
 <l>kuḷḷiyatu curakku mōmpā vīkai</l>
 <l>veḷvē lāva  māyi ṉoḷvāṭ</l>
 <l>kaṟaiyaṭi yāṉaik kalla</l>
@@ -75,7 +73,7 @@
 </entry>
 <entry>
 <form>kaḻi</form>
-<def>pass-</def>
+<def>pass</def>
 </entry>
 <entry>
 <form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -95,15 +93,13 @@
 </entry>
 <entry>
 <form>ūṭṭum</form>
-<def>putting-food-</def>
+<def>putting-food</def>
 </entry>
 <entry>
-<form>kā.....................................................k</form>
-<def>…………</def>
+<form>kā<gap quantity="53" unit="character" reason="lost"/>k</form>
 </entry>
 <entry>
 <form>k<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>..</def>
 </entry>
 <entry>
 <form>uḷḷiyatu</form>
@@ -132,7 +128,7 @@
 <entry>
 <form>āvam</form>
 <def>war(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>āyiṉ</form>
 <def>if</def>
@@ -172,7 +168,7 @@
 </entry>
 <entry>
 <form>aṟiyā</form>
-<def>know-not-</def>
+<def>know-not</def>
 </entry>
 <entry>
 <form>vēlōṉ</form>
