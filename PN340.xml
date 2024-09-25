@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,10 +27,10 @@
       <lg type="edition">
 <l>aṇittaḻai nuṭaṅka vōṭi maṇippoṟik</l>
 <l>kuralaṅ kuṉṟi koḷḷu miḷaiyōḷ</l>
-<l>māmakaḷ................................................</l>
-<l>..........................leṉa viṉavuti kēṇī</l>
-<l>veṭuppave..................................</l>
-<l>.............................maintar tantai</l>
+<l>māmakaḷ<gap quantity="48" reason="lost" unit="character"/></l>
+<l><gap quantity="26" reason="lost" unit="character"/>leṉa viṉavuti kēṇī</l>
+<l>veṭuppave<gap quantity="34" reason="lost" unit="character"/></l>
+<l><gap quantity="29" reason="lost" unit="character"/>maintar tantai</l>
 <l>yirumpaṉai yaṉṉa peruṅkai yāṉai</l>
 <l>karantaiyañ ceṟuviṟ peyarkkum</l>
 <l>peruntakai maṉṉarkku varaintirun taṉaṉē.</l>
@@ -51,7 +49,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN340"><interp type="alignment" select="0">151ML167MG9MG2M,105M32G77M11G106MG</interp>
+<standOff type="wordsplit" corresp="#PN340"><interp type="alignment" select="0">151ML167MG9MG2M,115M22G77M11G106MG</interp>
 <entry>
 <form>aṇi<pc>+</pc></form>
 <def>adorn</def>
@@ -115,12 +113,11 @@
 <gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>.........................</form>
-<def>.........................</def>
+<form><gap quantity="53" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form>..................eṉa</form>
-<def>..................say</def>
+<form>eṉa</form>
+<def>say</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
@@ -142,12 +139,7 @@
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
-<form>veṭuppave..........................</form>
-<def>???..........................</def>
-</entry>
-<entry>
-<form>..........................</form>
-<def>..........................</def>
+<form>veṭuppave<gap quantity="52" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>maintar</form>
