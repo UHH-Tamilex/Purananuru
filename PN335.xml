@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,8 +25,8 @@
   <body>
     <div xml:id="PN335">
       <lg type="edition">
-<l>aṭalarun tuppiṉ............</l>
-<l>.........................kuruntē mullai yeṉ</l>
+<l>aṭalarun tuppiṉ<gap quantity="12" reason="lost" unit="character"/></l>
+<l><gap quantity="25" reason="lost" unit="character"/>kuruntē mullai yeṉ</l>
 <l>ṟinnāṉ kallatu pūvu millai</l>
 <l>karuṅkāl varakē yiruṅkatirt tiṉaiyē</l>
 <l>ciṟukoṭik koḷḷē poṟikiḷa ravaraiyo</l>
@@ -57,7 +55,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN335"><interp type="alignment" select="0">57M2G11MG6MG8MG21M2G17MG14MG20MG6MG5MG3MG39MG6MG10MG40MG17MG58MG5MG3M,39M12G314MG</interp>
+<standOff type="wordsplit" corresp="#PN335"><interp type="alignment" select="0">57M2G11MG6MG8MG21M2G17MG14MG20MG6MG5MG3MG39MG6MG10MG40MG17MG58MG5MG3M,365MG</interp>
 <entry>
 <form>aṭal</form>
 <def>killing</def>
@@ -74,12 +72,7 @@
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>..........</form>
-<def>..........</def>
-</entry>
-<entry>
-<form>...............</form>
-<def>.............</def>
+<form><gap quantity="37" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>kurunt<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
@@ -100,7 +93,7 @@
 </gramGrp></entry>
 <entry>
 <form>i<pc>+</pc></form>
-<def>this-</def>
+<def>this</def>
 </entry>
 <entry>
 <form>nāṉk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -194,7 +187,7 @@
 </gramGrp></entry>
 <entry>
 <form>i<pc>+</pc></form>
-<def>this-</def>
+<def>this</def>
 </entry>
 <entry>
 <form>nāṉk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -251,7 +244,7 @@
 </gramGrp></entry>
 <entry>
 <form>i<pc>+</pc></form>
-<def>this-</def>
+<def>this</def>
 </entry>
 <entry>
 <form>nāṉk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -361,7 +354,7 @@
 </gramGrp></entry>
 <entry>
 <form>paravum</form>
-<def>revering-</def>
+<def>revering</def>
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
