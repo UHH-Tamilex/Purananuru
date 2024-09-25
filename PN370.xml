@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 370.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -27,7 +25,7 @@
   <body>
     <div xml:id="PN370">
       <lg type="edition">
-<l>............................................................ ḷi,</l>
+<l><gap quantity="60" reason="lost" unit="character"/> ḷi,</l>
 <l>nārum pōḻuñ ceytuṇ ṭōrāṅkup</l>
 <l>pacitiṉat tiraṅkiya virumpē rokkaṟ</l>
 <l>kārpataṅ kaṇṇeṉa mātiran tuḻaii</l>
@@ -86,10 +84,9 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN370"><interp type="alignment" select="0">66MG5MG6MG3MG2MG37MG35MG16MG9MG22ML22MG36MG23MG113MG14ML63MG21MG90M3G3MG27MG186MG9MG26MG2M,59MG2MG797MG</interp>
+<standOff type="wordsplit" corresp="#PN370"><interp type="alignment" select="0">66MG5MG6MG3MG2MG37MG35MG16MG9MG22ML22MG36MG23MG113MG14ML63MG21MG90M3G3MG27MG186MG9MG26MG2M,62MG797MG</interp>
 <entry>
-<form>...........................................................</form>
-<def>...........................................................</def>
+<form><gap quantity="60" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>ḷi</form>
@@ -126,8 +123,8 @@
 <entry>
 <form>ōr-āṅku</form>
 <def>one</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>+</pc>paci</form>
 <def>hunger</def>
@@ -236,7 +233,6 @@
 <entry>
 <form>uḻuñcilam</form>
 <def>sirissa</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>kavaṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -253,8 +249,8 @@
 <entry>
 <form>paruntiṉ</form>
 <def>kite</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>peṭai</form>
 <def>she-bird</def>
@@ -266,8 +262,8 @@
 <entry>
 <form>kuralōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>voice</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>icaikkum</form>
 <def>sounding</def>
@@ -569,8 +565,8 @@
 <entry>
 <form>maruppiṉ</form>
 <def>horn</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>varai</form>
 <def>mountain</def>
@@ -689,8 +685,8 @@
 <entry>
 <form>kaḻukoṭu</form>
 <def>vulture</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>cem</form>
 <def>red</def>
