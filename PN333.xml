@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,8 +38,8 @@
 <l>kuṟittumā ṟetirppai peṟāa maiyiṟ</l>
 <l>kuraluṇaṅku vitaittiṉai yuralvāyp peytu</l>
 <l>ciṟitu puṟappaṭṭaṉ ṟōvila ṭaṉṉūr</l>
-<l>vēṭṭak kuṭitoṟuṅ kūṭṭu........</l>
-<l>............................... uṭumpucey</l>
+<l>vēṭṭak kuṭitoṟuṅ kūṭṭu<gap quantity="8" reason="lost" unit="character"/></l>
+<l><gap quantity="31" reason="lost" unit="character"/> uṭumpucey</l>
 <l>pāṇi neṭuntēr vallarō ṭūrā</l>
 <l>vampaṇi yāṉai vēntutalai variṉu</l>
 <l>muṇpatu maṉṉu matuvē</l>
@@ -71,7 +69,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN333"><interp type="alignment" select="0">131MG15M3G17MG30M2G35M2G7MG56MG66MG7M2G6ML15MG78MG7MG31MG3MG6MG9MG3MG17MG3M,446M4G115MG</interp>
+<standOff type="wordsplit" corresp="#PN333"><interp type="alignment" select="0">131MG15M3G17MG30M2G35M2G7MG56MG66MG7M2G6ML15MG78MG7MG31MG3MG6MG9MG3MG17MG3M,565MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
@@ -148,7 +146,7 @@
 <entry>
 <form>kuṟu</form>
 <def>little</def>
-<gramGrp/></entry>
+</entry>
 <entry>
 <form>muyal</form>
 <def>hare</def>
@@ -412,12 +410,11 @@
 <def>home-ever</def>
 </entry>
 <entry>
-<form>kūṭṭu......</form>
+<form>kūṭṭu</form>
 <def>united</def>
 </entry>
 <entry>
-<form>.............................</form>
-<def>.............................</def>
+<form><gap quantity="39" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>uṭumpu</form>
