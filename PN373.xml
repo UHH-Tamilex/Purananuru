@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 373.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -113,7 +111,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN373"><interp type="alignment" select="0">4MG10MG78MG25MG13MG34MG57M3G4M2G29ML29MG143M3G20ML41MG44M4GML28MG18ML5MG12MG4MG34MG31M11G66MG31MG11MG24MG26MG20ML11M3G3MG27MG67MG94MG3MG22MR8MG10ML34MG26MG2M,421MG785MG</interp>
+<standOff type="wordsplit" corresp="#PN373"><interp type="alignment" select="0">4MG10MG78MG25MG13MG34MG57M3G4M2G29ML29MG143M3G20ML41MG44M4GML28MG18ML5MG12MG4MG34MG31M11G66MG31MG11MG24MG26MG20ML11M3G3MG27MG67MG94MG3MG22MR8MG10ML34MG26MG2M,1207MG</interp>
 <entry>
 <form>urum<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>thunder</def>
@@ -217,8 +215,8 @@
 <entry>
 <form>kurutiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>blood</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>ēntiya</form>
 <def>held-up</def>
@@ -242,7 +240,7 @@
 </gramGrp></entry>
 <entry>
 <form>piṭṭai</form>
-<def>??</def>
+<def>?</def>
 </entry>
 <entry>
 <form><pc>~</pc>ūṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -297,8 +295,11 @@
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><gap quantity="22" reason="lost" unit="character"/>taṇṭam</form>
-<def>……………………stick</def>
+<form><gap quantity="22" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>taṇṭam</form>
+<def>stick</def>
 </entry>
 <entry>
 <form>mā<pc>+</pc></form>
@@ -327,8 +328,8 @@
 <entry>
 <form>maṟali-<pc>~</pc>āṅku</form>
 <def>fought</def>
-<gramGrp type="affix"><m>āṅku</m><gramGrp><gram type="role">comparative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">comparative</gram>
+</gramGrp></entry>
 <entry>
 <form>neṭum</form>
 <def>tall</def>
@@ -380,12 +381,18 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>puṇṇuva<gap quantity="37" reason="lost" unit="character"/></form>
-<def>wound?<gap quantity="32" reason="lost" unit="character"/></def>
+<form>puṇ</form>
+<def>wound</def>
 </entry>
 <entry>
-<form><gap quantity="16" reason="lost" unit="character"/>yaṇiya<pc>+</pc></form>
-<def>---------------------adorned</def>
+<form><pc>+</pc>uva<gap quantity="37" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form><gap quantity="17" unit="character" reason="lost"/><pc>~</pc></form>
+</entry>
+<entry>
+<form>aṇiya<pc>+</pc></form>
+<def>adorned</def>
 </entry>
 <entry>
 <form>puravi</form>
@@ -412,8 +419,8 @@
 <entry>
 <form>iṉmaiyiṉ</form>
 <def>absence</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nal</form>
 <def>good</def>
@@ -438,8 +445,8 @@
 <entry>
 <form>mārpiṉ</form>
 <def>chest</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>puṉ</form>
 <def>ruddy</def>
@@ -464,8 +471,8 @@
 <entry>
 <form>poḻutiṉ</form>
 <def>time</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>tamar</form>
 <def>self-they</def>
@@ -480,12 +487,11 @@
 <def>see-not</def>
 </entry>
 <entry>
-<form><gap quantity="24" reason="lost" unit="character"/>ṟ</form>
-<def>…………………………</def>
+<form><gap quantity="24" unit="character" reason="lost"/>ṟ</form>
 </entry>
 <entry>
 <form>tokkāṉa</form>
-<def>gather-??</def>
+<def>gather-?</def>
 </entry>
 <entry>
 <form>vēntu</form>
@@ -505,7 +511,7 @@
 </entry>
 <entry>
 <form>uku</form>
-<def>be-shed-</def>
+<def>be-shed</def>
 </entry>
 <entry>
 <form>paṟantalai</form>
@@ -546,8 +552,8 @@
 <entry>
 <form>malaiyiṉ</form>
 <def>mountain</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>iru</form>
 <def>big</def>
@@ -563,17 +569,15 @@
 </gramGrp></entry>
 <entry>
 <form>ceṉṟōṉ-maṉṟa</form>
-<def>gone-he-</def>
+<def>gone-he</def>
 <form type="simple">ceṉṟōṉ</form>
 <gramGrp type="particle"><m>maṉṟa</m></gramGrp>
 </entry>
 <entry>
-<form>co<gap quantity="16" reason="lost" unit="character"/></form>
-<def>co………………….</def>
+<form>co<gap quantity="16" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form><gap quantity="19" reason="lost" unit="character"/>ṇṇ</form>
-<def>…………………ṇṇ</def>
+<form><gap quantity="19" unit="character" reason="lost"/>ṇṇ</form>
 </entry>
 <entry>
 <form>aṟinar</form>
@@ -675,8 +679,8 @@
 <def>Paṇai-drum</def>
 </entry>
 <entry>
-<form>tanaṟa<gap quantity="5" reason="lost" unit="character"/>ḷam</form>
-<def>????</def>
+<form>tanaṟa<gap quantity="5" unit="character" reason="lost"/>ḷam</form>
+<def>???</def>
 </entry>
 <entry>
 <form>viḷaṅku</form>
@@ -772,8 +776,8 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form><gap quantity="18" reason="lost" unit="character"/>leṉ</form>
-<def>…………..what</def>
+<form><gap quantity="18" unit="character" reason="lost"/>leṉ</form>
+<def>()what</def>
 </entry>
 <entry>
 <form>āyiṉum</form>
@@ -782,8 +786,8 @@
 <entry>
 <form>kātaliṉ</form>
 <def>love</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>ētti</form>
 <def>praised</def>
@@ -811,8 +815,8 @@
 <entry>
 <form>iṉmaiyiṉ</form>
 <def>absence</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maṉ</form>
 <def>king</def>
@@ -871,13 +875,13 @@
 <entry>
 <form>paṇpiṉ</form>
 <def>quality</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>pēyoṭu</form>
 <def>demoness</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kaṇam</form>
 <def>group</def>
@@ -900,7 +904,7 @@
 </entry>
 <entry>
 <form>aruntu</form>
-<def>eat-</def>
+<def>eat</def>
 </entry>
 <entry>
 <form>cem</form>
@@ -925,7 +929,6 @@
 <entry>
 <form>kiṭakkaiya</form>
 <def>expanse</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>kaḷam</form>
