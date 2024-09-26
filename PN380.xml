@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 380.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -29,17 +27,17 @@
       <lg type="edition">
 <l>teṉpavvattu muttup pūṇṭu</l>
 <l>vaṭakuṉṟa<supplied>ttuc cānta murīi</supplied></l>
-<l>..................kaṭaṟ ṟāṉai</l>
+<l><gap quantity="18" reason="lost" unit="character"/>kaṭaṟ ṟāṉai</l>
 <l>yiṉṉicaiya viṟalveṉṟit</l>
 <l>teṉṉavar vayamaṟavaṉ</l>
 <l>micaippeyta nīr kaṭaṟparantu muttākuntu</l>
 <l>nāṟitaḻk kuḷaviyoṭu kūtaḷaṅ kuḻaiya</l>
-<l>vēṟupe............................ttuntu</l>
+<l>vēṟupe<gap quantity="28" reason="lost" unit="character"/>ttuntu</l>
 <l>tīñcuḷaip palavi ṉāñciṟ porunaṉ</l>
 <l>ṟuppetirn tōrkkē yuḷḷāc cēymaiya</l>
 <l>ṉaṭpetirn tōrkkē yaṅkai naṇmaiyaṉ</l>
 <l>valvēṟ kanta ṉallicai yalla</l>
-<l>...................ttārp piḷḷaiyañ ciṟāa</l>
+<l><gap quantity="19" reason="lost" unit="character"/>ttārp piḷḷaiyañ ciṟāa</l>
 <l>raṉṉa ṉākaṉ māṟē yinnila</l>
 <l>milampaṭu kālai yāyiṉum</l>
 <l>pulampalpō yiṉṟu pūttaveṉ kaṭumpē.</l>
@@ -65,7 +63,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN380"><interp type="alignment" select="0">63M8G43MGM2G36MG9MG63M4G22ML16MG10M2G16ML3MG10M2G28ML63M2G58M2G2M,472MG</interp>
+<standOff type="wordsplit" corresp="#PN380"><interp type="alignment" select="0">63MG43MGM2G36MG9MG85ML16MG10M2G16ML3MG10M2G28ML63M2G58M2G2M,461MG</interp>
 <entry>
 <form>teṉ</form>
 <def>southern</def>
@@ -102,8 +100,7 @@
 <def>rubbed</def>
 </entry>
 <entry>
-<form>.........................m</form>
-<def>……..………….</def>
+<form><gap quantity="18" unit="character" reason="lost"/>m</form>
 </entry>
 <entry>
 <form>kaṭal</form>
@@ -120,7 +117,6 @@
 <entry>
 <form><pc>+</pc>icaiya</form>
 <def>sound</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>viṟal</form>
@@ -184,8 +180,8 @@
 <entry>
 <form>kuḷaviyoṭu</form>
 <def>jasmine</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kūtaḷam</form>
 <def>convoulvulus</def>
@@ -200,8 +196,7 @@
 <def>different</def>
 </entry>
 <entry>
-<form>pe................................ttuntu</form>
-<def>…………………………….</def>
+<form>pe<gap quantity="28" unit="character" reason="lost"/>ttuntu</form>
 </entry>
 <entry>
 <form>tīm</form>
@@ -214,8 +209,8 @@
 <entry>
 <form>palaviṉ</form>
 <def>jackfruit-tree</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nāñcil</form>
 <def>Nāñcil</def>
@@ -291,8 +286,7 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form>...................<pc>+</pc></form>
-<def>…………………</def>
+<form><gap quantity="19" unit="character" reason="lost"/><pc>+</pc></form>
 </entry>
 <entry>
 <form>tār<pc>+</pc></form>
@@ -301,7 +295,6 @@
 <entry>
 <form>piḷḷaiyam</form>
 <def>young-one</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>ciṟāar</form>
@@ -324,7 +317,7 @@
 </entry>
 <entry>
 <form><pc>~</pc>i<pc>+</pc></form>
-<def>this-</def>
+<def>this</def>
 </entry>
 <entry>
 <form>nilam</form>
