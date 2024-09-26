@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 383.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -40,13 +38,13 @@
 <l>voṇpūṅ kaliṅka muṭīi nuṇpūṇ</l>
 <l>vacintuvāṅku nucuppi ṉavvāṅ kuntik</l>
 <l>kaṟpuṭai maṭantai taṟpuṟam pulla</l>
-<l>veṟpeyarnta nōkki..............................</l>
-<l>..............................................kaṟkoṇ</l>
+<l>veṟpeyarnta nōkki<gap quantity="30" reason="lost" unit="character"/></l>
+<l><gap quantity="46" reason="lost" unit="character"/>kaṟkoṇ</l>
 <l>ṭaḻittup piṟantaṉe ṉāki yavvaḻip</l>
 <l>piṟar, pāṭupukaḻ pāṭip paṭarpaṟi yēṉē</l>
 <l>kuṟumulaik kalamarum pālār veṇmaṟi</l>
-<l>naraimuka vūkamō ṭukaḷuñceṉa...............</l>
-<l>..........................kaṉṟupala keḻīiya</l>
+<l>naraimuka vūkamō ṭukaḷuñceṉa<gap quantity="15" reason="lost" unit="character"/></l>
+<l><gap quantity="26" reason="lost" unit="character"/>kaṉṟupala keḻīiya</l>
 <l>kāṉkeḻu nāṭaṉ kaṭuntē raviyaṉeṉa</l>
 <l>voruvaṉai yuṭaiyēṉ maṉṉē yāṉē</l>
 <l>yaṟāṉevaṉ parikō veḷḷiyatu nilaiyē.</l>
@@ -79,7 +77,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN383"><interp type="alignment" select="0">22MG120MG13ML81MG95MGMG4MG9MG124MG54MG6MG12MG36MG51M5G42MG20MG3MG5MG15M2G15MG3M,454M16G41MG243MG</interp>
+<standOff type="wordsplit" corresp="#PN383"><interp type="alignment" select="0">22MG120MG13ML81MG95MGMG4MG9MG124MG54MG6MG12MG36MG51M5G42MG20MG3MG5MG15M2G15MG3M,511MG243MG</interp>
 <entry>
 <form>oḷ</form>
 <def>bright</def>
@@ -271,7 +269,7 @@
 </entry>
 <entry>
 <form>maṭar</form>
-<def>??</def>
+<def>?</def>
 </entry>
 <entry>
 <form>uḷap†</form>
@@ -297,8 +295,8 @@
 <entry>
 <form>kāmpiṉ</form>
 <def>shaft</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kaḻai</form>
 <def>bamboo</def>
@@ -359,8 +357,8 @@
 <entry>
 <form>nucuppiṉ</form>
 <def>waist</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>a<pc>(</pc>m<pc>)</pc></form>
 <def>pretty</def>
@@ -412,12 +410,11 @@
 <def>looked-at</def>
 </entry>
 <entry>
-<form>.....................</form>
-<def>.....................</def>
+<form><gap quantity="76" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form>.......................................kal</form>
-<def>.......................................stone</def>
+<form>kal</form>
+<def>stone</def>
 </entry>
 <entry>
 <form>koṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -512,19 +509,18 @@
 <entry>
 <form>ūkamōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>black-monkey</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>ukaḷum</form>
 <def>jumping</def>
 </entry>
 <entry>
-<form>..............</form>
-<def>…….</def>
+<form><gap quantity="14" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form>....................................kaṉṟu</form>
-<def>....................................calf</def>
+<form><gap quantity="36" unit="character" reason="lost"/>kaṉṟu</form>
+<def>calf</def>
 </entry>
 <entry>
 <form>pala</form>
