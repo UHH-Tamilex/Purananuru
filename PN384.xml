@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 384.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -31,21 +29,21 @@
 <l>vañcikōṭ ṭuṟaṅkunārai</l>
 <l>yaṟaikarumpiṉ pūvaruntum</l>
 <l>vaṉpālāṟ karuṅkālvarakiṉ</l>
-<l>....................................................</l>
+<l><gap quantity="52" reason="lost" unit="character"/></l>
 <l>vaṅkaṭ kuṟumuyal veruva vayala</l>
 <l>karuṅkōṭ ṭiruppaip pūvuṟaik kuntu</l>
 <l>viḻaviṉ ṟāyiṉu muḻavar maṇṭai</l>
 <l>yiruṅkeṭiṟṟu micaiyoṭu pūṅkaḷ vaikuntu</l>
-<l>....................................... tuṇaiyēm peruma</l>
+<l><gap quantity="39" reason="lost" unit="character"/> tuṇaiyēm peruma</l>
 <l>nelleṉṉā poṉṉeṉṉā</l>
 <l>kaṉaṟṟakkoṇṭa naṟaveṉṉā</l>
-<l>................. maṉaiyeṉṉā vavaipalavum</l>
+<l><gap quantity="17" reason="lost" unit="character"/> maṉaiyeṉṉā vavaipalavum</l>
 <l>yāṉṟaṇṭavun tāṉṟaṇṭā</l>
 <l>ṉiṇamperutta koḻuñcōṟṟiṭai</l>
 <l>maṇṇāṇap pukaḻvēṭṭu</l>
 <l>nīrnāṇa neyvaḻaṅkip</l>
-<l>purantō ṉentai yāmalantolai..........</l>
-<l>yaṉṉōṉai yuṭaiyē meṉpa....vaṟaṭ</l>
+<l>purantō ṉentai yāmalantolai<gap quantity="10" reason="lost" unit="character"/></l>
+<l>yaṉṉōṉai yuṭaiyē meṉpa<gap quantity="4" reason="lost" unit="character"/>vaṟaṭ</l>
 <l>kiyāṇṭu niṟka veḷḷi māṇṭa</l>
 <l>vuṇṭa naṉkalam peytu nuṭakkavun</l>
 <l>tiṉṟa naṇpa lūṉṟōṇṭavum</l>
@@ -81,7 +79,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN384"><interp type="alignment" select="0">26MG145MG26MG3MG140MG40MG11MG12ML20MG61MG14MG30MGMG5MR40MG21MG37MG6MG2M,278M18G68M2G165M2G124MG</interp>
+<standOff type="wordsplit" corresp="#PN384"><interp type="alignment" select="0">26MG145MG26MG3MG140MG40MG11MG12ML20MG61MG14MG36MR40MG21MG37MG6MG2M,530M3G122MG</interp>
 <entry>
 <form>mel</form>
 <def>soft</def>
@@ -122,8 +120,8 @@
 <entry>
 <form>karumpiṉ</form>
 <def>sugarcane</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>pū</form>
 <def>flower</def>
@@ -152,11 +150,10 @@
 <entry>
 <form>varakiṉ</form>
 <def>millet</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
-<form>....................................................</form>
-<def>.................................................</def>
+<form><gap quantity="52" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>vam</form>
@@ -182,7 +179,6 @@
 <entry>
 <form><pc>~</pc>ayala</form>
 <def>neighbourhood</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>karum</form>
@@ -236,8 +232,8 @@
 <entry>
 <form>micaiyoṭu</form>
 <def>food</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>pūm</form>
 <def>flower</def>
@@ -251,8 +247,8 @@
 <def>is-kept</def>
 </entry>
 <entry>
-<form>.....................tuṇaiyēm</form>
-<def>……………………….companion-we</def>
+<form><gap quantity="39" unit="character" reason="lost"/>tuṇaiyēm</form>
+<def>()companion-we</def>
 </entry>
 <entry>
 <form>peruma</form>
@@ -293,8 +289,7 @@
 <def>said</def>
 </entry>
 <entry>
-<form>...............</form>
-<def>……….</def>
+<form><gap quantity="17" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>maṉai</form>
@@ -407,11 +402,11 @@
 <def>suffered</def>
 </entry>
 <entry>
-<form>olai...........</form>
+<form>olai<gap quantity="11" unit="character" reason="lost"/></form>
 <def>?…</def>
 </entry>
 <entry>
-<form><pc>~</pc>aṉṉōṉai</form>
+<form>yaṉṉōṉai</form>
 <def>like-he</def>
 <gramGrp><gram type="role">accusative</gram>
 </gramGrp></entry>
@@ -421,21 +416,19 @@
 </entry>
 <entry>
 <form>eṉpa</form>
+<def>.</def>
+</entry>
+<entry>
+<form>.</form>
 <def>say-they</def>
 </entry>
 <entry>
-<form>..</form>
+<form>vaṟaṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>…</def>
-</entry>
-<entry>
-<form>vaṟaṭk<pc>(</pc>u<pc>)</pc></form>
-<def></def>
 </entry>
 <entry>
 <form>yāṇṭum</form>
 <def>where</def>
-<form type="simple">yāṇṭ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>niṟka</form>
