@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 387.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -42,8 +40,8 @@
 <l>ṉakaippula vāṇar nalkura vakaṟṟi</l>
 <l>mikappoliyartaṉ cēvaṭi yattaiyeṉ</l>
 <l>ṟiyāṉicaippi ṉaṉinaṉṟeṉāp</l>
-<l>palapiṟa vāḻtta viruntō reṉkō...............</l>
-<l>maruvaviṉaka rakaṉ.................................</l>
+<l>palapiṟa vāḻtta viruntō reṉkō<gap quantity="15" reason="lost" unit="character"/></l>
+<l>maruvaviṉaka rakaṉ<gap quantity="33" reason="lost" unit="character"/></l>
 <l>tiruntukaḻaṟ cēvaṭi kuṟukal vēṇṭi</l>
 <l>veṉṟiraṅkum viṟaṉmuraciṉō</l>
 <l>ṉeṉciṟumaiyi ṉiḻittunōkkāṉ</l>
@@ -58,7 +56,7 @@
 <l>piṇarmarup piyāṉaic cerumiku nōṉṟāṭ</l>
 <l>celvak kaṭuṅkō vāḻi yāta</l>
 <l>ṉoṉṉāt tevva ruyarkuṭai paṇittivaṇ</l>
-<l>viṭuvar mātō neṭitē ni...................</l>
+<l>viṭuvar mātō neṭitē ni<gap quantity="19" reason="lost" unit="character"/></l>
 <l>pullilai vañcip puṟamati lalaikkuṅ</l>
 <l>kalleṉ porunai maṇaliṉu māṅkaṭ</l>
 <l>pallūr cuṟṟiya kaḻaṉi</l>
@@ -107,7 +105,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN387"><interp type="alignment" select="0">84ML22MG51MG10MG30MG51ML32M3G13MG27MG22ML7MG54ML75MG74MG12MG3M2G17M2G13MR9M2G25M2G5MG10MG21ML7MG9ML108MG11MG50ML71MR12MG3M,392M15G36M15G209MG196M2G107MG</interp>
+<standOff type="wordsplit" corresp="#PN387"><interp type="alignment" select="0">84ML22MG51MG10MG30MG51ML32M3G13MG27MG22ML7MG54ML75MG74MG12MG3M2G17M2G13MR9M2G25M2G5MG10MG21ML7MG9ML108MG11MG50ML71MR12MG3M,667MG305MG</interp>
 <entry>
 <form>vaḷ</form>
 <def>sharp</def>
@@ -115,7 +113,6 @@
 <entry>
 <form><pc>+</pc>ukira</form>
 <def>nail</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>vayal</form>
@@ -209,7 +206,6 @@
 <entry>
 <form>kavuḷa</form>
 <def>cheek</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>pūm</form>
@@ -226,7 +222,6 @@
 <entry>
 <form><pc>~</pc>eruttiṉa</form>
 <def>neck</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>vēṟu</form>
@@ -425,12 +420,10 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>eṉkō</form>
+<form>eṉkō<gap quantity="15" unit="character" reason="lost"/></form>
 <def>say-I</def>
-<form type="simple">eṉk</form>
 <gramGrp><gram type="role">subjunctive</gram>
-</gramGrp><gramGrp type="particle"><m>ō</m></gramGrp>
-</entry>
+</gramGrp></entry>
 <entry>
 <form>maruva</form>
 <def>join</def>
@@ -449,8 +442,7 @@
 <def>widen</def>
 </entry>
 <entry>
-<form>..................</form>
-<def>………….</def>
+<form><gap quantity="33" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>tiruntu</form>
@@ -500,8 +492,8 @@
 <entry>
 <form>ciṟumaiyiṉ</form>
 <def>smallness</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>iḻittu</form>
 <def>made-fall</def>
@@ -517,8 +509,8 @@
 <entry>
 <form>perumaiyiṉ</form>
 <def>greatness</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>takavu</form>
 <def>fitness</def>
@@ -553,7 +545,6 @@
 <entry>
 <form><pc>+</pc>uḷaiya</form>
 <def>mane</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>mā</form>
@@ -635,8 +626,8 @@
 <entry>
 <form>naṉaviṉ</form>
 <def>reality</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nalkiyōṉ-ē</form>
 <def>granted-he</def>
@@ -708,8 +699,6 @@
 <entry>
 <form>celvakkaṭuṅkō</form>
 <def>Celvakkaṭuṅk</def>
-<form type="simple">celvakkaṭuṅk</form>
-<gramGrp type="particle"><m>ō</m></gramGrp>
 </entry>
 <entry>
 <form>vāḻiyātaṉ</form>
@@ -752,8 +741,7 @@
 <def>long-itē</def>
 </entry>
 <entry>
-<form>.................</form>
-<def>……………</def>
+<form><gap quantity="19" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>pul</form>
@@ -790,10 +778,8 @@
 <entry>
 <form>maṇaliṉum</form>
 <def>sand</def>
-<form type="simple">maṇaliṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>āṅkaṇ</form>
 <def>that-place</def>
@@ -825,10 +811,8 @@
 <entry>
 <form>nelliṉum</form>
 <def>paddy</def>
-<form type="simple">nelliṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>pala-<pc>~</pc>ē</form>
 <def>many</def>
