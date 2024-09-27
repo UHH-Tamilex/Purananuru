@@ -79,7 +79,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN384"><interp type="alignment" select="0">26MG145MG26MG3MG140MG40MG11MG12ML20MG61MG14MG36MR40MG21MG37MG6MG2M,530M3G122MG</interp>
+<standOff type="wordsplit" corresp="#PN384"><interp type="alignment" select="0">26MG145MG26MG3MG140MG40MG11MG12ML20MG61MG50MR40MG21MG37MG6MG2M,654MG</interp>
 <entry>
 <form>mel</form>
 <def>soft</def>
@@ -247,8 +247,11 @@
 <def>is-kept</def>
 </entry>
 <entry>
-<form><gap quantity="39" unit="character" reason="lost"/>tuṇaiyēm</form>
-<def>()companion-we</def>
+<form><gap quantity="39" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>tuṇaiyēm</form>
+<def>companion-we</def>
 </entry>
 <entry>
 <form>peruma</form>
@@ -391,7 +394,7 @@
 </entry>
 <entry>
 <form>entai</form>
-<def>my(obl.)-father</def>
+<def>my-father</def>
 </entry>
 <entry>
 <form>yām</form>
@@ -402,8 +405,7 @@
 <def>suffered</def>
 </entry>
 <entry>
-<form>olai<gap quantity="11" unit="character" reason="lost"/></form>
-<def>?…</def>
+<form>olai<gap quantity="10" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>yaṉṉōṉai</form>
@@ -416,15 +418,13 @@
 </entry>
 <entry>
 <form>eṉpa</form>
-<def>.</def>
-</entry>
-<entry>
-<form>.</form>
 <def>say-they</def>
 </entry>
 <entry>
-<form>vaṟaṭk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>…</def>
+<form><gap quantity="4" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>vaṟaṭki</form>
 </entry>
 <entry>
 <form>yāṇṭum</form>
