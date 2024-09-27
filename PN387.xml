@@ -420,10 +420,13 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>eṉkō<gap quantity="15" unit="character" reason="lost"/></form>
+<form>eṉkō</form>
 <def>say-I</def>
 <gramGrp><gram type="role">subjunctive</gram>
 </gramGrp></entry>
+<entry>
+<form><gap quantity="15" unit="character" reason="lost"/></form>
+</entry>
 <entry>
 <form>maruva</form>
 <def>join</def>
