@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -50,7 +49,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN357"><interp type="alignment" select="0">28MGMG33MG26M2G10M2G9ML4MG9MG3M2G88MG4M2G15MG27MG6MG12MG2M,198M6G91MG</interp>
+<standOff type="wordsplit" corresp="#PN357"><interp type="alignment" select="0">28MGMG33MG26M2G10M2G9ML4MG9MG3M2G88MG4M2G15MG27MG6MG12MG2M,295MG</interp>
 <entry>
 <form>kuṉṟu</form>
 <def>hill</def>
@@ -182,7 +181,7 @@
 <form>vi<gap quantity="8" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form><gap quantity="44" unit="character" reason="lost"/>ṇai</form>
+<form><gap quantity="50" unit="character" reason="lost"/>ṇai</form>
 </entry>
 <entry>
 <form>puṇai</form>
