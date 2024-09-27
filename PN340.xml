@@ -49,7 +49,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN340"><interp type="alignment" select="0">151ML167MG9MG2M,115M22G77M11G106MG</interp>
+<standOff type="wordsplit" corresp="#PN340"><interp type="alignment" select="0">151ML167MG9MG2M,331MG</interp>
 <entry>
 <form>aṇi<pc>+</pc></form>
 <def>adorn</def>
@@ -113,7 +113,7 @@
 <gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><gap quantity="53" unit="character" reason="lost"/></form>
+<form><gap quantity="74" unit="character" reason="lost"/>l</form>
 </entry>
 <entry>
 <form>eṉa</form>
@@ -139,7 +139,7 @@
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
-<form>veṭuppave<gap quantity="52" unit="character" reason="lost"/></form>
+<form>veṭuppave<gap quantity="63" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>maintar</form>

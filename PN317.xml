@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 317.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -39,25 +37,24 @@
 <l>To the highly intoxicated man who lies in the front yard</l>
 <l>give, be it a skin, be it a mat,</l>
 <l>be it whatever, quickly!</l>
-<l></l>
+<l/>
 <l>The got to sleep after having given to us, </l>
 <l>to others, to everyone.</l>
 </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN317"><interp type="alignment" select="0">72MG7MG4MG8MG4MG5MG3MG4MG13MG42M2G9M2G7M2G19MG2M,162MG51MG</interp>
+<standOff type="wordsplit" corresp="#PN317"><interp type="alignment" select="0">72MG7MG4MG8MG4MG5MG3MG4MG13MG42M2G9M2G7M2G19MG2M,214MG</interp>
 <entry>
 <form>vel</form>
-<def>be-victorious-</def>
+<def>be-victorious</def>
 </entry>
 <entry>
 <form>vēl</form>
 <def>spear</def>
 </entry>
 <entry>
-<form><gap quantity="34" reason="lost" unit="character"/>natu</form>
-<def>…</def>
+<form><gap quantity="34" unit="character" reason="lost"/>natu</form>
 </entry>
 <entry>
 <form>muṉṟil</form>
@@ -144,12 +141,7 @@
 <def>desire</def>
 </entry>
 <entry>
-<form>mīḷapa<gap quantity="6" reason="lost" unit="character"/></form>
-<def>……</def>
-</entry>
-<entry>
-<form><gap quantity="14" reason="lost" unit="character"/>kum</form>
-<def><gap quantity="3" reason="lost" unit="character"/></def>
+<form>mīḷapa<gap quantity="21" unit="character" reason="lost"/>kum</form>
 </entry>
 <entry>
 <form>emakk<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>

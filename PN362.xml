@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -76,7 +75,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN362"><interp type="alignment" select="0">6MG32ML129M3G13MG30MG8MG113ML11MG68M2G34M2G15ML44MG47MG6MG28MG19M2G20M2G2M,137M22G124M21G137M11G195MG</interp>
+<standOff type="wordsplit" corresp="#PN362"><interp type="alignment" select="0">6MG32ML129M3G13MG30MG8MG113ML11MG68M2G34M2G15ML44MG47MG6MG28MG19M2G20M2G2M,647MG</interp>
 <entry>
 <form>ñāyiṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>sun</def>
@@ -172,7 +171,7 @@
 <form>pe<gap quantity="15" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form><gap quantity="20" unit="character" reason="lost"/>kuma</form>
+<form><gap quantity="42" unit="character" reason="lost"/>kuma</form>
 </entry>
 <entry>
 <form>vicaya<pc>(</pc>m<pc>)</pc></form>
@@ -280,7 +279,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><gap quantity="14" unit="character" reason="lost"/>yiṉ</form>
+<form><gap quantity="35" unit="character" reason="lost"/>yiṉ</form>
 </entry>
 <entry>
 <form>aṟam</form>
@@ -406,7 +405,7 @@
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form><gap quantity="10" unit="character" reason="lost"/></form>
+<form><gap quantity="21" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>naṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>

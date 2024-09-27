@@ -25,7 +25,7 @@
   <body>
     <div xml:id="PN328">
       <lg type="edition">
-<l>….  ṭaimutaṟ puṟavucērn tirunta</l>
+<l><gap quantity="4" reason="lost" unit="character"/>ṭaimutaṟ puṟavucērn tirunta</l>
 <l>puṉpulac cīṟūr nelviḷai yātē</l>
 <l>varakun tiṉaiyu muḷḷavai yellā</l>
 <l>miravaṉ mākkaḷuk kīyat tolaintaṉa</l>
@@ -61,13 +61,12 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN328"><interp type="alignment" select="0">21MG17MG13M2G6M2G7MG31MG39MG10MG30MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,MG265M2G170M2G96MG</interp>
+<standOff type="wordsplit" corresp="#PN328"><interp type="alignment" select="0">23MG17MG13M2G6M2G7MG31MG39MG10MG30MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,539MG</interp>
 <entry>
-<form>…</form>
-<def>…</def>
+<form><gap quantity="4" unit="character" reason="lost"/>ṭai</form>
 </entry>
 <entry>
-<form>ṭaimutal</form>
+<form>mutal</form>
 <def>base</def>
 </entry>
 <entry>
@@ -149,8 +148,11 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form><gap quantity="24" reason="lost" unit="character"/>ṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def><gap quantity="24" reason="lost" unit="character"/>was</def>
+<form><gap quantity="24" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>ṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>was</def>
 </entry>
 <entry>
 <form>amaintaṉaṉ-ē</form>
@@ -215,12 +217,18 @@
 <def>like</def>
 </entry>
 <entry>
-<form>viḷai<gap quantity="18" reason="lost" unit="character"/></form>
-<def>ripen……………</def>
+<form>viḷai</form>
+<def>ripen</def>
 </entry>
 <entry>
-<form><gap quantity="26" reason="lost" unit="character"/>vāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>…………………….fade-</def>
+<form><gap quantity="18" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form><gap quantity="28" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>vāṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<def>fade</def>
 </entry>
 <entry>
 <form>ūṉ</form>
@@ -297,12 +305,18 @@
 <def>sat</def>
 </entry>
 <entry>
-<form>piṉ<gap quantity="32" reason="lost" unit="character"/></form>
+<form>piṉ</form>
 <def>after</def>
 </entry>
 <entry>
-<form><gap quantity="42" reason="lost" unit="character"/>tarukuvaṉ-mātō</form>
-<def>…………………………..will-give-he</def>
+<form><gap quantity="32" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form><gap quantity="44" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>tarukuvaṉ-mātō</form>
+<def>will-give-he</def>
 <form type="simple">tarukuvaṉ</form>
 <gramGrp type="particle"><m>mātō</m></gramGrp>
 </entry>
