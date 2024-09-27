@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -387,15 +385,15 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><g rend="vowel-sign">e</g><gap quantity="10" unit="character" reason="lost"/></form>
+<form>e<gap quantity="10" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form><gap quantity="18" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form><pc>~</pc>amar-ē</form>
+<form>yamar-ē</form>
 <def>fight</def>
-<form type="simple">amar</form>
+<form type="simple">yamar</form>
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>
