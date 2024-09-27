@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,7 +31,7 @@
 <l>cempoṟic cilampi ṉiḷaiyō ṭantai</l>
 <l>yeḻuviṭ  ṭamaitta tiṇṇilaik katavi</l>
 <l>ṉaraima ṇiñci nāṭkoṭi nuṭaṅkum</l>
-<l><gap quantity="65" reason="lost" unit="character"/></l>
+<l><gap quantity="24" reason="lost" unit="character"/></l>
 <l>pulikkaṇat taṉṉa kaṭuṅkaṭ cuṟṟamoṭu</l>
 <l>māṟṟa māṟāṉ maṟaliya ciṉattaṉ</l>
 <l>pūkkō ḷeṉavēeyk kayampuk kaṉaṉē</l>
@@ -38,7 +39,7 @@
 <l>cuṇaṅkaṇi vaṉamulai yavaḷoṭu nāḷai</l>
 <l>maṇampuku vaika lākuta loṉṟō</l>
 <l>vārama ruḻakkiya maṟaṅkiḷar muṉpi</l>
-<l>nīḷilai yeḵka maṟutta vuṭampoṭu</l>
+<l>ṉīḷilai yeḵka maṟutta vuṭampoṭu</l>
 <l>vārā vulakam pukuta loṉṟeṉap</l>
 <l>paṭaitoṭ ṭaṉaṉē kuruci lāyiṭaik</l>
 <l>kaḷiṟuporak kalaṅkiya taṇkayam pōlap</l>
@@ -68,7 +69,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN341"><interp type="alignment" select="0">14MG17MG51ML13MG125MG27ML47MG7MG30MG8ML41M2G31MG49MG17MG66MG12M3G5MG15MG2M,208M5G384MG</interp>
+<standOff type="wordsplit" corresp="#PN341"><interp type="alignment" select="0">14MG17MG51ML13MG84MG27ML47MG7MG30MG8ML41M2G32ML48MG17MG66MG12M3G5MG15MG2M,556MG</interp>
 <entry>
 <form>vēntu</form>
 <def>king</def>
@@ -220,7 +221,7 @@
 <gramGrp><gram type="role">habitual future</gram>
 </gramGrp></entry>
 <entry>
-<form><gap quantity="60" unit="character" reason="lost"/></form>
+<form><gap quantity="24" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>puli<pc>+</pc></form>
@@ -457,12 +458,12 @@
 <superEntry type="ambiguous">
 <entry><entry>
 <form>vārā</form>
-<def>come(pos.abs.)(abs.)</def>
+<def>come(pos.abs.)(abs.)(abs.)</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry></entry>
 <entry><entry>
 <form>vārā</form>
-<def>come-not(abs.</def>
+<def>come-not(abs</def>
 </entry></entry>
 </superEntry>
 <entry>
