@@ -74,7 +74,8 @@
 <entry>
 <form>pāṭiṉi</form>
 <def>songtress</def>
-</entry>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form><pc>~</pc>aṇiya</form>
 <def>adorn</def>
@@ -141,7 +142,7 @@
 </superEntry>
 <entry>
 <form>mai</form>
-<def>black</def>
+<def>blackness</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
@@ -244,7 +245,7 @@
 <form><pc>~</pc>uṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
 <def>eaten</def>
 <form type="simple">uṇṭu</form>
-<gramGrp><gram type="role">neuter singular</gram>
+<gramGrp><gram type="role">absolutive</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
