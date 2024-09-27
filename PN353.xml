@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +66,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN353"><interp type="alignment" select="0">2MG13MG26MG44MG12ML113MG38MG9ML23MG134MG26MG11ML8MG2M,369MG103MG</interp>
+<standOff type="wordsplit" corresp="#PN353"><interp type="alignment" select="0">2MG13MG26MG44MG12ML113MG38MG9ML23MG134MG26MG11ML8MG2M,473MG</interp>
 <entry>
 <form>āc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>flaw</def>
@@ -413,12 +411,11 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form><gap quantity="33" unit="character" reason="lost"/></form>
-<def>…………………</def>
+<form><gap quantity="50" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form><gap quantity="16" unit="character" reason="lost"/>yuḻakki<pc>+</pc></form>
-<def>…………….ravaged</def>
+<form><pc>~</pc>uḻakki<pc>+</pc></form>
+<def>ravaged</def>
 </entry>
 <entry>
 <form>kuruti</form>
