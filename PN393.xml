@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 393.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -34,7 +32,7 @@
 <l>kaṭaṉaṟi yāḷar piṟanāṭ ṭiṉmaiyiṉ</l>
 <l>vaḷḷaṉ maiyiṉem varaivōr yāreṉa</l>
 <l>vuḷḷiya vuḷḷamō ṭulainacai tuṇaiyā</l>
-<l>...kavaka vellā morupāṟ paṭṭeṉa</l>
+<l><gap quantity="3" reason="lost" unit="character"/>kavaka vellā morupāṟ paṭṭeṉa</l>
 <l>malartā raṇṇaṉi ṉallicai yuḷḷi</l>
 <l>yīrṅkai maṟantave ṉirumpē rokkal</l>
 <l>kūrnta vevvamviṭak koḻuniṇaṅ kiḻippak</l>
@@ -48,7 +46,7 @@
 <l>kēṭiṉṟu nalkumati peruma māciṉ</l>
 <l>matipurai mākkiṇai teḷirppa voṟṟi</l>
 <l>yāṭumaka ḷalku loppa vāṭik</l>
-<l>kōṭai yāyiṉuṅ kōṭi.............</l>
+<l>kōṭai yāyiṉuṅ kōṭi<gap quantity="13" reason="lost" unit="character"/></l>
 <l>kāviri purakku naṉṉāṭṭup poruna</l>
 <l>vāyvāḷ vaḷavaṉ vāḻkeṉap</l>
 <l>pīṭukeḻu nōṉṟāḷ pāṭukam palavē.</l>
@@ -83,7 +81,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN393"><interp type="alignment" select="0">94ML50MG51MG19M14G38ML2ML114ML23ML27ML102MG5MG22MG84M11G13MR32M3G29MG3M,748MG</interp>
+<standOff type="wordsplit" corresp="#PN393"><interp type="alignment" select="0">94ML50MG51MG57ML2ML114ML23ML27ML102MG5MG22MG97MR32M3G29MG3M,723MG</interp>
 <entry>
 <form>pati</form>
 <def>abode</def>
@@ -116,8 +114,8 @@
 <entry>
 <form>tuṇaiyoṭu</form>
 <def>companion</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>kūmai</form>
 <def>poverty</def>
@@ -194,13 +192,13 @@
 <entry>
 <form>iṉmaiyiṉ</form>
 <def>absence</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vaḷḷaṉmaiyiṉ</form>
 <def>munificence</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>em</form>
 <def>our</def>
@@ -226,8 +224,8 @@
 <entry>
 <form><pc>~</pc>uḷḷamōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>inside</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>ulai</form>
 <def>fireplace</def>
@@ -245,8 +243,7 @@
 <def>become</def>
 </entry>
 <entry>
-<form>.................kavaka</form>
-<def>…………….</def>
+<form><gap quantity="3" unit="character" reason="lost"/>kavaka</form>
 </entry>
 <entry>
 <form><pc>~</pc>ellām</form>
@@ -418,8 +415,8 @@
 <entry>
 <form><pc>~</pc>araviṉ</form>
 <def>snake</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nā</form>
 <def>tongue</def>
@@ -590,8 +587,7 @@
 <def>crore</def>
 </entry>
 <entry>
-<form>........................</form>
-<def>………………</def>
+<form><gap quantity="13" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>kāviri</form>

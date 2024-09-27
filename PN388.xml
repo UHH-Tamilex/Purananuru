@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 388.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -30,11 +28,11 @@
 <l>veḷḷi teṉpulat tuṟaiya viḷaivayaṟ</l>
 <l>paḷḷam vāṭiya payaṉil kālai</l>
 <l>yirumpaṟaik kiṇaimakaṉ ceṉṟavaṉ perumpeyar</l>
-<l>...................................... poruntit</l>
+<l><gap quantity="38" reason="lost" unit="character"/> poruntit</l>
 <l>taṉṉilai yaṟiyuna ṉāka vannilai</l>
 <l>yiṭukka ṇiriyal pōka vuṭaiya</l>
 <l>koṭuttō ṉentai koṭaimēn tōṉṟa</l>
-<l>.....................................ṉāmaruppāka</l>
+<l><gap quantity="37" reason="lost" unit="character"/>ṉāmaruppāka</l>
 <l>vellum vāymoḻip pulluṭaip</l>
 <l>peyarkkum paṇṇaṉ kēṭṭirō makkireṉa</l>
 <l>viṉaippaka ṭēṟṟa mēḻi kiṇaittoṭā</l>
@@ -65,7 +63,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN388"><interp type="alignment" select="0">14MG249MG47MG21MG21M2G55MG43MG24M2G2M,129M3G112M12G229MG</interp>
+<standOff type="wordsplit" corresp="#PN388"><interp type="alignment" select="0">14MG204MG45MG47MG21MG21M2G55MG43MG24M2G2M,486MG</interp>
 <entry>
 <form>veḷḷi</form>
 <def>Venus</def>
@@ -141,8 +139,7 @@
 <def>name</def>
 </entry>
 <entry>
-<form>...................................</form>
-<def>…………………………</def>
+<form><gap quantity="38" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>porunti<pc>+</pc></form>
@@ -212,10 +209,7 @@
 <def>appearance</def>
 </entry>
 <entry>
-<form>........................ṉā</form>
-<def>........................ṉ</def>
-<form type="simple">ṉ</form>
-<gramGrp type="particle"><m>ā</m></gramGrp>
+<form><gap quantity="37" unit="character" reason="lost"/>ṉā</form>
 </entry>
 <entry>
 <form>marupp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>

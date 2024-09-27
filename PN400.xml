@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 400.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -33,23 +31,23 @@
 <l>ṉiyamicaiyā marapēttik</l>
 <l>kaṭaittōṉṟiya kaṭaikkaṅkulāṟ</l>
 <l>palartuñcavun tāṉṟuñcā</l>
-<l>ṉulakukākku muyare........................k</l>
+<l>ṉulakukākku muyare<gap quantity="24" reason="lost" unit="character"/>k</l>
 <l>kēṭṭō ṉentaiyeṉ ṟeṇkiṇaik kuralē</l>
 <l>kēṭṭataṟ koṇṭum vēṭkai taṇṭātu</l>
 <l>toṉṟupaṭu citāar maruṅku nīkki</l>
-<l>mikapperuñ ciṟappiṉ vīṟu................</l>
-<l>.........................................................lavāṉa</l>
+<l>mikapperuñ ciṟappiṉ vīṟu<gap quantity="16" reason="lost" unit="character"/></l>
+<l><gap quantity="57" reason="lost" unit="character"/>lavāṉa</l>
 <l>kaliṅka maḷittiṭ ṭeṉṉarai nōkki</l>
 <l>nārari naṟavi ṉāṇmakiḻ tūṅkuntu</l>
 <l>pōtaṟiyēṉ patippaḻakavun</l>
 <l>taṉpakai kaṭita laṉṟiyuñ cērntōr</l>
 <l>pacippakai kaṭitalum vallaṉ mātō</l>
-<l>maṟavar malinta ta.....................................</l>
+<l>maṟavar malinta ta<gap quantity="37" reason="lost" unit="character"/></l>
 <l>kēḷvi malinta vēḷvit tūṇat</l>
-<l>tiruṅkaḻi yiḻitaru ......... kalivaṅkan</l>
+<l>tiruṅkaḻi yiḻitaru <gap quantity="9" reason="lost" unit="character"/> kalivaṅkan</l>
 <l>tēṟunīrp parappiṉ yāṟucīt tuyttut</l>
 <l>tuṟaitoṟum piṇikku nallū</l>
-<l>ruṟaiviṉ yāṇar ............kiḻa vōṉē.</l>
+<l>ruṟaiviṉ yāṇar <gap quantity="12" reason="lost" unit="character"/>kiḻa vōṉē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
 <l>Late in the night when [I] appear at the gate, (5)</l>
@@ -81,7 +79,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN400"><interp type="alignment" select="0">46ML33MG42MG27MG54MG13M2G156MG3MG25ML18MG17MG22MG27MG8MG81MG12MG47MG23MR11MG26MG2M,358MG203MG50MG99MG</interp>
+<standOff type="wordsplit" corresp="#PN400"><interp type="alignment" select="0">46ML33MG42MG81MG13M2G156MG3MG25ML18MG17MG22MG27MG8MG81MG12MG47MG23MR11MG26MG2M,712MG</interp>
 <entry>
 <form>māka</form>
 <def>sky</def>
@@ -89,8 +87,8 @@
 <entry>
 <form>vicumpiṉ</form>
 <def>sky</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>veḷ</form>
 <def>white</def>
@@ -194,12 +192,11 @@
 <def>guarding</def>
 </entry>
 <entry>
-<form>uyar</form>
+<form>uyare</form>
 <def>be-high</def>
 </entry>
 <entry>
-<form>.e........................k</form>
-<def>………….</def>
+<form><gap quantity="24" unit="character" reason="lost"/>k</form>
 </entry>
 <entry>
 <form>kēṭṭōṉ</form>
@@ -278,15 +275,14 @@
 <entry>
 <form>ciṟappiṉ</form>
 <def>superiority</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
+<entry>
+<form>vīṟu<gap quantity="15" unit="character" reason="lost"/></form>
+<def>distinction</def>
 </entry>
 <entry>
-<form>vīṟu...............</form>
-<def>distinction…</def>
-</entry>
-<entry>
-<form>.........................................................lavāṉa</form>
-<def>.…………………………</def>
+<form><gap quantity="58" unit="character" reason="lost"/>lavāṉa</form>
 </entry>
 <entry>
 <form>kaliṅkam</form>
@@ -324,8 +320,8 @@
 <entry>
 <form>naṟaviṉ</form>
 <def>toddy</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -410,8 +406,7 @@
 <def>been-abundant</def>
 </entry>
 <entry>
-<form>ta....................................</form>
-<def>……………</def>
+<form>ta<gap quantity="37" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>kēḷvi</form>
@@ -443,8 +438,7 @@
 <def>fall-give</def>
 </entry>
 <entry>
-<form>........</form>
-<def>…</def>
+<form><gap quantity="9" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>kali</form>
@@ -465,8 +459,8 @@
 <entry>
 <form>parappiṉ</form>
 <def>expanse</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>yāṟu</form>
 <def>river</def>
@@ -512,8 +506,11 @@
 <def>fertility</def>
 </entry>
 <entry>
-<form>............kiḻavōṉ-ē</form>
-<def>…….lord-he</def>
+<form><gap quantity="12" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>kiḻavōṉ-ē</form>
+<def>lord-he</def>
 <form type="simple">kiḻavōṉ</form>
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry></standOff>

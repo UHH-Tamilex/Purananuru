@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 396.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -47,8 +45,8 @@
 <l>naṟuneyya cōṟeṉkō</l>
 <l>tiṟantumaṟanta kūṭṭumutaṉ</l>
 <l>mukantukoḷḷu muṇaveṉkō</l>
-<l>vaṉṉavai palapala ........................</l>
-<l>..................................................ruṉataya</l>
+<l>vaṉṉavai palapala <gap quantity="24" reason="lost" unit="character"/></l>
+<l><gap quantity="50" reason="lost" unit="character"/>ruṉataya</l>
 <l>virumpē rokka larunteñciya</l>
 <l>vaḷittuvappa vīttōṉentai</l>
 <l>yemmō rākkak kaṅkuṇṭē</l>
@@ -95,7 +93,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN396"><interp type="alignment" select="0">106ML64ML37MG58MG5MR9MG38MG3M2G5MR12MG3M2G12ML7MG17MG3M2G20MG22MG3M2G117MG12MG32MG3M2G15ML40MGM2G21MG7MG11MGMR8ML7ML20MGM2G16MG2M,536MG241MG</interp>
+<standOff type="wordsplit" corresp="#PN396"><interp type="alignment" select="0">106ML64ML37MG58MG5MR9MG38MG3M2G5MR12MG3M2G12ML7MG17MG3M2G20MG22MG3M2G117MG12MG32MG3M2G15ML40MGM2G21MG7MG11MGMR8ML7ML20MGM2G16MG2M,778MG</interp>
 <entry>
 <form>kīḻ</form>
 <def>below</def>
@@ -219,8 +217,8 @@
 <entry>
 <form>kaḷḷiṉ</form>
 <def>toddy</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maṉai<pc>+</pc></form>
 <def>house</def>
@@ -348,7 +346,6 @@
 <entry>
 <form>taṭiya</form>
 <def>piece</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>cūṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -368,8 +365,8 @@
 <entry>
 <form>naṉaiyiṉ</form>
 <def>bud</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>fermented-licquor</def>
@@ -388,8 +385,8 @@
 <entry>
 <form>muyaliṉ</form>
 <def>hare</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>niṇam</form>
 <def>fat</def>
@@ -405,7 +402,6 @@
 <entry>
 <form>neyya</form>
 <def>ghee</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>cōṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -465,12 +461,10 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form>.......................</form>
-<def>….</def>
+<form><gap quantity="23" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form>..................................................runataya</form>
-<def>…………………………</def>
+<form><gap quantity="51" unit="character" reason="lost"/>runataya</form>
 </entry>
 <entry>
 <form><pc>~</pc>irum</form>
@@ -553,7 +547,6 @@
 <entry>
 <form>katira</form>
 <def>ray</def>
-<gramGrp type="affix"><m>a</m></gramGrp>
 </entry>
 <entry>
 <form>veḷ</form>
@@ -562,8 +555,8 @@
 <entry>
 <form>tiṅkaḷiṉ</form>
 <def>moon</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>viḷaṅki<pc>+</pc></form>
 <def>shone</def>

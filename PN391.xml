@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 391.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -36,16 +34,16 @@
 <l>vēṅkaṭa varaippiṉ vaṭapulam pacitteṉa</l>
 <l>vīṅkuvan tiṟuttaveṉ ṉirumpē rokkaṟ</l>
 <l>ṟīrkai viṭukkum paṇpila mutukuṭi</l>
-<l>naṉa........................................ viṉavaliṉ</l>
+<l>naṉa<gap quantity="40" reason="lost" unit="character"/> viṉavaliṉ</l>
 <l>muṉṉum vantōṉ maruṅkila ṉiṉṉu</l>
 <l>maḷiya ṉākaliṟ poruna ṉivaṉeṉa</l>
 <l>niṉṉuṇarn taṟiyuna reṉṉuṇarntu kūṟak</l>
-<l>kāṇku vanticiṉ peruma .................</l>
-<l>............. peruṅkaḻi nuḻaimī ṉaruntun</l>
+<l>kāṇku vanticiṉ peruma <gap quantity="17" reason="lost" unit="character"/></l>
+<l><gap quantity="13" reason="lost" unit="character"/> peruṅkaḻi nuḻaimī ṉaruntun</l>
 <l>tutainta tūviyam putāañ cēkkun</l>
 <l>tatainta puṉaṉiṉ ceḻunakar varaippi</l>
 <l>ṉeñcamar kāta ṉiṉvey yōḷō</l>
-<l>ṭiṉṟuyi..........................................ñcā</l>
+<l>ṭiṉṟuyi<gap quantity="42" reason="lost" unit="character"/>ñcā</l>
 <l>ṟuḷipata ṉaṟintu poḻiya</l>
 <l>vēli yāyiram viḷaikaniṉ vayalē.</l>
 </lg>
@@ -75,7 +73,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN391"><interp type="alignment" select="0">17MG45MG104MG4MG14M3G36MG40MG67MG15MG45MG136ML20ML3MG9ML10MG52ML46MG2M,315M9G141M6G144M15G53MG</interp>
+<standOff type="wordsplit" corresp="#PN391"><interp type="alignment" select="0">17MG45MG104MG4MG14M3G36MG40MG67MG15MG45MG136ML20ML3MG9ML10MG52ML46MG2M,683MG</interp>
 <entry>
 <form>taṇ</form>
 <def>cool</def>
@@ -138,8 +136,8 @@
 <entry>
 <form>nelliṉ</form>
 <def>paddy</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>makiḻ</form>
 <def>delight</def>
@@ -224,8 +222,8 @@
 <entry>
 <form>varaippiṉ</form>
 <def>moutain</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vaṭa</form>
 <def>north</def>
@@ -295,14 +293,13 @@
 <def>clan</def>
 </entry>
 <entry>
-<form>naṉa...............................</form>
-<def>…………………………………</def>
+<form>naṉa<gap quantity="40" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>viṉavaliṉ</form>
 <def>asking</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>muṉ-<pc>+</pc>um</form>
 <def>before</def>
@@ -388,12 +385,7 @@
 <gramGrp><gram type="role">vocative</gram>
 </gramGrp></entry>
 <entry>
-<form>.............</form>
-<def>.............</def>
-</entry>
-<entry>
-<form>...........</form>
-<def>………</def>
+<form><gap quantity="30" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>perum</form>
@@ -422,7 +414,6 @@
 <entry>
 <form>tūviyam</form>
 <def>feather</def>
-<gramGrp type="affix"><m>am</m></gramGrp>
 </entry>
 <entry>
 <form>putāam</form>
@@ -456,8 +447,8 @@
 <entry>
 <form>varaippiṉ</form>
 <def>limit</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>neñc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>heart</def>
@@ -478,8 +469,8 @@
 <entry>
 <form>veyyōḷōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>hot-she</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>iṉ</form>
 <def>pleasing</def>
@@ -489,8 +480,7 @@
 <def>sleep</def>
 </entry>
 <entry>
-<form>.........................m</form>
-<def>……….</def>
+<form><gap quantity="41" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>ñcāl</form>

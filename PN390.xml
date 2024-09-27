@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 390.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +13,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -30,7 +28,7 @@
 <l>aṟavai neñcat tāyar vaḷaru</l>
 <l>maṟavai neñcat tāyi vāḷa</l>
 <l>rarumpalar cerunti neṭuṅkāṉ malarkamaḻ</l>
-<l>.................................maṉṉa muṟṟat</l>
+<l><gap quantity="33" reason="lost" unit="character"/>maṉṉa muṟṟat</l>
 <l>tārvalar kuṟuki ṉallatu kāvalar</l>
 <l>kaṉaviṉuṅ kuṟukāk kaṭiyuṭai viyaṉakar</l>
 <l>malaikkaṇat taṉṉa māṭañ cilampaveṉ</l>
@@ -52,7 +50,7 @@
 <l>koṇṭi peṟukeṉ ṟōṉē yuṇṟuṟai</l>
 <l>malaiyala raṇiyun talainīr nāṭaṉ</l>
 <l>kaṇṭāṟ koṇṭumaṉai ṟiruntaṭi vāḻtti</l>
-<l>.....................................................................</l>
+<l><gap quantity="69" reason="lost" unit="character"/></l>
 <l>vāṉaṟi yalaveṉ pāṭupaci pōkka</l>
 <l>laṇṇal yāṉai vēnta</l>
 <l>ruṇmaiyō vaṟiyal kāṇpaṟi yalarē.</l>
@@ -94,7 +92,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN390"><interp type="alignment" select="0">13MG11ML13MG13MG74MG57ML16MG66MG195M2G6MG8MG38MG61MG71MG5MG48M2G7ML5MG126MG13MG8MG2M,114M2G602MG69M17G73MG</interp>
+<standOff type="wordsplit" corresp="#PN390"><interp type="alignment" select="0">13MG11ML13MG13MG74MG57ML16MG66MG195M2G6MG8MG38MG61MG71MG5MG48M2G7ML5MG126MG13MG8MG2M,718MG159MG</interp>
 <entry>
 <form>aṟavai</form>
 <def>virtue-you</def>
@@ -129,7 +127,7 @@
 </gramGrp></entry>
 <entry>
 <form>arump<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
-<def>bud-</def>
+<def>bud</def>
 </entry>
 <entry>
 <form>alar</form>
@@ -156,8 +154,7 @@
 <def>be-fragrant</def>
 </entry>
 <entry>
-<form>...............................m</form>
-<def>…………………….</def>
+<form><gap quantity="33" unit="character" reason="lost"/>m</form>
 </entry>
 <entry>
 <form>aṉṉa</form>
@@ -189,10 +186,8 @@
 <entry>
 <form>kaṉaviṉum</form>
 <def>dream</def>
-<form type="simple">kaṉaviṉ</form>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-<gramGrp type="particle"><m>um</m></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kuṟukā<pc>+</pc></form>
 <def>come-near-not</def>
@@ -302,8 +297,8 @@
 <entry>
 <form>iraviṉ</form>
 <def>night</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vantataṉ</form>
 <def>gone-it</def>
@@ -433,8 +428,8 @@
 <entry>
 <form>marapiṉ</form>
 <def>custom</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
 <def>fermented-licquor</def>
@@ -458,8 +453,8 @@
 <entry>
 <form>marapiṉ</form>
 <def>custom</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>ūṉ</form>
 <def>meat</def>
@@ -580,8 +575,8 @@
 <entry>
 <form>pōroṭu</form>
 <def>battle</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>nalki<pc>+</pc></form>
 <def>granted</def>
@@ -660,8 +655,7 @@
 <def>praised</def>
 </entry>
 <entry>
-<form>....................................................</form>
-<def>……………………………………</def>
+<form><gap quantity="69" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form>vāṉ</form>
