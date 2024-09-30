@@ -44,4 +44,13 @@
     </body>
   </text>
 <!-- <standOff> -->
+ <!-- tips
+ 
+ search for: (\.{3,})
+ replace with: `<gap quantity="${$1.length}" reason="lost" unit="character"/>`
+
+ "<gap>"
+ '<gap>'
+ `<gap>`
+ -->
 </TEI>
