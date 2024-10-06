@@ -32,8 +32,8 @@
 <l>neṭuvāḷaip palluviyaṟ</l>
 <l>paḻañcōṟṟup pukavaruntip</l>
 <l>putaṟṟaḷaviṉ pūccūṭi</l>
-<l><gap quantity="48" reason="lost" unit="character"/></l>
-<l><gap quantity="19" reason="lost" unit="character"/>ariyalāruntu</l>
+<l><gap quantity="26" reason="lost" unit="character"/></l>
+<l><gap quantity="13" reason="lost" unit="character"/>ariyalāruntu</l>
 <l>maṉaikkōḻip paimpayiriṉē</l>
 <l>kāṉakkōḻik kavarkuraloṭu</l>
 <l>nīrkkōḻik kūypeyarkkuntu</l>
@@ -48,13 +48,13 @@
 <l>neṭuṅkai vēṇmā ṉaruṅkaṭip piṭavū</l>
 <l>raṟappeyarc cāttaṉ kiḷaiyēm peruma</l>
 <l>muṉṉā ṇaṇpakaṟ curaṉuḻantu varuntik</l>
-<l>katirnaṉi ce<gap quantity="35" reason="lost" unit="character"/> mālait</l>
+<l>katirnaṉi ce<gap quantity="12" reason="lost" unit="character"/> mālait</l>
 <l>taṉkaṭait tōṉṟi yeṉṉuṟa vicaittaliṟ</l>
-<l>ṟīṅkural <gap quantity="20" reason="lost" unit="character"/>ki ṉarikuraṟ ṟaṭāriyō</l>
+<l>ṟīṅkural <gap quantity="4" reason="lost" unit="character"/>ki ṉarikuraṟ ṟaṭāriyō</l>
 <l>ṭāṅkuniṉṟa veṟkaṇṭu</l>
 <l>ciṟitunillāṉ perituṅkūṟā</l>
 <l>ṉaruṅkalam varavē yaruḷiṉaṉ vēṇṭi</l>
-<l><gap quantity="8" reason="lost" unit="character"/>yeṉa vuraittaṉṟi nalkit taṉmaṉaip</l>
+<l><gap quantity="4" reason="lost" unit="character"/>yeṉa vuraittaṉṟi nalkit taṉmaṉaip</l>
 <l>poṉpōṉ maṭantaiyaik kāṭṭi yivaṉai</l>
 <l>yeṉpōṟ pōṟṟeṉ ṟōṉē yataṉkoṇ</l>
 <l>ṭavaṉmaṟava lēṉē piṟaruḷḷa lēṉē</l>
@@ -112,7 +112,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN395"><interp type="alignment" select="0">104MG127MG92MG28MG165ML100MG58MG22M2GMR11M2G21M2G34MG59MG5MG10MG13MG13MG25ML24ML4M2G33MG45MG3M2G11M3G9M2G7M2G8MG3MG9M2G6MGM2G6MG2M,170M28G372M23G51M16G102M4G335MG</interp>
+<standOff type="wordsplit" corresp="#PN395"><interp type="alignment" select="0">104MG99MG92MG28MG165ML77MG42MG22M2GMR11M2G21M2G30MG59MG5MG10MG13MG13MG23MG2ML17MG7ML4M2G13MG20MG45MG3M2G11M3G9M2G7M2G8MG3MG9M2G6MGM2G6MG2M,1033MG</interp>
 <entry>
 <form>mel</form>
 <def>soft</def>
@@ -902,11 +902,13 @@
 <gram type="role">adverb</gram>
 </gramGrp></entry>
 <entry>
-<form>vempiṉum</form>
+<form>vempiṉ-um</form>
 <def>be-hot-if-even</def>
+<form type="simple">vempiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
 <gram type="role">conditional</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>mika</form>
 <def>be-much</def>
@@ -929,11 +931,13 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>tōṉṟiṉum</form>
+<form>tōṉṟiṉ-um</form>
 <def>appeared-if-even</def>
+<form type="simple">tōṉṟiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
 <gram type="role">conditional</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>kuḷam</form>
 <def>pond</def>
@@ -959,11 +963,13 @@
 </gramGrp></entry></entry>
 </superEntry>
 <entry>
-<form>pukaiyiṉum</form>
+<form>pukaiyiṉ-um</form>
 <def>smoke-if-even</def>
+<form type="simple">pukaiyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
 <gram type="role">conditional</gram>
-</gramGrp></entry>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>perum</form>
 <def>big</def>
