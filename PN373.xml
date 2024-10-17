@@ -47,7 +47,7 @@
 <l>vēntupuṟaṅ koṭutta vīyntuku paṟantalai</l>
 <l>māṭa mayaṅkeri maṇṭik kōṭiṟu</l>
 <l>purumeṟi malaiyi ṉirunilañ cērac</l>
-<l>ceṉṟōṉ maṉṟa coe<gap quantity="12" reason="lost" unit="character"/></l>
+<l>ceṉṟōṉ maṉṟa co<g rend="vowel-sign">e</g><gap quantity="12" reason="lost" unit="character"/></l>
 <l><gap quantity="11" reason="lost" unit="character"/>ṇṇaṟiṉar kaṇṭukaṇ ṇalaippa</l>
 <l>vañci muṟṟam vayakkaḷa ṉāka</l>
 <l>vañcā maṟava rāṭpōr paḻittuk</l>
@@ -112,7 +112,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN373"><interp type="alignment" select="0">4MG10MG78MG38MG34MG57M3G4M2G29ML29MG143M3G20ML41MG44M4GML28MG18ML5MG12MG4MG34MG31M11G66MG31MG11MG24MG26MG20ML11M3G3MG27MG161MG3MG22MR18ML60MG2M,363MG45M12G782MG</interp>
+<standOff type="wordsplit" corresp="#PN373"><interp type="alignment" select="0">4MG10MG78MG38MG34MG57M3G4M2G29ML29MG143M3G20ML41MG73MG18ML5MG12MG4MG34MG97MG31MG11MG70ML11M3G3MG27MG51MG110MG3MG22MR18ML60MG2M,1186MG</interp>
 <entry>
 <form>urum<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>thunder</def>
@@ -279,7 +279,6 @@
 </gramGrp></entry>
 <entry>
 <form>piṭṭai</form>
-<def>??</def>
 </entry>
 <entry>
 <form><pc>~</pc>ūṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
@@ -457,10 +456,10 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>uva<gap quantity="28" unit="character" reason="lost"/></form>
+<form><pc>+</pc>uva<gap quantity="44" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form><gap quantity="14" unit="character" reason="lost"/></form>
+<form><gap quantity="10" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form><pc>~</pc>aṇiya<pc>+</pc></form>
@@ -578,11 +577,11 @@
 <gram type="role">negative</gram>
 </gramGrp></entry>
 <entry>
-<form><gap quantity="24" unit="character" reason="lost"/>ṟ</form>
+<form><gap quantity="19" unit="character" reason="lost"/>ṟ</form>
 </entry>
 <entry>
 <form>tokkāṉa</form>
-<def>gathered-??</def>
+<def>gathered-?</def>
 </entry>
 <entry>
 <form>vēntu</form>
@@ -685,10 +684,10 @@
 </gramGrp><gramGrp type="particle"><m>maṉṟa</m></gramGrp>
 </entry>
 <entry>
-<form>co<gap quantity="16" unit="character" reason="lost"/></form>
+<form>co<g rend="vowel-sign">e</g><gap quantity="12" unit="character" reason="lost"/></form>
 </entry>
 <entry>
-<form><gap quantity="19" unit="character" reason="lost"/>ṇṇ</form>
+<form><gap quantity="11" unit="character" reason="lost"/>ṇṇ</form>
 </entry>
 <entry>
 <form>aṟinar</form>
@@ -814,8 +813,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>tanaṟa<gap quantity="5" unit="character" reason="lost"/>ḷam</form>
-<def>??</def>
+<form>tanaṟa<gap quantity="4" unit="character" reason="lost"/>ḷam</form>
 </entry>
 <entry>
 <form>viḷaṅku</form>
@@ -833,9 +831,14 @@
 <gramGrp><gram type="role">honorific</gram>
 </gramGrp></entry>
 <entry>
-<form>kaḷam-toṟum</form>
-<def>thrashing-floor-ever</def>
+<form>kaḷam</form>
+<def>threshing floor</def>
 </entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>ceṉṟu</form>
 <def>gone</def>
@@ -875,8 +878,10 @@
 </gramGrp></entry>
 <entry>
 <form>koṇṭaṉar</form>
-<def>they took(p.a.3.h.h.)</def>
+<def>they took(p.a.3.h.h.)(p.a.|h.|3.)</def>
 <gramGrp><gram type="role">perfective aspect</gram>
+<gram type="role">honorific</gram>
+<gram type="role">third person</gram>
 <gram type="role">honorific</gram>
 <gram type="role">third person</gram>
 </gramGrp></entry>
@@ -934,13 +939,16 @@
 </gramGrp></entry>
 <entry>
 <form><gap quantity="18" unit="character" reason="lost"/>leṉ</form>
-<def>()what</def>
+<def>what</def>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
-</gramGrp></entry>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+</entry>
 <entry>
 <form>kātaliṉ</form>
 <def>love</def>
