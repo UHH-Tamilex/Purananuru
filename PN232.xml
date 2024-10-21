@@ -25,6 +25,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN232-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉai avar pāṭiyatu.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
     <div xml:id="PN232">
       <lg type="edition">
 <l>illā kiyarō kālai mālai</l>
