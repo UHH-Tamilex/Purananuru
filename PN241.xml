@@ -23,10 +23,21 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
-
-  </teiHeader>
+</teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN241-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṇai uṟaiyūr ēṇiccēri muṭamōciyār pāṭiyata.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN241-intro2">
+      <p type="edition">ituvumatu – <app><lem wit="#C8">avaṉai yuṟaiyū rēṇiccēri</lem><rdg wit="#C2 #C3">avaṉaiya<space quantity="8" unit="character"/>rēṇiccēri</rdg></app> muṭamōciyār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
     <div xml:id="PN241">
       <lg type="edition">
 <l>tiṇtē riravalark kītta taṇṭā</l>

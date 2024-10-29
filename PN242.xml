@@ -22,10 +22,15 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
-
-  </teiHeader>
+</teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN242-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. ollaiyūr kiḻāṉmakaṉ peruñcāttaṉaik kuṭavāyiṉallātaṉār (kuṭavāyiṟkīrattaṉār) pāṭiyatu
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
     <div xml:id="PN242">
       <lg type="edition">
 <l>iḷaiyōr cūṭār vaḷaiyōr koyyār</l>
