@@ -31,7 +31,7 @@
       <p xml:lang="en" type="translation">  
       </p>
     </div>
-    <div xml:id="Pn304">
+    <div xml:id="PN304">
       <lg type="edition">
 <l>koṭuṅkuḻai makaḷir kōtai cūṭi</l>
 <l>naṭuṅkupaṉik kaḷaiiyar nārari paruki</l>
@@ -61,7 +61,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Pn304"><interp type="alignment" select="0">106MG31MG41MG7MG30M2G43MG20MG5MG4MG11MG3MG3M,315MG</interp>
+<standOff type="wordsplit" corresp="#PN304"><interp type="alignment" select="0">106MG31MG41MG7MG30M2G43MG20MG5MG4MG11MG3MG3M,315MG</interp>
 <entry>
 <form>koṭum</form>
 <def>curved</def>
@@ -93,7 +93,7 @@
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
 <entry>
-<form>paṉi<pc>+</pc></form>
+<form>paṉi<c type="geminated">k</c></form>
 <def>fever</def>
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
@@ -138,7 +138,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>pari<pc>+</pc></form>
+<form>pari<c type="geminated">p</c></form>
 <def>motion</def>
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
@@ -156,12 +156,12 @@
 <entry>
 <form>viraiti</form>
 <def>hurry-you</def>
-<gramGrp><gram type="role">subjunctive</gram>
+<gramGrp><gram type="role">subjuntive</gram>
 <gram type="role">singular</gram>
 <gram type="role">second person</gram>
 </gramGrp></entry>
 <entry>
-<form>nī-<pc>~</pc>ē</form>
+<form>nī-<c type="glide">y</c>ē</form>
 <def>you</def>
 <form type="simple">nī</form>
 <gramGrp><gram type="role">singular</gram>
@@ -174,7 +174,7 @@
 <gramGrp><gram type="role">adverb</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>emmuṉ</form>
+<form><c type="glide">y</c>emmuṉ</form>
 <def>my elder-brother</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -186,7 +186,7 @@
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>tampiyoṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>tampiyoṭ<c type="elided">u</c></form>
 <def>younger brother</def>
 <gramGrp><gram type="role">sociative</gram>
 </gramGrp></entry>
@@ -196,7 +196,7 @@
 <gramGrp><gram type="role">comparative</gram>
 </gramGrp></entry>
 <entry>
-<form>nāḷai<pc>+</pc></form>
+<form>nāḷai<c type="geminated">c</c></form>
 <def>tomorrown</def>
 <gramGrp><gram type="role">adverb</gram>
 </gramGrp></entry>
@@ -213,12 +213,12 @@
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
 <entry>
-<form>eṉa<pc>+</pc></form>
+<form>eṉa<c type="geminated">k</c></form>
 <def>say</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>kūṟi<pc>+</pc></form>
+<form>kūṟi<c type="geminated">p</c></form>
 <def>talked</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
@@ -228,7 +228,7 @@
 <gramGrp><gram type="role">adjective</gram>
 </gramGrp></entry>
 <entry>
-<form>vayiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>vayiṟ<c type="elided">u</c></form>
 <def>belly</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
@@ -268,7 +268,7 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form>perit<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>perit<c type="elided">u</c>-ē</form>
 <def>big-it</def>
 <form type="simple">peritu</form>
 <gramGrp><gram type="role">pronominalised noun</gram>
@@ -277,7 +277,7 @@
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>atu</form>
+<form><c type="glide">y</c>atu</form>
 <def>that</def>
 </entry>
 <entry>
@@ -312,7 +312,7 @@
 <gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>ilaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>ilaṅk<c type="elided">u</c></form>
 <def>shine</def>
 <gramGrp><gram type="role">verbal root</gram>
 </gramGrp></entry>
@@ -327,19 +327,19 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>naṭuṅkiṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>naṭuṅkiṉṟ<c type="elided">u</c></form>
 <def>it trembled</def>
 <gramGrp><gram type="role">neuter singular</gram>
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>iraṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>iraṇṭ<c type="elided">u</c></form>
 <def>two-it</def>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">neuter singular</gram>
 </gramGrp></entry>
 <entry>
-<form>ākāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>ākāt<c type="elided">u</c></form>
 <def>become-not-it</def>
 <gramGrp><gram type="role">neuter singular</gram>
 <gram type="role">negative</gram>
@@ -350,14 +350,14 @@
 <gramGrp><gram type="role">masculine singular</gram>
 </gramGrp></entry>
 <entry>
-<form>kūṟiyat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kūṟiyat<c type="elided">u</c></form>
 <def>talked-it</def>
 <gramGrp><gram type="role">participial noun</gram>
 <gram type="role">neuter singular</gram>
 <gram type="role">perfective aspect</gram>
 </gramGrp></entry>
 <entry>
-<form>eṉa-<pc>~</pc>ē</form>
+<form>eṉa-<c type="glide">v</c>ē</form>
 <def>say</def>
 <form type="simple">eṉa</form>
 <gramGrp><gram type="role">infinitive</gram>
