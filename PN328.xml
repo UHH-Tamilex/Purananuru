@@ -23,6 +23,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN328-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai (pi - m. ituvumatu) paṅku..................................................................
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
     <div xml:id="PN328">
       <lg type="edition">
 <l><gap quantity="4" reason="lost" unit="character"/>ṭaimutaṟ puṟavucērn tirunta</l>
