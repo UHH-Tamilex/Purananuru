@@ -22,7 +22,12 @@
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
 <text xml:lang="ta">
-  <body>
+  <body> <div xml:id="PN340-intro">
+    <p type="edition">tiṇaiyum tuṟaiyum avai. a. ...............................................
+    </p>
+    <p xml:lang="en" type="translation">  
+    </p>
+   </div> 
     <div xml:id="PN340">
       <lg type="edition">
 <l>aṇittaḻai nuṭaṅka vōṭi maṇippoṟik</l>
