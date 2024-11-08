@@ -25,6 +25,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN292-intro">
+      <p type="edition">tiṇai – vañci; tuṟai – peruñcōṟṟunilai. viricciyūr naṉṉakaṉār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>  
     <div xml:id="PN292">
       <lg type="edition">
 <l>vēntaṟ kēntiya tīntaṇ ṇaṟavam</l>
@@ -49,7 +55,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN292"><interp type="alignment" select="0">7MG28MG146MR6ML13M,203MG</interp>
+<standOff type="wordsplit" corresp="#PN292"><interp type="alignment" select="0">7MG28MG146MR6ML10MG3M,204MG</interp>
 <entry>
 <form>vēntaṟk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
 <def>king</def>
@@ -252,9 +258,11 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>takaiyaṉ<pc>+</pc>ē</form>
+<form>takaiyaṉ-<pc>+</pc>ē</form>
 <def>fitness-he</def>
+<form type="simple">takaiyaṉ</form>
 <gramGrp><gram type="role">pronominalised noun</gram>
 <gram type="role">masculine singular</gram>
-</gramGrp></entry></standOff>
+</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+</entry></standOff>
 </TEI>

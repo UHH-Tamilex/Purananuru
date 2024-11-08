@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,6 +24,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN333-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. ..................................................................
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
     <div xml:id="PN333">
       <lg type="edition">
 <l>nīruṭ paṭṭa mārip pēruṟai</l>
@@ -69,7 +76,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN333"><interp type="alignment" select="0">131MG15M3G17MG30M2G35M2G7MG56MG66MG7M2G6ML15MG78MG7MG31MG3MG6MG9MG3MG17MG3M,565MG</interp>
+<standOff type="wordsplit" corresp="#PN333"><interp type="alignment" select="0">131MG15M3G17MG30M2G35M2G7MG56MG66MG7M2G6ML93MG7MG23MG8MG9MG9MG20MG3M,563MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
@@ -406,9 +413,14 @@
 <gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>kuṭi-toṟum</form>
-<def>home-ever</def>
+<form>kuṭi</form>
+<def>home</def>
 </entry>
+<entry>
+<form>toṟum</form>
+<def>ever</def>
+<gramGrp><gram type="role">postposition</gram>
+</gramGrp></entry>
 <entry>
 <form>kūṭṭu</form>
 <def>united</def>
@@ -474,14 +486,18 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>talaivariṉum</form>
+<form>talaivariṉ-um</form>
 <def>against-come-if-even</def>
+<form type="simple">talaivariṉ</form>
+<gramGrp><gram type="role">concessive</gram>
+<gram type="role">conditional</gram>
+</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>uṇpatu-maṉ-<pc>+</pc>um</form>
-<def>eat-itmaṉ-</def>
-<form type="simple">uṇpatu-maṉ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<form>uṇpatu-maṉṉum</form>
+<def>eat-it</def>
+<form type="simple">uṇpatu</form>
+<gramGrp type="particle"><m>maṉṉum</m></gramGrp>
 </entry>
 <entry>
 <form>atu-<pc>~</pc>ē</form>
@@ -490,10 +506,10 @@
 <gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form>paricil-maṉ-<pc>+</pc>um</form>
-<def>giftmaṉ-</def>
-<form type="simple">paricil-maṉ</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<form>paricil-maṉṉum</form>
+<def>gift</def>
+<form type="simple">paricil</form>
+<gramGrp type="particle"><m>maṉṉum</m></gramGrp>
 </entry>
 <entry>
 <form>kuricil</form>
