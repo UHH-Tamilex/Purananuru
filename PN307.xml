@@ -25,6 +25,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN307-intro">
+      <p type="edition">tiṇai: tumpai; tuṟai:<gap quantity="15" reason="lost" unit="character"/>
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div> 
     <div xml:id="PN307">
       <lg type="edition">
 <l>ācā kentai yāṇṭuḷaṉ kollō</l>
