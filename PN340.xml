@@ -22,8 +22,9 @@
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
 <text xml:lang="ta">
-  <body> <div xml:id="PN340-intro">
-    <p type="edition">tiṇaiyum tuṟaiyum avai. a. ...............................................
+  <body> 
+    <div xml:id="PN340-intro">
+    <p type="edition">tiṇaiyum tuṟaiyum avai. a<gap quantity="20" reason="lost" unit="character"/>
     </p>
     <p xml:lang="en" type="translation">  
     </p>
