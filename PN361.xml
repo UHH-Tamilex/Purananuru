@@ -24,6 +24,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN361-intro">
+      <p type="edition"><gap quantity="35" reason="lost" unit="character"/>ṉār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div> 
     <div xml:id="PN361">
       <lg type="edition">
 <l>kāreti rurumi ṉuraṟik kalleṉa</l>
