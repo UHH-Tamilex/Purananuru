@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -171,16 +172,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form><gap quantity="24" unit="character" reason="lost"/></form>
-</entry>
-<entry>
-<form>ṭ<c type="elided">u</c></form>
-<def>was</def>
-<form type="sandhi">ṭ</form>
+<form><gap quantity="24" unit="character" reason="lost"/>ṭ<c type="elided">u</c></form>
 </entry>
 <entry>
 <form>amaintaṉaṉ-ē</form>
-<def>suited-he</def>
+<def>was-suited-he</def>
 <form type="simple">amaintaṉaṉ</form>
 <gramGrp>
   <gram type="role">masculine singular</gram>

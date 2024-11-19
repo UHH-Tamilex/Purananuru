@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,7 +32,7 @@
     </div> 
     <div xml:id="PN370">
       <lg type="edition">
-<l><gap quantity="60" reason="lost" unit="character"/> ḷi,</l>
+<l><gap quantity="38" reason="lost" unit="character"/> ḷi,</l>
 <l>nārum pōḻuñ ceytuṇ ṭōrāṅkup</l>
 <l>pacitiṉat tiraṅkiya virumpē rokkaṟ</l>
 <l>kārpataṅ kaṇṇeṉa mātiran tuḻaii</l>
@@ -91,13 +92,9 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN370">
-<interp type="alignment" select="0">66MG5MG6MG3MG2MG37MG35MG16MG9MG22ML22MG36MG23MG113MG14ML63MG21MG90MG3MG27MG221MG2M,38M22G2MG793MG</interp>
+<interp type="alignment" select="0">44MG5MG6MG3MG2MG37MG35MG16MG9MG22ML22MG36MG23MG113MG14ML63MG21MG90MG3MG27MG221MG2M,40MG793MG</interp>
 <entry>
 <form><gap quantity="38" unit="character" reason="lost"/>ḷi</form>
-<def>()ḷi</def>
-<form type="sandhi"><gap quantity="60" unit="character" reason="lost"/>ḷi</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nār-um</form>
