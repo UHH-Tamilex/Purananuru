@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 283.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -52,7 +52,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#poemXX"><interp type="alignment" select="0">91MG68MG2ML3MG38ML5MG31MG31ML27MG31MG2M,338MG</interp>
+<standOff type="wordsplit" corresp="#PN283"><interp type="alignment" select="0">91MG68MG2ML3MG38ML5MG31MG31ML27MG31MG2M,338MG</interp>
 <entry>
 <form>oḷ</form>
 <def>right</def>
@@ -62,9 +62,9 @@
 <def>right</def>
 </entry>
 <entry>
-<form>kurali<pc>+</pc></form>
+<form>kurali<c type="geminated">t</c></form>
 <def>ear-she(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>taṇ</form>
 <def>cool</def>
@@ -90,7 +90,7 @@
 <def>day</def>
 </entry>
 <entry>
-<form>irai<pc>+</pc></form>
+<form>irai<c type="geminated">p</c></form>
 <def>prey</def>
 </entry>
 <entry>
@@ -106,7 +106,7 @@
 <def>dwell</def>
 </entry>
 <entry>
-<form><pc>~</pc>aḷavā</form>
+<form><c type="glide">y</c>aḷavā</form>
 <def>measure-not</def>
 </entry>
 <entry>
@@ -122,10 +122,10 @@
 <def>take</def>
 </entry>
 <entry>
-<form>mutalaiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>mutalaiyōṭ<c type="elided">u</c></form>
 <def>crocodile</def>
-<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">sociative</gram>
+</gramGrp></entry>
 <entry>
 <form>ūḻ</form>
 <def>inside</def>
@@ -149,8 +149,6 @@
 <entry>
 <form>takaiyum</form>
 <def>fitness</def>
-<form type="simple">takaiy</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
 <form>eṉṟum</form>
@@ -177,7 +175,7 @@
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>maṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>maṉṟ<c type="elided">u</c></form>
 <def>village-common</def>
 </entry>
 <entry>
@@ -185,11 +183,11 @@
 <def>inside</def>
 </entry>
 <entry>
-<form><pc>+</pc>eṉpatu</form>
+<form><c type="geminated">ḷ</c>eṉpatu</form>
 <def>say-it</def>
 </entry>
 <entry>
-<form>keṭa<pc>+</pc></form>
+<form>keṭa<c type="geminated">p</c></form>
 <def>be-lost</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -205,18 +203,18 @@
 <entry>
 <form>cūḻ</form>
 <def>surrounding(?)</def>
-<gramGrp></gramGrp></entry>
+<gramGrp/></entry>
 <entry>
 <form>kuṟaṭṭiṉ</form>
 <def>pincers</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>vēl</form>
 <def>spear</def>
 </entry>
 <entry>
-<form>niṟatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>niṟatt<c type="elided">u</c></form>
 <def>vital-spot</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
@@ -226,24 +224,24 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>uyir</form>
+<form><c type="glide">v</c>uyir</form>
 <def>life-breath</def>
 </entry>
 <entry>
 <form>puṟappaṭāa</form>
-<def>go-outside(not)</def>
-<gramGrp></gramGrp></entry>
+<def>go-outside (not)</def>
+<gramGrp/></entry>
 <entry>
-<form><pc>~</pc>aḷavai<pc>+</pc></form>
+<form><c type="glide">v</c>aḷavai<c type="geminated">t</c></form>
 <def>measure</def>
 </entry>
 <entry>
-<form>teṟu-vara<pc>+</pc></form>
+<form>teṟu-vara<c type="geminated">t</c></form>
 <def>scorch-come</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>teṟṟi<pc>+</pc></form>
+<form>teṟṟi<c type="geminated">p</c></form>
 <def>verandah</def>
 </entry>
 <entry>
@@ -284,7 +282,7 @@
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form>pāc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>pāc<c type="elided">u</c></form>
 <def>green</def>
 </entry>
 <entry>
