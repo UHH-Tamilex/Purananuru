@@ -6,7 +6,7 @@
       <titleStmt>
         <title>
             <title xml:lang="ta">Puṟanāṉūṟu</title> 347.
-            <persName xml:lang="ta"></persName>
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -15,7 +15,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -78,10 +78,10 @@
 <entry>
 <form>kaḷḷiṉ</form>
 <def>toddy</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
-<form>iṭa<pc>+</pc></form>
+<form>iṭa<c type="geminated">c</c></form>
 <def>place</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -95,7 +95,7 @@
 <def>tongue</def>
 </entry>
 <entry>
-<form><pc>~</pc>iṭai<pc>+</pc></form>
+<form><c type="glide">v</c>iṭai<c type="geminated">p</c></form>
 <def>middle</def>
 </entry>
 <entry>
@@ -107,7 +107,7 @@
 <def>seek</def>
 </entry>
 <entry>
-<form>kōla<pc>+</pc></form>
+<form>kōla<c type="geminated">c</c></form>
 <def>beauty</def>
 </entry>
 <entry>
@@ -115,7 +115,7 @@
 <def>reddened</def>
 </entry>
 <entry>
-<form><pc>~</pc>oḷiṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form><c type="glide">v</c>oḷiṟ<c type="elided">u</c></form>
 <def>brightness</def>
 </entry>
 <entry>
@@ -123,7 +123,7 @@
 <def>bright</def>
 </entry>
 <entry>
-<form>vāṭa<pc>+</pc></form>
+<form>vāṭa<c type="geminated">k</c></form>
 <def>fade</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
@@ -140,7 +140,7 @@
 <def>Tumpai</def>
 </entry>
 <entry>
-<form><pc>~</pc>eṟint<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form><c type="glide">y</c>eṟint<c type="elided">u</c></form>
 <def>thrown</def>
 </entry>
 <entry>
@@ -158,8 +158,8 @@
 <entry>
 <form>vēliṉ</form>
 <def>spear</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>maṇam</form>
 <def>fragrance</def>
@@ -171,10 +171,10 @@
 <entry>
 <form>mārpiṉ</form>
 <def>chest</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
-<form>maṟa<pc>+</pc></form>
+<form>maṟa<c type="geminated">p</c></form>
 <def>boldness</def>
 </entry>
 <entry>
@@ -196,8 +196,8 @@
 <entry>
 <form>varaippiṉ</form>
 <def>border</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
 <form>kūṭal</form>
 <def>Kūṭal</def>
@@ -211,7 +211,7 @@
 <def>heap</def>
 </entry>
 <entry>
-<form><pc>~</pc>irum</form>
+<form><c type="glide">y</c>irum</form>
 <def>dark</def>
 </entry>
 <entry>
@@ -234,10 +234,10 @@
 <entry>
 <form>mārpiṉ</form>
 <def>chest</def>
-<gramGrp type="affix"><m>iṉ</m><gramGrp><gram type="role">oblique</gram></gramGrp></gramGrp>
-</entry>
+<gramGrp><gram type="role">oblique</gram>
+</gramGrp></entry>
 <entry>
-<form>maṟa<pc>+</pc></form>
+<form>maṟa<c type="geminated">p</c></form>
 <def>boldness</def>
 </entry>
 <entry>
@@ -246,19 +246,20 @@
 </entry>
 <entry>
 <form>ālai</form>
-<def></def>
-</entry>
+<def>stable</def>
+<gramGrp><gram type="role">noun</gram>
+</gramGrp></entry>
 <entry>
 <form>ceppa</form>
 <def>speak</def>
 <gramGrp><gram type="role">infinitive</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>eṉ</form>
+<form><c type="glide">v</c>eṉ</form>
 <def>what</def>
 </entry>
 <entry>
-<form><pc>+</pc>āvatu-kol</form>
+<form><c type="geminated">ṉ</c>āvatu-kol</form>
 <def>become-it</def>
 <form type="simple">āvatu</form>
 <gramGrp type="particle"><m>kol</m></gramGrp>
@@ -271,10 +272,10 @@
 </entry>
 <entry>
 <form>cēnta</form>
-<def>[dwelled-]</def>
+<def>dwelled</def>
 </entry>
 <entry>
-<form>viḷaṅk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>viḷaṅk<c type="elided">u</c></form>
 <def>shine</def>
 </entry>
 <entry>
@@ -287,7 +288,7 @@
 <gramGrp><gram type="role">neuter plural</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>āyiṉum</form>
+<form><c type="glide">v</c>āyiṉum</form>
 <def>if-even</def>
 </entry>
 <entry>
@@ -326,7 +327,7 @@
 <def>our</def>
 </entry>
 <entry>
-<form><pc>+</pc>ūr</form>
+<form><c type="geminated">m</c>ūr</form>
 <def>village</def>
 </entry>
 <entry>

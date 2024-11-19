@@ -112,7 +112,7 @@
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
 <entry>
-<form>vitti<pc>+</pc></form>
+<form>vitti<c type="geminated">t</c></form>
 <def>sown</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
@@ -145,7 +145,7 @@
 <gramGrp><gram type="role">postposition</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>uḷḷattu</form>
+<form><c type="glide">y</c>uḷḷattu</form>
 <def>mind</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
@@ -160,7 +160,7 @@
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>i<pc>+</pc></form>
+<form>i<c type="geminated">p</c></form>
 <def>this-</def>
 </entry>
 <entry>
@@ -169,20 +169,20 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>vāḻkkai<pc>+</pc></form>
+<form>vāḻkkai<c type="geminated">p</c></form>
 <def>living</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <superEntry type="ambiguous">
 <entry><entry>
-<form>paricilarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>paricilarkk<c type="elided">u</c></form>
 <def>gift-seeker(dat.</def>
 </entry><entry>
 <form>aṭaiyā</form>
 <def>h.</def>
 </entry></entry>
 <entry><entry>
-<form>paricilar<pc>+</pc></form>
+<form>paricilar<c type="geminated">k</c></form>
 <def>gift-seeker(h.</def>
 </entry><entry>
 <form>kaṭaiyā</form>
@@ -231,7 +231,7 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>aṟiyalaṉ-kol</form>
+<form><c type="geminated">ṉ</c>aṟiyalaṉ-kol</form>
 <def>know-not-he</def>
 <form type="simple">aṟiyalaṉ</form>
 <gramGrp><gram type="role">masculine singular</gram>
@@ -246,7 +246,7 @@
 <gram type="role">first person</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>aṟiyalaṉ-kol</form>
+<form><c type="geminated">ṉ</c>aṟiyalaṉ-kol</form>
 <def>know-not-he</def>
 <form type="simple">aṟiyalaṉ</form>
 <gramGrp><gram type="role">masculine singular</gram>
@@ -254,7 +254,7 @@
 </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
 </entry>
 <entry>
-<form>aṟiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<form>aṟiv<c type="elided">u</c>-um</form>
 <def>knowledge</def>
 <form type="simple">aṟivu</form>
 <gramGrp><gram type="role">noun</gram>
@@ -289,21 +289,21 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>ulakam-um</form>
+<form><c type="glide">y</c>ulakam-um</form>
 <def>world</def>
 <form type="simple">ulakam</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>aṉṟ<c type="elided">u</c>-ē</form>
 <def>not-so-it</def>
 <form type="simple">aṉṟu</form>
 <gramGrp><gram type="role">neuter singular</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>ataṉāl</form>
+<form><c type="glide">y</c>ataṉāl</form>
 <def>therefore</def>
 <gramGrp><gram type="role">instrumental</gram>
 </gramGrp></entry>
@@ -371,29 +371,29 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>uṭai<pc>+</pc></form>
+<form><c type="glide">v</c>uṭai<c type="geminated">k</c></form>
 <def>possess</def>
 <gramGrp><gram type="role">postposition</gram>
 </gramGrp></entry>
 <entry>
-<form>kāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kāṭṭ<c type="elided">u</c></form>
 <def>forest</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>akatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>akatt<c type="elided">u</c></form>
 <def>inside</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>aṟṟ<c type="elided">u</c>-ē</form>
 <def>thus-it</def>
 <form type="simple">aṟṟu</form>
 <gramGrp><gram type="role">neuter singular</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>e<pc>+</pc></form>
+<form><c type="glide">y</c>e<c type="geminated">t</c></form>
 <def>what-</def>
 </entry>
 <entry>
@@ -402,7 +402,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>celiṉ-um</form>
+<form><c type="geminated">c</c>celiṉ-um</form>
 <def>go-if-even</def>
 <form type="simple">celiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
@@ -410,7 +410,7 @@
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>a<pc>+</pc></form>
+<form>a<c type="geminated">t</c></form>
 <def>that-</def>
 </entry>
 <entry>
@@ -419,7 +419,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>cōṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form><c type="geminated">c</c>cōṟ<c type="elided">u</c>-ē</form>
 <def>rice</def>
 <form type="simple">cōṟu</form>
 <gramGrp><gram type="role">noun</gram>
