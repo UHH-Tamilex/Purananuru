@@ -25,6 +25,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN248-intro">
+      <p type="edition">tiṇai – atu; tuṟai – tāpatanilai.<gap quantity="3" reason="lost" unit="character"/> ekkūr (Cām.-1v: okkūr) mācāttaṉār pāṭiyatu. kuruntalar kaṇṇi koḻunaṉ māynteṉak karuntaṭaṅ kaṇṇi kaimmai kūṟiṉṟu.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
     <div xml:id="PN248">
       <lg type="edition">
 <l>aḷiya tāmē ciṟuveḷ ḷāmpa</l>
