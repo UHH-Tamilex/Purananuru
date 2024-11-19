@@ -25,6 +25,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN372-intro">
+      <p type="edition">tiṇai – vākai. maṟakkaḷavēḷvi. avaṉai māṅkuṭikiḻār (māta<gap quantity="4" reason="lost" unit="character"/> kakiḻār)
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
     <div xml:id="PN372">
       <lg type="edition">
 <l>vicipiṇit taṭāri vimmeṉa voṟṟi</l>
