@@ -25,6 +25,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN250-intro">
+      <p type="edition">tiṇaiyum tuṟaiyam avai. <gap quantity="7" reason="lost" unit="character"/>tāyaṅkaṇṇiyār pāṭiyatu. <app><lem wit="#C2 #C3 #C8">ituvumatu- tāyaṅkaṇṇiyār. </lem></app>
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
     <div xml:id="PN250">
       <lg type="edition">
 <l>kuykuraṉ malinta koḻuṅtuvai yaṭici</l>
