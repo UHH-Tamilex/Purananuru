@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,32 +60,32 @@
 <l>mañcuvaru kiṭakkaiya kaḷaṅkiḻa vōyē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
-<l>Coming to stay behind in exhaustion on the side, the roots having endured [and] whithered, (5)</l>
-<l>stirring the great directions like eyes, a full right consistency (4)</l>
-<l>for the very big kinfolk that is dried up when gnawed by hunger (3)</l>
-<l>like one with preparing, [and] eating fibres and leather straps (2)</l>
-<l>like a bat that remembered the ripening tree, (11)</l>
-<l>while the forest is left behind, where bowstring hemp in rows has dried (10)</l>
-<l>on the long way abounding in drought, where the bamboo has become hot [and] withered, (9)</l>
+<l corresp="5">Coming to stay behind in exhaustion on the side, the roots having endured [and] whithered, </l>
+<l corresp="4">stirring the great directions like eyes, a full right consistency </l>
+<l corresp="3">for the very big kinfolk that is dried up when gnawed by hunger </l>
+<l corresp="2">like one with preparing, [and] eating fibres and leather straps </l>
+<l corresp="11">like a bat that remembered the ripening tree, </l>
+<l corresp="10">while the forest is left behind, where bowstring hemp in rows has dried </l>
+<l corresp="9">on the long way abounding in drought, where the bamboo has become hot [and] withered, </l>
 <l>in that place where, with the calling voice of the female</l>
 <l>of the kite that was perched among the dry branches of the Sirissa,</l>
-<l>the sweet voice resembling the Tuṭi drum of the owl on the road sounds, (6-8)</l>
-<l>praising “may the wide field of hot vigour flourish, (19)</l>
-<l>pressing, so that they sound, the wide-eyed Taṭāri drum (18)</l>
-<l>of buffalo[-hide?] shed by the men that made the thrashing oxen turn (17)</l>
-<l>raising sword blades, elephants as oxen, (16)</l>
-<l>dragging, for them to be destroyed(?), many heaps of falling corpses, (15)</l>
-<l>heaping legs, cutting ripened rich ears, (14)</l>
-<l>while the rising blood spreads in the ground, making noise, (13)</l>
-<l>as descending ripe fruit rain down in the rain of bright weapons,” (12)</l>
-<l>I have come, o great man, for the mountain-like gifts you have drawn (20)</l>
-<l>with eminent graceful tusks whose faces are fitted with iron. (19)</l>
-<l>lord of the battle field with frightful expanses, (27)</l>
-<l>where red-eared kites move (26)</l>
-<l>along with vultures, while female Pēy with weepy voice engage (25)</l>
-<l>in inserting bowels in lines mixed with the flesh of groups (24)</l>
-<l>that were not frightened, wielding in [their] bangled broad hand (23)</l>
-<l>the sharp blades that lie [around] because they had leapt. (22)</l>
+<l corresp="6-8">the sweet voice resembling the Tuṭi drum of the owl on the road sounds, </l>
+<l corresp="19">praising “may the wide field of hot vigour flourish, </l>
+<l corresp="18">pressing, so that they sound, the wide-eyed Taṭāri drum </l>
+<l corresp="17">of buffalo[-hide?] shed by the men that made the thrashing oxen turn </l>
+<l corresp="16">raising sword blades, elephants as oxen, </l>
+<l corresp="15">dragging, for them to be destroyed(?), many heaps of falling corpses, </l>
+<l corresp="14">heaping legs, cutting ripened rich ears, </l>
+<l corresp="13">while the rising blood spreads in the ground, making noise, </l>
+<l corresp="12">as descending ripe fruit rain down in the rain of bright weapons,” </l>
+<l corresp="20">I have come, o great man, for the mountain-like gifts you have drawn </l>
+<l corresp="19">with eminent graceful tusks whose faces are fitted with iron. </l>
+<l corresp="27">lord of the battle field with frightful expanses, </l>
+<l corresp="26">where red-eared kites move </l>
+<l corresp="25">along with vultures, while female Pēy with weepy voice engage </l>
+<l corresp="24">in inserting bowels in lines mixed with the flesh of groups </l>
+<l corresp="23">that were not frightened, wielding in [their] bangled broad hand </l>
+<l corresp="22">the sharp blades that lie [around] because they had leapt. </l>
 </lg>
     </div>
   </body>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -46,18 +45,18 @@
 <l>mōreyiṉ maṉṉa ṉorumaṭa makaḷē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
-<l>Like the Pōntai of Neṭuvēḷātaṉ, (4)</l>
-<l>with paddy fields spread with ploughs, fields spread with water, (1)</l>
-<l>houses abounding in paddy, streets abounding in gold, (2)</l>
-<l>groves of many blossoms where the descending bees hum (3)</l>
-<l>she of great excellence will be a lot difficult to [take]. (5a-c)  </l>
+<l corresp="4">Like the Pōntai of Neṭuvēḷātaṉ, </l>
+<l corresp="1">with paddy fields spread with ploughs, fields spread with water, </l>
+<l corresp="2">houses abounding in paddy, streets abounding in gold, </l>
+<l corresp="3">groves of many blossoms where the descending bees hum </l>
+<l corresp="5a-c">she of great excellence will be a lot difficult to [take]. </l>
 <l>Having heads that wear black-branched Neem, </l>
-<l>laburnum and palmyra, having decorated bows (5d-7)</l>
+<l corresp="5d-7">laburnum and palmyra, having decorated bows </l>
 <l>even if those victorious kings come, he won’t </l>
-<l>give [her] to one who does not bow [to him] as it suits him, (8-9c)</l>
-<l>the king with a single fortress,  (12ab)</l>
-<l>that appears like a dry ship on the ocean, (11)</l>
-<l>well-protected among [his] paddy fields with ears intertwining with generous leaves, (9d-10)</l>
+<l corresp="8-9c">give [her] to one who does not bow [to him] as it suits him, </l>
+<l corresp="12ab">the king with a single fortress,  </l>
+<l corresp="11">that appears like a dry ship on the ocean, </l>
+<l corresp="9d-10">well-protected among [his] paddy fields with ears intertwining with generous leaves, </l>
 	[and] one single youthful daughter. (12cd)
 </lg>
     </div>

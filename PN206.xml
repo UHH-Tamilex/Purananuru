@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,19 +46,19 @@
 <l>yetticaic celiṉu matticaic cōṟē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
-<l>Doorman! Doorman! (1)</l>
-<l>Sowing glowing words into the ears of generous people (2)</l>
-<l>with strong minds that achieve what they considered, (3)</l>
-<l>with this living for gifts that suffers for marks of honour, (4)</l>
-<l>doormen who do not close against/exclude gift-seekers: (5)</l>
-<l>Neṭumaṉ Añci who appears on a fast horse, (6)</l>
-<l>does he not know himself? Does he not know me? (7)</l>
-<l>Because those who have both knowledge and fame vanish (8)</l>
-<l>the world is not a poor place. Therefore, (9)</l>
-<l>We shoulder the vessels. We fold up the instrument bags. (10)</l>
-<l>It is like the inside of a forest with axes [in the hands] (12)</l>
-<l>of the dexterous youngsters of the carpenter who fells trees: (11)</l>
-<l> In whatever direction [we] go, in that direction there is rice. (13)</l>   
+<l corresp="1">Doorman! Doorman! </l>
+<l corresp="2">Sowing glowing words into the ears of generous people </l>
+<l corresp="3">with strong minds that achieve what they considered, </l>
+<l corresp="4">with this living for gifts that suffers for marks of honour, </l>
+<l corresp="5">doormen who do not close against/exclude gift-seekers: </l>
+<l corresp="6">Neṭumaṉ Añci who appears on a fast horse, </l>
+<l corresp="7">does he not know himself? Does he not know me? </l>
+<l corresp="8">Because those who have both knowledge and fame vanish </l>
+<l corresp="9">the world is not a poor place. Therefore, </l>
+<l corresp="10">We shoulder the vessels. We fold up the instrument bags. </l>
+<l corresp="12">It is like the inside of a forest with axes [in the hands] </l>
+<l corresp="11">of the dexterous youngsters of the carpenter who fells trees: </l>
+<l corresp="13"> In whatever direction [we] go, in that direction there is rice. </l>   
 </lg>
     </div>
   </body>
