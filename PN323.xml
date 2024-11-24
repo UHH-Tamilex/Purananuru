@@ -23,6 +23,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
+    <div xml:id="PN323-intro">
+      <p type="edition"><gap quantity="25" reason="lost" unit="character"/> ṭārkiḻār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div> 
     <div xml:id="PN323">
       <lg type="edition">
 <l>pulippāṟ paṭṭa vāmāṉ kuḻavikkuc</l>
@@ -45,42 +51,48 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN323"><interp type="alignment" select="0">40MG13MG62MG60MG5MG10MG12MG2M,210MG</interp>
+<standOff type="wordsplit" corresp="#PN323">
+<interp type="alignment" select="0">40MG13MG62MG60MG5MG10MG12MG2M,210MG</interp>
 <entry>
-<form>puli<pc>+</pc></form>
+<form>puli<c type="geminated">p</c></form>
 <def>tiger</def>
 </entry>
 <entry>
 <form>pāl</form>
 <def>share/tooth</def>
+<form type="sandhi">pāṟ</form>
 </entry>
 <entry>
 <form>paṭṭa</form>
 <def>fallen</def>
 </entry>
 <entry>
-<form><pc>~</pc>āmāṉ</form>
+<form><c type="glide">v</c>āmāṉ</form>
 <def>wild-cow</def>
 </entry>
 <entry>
-<form>kuḻavikku<pc>+</pc></form>
+<form>kuḻavikku<c type="geminated">c</c></form>
 <def>calf</def>
-<gramGrp><gram type="role">dative</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>ciṉam</form>
 <def>anger</def>
+<form type="sandhi">ciṉaṅ</form>
 </entry>
 <entry>
 <form>kaḻi</form>
 <def>pass</def>
 </entry>
 <entry>
-<form>mūt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>mūt<c type="elided">u</c></form>
 <def>old</def>
+<form type="sandhi">mūt</form>
 </entry>
 <entry>
-<form>ā<pc>+</pc></form>
+<form>ā<c type="geminated">k</c></form>
 <def>cow</def>
 </entry>
 <entry>
@@ -88,8 +100,9 @@
 <def>calf</def>
 </entry>
 <entry>
-<form>maṭutt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>maṭutt<c type="elided">u</c></form>
 <def>fed</def>
+<form type="sandhi">maṭutt</form>
 </entry>
 <entry>
 <form>ūṭṭum</form>
@@ -99,7 +112,8 @@
 <form>kā<gap quantity="53" unit="character" reason="lost"/>k</form>
 </entry>
 <entry>
-<form>k<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>k<c type="elided">u</c></form>
+<form type="sandhi">k</form>
 </entry>
 <entry>
 <form>uḷḷiyatu</form>
@@ -114,7 +128,7 @@
 <def>beware-not</def>
 </entry>
 <entry>
-<form><pc>~</pc>īkai</form>
+<form><c type="glide">v</c>īkai</form>
 <def>giving</def>
 </entry>
 <entry>
@@ -128,7 +142,9 @@
 <entry>
 <form>āvam</form>
 <def>war(?)</def>
-<gramGrp/></entry>
+<gramGrp>
+</gramGrp>
+</entry>
 <entry>
 <form>āyiṉ</form>
 <def>if</def>
@@ -140,31 +156,37 @@
 <entry>
 <form>vāḷ</form>
 <def>sword</def>
+<form type="sandhi">vāṭ</form>
 </entry>
 <entry>
 <form>kaṟai</form>
 <def>mortar</def>
 </entry>
 <entry>
-<form><pc>~</pc>aṭi</form>
+<form><c type="glide">y</c>aṭi</form>
 <def>foot</def>
 </entry>
 <entry>
-<form>yāṉaikk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>yāṉaikk<c type="elided">u</c></form>
 <def>elephant</def>
-<gramGrp><gram type="role">dative</gram>
-</gramGrp></entry>
+<form type="sandhi">yāṉaikk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>allat<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>allat<c type="elided">u</c></form>
 <def>besides</def>
+<form type="sandhi">allat</form>
 </entry>
 <entry>
 <form>uṟai</form>
 <def>sheath</def>
 </entry>
 <entry>
-<form>kaḻipp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kaḻipp<c type="elided">u</c></form>
 <def>removed</def>
+<form type="sandhi">kaḻipp</form>
 </entry>
 <entry>
 <form>aṟiyā</form>
@@ -178,6 +200,7 @@
 <form>ūr-ē</form>
 <def>village</def>
 <form type="simple">ūr</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

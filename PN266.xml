@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -47,27 +46,29 @@
 <l>ṉaṟivukeṭa niṉṟa nalkūr maiyē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
-<l>With great victories over lands with water-glittering paddy fields, (6)</l>
-<l>where the curly-faced male snail with ear[-shaped] feelers (4)</l>
-<l>enters into daytime union with the young sea-snail conch (5)</l>
-<l>in the shade of the wide leaves of tube-stemmed white waterlilies (3)</l>
-<l>even though the west wind dries the silt by the pond (2) </l>
-<l>after the well-filled dark clouds changed [position] without raining, (1)</l>
+<l corresp="6">With great victories over lands with water-glittering paddy fields, </l>
+<l corresp="4">where the curly-faced male snail with ear[-shaped] feelers </l>
+<l corresp="5">enters into daytime union with the young sea-snail conch </l>
+<l corresp="3">in the shade of the wide leaves of tube-stemmed white waterlilies </l>
+<l corresp="2">even though the west wind dries the silt by the pond </l>
+<l corresp="1">after the well-filled dark clouds changed [position] without raining, </l>
 <l>Oh top [man] on the strong animal with a sky-touchig tall parasol (7),</l>
-<l>resembling the clamour that says “may he be a support, (9)</l>
-<l>to the one who experiences [his] assembly where worthy men sit”, (8)</l>
-<l>may you remove [it] fast (10a-c)</l>
-<l>– the poverty that lasted so that my knowledge got lost, (13)</l>
-<l>appearing with a body joined with the marks (12)</l>
-<l>of an imperfect living that will hide when seeing the feasts remembered. (10d-11)</l>
+<l corresp="9">resembling the clamour that says “may he be a support, </l>
+<l corresp="8">to the one who experiences [his] assembly where worthy men sit”, </l>
+<l corresp="10a-c">may you remove [it] fast </l>
+<l corresp="13">– the poverty that lasted so that my knowledge got lost, </l>
+<l corresp="12">appearing with a body joined with the marks </l>
+<l corresp="10d-11">of an imperfect living that will hide when seeing the feasts remembered. </l>
 </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN266"><interp type="alignment" select="0">54MG60MG27MR78MG7MG2MG28MG24MG71MG3M,362MG</interp>
+<standOff type="wordsplit" corresp="#PN266">
+<interp type="alignment" select="0">54MG60MG27MR78MG7MG2MG28MG24MG71MG3M,362MG</interp>
 <entry>
 <form>payam</form>
 <def>yield</def>
+<form type="sandhi">payaṅ</form>
 </entry>
 <entry>
 <form>keḻu</form>
@@ -86,12 +87,13 @@
 <def>pour-not</def>
 </entry>
 <entry>
-<form>māṟi<pc>+</pc></form>
+<form>māṟi<c type="geminated">k</c></form>
 <def>changed</def>
 </entry>
 <entry>
 <form>kayam</form>
 <def>pond</def>
+<form type="sandhi">kayaṅ</form>
 </entry>
 <entry>
 <form>kaḷi</form>
@@ -100,22 +102,27 @@
 <entry>
 <form>muḷiyum</form>
 <def>drying-</def>
+<form type="sandhi">muḷiyuṅ</form>
 </entry>
 <entry>
 <form>kōṭai</form>
 <def>west-wind</def>
 </entry>
 <entry>
-<form><pc>~</pc>āyiṉ-um</form>
+<form><c type="glide">y</c>āyiṉ-um</form>
 <def>even-if</def>
 <form type="simple">āyiṉ</form>
-<gramGrp><gram type="role">concessive</gram>
-<gram type="role">conditional</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+<form type="sandhi"><c type="glide">y</c>āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>puḻal</form>
 <def>tube</def>
+<form type="sandhi">puḻaṟ</form>
 </entry>
 <entry>
 <form>kāl</form>
@@ -136,6 +143,7 @@
 <entry>
 <form>nīḻal</form>
 <def>shade</def>
+<form type="sandhi">nīḻaṟ</form>
 </entry>
 <entry>
 <form>katir</form>
@@ -148,8 +156,10 @@
 <entry>
 <form>nantiṉ</form>
 <def>snail</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>curi</form>
 <def>curl-</def>
@@ -159,12 +169,13 @@
 <def>face</def>
 </entry>
 <entry>
-<form><pc>~</pc>ēṟṟai</form>
+<form><c type="glide">v</c>ēṟṟai</form>
 <def>male</def>
 </entry>
 <entry>
-<form>nāk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>nāk<c type="elided">u</c></form>
 <def>sea-snail</def>
+<form type="sandhi">nāk</form>
 </entry>
 <entry>
 <form>iḷa</form>
@@ -173,11 +184,14 @@
 <entry>
 <form>vaḷaiyoṭu</form>
 <def>conch</def>
-<gramGrp><gram type="role">sociative</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>pakal</form>
 <def>day</def>
+<form type="sandhi">pakaṉ</form>
 </entry>
 <entry>
 <form>maṇam</form>
@@ -186,6 +200,7 @@
 <entry>
 <form>pukūum</form>
 <def>entering-</def>
+<form type="sandhi">pukūun</form>
 </entry>
 <entry>
 <form>nīr</form>
@@ -222,6 +237,7 @@
 <entry>
 <form>tōy</form>
 <def>touch-</def>
+<form type="sandhi">ṟōy</form>
 </entry>
 <entry>
 <form>nīḷ</form>
@@ -246,29 +262,36 @@
 <entry>
 <form>cāṉṟōr</form>
 <def>been-worthy-they</def>
-<gramGrp><gram type="role">honorific</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>irunta</form>
 <def>been-</def>
 </entry>
 <entry>
-<form><pc>~</pc>avaiyatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form><c type="glide">v</c>avaiyatt<c type="elided">u</c></form>
 <def>assembly-</def>
+<form type="sandhi"><c type="glide">v</c>avaiyatt</form>
 </entry>
 <entry>
 <form>uṟṟōṉ</form>
 <def>had-he</def>
 </entry>
 <entry>
-<form>āc<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>āc<c type="elided">u</c></form>
 <def>prop</def>
+<form type="sandhi">āc</form>
 </entry>
 <entry>
-<form>āk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>āk<c type="elided">u</c></form>
 <def>may-become</def>
-<gramGrp><gram type="role">optative</gram>
-</gramGrp></entry>
+<form type="sandhi">āk</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>eṉṉum</form>
 <def>saying-</def>
@@ -280,21 +303,25 @@
 <entry>
 <form>pōla</form>
 <def>be-similar</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>vallē</form>
 <def>strongly</def>
 </entry>
 <entry>
-<form>kaḷaimati-<pc>~</pc>attai</form>
+<form>kaḷaimati-<c type="glide">y</c>attai</form>
 <def>remove</def>
 <form type="simple">kaḷaimati</form>
-<gramGrp><gram type="role">imperative</gram>
-</gramGrp><gramGrp type="particle"><m>attai</m></gramGrp>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">attai</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>uḷḷiya</form>
+<form><c type="glide">y</c>uḷḷiya</form>
 <def>remembered-</def>
 </entry>
 <entry>
@@ -302,23 +329,25 @@
 <def>feast</def>
 </entry>
 <entry>
-<form>kaṇṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kaṇṭ<c type="elided">u</c></form>
 <def>seen</def>
+<form type="sandhi">kaṇṭ</form>
 </entry>
 <entry>
 <form>oḷikkum</form>
 <def>hiding-</def>
+<form type="sandhi">oḷikkun</form>
 </entry>
 <entry>
 <form>tiruntā</form>
 <def>be-perfect-not-</def>
 </entry>
 <entry>
-<form>vāḻkkai<pc>+</pc></form>
+<form>vāḻkkai<c type="geminated">p</c></form>
 <def>living</def>
 </entry>
 <entry>
-<form>poṟi<pc>+</pc></form>
+<form>poṟi<c type="geminated">p</c></form>
 <def>mark</def>
 </entry>
 <entry>
@@ -328,33 +357,40 @@
 <entry>
 <form>uṭampiṉ</form>
 <def>body</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<form type="sandhi">uṭampiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>tōṉṟi</form>
 <def>appeared</def>
+<form type="sandhi">ṟōṉṟi</form>
 </entry>
 <entry>
-<form><pc>~</pc>eṉ</form>
+<form><c type="glide">y</c>eṉ</form>
 <def>my-</def>
 </entry>
 <entry>
-<form><pc>+</pc>aṟivu</form>
+<form><c type="geminated">ṉ</c>aṟivu</form>
 <def>knowledge</def>
 </entry>
 <entry>
 <form>keṭa</form>
 <def>get-lost</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>niṉṟa</form>
 <def>stood-</def>
 </entry>
 <entry>
-<form>nalkūrmai-<pc>~</pc>ē</form>
+<form>nalkūrmai-<c type="glide">y</c>ē</form>
 <def>poverty</def>
 <form type="simple">nalkūrmai</form>
-<gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

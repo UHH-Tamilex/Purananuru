@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -27,13 +24,7 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN241-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṇai uṟaiyūr ēṇiccēri muṭamōciyār pāṭiyata.
-      </p>
-      <p xml:lang="en" type="translation">  
-      </p>
-    </div>
-    <div xml:id="PN241-intro2">
-      <p type="edition">ituvumatu – <app><lem wit="#C8">avaṉai yuṟaiyū rēṇiccēri</lem><rdg wit="#C2 #C3">avaṉaiya<space quantity="8" unit="character"/>rēṇiccēri</rdg></app> muṭamōciyār.
+      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṇai uṟaiyūr ēṇiccēri muṭamōciyār pāṭiyata. ituvumatu –<app><rdg wit="#C2 #C3">avaṉaiya<space quantity="5" unit="character"/></rdg><lem wit="#C8">avaṉai yuṟaiyū rēṇiccēri</lem></app> muṭamōciyār.
       </p>
       <p xml:lang="en" type="translation">  
       </p>
@@ -47,143 +38,202 @@
 <l>vārppeḻun taṉṟāl vicum piṉāṉē.</l></lg>
 <lg type="translation" xml:lang="en">
 <l>“Antiraṉ with a cool garland, who gave firm chariots </l>
-<l>to mendicants, is coming”, so, (1-2c)</l>
-<l>while covered drums sounded (4)</l>
-<l>in the temple of the Tall one (~ Indra) with the vajra in [his] broad hands with bright bracelets, (2d-3)</l>
-<l>rose the roaring to heaven. (5)</l>
+<l corresp="1-2c">to mendicants, is coming”, so, </l>
+<l corresp="4">while covered drums sounded </l>
+<l corresp="2d-3">in the temple of the Tall one (~ Indra) with the vajra in [his] broad hands with bright bracelets, </l>
+<l corresp="5">rose the roaring to heaven. </l>
             </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN241"><interp type="alignment" select="0">16MG69MG22MG8M2G12MG2M,134MG</interp>
+<standOff type="wordsplit" corresp="#PN241">
+<interp type="alignment" select="0">16MG69MG22MG8M2G12MG2M,134MG</interp>
 <entry>
 <form>tiṇ</form>
 <def>firm</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>tēr</form>
 <def>chariot</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>iravalarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>iravalarkk<c type="elided">u</c></form>
 <def>mendicant</def>
-<gramGrp><gram type="role">dative</gram>
-<gram type="role">honorific</gram>
-<gram type="role">third person</gram>
-</gramGrp></entry>
+<form type="sandhi">iravalarkk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>ītta</form>
 <def>given</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>taṇ</form>
 <def>cool</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>tār</form>
 <def>garland</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">ṭār</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>aṇṭiraṉ</form>
 <def>Aṇṭiraṉ</def>
-<gramGrp><gram type="role">masculine singular</gram>
-<gram type="role">proper name</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>varūum</form>
 <def>comes</def>
-<gramGrp><gram type="role">habitual future</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>eṉṉa</form>
 <def>say</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>oḷ</form>
+<form><c type="glide">v</c>oḷ</form>
 <def>bright</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<form type="sandhi"><c type="glide">v</c>oṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>toṭi</form>
 <def>bracelet</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">ṭoṭi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>vaccira<pc>+</pc></form>
+<form>vaccira<c type="geminated">t</c></form>
 <def>club</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>taṭa<pc>+</pc></form>
+<form>taṭa<c type="geminated">k</c></form>
 <def>broad</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kai</form>
 <def>hand</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>neṭiyōṉ</form>
 <def>Tall-he</def>
-<gramGrp><gram type="role">pronominalised noun</gram>
-<gram type="role">masculine singular</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kōyil</form>
 <def>temple</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>uḷ</form>
 <def>inside</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
+<form type="sandhi">uṭ</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>pōrpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>pōrpp<c type="elided">u</c></form>
 <def>wrapping</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">pōrpp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>uṟu</form>
 <def>have</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>muracam</form>
 <def>drum</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">muracaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kaṟaṅka</form>
 <def>sound</def>
-<gramGrp><gram type="role">infinitive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>ārpp<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form><c type="glide">v</c>ārpp<c type="elided">u</c></form>
 <def>roaring</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi"><c type="glide">v</c>ārpp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>eḻuntaṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-āl</form>
+<form>eḻuntaṉṟ<c type="elided">u</c>-āl</form>
 <def>it rose</def>
 <form type="simple">eḻuntaṉṟu</form>
-<gramGrp><gram type="role">neuter singular</gram>
-<gram type="role">perfective aspect</gram>
-</gramGrp><gramGrp type="particle"><m>āl</m></gramGrp>
+<form type="sandhi">eḻuntaṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">āl</m></gramGrp>
 </entry>
 <entry>
 <form>vicumpiṉāṉ-ē</form>
 <def>sky</def>
 <form type="simple">vicumpiṉāṉ</form>
-<gramGrp><gram type="role">locative</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

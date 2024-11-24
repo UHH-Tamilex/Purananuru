@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,7 +24,7 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN264-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. ........uṟaiyūr iḷampoṉ vāṇikaṉār (.....ṉcāttaṉ koṟṟaṉār) pāṭiyatu.
+      <p type="edition">tiṇaiyum tuṟaiyum avai<gap quantity="5" reason="lost" unit="character"/>uṟaiyūr iḷampoṉ vāṇikaṉār (<gap quantity="5" reason="lost" unit="character"/>ṉcāttaṉ koṟṟaṉār) pāṭiyatu.
       </p>
       <p xml:lang="en" type="translation">  
       </p>
@@ -42,104 +40,144 @@
 <l>tiṉṟum varuṅkol pāṇaratu kaṭumpē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
-<l>Having put together a stone heap on the side strewn with pebbles, (1)</l>
+<l corresp="1">Having put together a stone heap on the side strewn with pebbles, </l>
 <l>putting on [it] ornate peacock feathers along with a chaplet</l>
 <l>of red flowers tied after splicing bowstring hemp, engraving [his] name, (2f.)</l>
-<l>they now erected a stone too. (4a-c)</l>
-<l>Will the kinfolk of the bards come from today on, (7)</l>
-<l>not knowing of the paragon’s having passed away (6)</l>
-<l>who drove off the enemies, bringing [back] the milchcows along with the calves? (4d-5)  </l>
+<l corresp="4a-c">they now erected a stone too. </l>
+<l corresp="7">Will the kinfolk of the bards come from today on, </l>
+<l corresp="6">not knowing of the paragon’s having passed away </l>
+<l corresp="4d-5">who drove off the enemies, bringing [back] the milchcows along with the calves? </l>
 </lg>
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#PN264"><interp type="alignment" select="0">64MG29MG11MG4MG41MG22MG3M2G7MG17M2G2M,210MG</interp>
+<standOff type="wordsplit" corresp="#PN264">
+<interp type="alignment" select="0">64MG29MG11MG4MG41MG22MG3M2G7MG17M2G2M,210MG</interp>
 <entry>
 <form>paral</form>
 <def>pebble</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>uṭai</form>
 <def>possess</def>
-<gramGrp><gram type="role">postposition</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>maruṅkiṉ</form>
 <def>side</def>
-<gramGrp><gram type="role">oblique</gram>
-</gramGrp></entry>
+<form type="sandhi">maruṅkiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>patukkai</form>
 <def>stone heap</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>cērtti</form>
 <def>put-together</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>maral</form>
 <def>bowstring hemp</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>vakuntu</form>
 <def>been-split</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>toṭutta</form>
 <def>linked</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>cem</form>
 <def>red</def>
-<gramGrp><gram type="role">adjective</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>pūm</form>
 <def>flower</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">pūṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>kaṇṇiyōṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kaṇṇiyōṭ<c type="elided">u</c></form>
 <def>chaplet</def>
-<gramGrp><gram type="role">sociative</gram>
-</gramGrp></entry>
+<form type="sandhi">kaṇṇiyōṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>aṇi</form>
 <def>adorn</def>
-<gramGrp><gram type="role">verbal root</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>mayil</form>
 <def>peacock</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">mayiṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>pīli</form>
 <def>feather</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>cūṭṭi<pc>+</pc></form>
+<form>cūṭṭi<c type="geminated">p</c></form>
 <def>put-on</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>peyar</form>
 <def>name</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>poṟitt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>poṟitt<c type="elided">u</c></form>
 <def>impressed</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
+<form type="sandhi">poṟitt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>iṉi</form>
 <def>now</def>
@@ -148,87 +186,119 @@
 <form>naṭṭaṉar-ē</form>
 <def>they erected</def>
 <form type="simple">naṭṭaṉar</form>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">honorific</gram>
-<gram type="role">third person</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>kal-<pc>+</pc>um</form>
+<form>kal-<c type="geminated">l</c>um</form>
 <def>stone</def>
 <form type="simple">kal</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kaṉṟoṭu</form>
 <def>calf</def>
-<gramGrp><gram type="role">sociative</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kaṟavai</form>
 <def>milk cow</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>tantu</form>
 <def>given</def>
-<gramGrp><gram type="role">absolutive</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>pakaivar</form>
 <def>enemy</def>
-<gramGrp><gram type="role">honorific</gram>
-<gram type="role">third person</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>ōṭṭiya</form>
 <def>made-run</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">peyareccam</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>neṭum-takai</form>
 <def>paragon</def>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp></entry>
+<form type="sandhi">neṭuntakai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>kaḻintamai</form>
 <def>having-passed</def>
-<gramGrp><gram type="role">perfective aspect</gram>
-<gram type="role">verbal noun</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
 <entry>
-<form><pc>~</pc>aṟiyāt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form><c type="glide">y</c>aṟiyāt<c type="elided">u</c></form>
 <def>know-not</def>
-<gramGrp><gram type="role">absolutive</gram>
-<gram type="role">negative</gram>
-</gramGrp></entry>
+<form type="sandhi"><c type="glide">y</c>aṟiyāt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>iṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<form>iṉṟ<c type="elided">u</c>-um</form>
 <def>today</def>
 <form type="simple">iṉṟu</form>
-<gramGrp type="particle"><m>um</m></gramGrp>
+<form type="sandhi">iṉṟ</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>varum-kol</form>
 <def>comes</def>
 <form type="simple">varum</form>
-<gramGrp><gram type="role">habitual future</gram>
-</gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
+<form type="sandhi">varuṅ</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
 <form>pāṇaratu</form>
 <def>bard</def>
-<gramGrp><gram type="role">genitive</gram>
-<gram type="role">honorific</gram>
-<gram type="role">third person</gram>
-</gramGrp></entry>
+<gramGrp>
+  <gram type="role">genitive</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
 <entry>
-<form>kaṭump<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>kaṭump<c type="elided">u</c>-ē</form>
 <def>relations</def>
 <form type="simple">kaṭumpu</form>
-<gramGrp><gram type="role">noun</gram>
-</gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
-</entry></standOff>
+<form type="sandhi">kaṭump</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
 </TEI>

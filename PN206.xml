@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -48,19 +46,19 @@
 <l>yetticaic celiṉu matticaic cōṟē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
-<l>Doorman! Doorman! (1)</l>
-<l>Sowing glowing words into the ears of generous people (2)</l>
-<l>with strong minds that achieve what they considered, (3)</l>
-<l>with this living for gifts that suffers for marks of honour, (4)</l>
-<l>doormen who do not close against/exclude gift-seekers: (5)</l>
-<l>Neṭumaṉ Añci who appears on a fast horse, (6)</l>
-<l>does he not know himself? Does he not know me? (7)</l>
-<l>Because those who have both knowledge and fame vanish (8)</l>
-<l>the world is not a poor place. Therefore, (9)</l>
-<l>We shoulder the vessels. We fold up the instrument bags. (10)</l>
-<l>It is like the inside of a forest with axes [in the hands] (12)</l>
-<l>of the dexterous youngsters of the carpenter who fells trees: (11)</l>
-<l> In whatever direction [we] go, in that direction there is rice. (13)</l>   
+<l corresp="1">Doorman! Doorman! </l>
+<l corresp="2">Sowing glowing words into the ears of generous people </l>
+<l corresp="3">with strong minds that achieve what they considered, </l>
+<l corresp="4">with this living for gifts that suffers for marks of honour, </l>
+<l corresp="5">doormen who do not close against/exclude gift-seekers: </l>
+<l corresp="6">Neṭumaṉ Añci who appears on a fast horse, </l>
+<l corresp="7">does he not know himself? Does he not know me? </l>
+<l corresp="8">Because those who have both knowledge and fame vanish </l>
+<l corresp="9">the world is not a poor place. Therefore, </l>
+<l corresp="10">We shoulder the vessels. We fold up the instrument bags. </l>
+<l corresp="12">It is like the inside of a forest with axes [in the hands] </l>
+<l corresp="11">of the dexterous youngsters of the carpenter who fells trees: </l>
+<l corresp="13"> In whatever direction [we] go, in that direction there is rice. </l>   
 </lg>
     </div>
   </body>
@@ -112,7 +110,7 @@
 <gramGrp><gram type="role">root noun</gram>
 </gramGrp></entry>
 <entry>
-<form>vitti<pc>+</pc></form>
+<form>vitti<c type="geminated">t</c></form>
 <def>sown</def>
 <gramGrp><gram type="role">absolutive</gram>
 </gramGrp></entry>
@@ -145,7 +143,7 @@
 <gramGrp><gram type="role">postposition</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>uḷḷattu</form>
+<form><c type="glide">y</c>uḷḷattu</form>
 <def>mind</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
@@ -160,7 +158,7 @@
 <gramGrp><gram type="role">peyareccam</gram>
 </gramGrp></entry>
 <entry>
-<form>i<pc>+</pc></form>
+<form>i<c type="geminated">p</c></form>
 <def>this-</def>
 </entry>
 <entry>
@@ -169,20 +167,20 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form>vāḻkkai<pc>+</pc></form>
+<form>vāḻkkai<c type="geminated">p</c></form>
 <def>living</def>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <superEntry type="ambiguous">
 <entry><entry>
-<form>paricilarkk<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>paricilarkk<c type="elided">u</c></form>
 <def>gift-seeker(dat.</def>
 </entry><entry>
 <form>aṭaiyā</form>
 <def>h.</def>
 </entry></entry>
 <entry><entry>
-<form>paricilar<pc>+</pc></form>
+<form>paricilar<c type="geminated">k</c></form>
 <def>gift-seeker(h.</def>
 </entry><entry>
 <form>kaṭaiyā</form>
@@ -231,7 +229,7 @@
 <gram type="role">third person</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>aṟiyalaṉ-kol</form>
+<form><c type="geminated">ṉ</c>aṟiyalaṉ-kol</form>
 <def>know-not-he</def>
 <form type="simple">aṟiyalaṉ</form>
 <gramGrp><gram type="role">masculine singular</gram>
@@ -246,7 +244,7 @@
 <gram type="role">first person</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>aṟiyalaṉ-kol</form>
+<form><c type="geminated">ṉ</c>aṟiyalaṉ-kol</form>
 <def>know-not-he</def>
 <form type="simple">aṟiyalaṉ</form>
 <gramGrp><gram type="role">masculine singular</gram>
@@ -254,7 +252,7 @@
 </gramGrp><gramGrp type="particle"><m>kol</m></gramGrp>
 </entry>
 <entry>
-<form>aṟiv<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-um</form>
+<form>aṟiv<c type="elided">u</c>-um</form>
 <def>knowledge</def>
 <form type="simple">aṟivu</form>
 <gramGrp><gram type="role">noun</gram>
@@ -289,21 +287,21 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>ulakam-um</form>
+<form><c type="glide">y</c>ulakam-um</form>
 <def>world</def>
 <form type="simple">ulakam</form>
 <gramGrp><gram type="role">noun</gram>
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>aṉṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>aṉṟ<c type="elided">u</c>-ē</form>
 <def>not-so-it</def>
 <form type="simple">aṉṟu</form>
 <gramGrp><gram type="role">neuter singular</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>ataṉāl</form>
+<form><c type="glide">y</c>ataṉāl</form>
 <def>therefore</def>
 <gramGrp><gram type="role">instrumental</gram>
 </gramGrp></entry>
@@ -371,29 +369,29 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>~</pc>uṭai<pc>+</pc></form>
+<form><c type="glide">v</c>uṭai<c type="geminated">k</c></form>
 <def>possess</def>
 <gramGrp><gram type="role">postposition</gram>
 </gramGrp></entry>
 <entry>
-<form>kāṭṭ<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>kāṭṭ<c type="elided">u</c></form>
 <def>forest</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>akatt<pc type="ignored">(</pc>u<pc type="ignored">)</pc></form>
+<form>akatt<c type="elided">u</c></form>
 <def>inside</def>
 <gramGrp><gram type="role">oblique</gram>
 </gramGrp></entry>
 <entry>
-<form>aṟṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form>aṟṟ<c type="elided">u</c>-ē</form>
 <def>thus-it</def>
 <form type="simple">aṟṟu</form>
 <gramGrp><gram type="role">neuter singular</gram>
 </gramGrp><gramGrp type="particle"><m>ē</m></gramGrp>
 </entry>
 <entry>
-<form><pc>~</pc>e<pc>+</pc></form>
+<form><c type="glide">y</c>e<c type="geminated">t</c></form>
 <def>what-</def>
 </entry>
 <entry>
@@ -402,7 +400,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>celiṉ-um</form>
+<form><c type="geminated">c</c>celiṉ-um</form>
 <def>go-if-even</def>
 <form type="simple">celiṉ</form>
 <gramGrp><gram type="role">concessive</gram>
@@ -410,7 +408,7 @@
 </gramGrp><gramGrp type="particle"><m>um</m></gramGrp>
 </entry>
 <entry>
-<form>a<pc>+</pc></form>
+<form>a<c type="geminated">t</c></form>
 <def>that-</def>
 </entry>
 <entry>
@@ -419,7 +417,7 @@
 <gramGrp><gram type="role">noun</gram>
 </gramGrp></entry>
 <entry>
-<form><pc>+</pc>cōṟ<pc type="ignored">(</pc>u<pc type="ignored">)</pc>-ē</form>
+<form><c type="geminated">c</c>cōṟ<c type="elided">u</c>-ē</form>
 <def>rice</def>
 <form type="simple">cōṟu</form>
 <gramGrp><gram type="role">noun</gram>
