@@ -24,7 +24,12 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN241-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṇai uṟaiyūr ēṇiccēri muṭamōciyār pāṭiyata. ituvumatu –<app><rdg wit="#C2 #C3">avaṉaiya<space quantity="5" unit="character"/></rdg><lem wit="#C8">avaṉai yuṟaiyū rēṇiccēri</lem></app> muṭamōciyār.
+      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṇai uṟaiyūr ēṇiccēri muṭamōciyār pāṭiyata. ituvumatu –
+      <app>
+      <lem wit="#C8">avaṉai yuṟaiyū</lem>
+      <rdg wit="#C2 #C3">avaṉaiya<space quantity="5" unit="character"/></rdg>
+       </app>
+        rēṇiccēri muṭamōciyār.
       </p>
       <p xml:lang="en" type="translation">  
       </p>
