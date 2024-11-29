@@ -24,7 +24,19 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN248-intro">
-      <p type="edition">tiṇai – atu; tuṟai – tāpatanilai.<gap quantity="3" reason="lost" unit="character"/> ekkūr (Cām.-1v: okkūr) mācāttaṉār pāṭiyatu. kuruntalar kaṇṇi koḻunaṉ māynteṉak karuntaṭaṅ kaṇṇi kaimmai kūṟiṉṟu.
+      <p type="edition">tiṇai – atu; tuṟai – tāpatanilai.
+      <gap quantity="3" reason="lost" unit="character"/>ekkūr (Cām.-1v: okkūr) 
+      mācāttaṉār pāṭiyatu.
+       <app>
+        <lem wit="#C8">kuruntalar kaṇṇi</lem>
+        <rdg wit="#C3">kurunakar</rdg>
+        <rdg wit="#C2" ><space quantity="3" unit="character"/>ru nakar</rdg>
+      </app>
+     koḻunaṉ māynteṉak karuntaṭaṅ kaṇṇi kaimmai 
+     <app>
+      <lem wit="#C8">kūṟiṉṟu</lem>
+      <rdg wit="#C2 #C3">kūṟiyatu</rdg>
+     </app>.        
       </p>
       <p xml:lang="en" type="translation">  
       </p>
