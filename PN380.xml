@@ -70,7 +70,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN380">
-<interp type="alignment" select="0">63MG43MR37MG9MG85ML16MG10M2G16ML3MG10M2G28ML63M2G58M2G2M,459MG</interp>
+<interp type="alignment" select="0">63MG43MR37MG9MG85ML16MG10M2G16ML3MG10M2G28ML63M2G27MG31M2G2M,460MG</interp>
 <entry>
 <form>teṉ</form>
 <def>south</def>
@@ -536,11 +536,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>āyiṉum</form>
+<form><c type="glide">y</c>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">y</c>āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>pulampal</form>

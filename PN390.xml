@@ -99,7 +99,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN390">
-<interp type="alignment" select="0">13MG11ML13MG13MG74MG57ML16MG66MG195M2G6MG8MG38MG61MG71MG5MG48M2G7ML5MG126MG13MG8MG2M,109M7G602MG55M31G73MG</interp>
+<interp type="alignment" select="0">13MG11ML13MG13MG74MG34MG23ML16MG66MG195M2G6MG8MG38MG61MG71MG5MG48M2G7ML5MG126MG13MG8MG2M,109M7G603MG55M31G73MG</interp>
 <entry>
 <form>aṟavai</form>
 <def>virtue-you</def>
@@ -255,12 +255,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaṉaviṉum</form>
+<form>kaṉaviṉ-um</form>
 <def>dream</def>
-<form type="sandhi">kaṉaviṉuṅ</form>
+<form type="simple">kaṉaviṉ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kuṟukā<c type="geminated">k</c></form>

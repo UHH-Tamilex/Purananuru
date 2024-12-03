@@ -88,7 +88,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN393">
-<interp type="alignment" select="0">94ML50MG51MG57ML2ML114ML23ML27ML102MG5MG22MG97MR32MG29MG3M,721MG</interp>
+<interp type="alignment" select="0">94ML50MG51MG57ML2ML114ML23ML27ML102MG5MG22MG65MG32MR32MG29MG3M,722MG</interp>
 <entry>
 <form>pati</form>
 <def>abode</def>
@@ -959,12 +959,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>āyiṉum</form>
+<form><c type="glide">y</c>āyiṉ-um</form>
 <def>if-even</def>
-<form type="sandhi"><c type="glide">y</c>āyiṉuṅ</form>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">y</c>āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kōṭi</form>

@@ -62,7 +62,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN385">
-<interp type="alignment" select="0">80MG34MG13ML21ML25MG20MG57ML33MG28MG13MG3M,336MG</interp>
+<interp type="alignment" select="0">74MG6MG34MG13ML21ML25MG20MG57ML33MG28MG7MG6MG3M,338MG</interp>
 <entry>
 <form>veḷḷi</form>
 <def>Venus</def>
@@ -151,12 +151,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tōṉṟiṉum</form>
+<form>tōṉṟiṉ-um</form>
 <def>appear-if-even</def>
+<form type="simple">tōṉṟiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
   <gram type="role">conditional</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>ilaṉ-ē</form>
@@ -494,12 +496,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uṟaiyiṉum</form>
+<form>uṟaiyiṉ-um</form>
 <def>drop</def>
+<form type="simple">uṟaiyiṉ</form>
 <gramGrp>
   <gram type="role">comparative</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>pala-<c type="glide">v</c>ē</form>

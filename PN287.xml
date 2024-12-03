@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +68,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN287">
-<interp type="alignment" select="0">43ML89ML9MG20MG98MG4MG15ML71MG6M2G2M,366MG</interp>
+<interp type="alignment" select="0">43ML17MG26MG46ML9MG20MG98MG4MG15ML71MG6M2G2M,368MG</interp>
 <entry>
 <form>tuṭi</form>
 <def>Tuṭi-drum</def>
@@ -118,8 +119,14 @@
 <def>arrow</def>
 </entry>
 <entry>
-<form>taippiṉum</form>
+<form>taippiṉ-um</form>
 <def>insert-if-even</def>
+<form type="simple">taippiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>vayal</form>
@@ -138,8 +145,14 @@
 <def>spear</def>
 </entry>
 <entry>
-<form>piṟaḻiṉum</form>
+<form>piṟaḻiṉ-um</form>
 <def>leap-if-even</def>
+<form type="simple">piṟaḻiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>polam</form>

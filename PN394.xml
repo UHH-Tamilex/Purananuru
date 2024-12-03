@@ -74,7 +74,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN394">
-<interp type="alignment" select="0">154MG7ML59MG15ML33ML13MG54MG4MR44MG24M2G23MG10MG23MG10MG11ML36M2G2M,157MG381MG</interp>
+<interp type="alignment" select="0">121MG33MG7ML59MG15ML33ML13MG54MG4MR44MG24M2G23MG10MG23MG4MG6MG11ML36M2G2M,158MG382MG</interp>
 <entry>
 <form>cilai</form>
 <def>bow</def>
@@ -236,12 +236,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pukaḻiṉum</form>
+<form>pukaḻiṉ-um</form>
 <def>praise-if-even</def>
+<form type="simple">pukaḻiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
   <gram type="role">conditional</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>uḷḷal</form>
@@ -736,13 +738,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uṟiṉum</form>
+<form>uṟiṉ-um</form>
 <def>have-if-even</def>
-<form type="sandhi">uṟiṉun</form>
+<form type="simple">uṟiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
   <gram type="role">conditional</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tuṉṉ<c type="elided">u</c></form>
