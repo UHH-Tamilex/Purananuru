@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +61,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN302">
-<interp type="alignment" select="0">28MG6MLMG4MG8MG53MG23MGM3G24MG33MG51MG24MG17ML9MG3M,300MG</interp>
+<interp type="alignment" select="0">28MG6MLMG4MG8MG53MG48MG33MG51MG24MG17ML9MG3M,296MG</interp>
 <entry>
 <form>veṭi</form>
 <def>crack</def>
@@ -241,9 +242,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>cīṟi(ya)</form>
+<form>ciṟu</form>
 <def>little</def>
-<form type="sandhi">cīṟiy</form>
+<form type="sandhi">cīṟi</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -251,7 +252,6 @@
 <entry>
 <form>yāḻ<c type="geminated">k</c></form>
 <def>lute</def>
-<form type="sandhi">āḻ<c type="geminated">k</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
