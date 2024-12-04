@@ -68,7 +68,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN210">
-<interp type="alignment" select="0">13MR17MG37MG2ML3M2G31MG40MG23MG7MG6M2G47MG26MG23MG22ML49MR15ML65M2G2M,447MG</interp>
+<interp type="alignment" select="0">13MR17MG37MG2ML3MG31MG40MG23MG7MG6M2G47MG26MG23MG22ML49MR15ML65M2G2M,446MG</interp>
 <entry>
 <form>maṉpatai</form>
 <def>humanity</def>
@@ -164,14 +164,20 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>maṟṟ<c type="elided">u</c>-iṉaiyar</form>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉaiyar</form>
 <def>like-this-they</def>
-<form type="simple">iṉaiyar</form>
 <gramGrp>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>āyiṉ</form>

@@ -64,7 +64,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN257">
-<interp type="alignment" select="0">6MG36MG25ML55MGMG3MG14MG13MG14MG31MG16MR12MR47MG9ML13MG21ML26MG10MG2M,371MG</interp>
+<interp type="alignment" select="0">6MG36MG25ML59MG14MG13MG14MG31MG16MR12MR47MG9ML13MG21ML26MG10MG2M,369MG</interp>
 <entry>
 <form>cerupp<c type="elided">u</c></form>
 <def>sandal</def>
@@ -236,9 +236,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>villōṭ(i)</form>
-<def>bow-with</def>
+<form>villōṭu</form>
+<def>bow</def>
 <form type="sandhi">villōṭi</form>
+<gramGrp type="affix"><m>oṭu</m><gramGrp><gram type="role">sociative</gram></gramGrp></gramGrp>
 </entry>
 <entry>
 <form>yār-kolō</form>

@@ -62,7 +62,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN316">
-<interp type="alignment" select="0">51ML8MG16MG56MG33MG17MGM3G17MG4MG36MG31ML59MG3M,345MG</interp>
+<interp type="alignment" select="0">51ML8MG16MG89MG17MGM3G17MG4MG36MG31ML59MG3M,344MG</interp>
 <entry>
 <form>kaḷḷiṉ</form>
 <def>toddy</def>
@@ -180,10 +180,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṟṟu<c type="geminated">t</c>-taṉ</form>
+<form>maṟṟu<c type="geminated">t</c></form>
+<def>besides</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
 <def>self</def>
-<form type="simple">taṉ</form>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form><c type="geminated">ṉ</c>irum</form>

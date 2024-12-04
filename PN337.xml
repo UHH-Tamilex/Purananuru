@@ -82,7 +82,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN337">
-<interp type="alignment" select="0">11MG7MG28MG11MG21M2G110MG100MG14MR16MR25MG4ML7MG6MG3MG163M2G9MG5M2G18MG3ML2MG24MG12MG8ML14MG2M,649MG</interp>
+<interp type="alignment" select="0">11MG7MG28MG11MG21M2G110MG100MG14MR16MR25MG4ML7MG6MG3MG163MG9MG5M2G18MG3ML2MG24MG12MG8ML14MG2M,648MG</interp>
 <entry>
 <form>ār</form>
 <def>be-full</def>
@@ -762,14 +762,20 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṟṟ<c type="elided">u</c>-ivar</form>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivar</form>
 <def>these</def>
-<form type="simple">ivar</form>
 <gramGrp>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>maṟaṉ-um</form>
