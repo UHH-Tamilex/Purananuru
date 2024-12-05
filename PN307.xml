@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +68,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN307">
-<interp type="alignment" select="0">2MG2MG9MG4MG12MG64MG19MG31ML7MG5MG7MG9MG41MG25M2G13MG6MG11MG10MG21MG3MG15MG15MG20MG2M,376MG</interp>
+<interp type="alignment" select="0">2MG2MG9MG4MG12MG64MG19MG31ML7MG5MG7MG9MG41MG25M2G19MG11MG10MG21MG3MG15MG15MG20MG2M,323MG51MG</interp>
 <entry>
 <form>āc<c type="elided">u</c></form>
 <def>support</def>
@@ -160,14 +161,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>utu</form>
+<form>utu<c type="geminated">k</c></form>
 <def>that-there</def>
 <gramGrp>
   <gram type="role">neuter singular</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kāṇ</form>
+<form>kāṇ</form>
 <def>see</def>
 <gramGrp>
   <gram type="role">imperative</gram>
@@ -337,14 +338,14 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>il<c type="geminated">l</c></form>
+<form>il</form>
 <def>be-not</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>oru</form>
+<form><c type="geminated">l</c>oru</form>
 <def>one</def>
 </entry>
 <entry>
@@ -431,20 +432,19 @@
 <gramGrp type="particle"><m type="enclitic">mātō</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>atu</form>
+<form><c type="glide">v</c>atu<c type="geminated">k</c></form>
 <def>that</def>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kaṇṭu</form>
+<form>kaṇṭu</form>
 <def>seen</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>“vē</form>
+<form>vē</form>
 <def>hot</def>
-<form type="sandhi">vē</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -522,9 +522,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>il”</form>
+<form>il</form>
 <def>is-not</def>
-<form type="sandhi">ill</form>
 <gramGrp>
   <gram type="role">finite verb</gram>
 </gramGrp>

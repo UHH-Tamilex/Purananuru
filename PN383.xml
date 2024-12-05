@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,19 +39,19 @@
 <l>taṉpuka ḻēttiṉe ṉāka vūṉpulan</l>
 <l>taruṅkaṭi viyaṉakark kuṟukal vēṇṭik</l>
 <l>kūmpuviṭu meṉpiṇi yaviḻtta vāmpaṟ</l>
-<l>ṟēmpā †yuḷḷa taṅkamaḻ maṭaruḷap†</l>
+<l>ṟēmpā yuḷḷa taṅkamaḻ maṭaruḷap</l>
 <l>pāmpuri yaṉṉa vaṭiviṉa kāmpiṉ</l>
 <l>kaḻaipaṭu coliyi ṉiḻaiyaṇi vārā</l>
 <l>voṇpūṅ kaliṅka muṭīi nuṇpūṇ</l>
 <l>vacintuvāṅku nucuppi ṉavvāṅ kuntik</l>
 <l>kaṟpuṭai maṭantai taṟpuṟam pulla</l>
-<l>veṟpeyarnta nōkki<gap quantity="30" reason="lost" unit="character"/></l>
-<l><gap quantity="46" reason="lost" unit="character"/>kaṟkoṇ</l>
+<l>veṟpeyarnta nōkki<gap quantity="18" reason="lost" unit="character"/></l>
+<l><gap quantity="27" reason="lost" unit="character"/>kaṟkoṇ</l>
 <l>ṭaḻittup piṟantaṉe ṉāki yavvaḻip</l>
 <l>piṟar, pāṭupukaḻ pāṭip paṭarpaṟi yēṉē</l>
 <l>kuṟumulaik kalamarum pālār veṇmaṟi</l>
 <l>naraimuka vūkamō ṭukaḷuñceṉa<gap quantity="15" reason="lost" unit="character"/></l>
-<l><gap quantity="26" reason="lost" unit="character"/>kaṉṟupala keḻīiya</l>
+<l><gap quantity="16" reason="lost" unit="character"/>kaṉṟupala keḻīiya</l>
 <l>kāṉkeḻu nāṭaṉ kaṭuntē raviyaṉeṉa</l>
 <l>voruvaṉai yuṭaiyēṉ maṉṉē yāṉē</l>
 <l>yaṟāṉevaṉ parikō veḷḷiyatu nilaiyē.</l>
@@ -84,7 +85,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN383">
-<interp type="alignment" select="0">22MG120MG13ML81MG100MG9MG124MG54MG6MG12MG36MG113MG3MG5MG15M2G15MG3M,437M31G41MG84M4G31M10G108MG</interp>
+<interp type="alignment" select="0">22MG120MG13ML79MG100MG9MG93MG54MG6MG12MG36MG103MG8MG15M2G15MG3M,476MG226MG</interp>
 <entry>
 <form>oḷ</form>
 <def>bright</def>
@@ -401,15 +402,13 @@
 <entry>
 <form>pāy</form>
 <def>flow</def>
-<form type="sandhi">pā†</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>†uḷḷa</form>
+<form>uḷḷa</form>
 <def>inside-they</def>
-<form type="sandhi">yuḷḷa</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter plural</gram>
@@ -437,7 +436,7 @@
 <def>??</def>
 </entry>
 <entry>
-<form>uḷap†</form>
+<form>uḷap</form>
 <def>inside</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -589,7 +588,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>a<c type="uncertain">m</c></form>
+<form>am</form>
 <def>pretty</def>
 <form type="sandhi">av</form>
 <gramGrp>
@@ -870,7 +869,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><gap quantity="11" unit="character" reason="lost"/></form>
+<form>ceṉa<gap quantity="11" unit="character" reason="lost"/></form>
 </entry>
 <entry>
 <form><gap quantity="20" unit="character" reason="lost"/></form>
@@ -957,15 +956,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>uṭaiyēṉ-maṉ-<c type="geminated">ṉ</c>ē</form>
+<form><c type="glide">y</c>uṭaiyēṉ-maṉṉē</form>
 <def>possess-I</def>
-<form type="simple">uṭaiyēṉ-maṉ</form>
-<form type="sandhi"><c type="glide">y</c>uṭaiyēṉmaṉ</form>
+<form type="simple">uṭaiyēṉ</form>
+<form type="sandhi"><c type="glide">y</c>uṭaiyēṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṉē</m></gramGrp>
 </entry>
 <entry>
 <form>yāṉ-ē</form>
