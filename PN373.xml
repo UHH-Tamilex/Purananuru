@@ -124,7 +124,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN373">
-<interp type="alignment" select="0">4MG10MG78MG38MG34MG56MG4M2G29ML29MG143MG20ML41MG73MG18ML5MG12MG4MG34MG97MG31MG11MG70ML11MG3MG27MG51MG110MG3MG22MR18ML60MG2M,1179MG</interp>
+<interp type="alignment" select="0">4MG10MG78MG38MG34MG56MG4M2G29ML172MG20ML41MG73MG18ML5MG12MG4MG34MG97MG31MG11MG70ML11MG3MG27MG51MG110MG3MG22MR18ML60MG2M,1178MG</interp>
 <entry>
 <form>urum<c type="elided">u</c></form>
 <def>thunder</def>
@@ -507,9 +507,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṟali-<c type="glide">y</c>āṅku</form>
+<form>maṟaliyāṅku</form>
 <def>fought-like</def>
-<form type="sandhi">maṟali<c type="glide">y</c>āṅku</form>
 <gramGrp>
   <gram type="role">comparative</gram>
   <gram type="role">absolutive</gram>
