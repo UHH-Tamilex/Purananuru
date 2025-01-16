@@ -74,7 +74,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN319">
-<interp type="alignment" select="0">44MG30MG3MG15MG39M2G6MG6M2G5MG11MG12M2G23MG15MG4MG3MG7MG5MG17MG4ML37MG13MG8ML82ML5M2G2M,422MG</interp>
+<interp type="alignment" select="0">44MG30MG3MG15MG39M2G6MG6M2G5MG11MG12M2G23MG15MG4MG3MG7MG22MG4ML37MG13MG8ML82ML5M2G2M,421MG</interp>
 <entry>
 <form>pūval</form>
 <def>red-soil</def>
@@ -320,9 +320,12 @@
 <gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
-<form>mutu-vāy<c type="geminated">p</c></form>
-<def>old-truth</def>
-<form type="sandhi">mutuvāy<c type="geminated">p</c></form>
+<form>mutu</form>
+<def>old</def>
+</entry>
+<entry>
+<form>vāy<c type="geminated">p</c></form>
+<def>truth</def>
 </entry>
 <entry>
 <form>pāṇa</form>
