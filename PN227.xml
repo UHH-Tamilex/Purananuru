@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +62,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN227">
-<interp type="alignment" select="0">9MG20MG12MG3MG48MG7M2G2MLMG33MG8MG12MG3MG4MR110MG19MG2M,308MG</interp>
+<interp type="alignment" select="0">9MG20MG12MG3MG48MG7M2G2MLMG33MG8MG12MG3MG4MR129MG2M,307MG</interp>
 <entry>
 <form>naṉi</form>
 <def>much</def>
@@ -470,13 +471,18 @@
 <def>now</def>
 </entry>
 <entry>
-<form>yār-maṟṟu</form>
+<form>yār</form>
 <def>who</def>
-<form type="simple">yār</form>
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">maṟṟu</m></gramGrp>
+</entry>
+<entry>
+<form>maṟṟu</form>
+<def>besides</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>niṉ</form>

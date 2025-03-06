@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -87,7 +88,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN213">
-<interp type="alignment" select="0">4MG52M2G72MG10ML36MG5MG24MG3ML3M2G6MG55MG45MG22MG41MG22MG31ML18MG7MG15MR9MG34MG15MG16MG11MG30MG7MR6ML25MG2ML25MG13MG18MG10M2G2M,345MG199MG183MG</interp>
+<interp type="alignment" select="0">4MG52M2G72MG10ML36MG5MG24MG3ML3MG6MG100MG22MG41MG22MG31ML18MG7MG15MR9MG34MG15MG16MG11MG30MG7MR6ML25MG2ML25MG13MG18MG10M2G2M,343MG199MG183MG</interp>
 <entry>
 <form>maṇṭ<c type="elided">u</c></form>
 <def>grow-fierce</def>
@@ -376,12 +377,12 @@
 </entry>
 <entry>
 <form>eḻuntavar</form>
-<def>risen-they(partn.p.a.3.h.)</def>
+<def>risen-they</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
+  <gram type="role">participial noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -410,16 +411,22 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>maṟṟ<c type="elided">u</c>-avarkk<c type="elided">u</c></form>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>avarkk<c type="elided">u</c></form>
 <def>those</def>
-<form type="simple">avarkku</form>
 <form type="sandhi">avarkk</form>
 <gramGrp>
   <gram type="role">dative</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>aṉaiyai</form>
@@ -495,14 +502,19 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṟṟu-nī</form>
+<form>maṟṟu</form>
+<def>besides</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nī</form>
 <def>you</def>
-<form type="simple">nī</form>
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>uyarntōr</form>

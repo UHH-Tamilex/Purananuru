@@ -93,7 +93,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN397">
-<interp type="alignment" select="0">5MG12MG10MG34MG8MG32MG11MG3MG5MG5MG68MG125MG11MG67ML11MR13MG82MR8MG60MG19MR114MG10MG45ML15MG2M,798MG</interp>
+<interp type="alignment" select="0">5MG12MG10MG34MG8MG32MG11MG3MG5MG5MG68MG125MG11MG67ML11MR13MG82MR8MG60MG19MR73MG33MG8MG10MG45ML15MG2M,800MG</interp>
 <entry>
 <form>veḷḷi-<c type="glide">y</c>um</form>
 <def>Venus</def>
@@ -1008,12 +1008,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>celiṉum</form>
+<form>celiṉ-um</form>
 <def>go-if-even</def>
-<form type="sandhi">celiṉun</form>
+<form type="simple">celiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>teṟu</form>
@@ -1052,11 +1053,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>tōṉṟiṉum</form>
+<form>tōṉṟiṉ-um</form>
 <def>appear-if-even</def>
+<form type="simple">tōṉṟiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>eṉ</form>

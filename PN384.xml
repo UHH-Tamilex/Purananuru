@@ -86,7 +86,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN384">
-<interp type="alignment" select="0">26MG145MG26MG3MG140MG40MG11MG12ML20MG61MG50MR40MG21MG37MG6MG2M,115M21G142M18G60M10G138M4G146MG</interp>
+<interp type="alignment" select="0">26MG145MG26MG3MG4MG136MG40MG11MG12ML20MG61MG50MR40MG21MG37MG6MG2M,115M21G143M18G60M10G138M4G146MG</interp>
 <entry>
 <form>mel</form>
 <def>soft</def>
@@ -310,11 +310,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>uḻavar</form>

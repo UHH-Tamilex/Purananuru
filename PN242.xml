@@ -25,7 +25,15 @@
   <body>
     <div xml:id="PN242-intro">
       <p type="edition">tiṇaiyum tuṟaiyum avai. ollaiyūr kiḻāṉmakaṉ peruñcāttaṉaik kuṭavāyiṉallātaṉār (kuṭavāyiṟkīrattaṉār) pāṭiyatu.
-        ituvumatu – <app><lem wit="#C2 #C3">ollaiyūr</lem><rdg wit="#C8">ollaiyūrk</rdg></app> <app><lem wit="#C2 #C3">kiḻārmaka<space quantity="12" unit="character"/></lem><rdg wit="#C8">kiḻāṉmakaṉ peruñcāttaṉaik kuṭavāyi</rdg></app> ṉallātaṉār.
+        ituvumatu – 
+        <app>
+        <lem wit="#C2 #C3">ollaiyūr</lem>
+        <rdg wit="#C8">ollaiyūrk</rdg>
+        </app> 
+        <app>
+        <lem wit="#C2 #C3">kiḻārmaka<space quantity="12" unit="character"/></lem>
+        <rdg wit="#C8">kiḻāṉmakaṉ peruñcāttaṉaik kuṭavāyi</rdg>
+        </app> ṉallātaṉār.
       </p>
       <p xml:lang="en" type="translation">  
       </p>
@@ -50,7 +58,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN242">
-<interp type="alignment" select="0">30MGMG100MG8MG15M2GM,161M</interp>
+<interp type="alignment" select="0">131MG8MG15M2GM,159M</interp>
 <entry>
 <form>iḷaiyōr</form>
 <def>youth-they</def>
@@ -86,7 +94,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nal<c type="geminated">l</c>(i)</form>
+<form>nal<c type="geminated">l</c>u</form>
 <def>good</def>
 <form type="sandhi">nal<c type="geminated">l</c>i</form>
 <gramGrp>

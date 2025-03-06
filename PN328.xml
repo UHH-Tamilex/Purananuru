@@ -68,7 +68,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN328">
-<interp type="alignment" select="0">23MG17MG13M2G6M2G7MG31MG39MG10MG30MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,539MG</interp>
+<interp type="alignment" select="0">23MG17MG13M2G6M2G7MG31MG39MG10MG11MG19MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,540MG</interp>
 <entry>
 <form><gap quantity="4" unit="character" reason="lost"/>ṭai</form>
 </entry>
@@ -172,6 +172,7 @@
 </entry>
 <entry>
 <form><gap quantity="24" unit="character" reason="lost"/>ṭ<c type="elided">u</c></form>
+<form type="sandhi"><gap quantity="24" unit="character" reason="lost"/>ṭ</form>
 </entry>
 <entry>
 <form>amaintaṉaṉ-ē</form>
@@ -188,8 +189,14 @@
 <def>thus-he</def>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>pāṇa</form>

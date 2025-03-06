@@ -81,7 +81,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN202">
-<interp type="alignment" select="0">94MR70MG25ML5MG30M2G18MR41ML11ML56MG6ML31M2G40ML37MG10MG5MG34MG56ML10MG2M,600MG</interp>
+<interp type="alignment" select="0">94MR70MG25ML5MG30M2G18MR41ML11ML56MG6ML31MG40ML37MG10MG5MG34MG56ML10MG2M,599MG</interp>
 <entry>
 <form>veṭci<c type="geminated">k</c></form>
 <def>scarlet-I</def>
@@ -490,13 +490,19 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṟṟ<c type="elided">u</c>-ivar</form>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivar</form>
 <def>this-one</def>
-<form type="simple">ivar</form>
 <gramGrp>
   <gram type="role">honorific</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>kai</form>

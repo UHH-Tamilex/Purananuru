@@ -24,8 +24,18 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN246-intro">
-      <p type="edition">tiṇai – atu. tuṟai – āṉantappaiyuḷ. pūtapāṇṭiyaṉṟēvi peruṅkōpeṇṭu tīppāyvāḷ colliyatu. ituvumatu –<app><rdg wit="#C2 #C3"><space quantity="10" unit="character"/></rdg><lem wit="#C8">yaṉ ṟēvi </lem></app> yaṉ ṟēvi peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ.
-      </p>
+      <p type="edition">tiṇai – atu. tuṟai – āṉantappaiyuḷ. 
+      pūtapāṇṭiyaṉṟēvi peruṅkōpeṇṭu tīppāyvāḷ colliyatu. 
+ituvumatu – <app>
+<lem wit="#C8">pūtappāṇṭiyaṉ</lem>
+<rdg wit="#C2 #C3"><gap quantity="17" unit="character"/>ṭiṉa</rdg>
+</app> 
+<app>
+<lem wit="#C8">ṟēvi</lem>
+<rdg wit="#C2 #C3"/>
+</app>
+peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ
+</p>
       <p xml:lang="en" type="translation">  
       </p>
     </div>

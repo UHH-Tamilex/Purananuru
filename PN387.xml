@@ -112,7 +112,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN387">
-<interp type="alignment" select="0">84ML22MG51MG10MG30MG51ML32MG13MG27MG10MGMG11ML7MG54ML75MG74MG12MG3M2G17M2G13MR9M2G25M2G5MG10MG21ML7MG9ML39MGMG68MG11MG50ML71MR12MG3M,392M15G27M24G209MG307MG</interp>
+<interp type="alignment" select="0">84ML22MG51MG10MG30MG51ML32MG13MG27MG22ML7MG54ML75MG74MG12MG3M2G17M2G13MR9M2G25M2G5MG10MG21ML7MG9ML108MG11MG50ML32MG39MR6MG6MG3M,390M15G27M24G209MG307MG</interp>
 <entry>
 <form>vaḷ</form>
 <def>sharpness</def>
@@ -593,7 +593,7 @@
 <gramGrp type="particle"><m type="enclitic">attai</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>eṉṟ(i)</form>
+<form><c type="glide">y</c>eṉṟu</form>
 <def>said</def>
 <form type="sandhi"><c type="glide">y</c>eṉṟi</form>
 <gramGrp>
@@ -1122,7 +1122,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>marupp(i)</form>
+<form>maruppu</form>
 <def>tusk</def>
 <form type="sandhi">maruppi</form>
 <gramGrp>
@@ -1304,12 +1304,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṇaliṉum</form>
+<form>maṇaliṉ-um</form>
 <def>sand</def>
+<form type="simple">maṇaliṉ</form>
 <gramGrp>
   <gram type="role">comparative</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>āṅkaṇ</form>
@@ -1361,12 +1363,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nelliṉum</form>
+<form>nelliṉ-um</form>
 <def>paddy</def>
+<form type="simple">nelliṉ</form>
 <gramGrp>
   <gram type="role">comparative</gram>
   <gram type="role">oblique</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>pala-<c type="glide">v</c>ē</form>

@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -73,7 +74,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN319">
-<interp type="alignment" select="0">44MG30MG3MG15MG39M2G6MG6M2G5M2G11MG12M2G38MG4MG3MG12MG17MG4ML37MG13MG8ML82ML5M2G2M,421MG</interp>
+<interp type="alignment" select="0">44MG30MG3MG15MG39M2G6MG6M2G5MG11MG12M2G23MG15MG4MG3MG7MG22MG4ML37MG13MG8ML82ML5M2G2M,421MG</interp>
 <entry>
 <form>pūval</form>
 <def>red-soil</def>
@@ -232,11 +233,18 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>uṇk<c type="uncertain">a</c>-eṉa<c type="geminated">p</c></form>
+<form>uṇk<c type="uncertain">a</c></form>
 <def>may-eat</def>
-<form type="sandhi">uṇkeṉa<c type="geminated">p</c></form>
+<form type="sandhi">uṇk</form>
 <gramGrp>
   <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa<c type="geminated">p</c></form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -278,9 +286,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>āyiṉum</form>
+<form><c type="glide">v</c>āyiṉ-um</form>
 <def>if-even</def>
-<form type="sandhi"><c type="glide">v</c>āyiṉun</form>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">v</c>āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tarukuvēm</form>
@@ -297,16 +311,21 @@
 <form type="sandhi">īṅk</form>
 </entry>
 <entry>
-<form>iruntīmō</form>
+<form>iruntīm-ō</form>
 <def>be</def>
+<form type="simple">iruntīm</form>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
-<form>mutu-vāy<c type="geminated">p</c></form>
-<def>old-truth</def>
-<form type="sandhi">mutuvāy<c type="geminated">p</c></form>
+<form>mutu</form>
+<def>old</def>
+</entry>
+<entry>
+<form>vāy<c type="geminated">p</c></form>
+<def>truth</def>
 </entry>
 <entry>
 <form>pāṇa</form>

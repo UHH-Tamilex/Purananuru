@@ -24,7 +24,12 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN247-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaḷ tīppāyvāḷaik kaṇṭu maturaipērālavāyār colliyatu. ituvumatu –<app><lem wit="#C2 #C3 #C8">pūtappāṇṭiyaṉ ṟēvi peruṅkōppeṇṭū tīppāyavāḷaik kaṇṭu matuppōralavāmār</lem></app>
+      <p type="edition">tiṇaiyum tuṟaiyum avai. avaḷ tīppāyvāḷaik kaṇṭu maturaipērālavāyār colliyatu. 
+      ituvumatu – pūtappāṇṭiyaṉ ṟēvi peruṅkōppeṇṭū tīppāyavāḷaik kaṇṭu 
+      <app>
+      <lem wit="#C2 #C3 #C8">matuppōralavāmār</lem>
+      <rdg wit="#C7">matu<gap reason="lost" unit="character" quantity="2"/>rālavāyār</rdg>
+      </app>
       </p>
       <p xml:lang="en" type="translation">  
       </p>

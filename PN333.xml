@@ -76,7 +76,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN333">
-<interp type="alignment" select="0">131MG15MG17MG30M2G35M2G7MG56MG66MG7M2G6ML93MG7MG23MG8MG9MG9MG20MG3M,561MG</interp>
+<interp type="alignment" select="0">131MG15MG17MG4MG26M2G35M2G7MG56MG66MG7M2G6ML93MG7MG23MG8MG9MG9MG20MG3M,562MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
@@ -285,12 +285,13 @@
 <form type="sandhi"><c type="glide">v</c>uyaviṟṟ</form>
 </entry>
 <entry>
-<form>āyiṉum</form>
+<form>āyiṉ-um</form>
 <def>if-even</def>
-<form type="sandhi">āyiṉun</form>
+<form type="simple">āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>taṅkiṉir</form>

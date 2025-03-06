@@ -30,6 +30,7 @@ jobs:
           yarn pageindex PN Puṟanāṉūṟu
           yarn todb PN
           yarn dbtohtml Puṟanāṉūṟu
+          cd ../..
           git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v4

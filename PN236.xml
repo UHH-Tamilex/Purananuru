@@ -63,7 +63,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN236">
-<interp type="alignment" select="0">56MG10MG4ML36MG38M2G18ML6MG5MG17MG4MG23ML10MGM2G18MG6MG42MG9MG17MG2M,341MG</interp>
+<interp type="alignment" select="0">56MG10MG4ML36MG38M2G18ML6MG5MG17MG4MG23ML29MG6MG42MG9MG17MG2M,338MG</interp>
 <entry>
 <form>kalai</form>
 <def>male monkey</def>
@@ -393,14 +393,20 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṟṟ(i)-yāṉ</form>
+<form>maṟṟu</form>
+<def>besides</def>
+<form type="sandhi">maṟṟi</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉ</form>
 <def>I</def>
-<form type="simple">yāṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>mēyiṉēṉ</form>

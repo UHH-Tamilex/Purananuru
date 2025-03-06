@@ -52,7 +52,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN315">
-<interp type="alignment" select="0">15MG19M2G11MG4ML61MG6MG13M2G32MG18MG5M,194MG</interp>
+<interp type="alignment" select="0">15MG19M2G11MG4ML61MG6MG13MG32MG18MG5M,193MG</interp>
 <entry>
 <form>uṭaiyaṉ</form>
 <def>possess-he</def>
@@ -166,10 +166,16 @@
 <def>strong-he</def>
 </entry>
 <entry>
-<form>maṟṟ<c type="elided">u</c>-ataṉ</form>
+<form>maṟṟ<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">maṟṟ</form>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ataṉ</form>
 <def>that-</def>
-<form type="simple">ataṉ</form>
-<gramGrp type="particle"><m type="proclitic">maṟṟu</m></gramGrp>
 </entry>
 <entry>
 <form>kāṉṟu</form>

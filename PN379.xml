@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -44,7 +45,7 @@
 <l>koṉvaral vāḻkkainiṉ kiṇaivaṉ kūṟak</l>
 <l>kēṭṭataṟ koṇṭum vēṭkai taṇṭātu</l>
 <l>viṭṭōy talaiya kuṉṟam piṉpaṭa</l>
-<l>.......................ra vantaṉeṉ yāṉē tāyi</l>
+<l><gap quantity="7" unit="character" reason="lost"/>ra vantaṉeṉ yāṉē tāyi</l>
 <l>ṟūvāk kuḻavi pōla vāṅkat</l>
 <l>tiruvuṭait tirumaṉai yaitutōṉṟu kamaḻpukai</l>
 <l>varumaḻai maṅkuliṉ maṟukuṭaṉ maṟaikkuṅ</l>
@@ -75,7 +76,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN379">
-<interp type="alignment" select="0">3MG6MG7ML16MG24ML41MG13MG20MG6MR102MG33MG40M2G77MG6ML18MG63MG19MG7MG14MG2M,371M17G148MG</interp>
+<interp type="alignment" select="0">3MG6MG7ML16MG24ML41MG13MG20MG6MR102MG73M2G61MG6ML18MG63MG19MG7MG14MG2M,519MG</interp>
 <entry>
 <form>yāṉ-ē</form>
 <def>I</def>
@@ -267,14 +268,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>yāmai</form>
+<form>yāmai<c type="geminated">k</c></form>
 <def>tortoise</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kūṉ</form>
+<form>kūṉ</form>
 <def>hump</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -486,13 +487,18 @@
 </gramGrp>
 </entry>
 <entry>
-<form>koṉ-varal</form>
+<form>koṉ</form>
+<def>koṉ</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varal</form>
 <def>coming</def>
-<form type="simple">varal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="proclitic">koṉ</m></gramGrp>
 </entry>
 <entry>
 <form>vāḻkkai</form>
@@ -606,8 +612,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ǂǂǂǂǂǂra</form>
-<form type="sandhi">.......................ra</form>
+<form><gap quantity="7" unit="character" reason="lost"/>ra</form>
 </entry>
 <entry>
 <form>vantaṉeṉ</form>

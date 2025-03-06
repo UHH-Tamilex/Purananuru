@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +25,12 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN373-intro">
-      <p type="edition">tiṇai – atu. tuṟai – maṟakkaḷavaḻi; ērkkaḷa uruvakamumām (C2+3: aruvakamumām). cōḻaṉ kurāppaḷḷit tuñciya kiḷivaḷavaṉ karuvūreṟiṉantāṉaik kōvūrkiḻār.
+      <p type="edition">tiṇai – atu. tuṟai – maṟakkaḷavaḻi; ērkkaḷa 
+      <app>
+      <lem wit="#C8">uruvakamumām</lem>
+      <rdg wit="#C2 #C3">aruvakamumām</rdg>
+      </app>
+      cōḻaṉ kurāppaḷḷit tuñciya kiḷivaḷavaṉ karuvūreṟiṉantāṉaik kōvūrkiḻār.
       </p>
       <p xml:lang="en" type="translation">  
       </p>
@@ -36,7 +42,7 @@
 <l>tērmā vaḻituḷi talaii nāmuṟak</l>
 <l>kaṇaikkāṟ ṟeṭutta kaṇṇakaṉ pācaṟai</l>
 <l>yiḻitaru kurutiyō ṭēntiya voḷvāṭ</l>
-<l>piḻivatu pōlap piṭ<supplied>ṭai</supplied>yū <supplied>ṟu</supplied>vappa†</l>
+<l>piḻivatu pōlap piṭ<supplied>ṭai</supplied>yū <supplied>ṟu</supplied>vappa</l>
 <l>mainta rāṭiya mayaṅkuperun tāṉaik</l>
 <l>koṅkupuṟam peṟṟa koṟṟa vēntē</l>
 <l><gap quantity="22" reason="lost" unit="character"/>taṇṭa māppoṟi</l>
@@ -118,7 +124,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN373">
-<interp type="alignment" select="0">4MG10MG78MG38MG34MG57MG4M2G29ML29MG143MG20ML41MG73MG18ML5MG12MG4MG34MG97MG31MG11MG70ML11MG3MG27MG51MG110MG3MG22MR18ML60MG2M,1180MG</interp>
+<interp type="alignment" select="0">4MG10MG78MG38MG34MG56MG4M2G29ML172MG20ML41MG73MG18ML5MG12MG4MG34MG97MG31MG11MG70ML11MG3MG27MG51MG110MG3MG22MR18ML60MG2M,1178MG</interp>
 <entry>
 <form>urum<c type="elided">u</c></form>
 <def>thunder</def>
@@ -366,7 +372,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uvappa†</form>
+<form>uvappa</form>
 <def>rejoice</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -501,9 +507,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>maṟali-<c type="glide">y</c>āṅku</form>
+<form>maṟaliyāṅku</form>
 <def>fought-like</def>
-<form type="sandhi">maṟali<c type="glide">y</c>āṅku</form>
 <gramGrp>
   <gram type="role">comparative</gram>
   <gram type="role">absolutive</gram>
@@ -1203,11 +1208,9 @@
 </entry>
 <entry>
 <form>koṇṭaṉar</form>
-<def>they took(p.a.3.h.h.)(p.a.|h.|3.)</def>
+<def>they took</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
-  <gram type="role">honorific</gram>
-  <gram type="role">third person</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -1484,8 +1487,9 @@
 </entry>
 <entry>
 <form>tarum</form>
-<def>giving-(pey</def>
+<def>giving</def>
 <gramGrp>
+  <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
 <entry>

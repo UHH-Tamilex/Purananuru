@@ -73,7 +73,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN389">
-<interp type="alignment" select="0">24MG64MG8MG20MG7MG9ML4MG14MG12MG12MG12MG46MG3MR55MG36MG35ML6MR19MG43MG2M,449MG</interp>
+<interp type="alignment" select="0">24MG39MG25MG8MG20MG7MG9ML4MG14MG12MG12MG12MG46MG3MR55MG36MG35ML6MR19MG43MG2M,450MG</interp>
 <entry>
 <form>nīr</form>
 <def>water</def>
@@ -155,11 +155,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>āyiṉum</form>
+<form><c type="glide">y</c>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">y</c>āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>ēlā</form>

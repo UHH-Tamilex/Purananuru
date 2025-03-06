@@ -90,7 +90,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN381">
-<interp type="alignment" select="0">2MG4MG2ML11MG14MG13MG37MG5MG37MG8MG30MG3MG17MG47MG11MG32MG127MG38MG55MG6MG45MG10MG33MG5MG27MR11MG9MG7MG11MG22MG3MG40MG2M,593MG161MG</interp>
+<interp type="alignment" select="0">2MG4MG2ML11MG14MG13MG37MG5MG37MG8MG30MG3MG17MG47MG11MG32MG127MG38MG55MG6MG22MG13MG10MG10MG33MG5MG27MR11MG9MG7MG11MG22MG3MG40MG2M,595MG161MG</interp>
 <entry>
 <form>ūṉ-um</form>
 <def>meat</def>
@@ -812,11 +812,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>āyiṉum</form>
+<form><c type="glide">y</c>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">y</c>āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>ivaṇai</form>
@@ -828,11 +831,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>āyiṉum</form>
+<form><c type="glide">y</c>āyiṉ-um</form>
 <def>if-even</def>
+<form type="simple">āyiṉ</form>
+<form type="sandhi"><c type="glide">y</c>āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>itaṉ</form>

@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -81,7 +82,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN235">
-<interp type="alignment" select="0">14MG7MG4M2G18MG19MG5M2G15MR16MG17MR16MG35MG4M2G14ML17ML5M2G11MR40M2G59MG36ML34MG13MG9MG4MG2MG9MG4MG17MG17MG3MG73MG3MG23MG3M,602MG</interp>
+<interp type="alignment" select="0">14MG7MG4M2G18MG19MG5M2G14MGMR16MG16MGMR16MG35MG4M2G14ML17ML5M2G11MR40M2G59MG36ML34MG13MG9MG4MG2MG9MG4MG17MG17MG3MG73MG3MG23MG3M,604MG</interp>
 <entry>
 <form>ciṟiya</form>
 <def>little-they</def>
@@ -197,13 +198,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>cōṟṟāṉum</form>
+<form>cōṟṟāṉ-um</form>
 <def>rice-he</def>
-<form type="sandhi">cōṟṟāṉun</form>
+<form type="simple">cōṟṟāṉ</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>naṉi</form>
@@ -238,13 +240,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>cōṟṟāṉum</form>
+<form>cōṟṟāṉ-um</form>
 <def>rice-he</def>
-<form type="sandhi">cōṟṟāṉun</form>
+<form type="simple">cōṟṟāṉ</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">masculine singular</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>naṉi</form>

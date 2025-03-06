@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -44,11 +45,11 @@
 <l>purimālaiyar pāṭiṉikkup</l>
 <l>polantāmaraip pūmpāṇaroṭu</l>
 <l>kalantaḷaiiya nīḷirukkaiyāṟ</l>
-<l>poṟaiyoṭu <supplied>ER: malinta kaṟpiṉ</supplied> māṉōkkiṉ</l>
+<l>poṟaiyoṭu <supplied>malinta kaṟpiṉ</supplied> māṉōkkiṉ</l>
 <l>villeṉa vilaṅkiya puruvattu valleṉa</l>
 <l>nalki ṉāvañcu muḷḷeyiṟṟu makaḷi</l>
 <l>ralku ṟāṅkā vacaii melleṉa</l>
-<l><supplied>ER: tēṟal</supplied> polaṅkalat tēnti</l>
+<l><supplied>tēṟal</supplied> polaṅkalat tēnti</l>
 <l>yamiḻteṉa maṭuppa mānti yikaḻvila</l>
 <l>ṉillā vulakattu<gap quantity="9" reason="lost" unit="character"/> mainī</l>
 <l>colla vēṇṭā<gap quantity="10" reason="lost" unit="character"/> muntaṟinta</l>
@@ -80,7 +81,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN361">
-<interp type="alignment" select="0">35MG17MR8MG7MG38MG8MR29ML11MG10ML37MG5MG7ML22MG18MG4MG3M2G54MG32M2G16ML43ML7ML21ML36MG10MG21MG4ML57M10G,358M2G238M</interp>
+<interp type="alignment" select="0">35MG17MR8MG7MG38MG8MR29ML11MG10ML37MG5MG7ML22MG18MG4MG3M2G54MG45ML43ML7ML21ML33MG10MG21MG4ML57M,580M</interp>
 <entry>
 <form>kār</form>
 <def>rainy season</def>
@@ -537,9 +538,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>poṟaiyoER:ṭu</form>
+<form>poṟaiyoṭu</form>
 <def>burden</def>
-<form type="sandhi">poṟaiyoṭuER:</form>
 <gramGrp>
   <gram type="role">sociative</gram>
 </gramGrp>
@@ -685,7 +685,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ER:tēṟal</form>
+<form>tēṟal</form>
 <def>[ER:clarified toddy(v.n.)]</def>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -822,10 +822,6 @@
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
-</entry>
-<entry>
-<form><gap quantity="10" unit="character" reason="lost"/></form>
-<form type="sandhi"/>
 </entry>
 </standOff>
 </TEI>
