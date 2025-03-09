@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -472,12 +473,17 @@ peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ
 <form type="sandhi">uyavaṟ</form>
 </entry></entry>
 <entry><entry>
-<form>uyaǀval</form>
-<def>survive(inf.)ǀstrong(adj.)</def>
-<form type="sandhi">uyavaṟ</form>
+<form>uya</form>
+<def>survive</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry><entry>
+<form>val</form>
+<def>strong</def>
+<form type="sandhi">vaṟ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
-  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry></entry>
 </superEntry>
