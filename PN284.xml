@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -54,7 +55,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN284">
-<interp type="alignment" select="0">6MG14MG26MG3MG3MG43MG27MG24MG28ML13MG19MR5MG2M,224MG</interp>
+<interp type="alignment" select="0">6MG6MG8MG26MG3MG3MG43MG27MG24MG28ML13MG19MR5MG2M,225MG</interp>
 <entry>
 <form>varuka-til</form>
 <def>may come</def>
@@ -65,11 +66,13 @@
 <gramGrp type="particle"><m type="enclitic">til</m></gramGrp>
 </entry>
 <entry>
-<form>vallē</form>
+<form>val-<c type="geminated">l</c>ē</form>
 <def>fast</def>
+<form type="simple">val</form>
 <gramGrp>
   <gram type="role">adverb</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>varuka-til</form>

@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,11 +59,11 @@ peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ
 <l>naḷḷirum poykaiyun tīyumō raṟṟē.</l>
 </lg>
 <lg type="translation" xml:lang="en">
-<l corresp="1"> You who are worthy of much [praise], you who are worthy of much [praise], </l>
-<l>with bad counsel, who block block [me], saying “stay behind”, </l>
-<l>without saying “you may go”, you who are worthy of much [praise]: (2f.)</l>
-<l corresp="10">are we not women capable of surviving/suffering women </l>
-<l corresp="9">who as of today remain on mats/without mats as a bed, strewn with pebbles, </l>
+<l corresp="1">You who are worthy of much [praise], you who are worthy of much [praise],</l>
+<l>with bad counsel, who block [me], saying “stay behind”, </l>
+<l corresp="2f.">without saying “you may go”, you who are worthy of much [praise]:</l>
+<l corresp="10">are we not <choice><seg>women capable of surviving</seg><seg>suffering women</seg></choice></l>
+<l corresp="9">who as of today remain <choice><seg>on mats</seg><seg>without mats</seg></choice> as a bed, strewn with pebbles, </l>
 <l corresp="8">while [our] food is something boiled of Vēḷai, </l>
 <l corresp="7">that is cooked, pouring tamarind with a paste of white sesame </l>
 <l corresp="6">on rice balls pressed with the hand which lie on a leaf, </l>
@@ -72,7 +73,7 @@ peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ
 <l corresp="12">let it be difficult/precious for you. For us, </l>
 <l corresp="13a-c">because our big-shouldered husband is gone, </l>
 <l corresp="15a-c">the fire and the centre of the big pond </l>
-<l>with lotuses that open [their] pointed petals so that the buds end (13c+14)</l>
+<l corresp="13c-14">with lotuses that open [their] pointed petals so that the buds end</l>
 <l corresp="15d">	are but one. </l>
 </lg>
     </div>
@@ -89,7 +90,7 @@ peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ
 </entry>
 <entry>
 <form>cāṉṟīr-ē</form>
-<def>bee-worthy-you</def>
+<def>been-worthy-you</def>
 <form type="simple">cāṉṟīr</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
@@ -472,12 +473,17 @@ peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ
 <form type="sandhi">uyavaṟ</form>
 </entry></entry>
 <entry><entry>
-<form>uyaǀval</form>
-<def>survive(inf.)ǀstrong(adj.)</def>
-<form type="sandhi">uyavaṟ</form>
+<form>uya</form>
+<def>survive</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry><entry>
+<form>val</form>
+<def>strong</def>
+<form type="sandhi">vaṟ</form>
 <gramGrp>
   <gram type="role">adjective</gram>
-  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry></entry>
 </superEntry>
