@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -330,8 +331,9 @@
 </entry>
 <entry>
 <form>īka</form>
-<def>may give(obt.)</def>
+<def>may give</def>
 <gramGrp>
+  <gram type="role">optative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -349,9 +351,10 @@
 </entry>
 <entry>
 <form>aṉṟiciṉ-ē</form>
-<def>may not be so(opt?)</def>
+<def>end</def>
 <form type="simple">aṉṟiciṉ</form>
 <gramGrp>
+  <gram type="role">optative</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -360,7 +363,6 @@
 <def>hear-you</def>
 <form type="simple">kēṭṭi</form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
@@ -370,7 +372,6 @@
 <form>vāḻi</form>
 <def>live-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
