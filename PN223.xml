@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +25,7 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN223-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kallākiyum iṭaṅkoṭutta kōpperuñcōḻaṉai vaṭakkirunta pottiyār pāṭiyatu.
+      <p type="edition">tiṇaiyum tuṟaiyum avai. kallākiyum iṭaṅkoṭatta kōpperuñcōḻaṉai vaṭakkirunta pottiyār pāṭiyatu.
       </p>
       <p xml:lang="en" type="translation">  
       </p>
@@ -218,4 +219,109 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff corresp="#PN223-intro" type="wordsplit">
+<interp type="alignment" select="0">5MG8MG15MG35MG23M,22MG66MG</interp>
+<entry>
+<form>tiṇai-<c type="glide">y</c>um</form>
+<def>setting</def>
+<form type="simple">tiṇai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tuṟai-<c type="glide">y</c>um</form>
+<def>sub-theme</def>
+<form type="simple">tuṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>avai</form>
+<def>those</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>āki-<c type="glide">y</c>um</form>
+<def>become</def>
+<form type="simple">āki</form>
+<form type="sandhi"><c type="geminated">l</c>āki</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>iṭam</form>
+<def>place</def>
+<form type="sandhi">iṭaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭutta</form>
+<def>given</def>
+<form type="sandhi">koṭatta</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōpperuñcōḻaṉai</form>
+<def>Kōpperuñcōḻaṉ</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṭakk<c type="elided">u</c></form>
+<def>north</def>
+<form type="sandhi">vaṭakk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irunta</form>
+<def>sat</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pottiyār</form>
+<def>Pottiyār</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṭiyatu</form>
+<def>sung-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
