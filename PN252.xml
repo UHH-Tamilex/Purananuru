@@ -1,0 +1,234 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 252.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN252-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉai avar pāṭiyatu.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+  </div>
+    <div xml:id="PN252">
+      <lg type="edition">
+<l>kaṟaṅkuveḷ ḷaruvi yēṟṟali ṉiṟampeyarntu</l>
+<l>tillai yaṉṉa pulleṉ caṭaiyō</l>
+<l>ṭaḷḷilait tāḷi koyyu mōṉē</l>
+<l>yilvaḻaṅku maṭamayil piṇikkuñ</l>
+<l>colvalai vēṭṭuva ṉāyiṉaṉ muṉṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l corresp="3"> He who [now] plucks sharp-leafed bindweed, </l>
+<l corresp="2">  with matted hair empty like the blinding-tree </l>
+<l corresp="1">  after changing colour because of receiving the roaring waterfall, </l>
+<l corresp="5">  earlier he was a hunter with a word net </l>
+<l corresp="4">  who ensnared innocent peacocks that roam the house. </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN252">
+<interp type="alignment" select="0">24ML37MG20MG16ML37MG3M,141MG</interp>
+<entry>
+<form>kaṟaṅku</form>
+<def>sound</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>aruvi</form>
+<def>waterfall</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ēṟṟaliṉ</form>
+<def>receiving</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟam</form>
+<def>colour</def>
+<form type="sandhi">ṉiṟam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyarntu</form>
+<def>moved</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tillai</form>
+<def>blinding tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pulleṉ</form>
+<def>‘pul’-say</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+  <gram type="role">ideophone</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>caṭaiyōṭ<c type="elided">u</c></form>
+<def>matted hair</def>
+<form type="sandhi">caṭaiyōṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḷ</form>
+<def>sharpness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>ilai<c type="geminated">t</c></form>
+<def>leaf</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāḷi</form>
+<def>bind weed</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koyyumōṉ-ē</form>
+<def>pluck-he</def>
+<form type="simple">koyyumōṉ</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>il</form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḻaṅku</form>
+<def>roam</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭam</form>
+<def>youthfulness</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayil</form>
+<def>peacock</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṇikkum</form>
+<def>fettering-</def>
+<form type="sandhi">piṇikkuñ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col</form>
+<def>word</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>valai</form>
+<def>net</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṭṭuvaṉ</form>
+<def>hunter</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āyiṉaṉ</form>
+<def>he became</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ-<c type="geminated">ṉ</c>ē</form>
+<def>before</def>
+<form type="simple">muṉ</form>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

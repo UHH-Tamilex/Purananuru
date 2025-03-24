@@ -1,0 +1,275 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 277.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN277-intro">
+      <p type="edition">tiṇai, tumpai; tuṟai, uvaikaik kaluḻcci. pūṅkaṇuttiraiyār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN277">
+      <lg type="edition">
+<l>mīṉuṇ kokkiṉ ṟūvi yaṉṉa</l>
+<l>vāṉaraik kūntaṉ mutiyōḷ ciṟuvaṉ</l>
+<l>kaḷiṟeṟintu paṭṭaṉa ṉeṉṉu muvakai</l>
+<l>yīṉṟa ñāṉṟiṉum peritē kaṇṇīr</l>
+<l>nōṉkaḻai tuyalvarum vetirattu</l>
+<l>vāṉpeyat tūṅkiya citariṉum palavē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>The joy, when they said “he fell attacking an elephant bull,</l>
+<l>the son of the old woman with pure white tresses</l>
+<l>like the feathers of a fish-eating egret,</l>
+<l>it was greater than the day she gave birth [to him]. [Her] tears</l>
+<l>are more than the drops that drip down, when it rains,</l>
+<l>on the bamboo whose tough shafts come into swinging</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN277">
+<interp type="alignment" select="0">23ML30MG36MG7M2G56MG9M,166MG</interp>
+<entry>
+<form>mīṉ</form>
+<def>fish</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇ</form>
+<def>eat</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kokkiṉ</form>
+<def>wader</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tūvi</form>
+<def>feather</def>
+<form type="sandhi">ṟūvi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāṉ</form>
+<def>sky</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>narai</form>
+<def>whiteness</def>
+<form type="sandhi">ṉarai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">k</c>kūntal</form>
+<def>tresses</def>
+<form type="sandhi"><c type="geminated">k</c>kūntaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mutiyōḷ</form>
+<def>old-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟuvaṉ</form>
+<def>little-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷiṟ<c type="elided">u</c></form>
+<def>elephant-bull</def>
+<form type="sandhi">kaḷiṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṟintu</form>
+<def>attacked</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭṭaṉaṉ</form>
+<def>he fell</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṉum</form>
+<def>saying-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uvakai<c type="glide">y</c></form>
+<def>joy</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>īṉṟa</form>
+<def>brought-forth</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ñāṉṟiṉ-um</form>
+<def>time</def>
+<form type="simple">ñāṉṟiṉ</form>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>perit<c type="elided">u</c>-ē</form>
+<def>big-it</def>
+<form type="simple">peritu</form>
+<form type="sandhi">perit</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kaṇṇīr</form>
+<def>tear</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōṉ</form>
+<def>endure</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻai</form>
+<def>bamboo</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyal</form>
+<def>swing</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vetirattu</form>
+<def>bamboo</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāṉ</form>
+<def>sky/cloud</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peya</form>
+<def>rain</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">t</c>tūṅkiya</form>
+<def>hung-</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>citariṉ-um</form>
+<def>drop</def>
+<form type="simple">citariṉ</form>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pala<c type="glide">v</c>ē</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+</standOff>
+</TEI>

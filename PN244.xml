@@ -1,0 +1,135 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 244.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN244">
+      <lg type="edition">
+<l><supplied>pā</supplied>ṇar ceṉṉiyum vaṇṭuceṉ ṟūtā</l>
+<l>viṟaliyar muṉkaiyun toṭiyiṟ poliyā</l>
+<l>viravaṉ mākkaḷu<gap quantity="28" reason="lost" unit="character"/></l></lg>
+<lg type="translation" xml:lang="en">
+<l>From the bards’ heads the bees go [and] don’t gorge themselves,</l>
+<l>the forearms of the dancing girls don’t flourish with bracelets,</l>
+<l>and the mendicant people……………..</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN244">
+<interp type="alignment" select="0">10MG12MG18MG29MGMG28M,103M</interp>
+<entry>
+<form>pāṇar</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṉi-<c type="glide">y</c>um</form>
+<def>top</def>
+<form type="simple">ceṉṉi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vaṇṭu</form>
+<def>bee</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟ<c type="elided">u</c></form>
+<def>gone</def>
+<form type="sandhi">ceṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūtā</form>
+<def>gorge-not-they</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṟaliyar</form>
+<def>dancing girl</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉkai-<c type="glide">y</c>um</form>
+<def>forearm</def>
+<form type="simple">muṉkai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>toṭiyiṉ</form>
+<def>bracelet</def>
+<form type="sandhi">toṭiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poliyā</form>
+<def>flourish-not-they</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>iraval</form>
+<def>begging</def>
+<form type="sandhi"><c type="glide">v</c>iravaṉ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mākkaḷ-um</form>
+<def>people</def>
+<form type="simple">mākkaḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form><gap quantity="28" unit="character" reason="lost"/></form>
+</entry>
+</standOff>
+</TEI>

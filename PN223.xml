@@ -1,0 +1,327 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 223.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN223-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. kallākiyum iṭaṅkoṭutta kōpperuñcōḻaṉai vaṭakkirunta pottiyār pāṭiyatu.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN223">
+      <lg type="edition">
+<l>palarkkuniḻa lāki yulakamīk kūṟit</l>
+<l>talaippō kaṉmaiyiṟ ciṟuvaḻi maṭaṅki</l>
+<l>nilaipeṟu naṭuka lākiyak kaṇṇu</l>
+<l>miṭaṅkoṭut taḷippa maṉṟa vuṭampō</l>
+<l>ṭiṉṉuyir virumpuṅ kiḻamait</l>
+<l>toṉṉaṭ puṭaiyār tammuḻaic celiṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l corresp="1">Being shade for many, lauded by the world, </l>
+<l corresp="2">bending over a little way in the absence of [total] destruction, </l>
+<l corresp="3">also in the places where they have become upright hero stones </l>
+<l corresp="4a-c">they surely will provide a place, </l>
+<l>– if, with a claim that desires sweet life along with the body (4df.) </l>
+<l corresp="6">those who feel old friendship go near them. </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN223">
+<interp type="alignment" select="0">23ML16MG48MG13MG19MG30MG21MG2M,178MG</interp>
+<entry>
+<form>palarkku</form>
+<def>many</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niḻal</form>
+<def>shade</def>
+</entry>
+<entry>
+<form>āki</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ulakam</form>
+<def>world</def>
+</entry>
+<entry>
+<form>mīkkūṟi<c type="geminated">t</c></form>
+<def>lauded</def>
+</entry>
+<entry>
+<form>talaippōk<c type="elided">u</c></form>
+<def>destruction</def>
+<form type="sandhi">talaippōk</form>
+</entry>
+<entry>
+<form>aṉmaiyiṉ</form>
+<def>absence</def>
+<form type="sandhi">aṉmaiyiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+</entry>
+<entry>
+<form>vaḻi</form>
+<def>way</def>
+</entry>
+<entry>
+<form>maṭaṅki</form>
+<def>surrendered</def>
+</entry>
+<entry>
+<form>nilai</form>
+<def>position</def>
+</entry>
+<entry>
+<form>peṟu</form>
+<def>obtain</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭukal</form>
+<def>hero-stone</def>
+</entry>
+<entry>
+<form>ākiya<c type="geminated">k</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇ-<c type="geminated">ṇ</c>um</form>
+<def>eye</def>
+<form type="simple">kaṇ</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>iṭam</form>
+<def>place</def>
+<form type="sandhi">iṭaṅ</form>
+</entry>
+<entry>
+<form>koṭutt<c type="elided">u</c></form>
+<def>given</def>
+<form type="sandhi">koṭutt</form>
+</entry>
+<entry>
+<form>aḷippa</form>
+<def>provide</def>
+</entry>
+<entry>
+<form>maṉṟa</form>
+<def>they</def>
+<gramGrp>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>uṭampōṭ<c type="elided">u</c></form>
+<def>body</def>
+<form type="sandhi"><c type="glide">v</c>uṭampōṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉ</form>
+<def>pleasing</def>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>uyir</form>
+<def>life</def>
+</entry>
+<entry>
+<form>virumpum</form>
+<def>desiring</def>
+<form type="sandhi">virumpuṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḻamai<c type="geminated">t</c></form>
+<def>lordship</def>
+</entry>
+<entry>
+<form>tol</form>
+<def>old</def>
+<form type="sandhi">toṉ</form>
+</entry>
+<entry>
+<form>naṭp<c type="elided">u</c></form>
+<def>friendship</def>
+<form type="sandhi">ṉaṭp</form>
+</entry>
+<entry>
+<form>uṭaiyār</form>
+<def>possess-they</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tam</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">m</c>uḻai<c type="geminated">c</c></form>
+<def>proximity</def>
+</entry>
+<entry>
+<form>celiṉ-ē</form>
+<def>go-if</def>
+<form type="simple">celiṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+<standOff corresp="#PN223-intro" type="wordsplit">
+<interp type="alignment" select="0">5MG8MG15MG35MG23M,22MG66MG</interp>
+<entry>
+<form>tiṇai-<c type="glide">y</c>um</form>
+<def>setting</def>
+<form type="simple">tiṇai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tuṟai-<c type="glide">y</c>um</form>
+<def>sub-theme</def>
+<form type="simple">tuṟai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>avai</form>
+<def>those</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kal</form>
+<def>stone</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">l</c>āki-<c type="glide">y</c>um</form>
+<def>become</def>
+<form type="simple">āki</form>
+<form type="sandhi"><c type="geminated">l</c>āki</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>iṭam</form>
+<def>place</def>
+<form type="sandhi">iṭaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭutta</form>
+<def>given</def>
+<form type="sandhi">koṭatta</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōpperuñcōḻaṉai</form>
+<def>Kōpperuñcōḻaṉ</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṭakk<c type="elided">u</c></form>
+<def>north</def>
+<form type="sandhi">vaṭakk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>irunta</form>
+<def>sat</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pottiyār</form>
+<def>Pottiyār</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṭiyatu</form>
+<def>sung-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

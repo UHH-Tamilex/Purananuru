@@ -1,0 +1,195 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 312.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN312-intro">
+      <p type="edition">tiṇai, vākai; tuṟai, mūtiṉmullai. poṉmuṭiyār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN312">
+      <lg type="edition">
+<l>īṉṟupuṟan taruta leṉṟalaik kaṭaṉē</l>
+<l>cāṉṟō ṉākkuta ṟantaikkuk kaṭaṉē</l>
+<l>vēlvaṭittuk koṭuttal kollaṟkuk kaṭaṉē</l>
+<l>taṇṇaṭai nalkal vēntaṟkuk kaṭaṉē</l>
+<l>yoḷiṟuvā ḷaruñcama murukkik</l>
+<l>kaḷiṟeṟintu peyartal kāḷaikkuk kaṭaṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Bringing forth [and] protecting [children] is the duty upon me. </l>
+<l>Making [them] into worthy men is the father’s duty.</l>
+<l>Forming spears [and] giving [them] is the smith’s duty.</l>
+<l>Granting villages is the king’s duty.</l>
+<l>Crushing [enemies] in difficult battle with shining swords</l>
+<l>[and] coming back after attacking elephant bulls is the young man’s duty.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN312">
+<interp type="alignment" select="0">9MG9MG11MG14ML14MG34MG29MG19ML12MG28MG2M,190MG</interp>
+<entry>
+<form>īṉṟu</form>
+<def>brought-forth</def>
+</entry>
+<entry>
+<form>puṟam-tarutal</form>
+<def>protecting-</def>
+<form type="sandhi">puṟantarutal</form>
+</entry>
+<entry>
+<form>eṉ-talai<c type="geminated">k</c></form>
+<def>my(obl.)head</def>
+<form type="sandhi">eṉṟalai<c type="geminated">k</c></form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭaṉ-ē</form>
+<def>duty</def>
+<form type="simple">kaṭaṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>cāṉṟōṉ</form>
+<def>worthy-he</def>
+</entry>
+<entry>
+<form>ākkutal</form>
+<def>making-become</def>
+<form type="sandhi">ākkutaṟ</form>
+</entry>
+<entry>
+<form>tantaikku<c type="geminated">k</c></form>
+<def>father</def>
+<form type="sandhi">ṟantaikku<c type="geminated">k</c></form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭaṉ-ē</form>
+<def>duty</def>
+<form type="simple">kaṭaṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form>vaṭittu<c type="geminated">k</c></form>
+<def>practised</def>
+</entry>
+<entry>
+<form>koṭuttal</form>
+<def>giving</def>
+</entry>
+<entry>
+<form>kollaṟku<c type="geminated">k</c></form>
+<def>smith</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭaṉ-ē</form>
+<def>duty</def>
+<form type="simple">kaṭaṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>naṉṉaṭai</form>
+<def>village</def>
+<form type="sandhi">taṇṇaṭai</form>
+</entry>
+<entry>
+<form>nalkal</form>
+<def>granting</def>
+</entry>
+<entry>
+<form>vēntaṟku<c type="geminated">k</c></form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭaṉ-ē</form>
+<def>duty</def>
+<form type="simple">kaṭaṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oḷiṟu</form>
+<def>be-bright-</def>
+</entry>
+<entry>
+<form>vāḷ</form>
+<def>sword</def>
+</entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<form type="sandhi">aruñ</form>
+</entry>
+<entry>
+<form>camam</form>
+<def>battle</def>
+</entry>
+<entry>
+<form>murukki<c type="geminated">k</c></form>
+<def>crushed</def>
+</entry>
+<entry>
+<form>kaḷiṟ<c type="elided">u</c></form>
+<def>elephant-bull</def>
+<form type="sandhi">kaḷiṟ</form>
+</entry>
+<entry>
+<form>eṟintu</form>
+<def>mounted</def>
+</entry>
+<entry>
+<form>peyartal</form>
+<def>moving</def>
+</entry>
+<entry>
+<form>kāḷaikku<c type="geminated">k</c></form>
+<def>young-man</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭaṉ-ē</form>
+<def>duty</def>
+<form type="simple">kaṭaṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

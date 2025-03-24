@@ -1,0 +1,217 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 317.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN317-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. vēmpaṟṟūrk kumaraṉār
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN317">
+      <lg type="edition">
+<l>veṉvēl<gap quantity="34" reason="lost" unit="character"/>natu</l>
+<l>muṉṟiṟ kiṭanta peruṅkaḷi yāḷaṟ</l>
+<l>kataḷuṇ ṭāyiṉum pāyuṇṭāyiṉum</l>
+<l>yātuṇ ṭāyiṉuṅ koṭumiṉ vallē</l>
+<l>vēṭkai mīḷapa <gap quantity="7" reason="lost" unit="character"/></l>
+<l><gap quantity="14" reason="lost" unit="character"/>ku memakkum piṟarkkum</l>
+<l>yārkku mīyntu tuyilēṟ piṉaṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>To the highly intoxicated man who lies in the front yard</l>
+<l>give, be it a skin, be it a mat,</l>
+<l>be it whatever, quickly!</l>
+<l/>
+<l>He got sleep [only] after having given to us, </l>
+<l>to others, to everyone.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN317">
+<interp type="alignment" select="0">72MG7MG4MG8MG4MG5MG3MG4MG13MG42M2G9M2G7M2G19MG2M,214MG</interp>
+<entry>
+<form>vel</form>
+<def>be-victorious</def>
+<form type="sandhi">veṉ</form>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form><gap quantity="34" unit="character" reason="lost"/>natu</form>
+</entry>
+<entry>
+<form>muṉṟil</form>
+<def>front-yard</def>
+<form type="sandhi">muṉṟiṟ</form>
+</entry>
+<entry>
+<form>kiṭanta</form>
+<def>lied-</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruṅ</form>
+</entry>
+<entry>
+<form>kaḷi</form>
+<def>intoxication</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>āḷaṟk<c type="elided">u</c></form>
+<def>man</def>
+<form type="sandhi"><c type="glide">y</c>āḷaṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ataḷ</form>
+<def>skin</def>
+</entry>
+<entry>
+<form>uṇṭ<c type="elided">u</c></form>
+<def>is</def>
+<form type="sandhi">uṇṭ</form>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pāy</form>
+<def>mat</def>
+</entry>
+<entry>
+<form>uṇṭ<c type="elided">u</c></form>
+<def>is</def>
+<form type="sandhi">uṇṭ</form>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>yāt<c type="elided">u</c></form>
+<def>what</def>
+<form type="sandhi">yāt</form>
+</entry>
+<entry>
+<form>uṇṭ<c type="elided">u</c></form>
+<def>is</def>
+<form type="sandhi">uṇṭ</form>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>koṭumiṉ</form>
+<def>give</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vall-ē</form>
+<def>quickly</def>
+<form type="simple">vall</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>vēṭkai</form>
+<def>desire</def>
+</entry>
+<entry>
+<form>mīḷapa<gap quantity="21" unit="character" reason="lost"/>kum</form>
+</entry>
+<entry>
+<form>emakk<c type="elided">u</c>-um</form>
+<def>us</def>
+<form type="simple">emakku</form>
+<form type="sandhi">emakk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>piṟarkk<c type="elided">u</c>-um</form>
+<def>other</def>
+<form type="simple">piṟarkku</form>
+<form type="sandhi">piṟarkk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">honorific</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>yārkk<c type="elided">u</c>-um</form>
+<def>who</def>
+<form type="simple">yārkku</form>
+<form type="sandhi">yārkk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>īyntu</form>
+<def>given</def>
+</entry>
+<entry>
+<form>tuyil</form>
+<def>sleep</def>
+</entry>
+<entry>
+<form>ēṟpiṉaṉ-ē</form>
+<def>received-he</def>
+<form type="simple">ēṟpiṉaṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

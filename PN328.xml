@@ -1,0 +1,444 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 328.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN328-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai (pi - m. ituvumatu) paṅku<gap quantity="18" reason="lost" unit="character"/>
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN328">
+      <lg type="edition">
+<l><gap quantity="4" reason="lost" unit="character"/>ṭaimutaṟ puṟavucērn tirunta</l>
+<l>puṉpulac cīṟūr nelviḷai yātē</l>
+<l>varakun tiṉaiyu muḷḷavai yellā</l>
+<l>miravaṉ mākkaḷuk kīyat tolaintaṉa</l>
+<l><gap quantity="24" reason="lost" unit="character"/>ṭamain taṉaṉē</l>
+<l>yaṉṉa ṉāyiṉum pāṇa naṉṟum</l>
+<l>veḷḷat tiṭumpā luḷḷuṟai tōṭ</l>
+<l>kaḷavup puḷiyaṉṉa viḷai<gap quantity="20" reason="lost" unit="character"/></l>
+<l><gap quantity="26" reason="lost" unit="character"/>vāṭūṉ koḻuṅkuṟai</l>
+<l>koykura lariciyoṭu neypey taṭṭut</l>
+<l>tuṭuppoṭu civaṇiya kaḷikkoḷ veṇcō</l>
+<l>ṟuṇṭiṉi tirunta piṉ<gap quantity="34" reason="lost" unit="character"/></l>
+<l><gap quantity="42" reason="lost" unit="character"/>tarukuvaṉ mātō</l>
+<l>tāḷimuta ṉīṭiya ciṟunaṟu muññai</l>
+<l>muyalvantu kaṟikku muṉṟiṟ</l>
+<l>cīṟūr maṉṉaṉaip pāṭiṉai celiṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>  Paddy does not ripen in the little village of grassy fields</l>
+<l>that lies in the woodlands…..</l>
+<l>All there was of millet and millet</l>
+<l>is lost for giving it to the mendicant folks.</l>
+<l>………………………….he is suitable.</l>
+<l>Even if he is like that, oh bard, ??????</l>
+<l>…………………..???????????</l>
+<l>after eating delightful white rice gone with the laddle</l>
+<l>after cooking [and] pouring ghee along with the rice of plucked ears</l>
+<l>with fat pieces of dried meat………………. [and] sitting [there] sweetly,</l>
+<l>…………………………will he not give,</l>
+<l>if you go after having sung the king of the little village</l>
+<l>in the front yard, where the hare comes [and] chews </l>
+<l>the little fragrant Muññai grown long at the base of the talipot palm?</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN328">
+<interp type="alignment" select="0">23MG17MG13M2G6M2G7MG31MG39MG10MG11MG19MG87MG36MG36MG3MG4MG94MG13ML37ML8MG23MG2M,540MG</interp>
+<entry>
+<form><gap quantity="4" unit="character" reason="lost"/>ṭai</form>
+</entry>
+<entry>
+<form>mutal</form>
+<def>base</def>
+<form type="sandhi">mutaṟ</form>
+</entry>
+<entry>
+<form>puṟavu</form>
+<def>woodland</def>
+</entry>
+<entry>
+<form>cērnt<c type="elided">u</c></form>
+<def>joined</def>
+<form type="sandhi">cērnt</form>
+</entry>
+<entry>
+<form>irunta</form>
+<def>been</def>
+</entry>
+<entry>
+<form>pul</form>
+<def>low/grass</def>
+<form type="sandhi">puṉ</form>
+</entry>
+<entry>
+<form>pula<c type="geminated">c</c></form>
+<def>field</def>
+</entry>
+<entry>
+<form>cīṟ<c type="elided">u</c></form>
+<def>little</def>
+<form type="sandhi">cīṟ</form>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>nel</form>
+<def>paddy</def>
+</entry>
+<entry>
+<form>viḷaiyāt<c type="elided">u</c>-ē</form>
+<def>ripen-not-it</def>
+<form type="simple">viḷaiyātu</form>
+<form type="sandhi">viḷaiyāt</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>varak<c type="elided">u</c>-um</form>
+<def>millet-1</def>
+<form type="simple">varaku</form>
+<form type="sandhi">varak</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>tiṉai-<c type="glide">y</c>um</form>
+<def>millet-2</def>
+<form type="simple">tiṉai</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>uḷḷavai</form>
+<def>been-they</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ellām</form>
+<def>all</def>
+</entry>
+<entry>
+<form>iraval</form>
+<def>begging</def>
+<form type="sandhi">iravaṉ</form>
+</entry>
+<entry>
+<form>mākkaḷukk<c type="elided">u</c></form>
+<def>people</def>
+<form type="sandhi">mākkaḷukk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>īya<c type="geminated">t</c></form>
+<def>give</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tolaintaṉa</form>
+<def>were-lost-they</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><gap quantity="24" unit="character" reason="lost"/>ṭ<c type="elided">u</c></form>
+<form type="sandhi"><gap quantity="24" unit="character" reason="lost"/>ṭ</form>
+</entry>
+<entry>
+<form>amaintaṉaṉ-ē</form>
+<def>was-suited-he</def>
+<form type="simple">amaintaṉaṉ</form>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉṉaṉ</form>
+<def>thus-he</def>
+</entry>
+<entry>
+<form>āyiṉ-um</form>
+<def>if-even</def>
+<form type="simple">āyiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pāṇa</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṉṟum</form>
+<def>good-it</def>
+</entry>
+<entry>
+<form>veḷḷatt<c type="elided">u</c></form>
+<def>flood</def>
+<form type="sandhi">veḷḷatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭum</form>
+<def>placing</def>
+</entry>
+<entry>
+<form>pāl</form>
+<def>share</def>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>inside</def>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>uṟai</form>
+<def>stay</def>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<form type="sandhi">tōṭ</form>
+</entry>
+<entry>
+<form>kaḷavu<c type="geminated">p</c></form>
+<def>theft</def>
+</entry>
+<entry>
+<form>puḷi</form>
+<def>sourness</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉṉa</form>
+<def>like</def>
+</entry>
+<entry>
+<form>viḷai</form>
+<def>ripen</def>
+</entry>
+<entry>
+<form><gap quantity="18" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form><gap quantity="28" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>vāṭ<c type="elided">u</c></form>
+<def>fade</def>
+<form type="sandhi">vāṭ</form>
+</entry>
+<entry>
+<form>ūṉ</form>
+<def>meat</def>
+</entry>
+<entry>
+<form>koḻum</form>
+<def>rich</def>
+<form type="sandhi">koḻuṅ</form>
+</entry>
+<entry>
+<form>kuṟai</form>
+<def>piece</def>
+</entry>
+<entry>
+<form>koy</form>
+<def>pluck</def>
+</entry>
+<entry>
+<form>kural</form>
+<def>ear</def>
+</entry>
+<entry>
+<form>ariciyoṭu</form>
+<def>rice</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ney</form>
+<def>ghee</def>
+</entry>
+<entry>
+<form>peyt<c type="elided">u</c></form>
+<def>poured</def>
+<form type="sandhi">peyt</form>
+</entry>
+<entry>
+<form>aṭṭu<c type="geminated">t</c></form>
+<def>cooked</def>
+</entry>
+<entry>
+<form>tuṭuppoṭu</form>
+<def>ladle</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>civaṇiya</form>
+<def>gone-with</def>
+</entry>
+<entry>
+<form>kaḷi<c type="geminated">k</c></form>
+<def>delight</def>
+</entry>
+<entry>
+<form>koḷ</form>
+<def>take</def>
+</entry>
+<entry>
+<form>veḷ</form>
+<def>white</def>
+<form type="sandhi">veṇ</form>
+</entry>
+<entry>
+<form>cōṟ<c type="elided">u</c></form>
+<def>rice</def>
+<form type="sandhi">cōṟ</form>
+</entry>
+<entry>
+<form>uṇṭ<c type="elided">u</c></form>
+<def>eaten</def>
+<form type="sandhi">uṇṭ</form>
+</entry>
+<entry>
+<form>iṉit<c type="elided">u</c></form>
+<def>pleasing-it</def>
+<form type="sandhi">iṉit</form>
+</entry>
+<entry>
+<form>irunta</form>
+<def>sat</def>
+</entry>
+<entry>
+<form>piṉ</form>
+<def>after</def>
+</entry>
+<entry>
+<form><gap quantity="32" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form><gap quantity="44" unit="character" reason="lost"/></form>
+</entry>
+<entry>
+<form>tarukuvaṉ-mātō</form>
+<def>will-give-he</def>
+<form type="simple">tarukuvaṉ</form>
+<gramGrp type="particle"><m type="enclitic">mātō</m></gramGrp>
+</entry>
+<entry>
+<form>tāḷi</form>
+<def>talipot-palm</def>
+</entry>
+<entry>
+<form>mutal</form>
+<def>base</def>
+<form type="sandhi">mutaṉ</form>
+</entry>
+<entry>
+<form>nīṭiya</form>
+<def>lengthened</def>
+<form type="sandhi">ṉīṭiya</form>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+</entry>
+<entry>
+<form>naṟu</form>
+<def>fragrant</def>
+</entry>
+<entry>
+<form>muññai</form>
+<def>Muññai-creeper</def>
+</entry>
+<entry>
+<form>muyal</form>
+<def>hare</def>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṟikkum</form>
+<def>chewing</def>
+</entry>
+<entry>
+<form>muṉṟil</form>
+<def>front-yard</def>
+<form type="sandhi">muṉṟiṟ</form>
+</entry>
+<entry>
+<form>cīṟ<c type="elided">u</c></form>
+<def>little</def>
+<form type="sandhi">cīṟ</form>
+</entry>
+<entry>
+<form>ūr</form>
+<def>village</def>
+</entry>
+<entry>
+<form>maṉṉaṉai<c type="geminated">p</c></form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṭiṉai</form>
+<def>sang-you</def>
+<gramGrp>
+  <gram type="role">muṟṟeccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celiṉ-ē</form>
+<def>go-if</def>
+<form type="simple">celiṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

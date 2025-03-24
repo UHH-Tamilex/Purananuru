@@ -1,0 +1,246 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 313.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN313-intro">
+      <p type="edition">tiṇai, atu; tuṟai, vallāṇmullai. māṅkuṭikiḻār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN313">
+      <lg type="edition">
+<l>atta naṇṇiya nāṭukeḻu peruviṟal</l>
+<l>kaipporuḷ yātoṉṟu milaṉē naccik</l>
+<l>kāṇiya ceṉṟa viravaṉ mākkaḷ</l>
+<l>kaḷiṟoṭu neṭuntēr vēṇṭiṉuṅ kaṭava</l>
+<l>vuppoy cākāṭ ṭumaṇar kāṭṭa</l>
+<l>kaḻimuri kuṉṟat taṟṟē</l>
+<l>yeḷḷamai viṉṟava ṉuḷḷiya poruḷē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>The man of great victories with a land that is located near the road</l>
+<l>is without any object of wealth in [his] hand. When mendicant folks, who desirously </l>
+<l>come to see him, ask [him for gifts], even if they want a large chariot with a bull  elephant,</l>
+<l>when salt merchants with a cart loaded with salt show up,</l>
+<l>[wealth] is like a hill eroded by the backwaters,</l>
+<l>the wealth he considers is something free from reproach. </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN313">
+<interp type="alignment" select="0">4MR36MG3M2G6MG53MG12MG8MG26MG3M2G10MG3MG15MG2M,194MG</interp>
+<entry>
+<form>attam</form>
+<def>road</def>
+<form type="sandhi">attan</form>
+</entry>
+<entry>
+<form>naṇṇiya</form>
+<def>be-located-</def>
+</entry>
+<entry>
+<form>nāṭu</form>
+<def>land</def>
+</entry>
+<entry>
+<form>keḻu</form>
+<def>have-</def>
+</entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+</entry>
+<entry>
+<form>viṟal</form>
+<def>victory</def>
+</entry>
+<entry>
+<form>kai<c type="geminated">p</c></form>
+<def>hand</def>
+</entry>
+<entry>
+<form>poruḷ</form>
+<def>wealth</def>
+</entry>
+<entry>
+<form>yāt<c type="elided">u</c></form>
+<def>what</def>
+<form type="sandhi">yāt</form>
+</entry>
+<entry>
+<form>oṉṟ<c type="elided">u</c>-um</form>
+<def>one-it</def>
+<form type="simple">oṉṟu</form>
+<form type="sandhi">oṉṟ</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ilaṉ-ē</form>
+<def>not-he</def>
+<form type="simple">ilaṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>nacci<c type="geminated">k</c></form>
+<def>desired</def>
+</entry>
+<entry>
+<form>kāṇiya</form>
+<def>see</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟa</form>
+<def>gone-</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>iraval</form>
+<def>begging</def>
+<form type="sandhi"><c type="glide">v</c>iravaṉ</form>
+</entry>
+<entry>
+<form>mākkaḷ</form>
+<def>people</def>
+</entry>
+<entry>
+<form>kaḷiṟoṭu</form>
+<def>elephant-bull</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭum</form>
+<def>long</def>
+<form type="sandhi">neṭun</form>
+</entry>
+<entry>
+<form>tēr</form>
+<def>chariot</def>
+</entry>
+<entry>
+<form>vēṇṭiṉ-um</form>
+<def>desire-if-even</def>
+<form type="simple">vēṇṭiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṭava</form>
+<def>ask</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>upp<c type="elided">u</c></form>
+<def>salt</def>
+<form type="sandhi"><c type="glide">v</c>upp</form>
+</entry>
+<entry>
+<form>oy</form>
+<def>carry-</def>
+</entry>
+<entry>
+<form>cākāṭṭ<c type="elided">u</c></form>
+<def>cart-</def>
+<form type="sandhi">cākāṭṭ</form>
+</entry>
+<entry>
+<form>umaṇar</form>
+<def>salt-merchant</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāṭṭa</form>
+<def>show</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻi</form>
+<def>much</def>
+</entry>
+<entry>
+<form>muri</form>
+<def>bent</def>
+</entry>
+<entry>
+<form>kuṉṟatt<c type="elided">u</c></form>
+<def>hill</def>
+<form type="sandhi">kuṉṟatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟṟ<c type="elided">u</c>-ē</form>
+<def>thus-it</def>
+<form type="simple">aṟṟu</form>
+<form type="sandhi">aṟṟ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eḷ</form>
+<def>reproach</def>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>amaiv<c type="elided">u</c></form>
+<def>suitability</def>
+<form type="sandhi"><c type="geminated">ḷ</c>amaiv</form>
+</entry>
+<entry>
+<form>iṉṟ<c type="elided">u</c></form>
+<def>not-it</def>
+<form type="sandhi">iṉṟ</form>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>he</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷḷiya</form>
+<def>remembered</def>
+</entry>
+<entry>
+<form>poruḷ-ē</form>
+<def>wealth</def>
+<form type="simple">poruḷ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

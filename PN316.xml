@@ -1,0 +1,379 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 316.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN316-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. maturaikkaḷḷiṟkaṭaiyattaṉ
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN316">
+      <lg type="edition">
+<l>kaḷḷiṉ vāḻttik kaḷḷiṉ vāḻttik</l>
+<l>kāṭṭoṭu miṭainta cīyā muṉṟi</l>
+<l>ṉāṭceruk kaṉantart tuñcu vōṉē</l>
+<l>yavaṉem miṟaivaṉ yāmavaṉ pāṇar</l>
+<l>nerunai vanta viruntiṟku maṟṟuttaṉ</l>
+<l>ṉirumpuṭaip paḻavāḷ vaittaṉa ṉiṉṟik</l>
+<l>karuṅkōṭṭuc cīṟiyāḻ paṇaiya mitukoṇ</l>
+<l>ṭīvati lāḷa ṉeṉṉātu nīyum</l>
+<l>vaḷḷi maruṅkul vayaṅkiḻai yaṇiyak</l>
+<l>kaḷḷuṭaik kalattēm yāmakiḻ tūṅkac</l>
+<l>ceṉṟuvāy civantumēl varuka</l>
+<l>ciṟukaṇ yāṉai vēntuviḻu muṟavē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Praising the toddy, praising the toddy,</l>
+<l>he is the one sleeping in stupor from the day's pressings</l>
+<l>in the unswept front yard set closely to the wilderness.</l>
+<l>He is our lord. We are his bards.</l>
+<l>For the guest, again, who came yesterday</l>
+<l>he put down the old sword from [his] large side. Today</l>
+<l>we are pawning this black-necked little lute. Taking it,</l>
+<l>without saying “He is a man who does not give!”, you too</l>
+<l>go, mouth reddened [and] come back</l>
+<l>so that [those with] glowing jewels adorn [their] vine-[thin] waists,</l>
+<l>while we sway in delight, with toddy in our pots,</l>
+<l>since the king on a small-eyed elephant is in distress.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN316">
+<interp type="alignment" select="0">51ML8MG16MG89MG35MG4MG36MG31ML59MG3M,340MG</interp>
+<entry>
+<form>kaḷḷiṉ</form>
+<def>toddy</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻtti<c type="geminated">k</c></form>
+<def>praised</def>
+</entry>
+<entry>
+<form>kaḷḷiṉ</form>
+<def>toddy</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāḻtti<c type="geminated">k</c></form>
+<def>praised</def>
+</entry>
+<entry>
+<form>kāṭṭoṭu</form>
+<def>wilderness</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>miṭainta</form>
+<def>set-close-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cīyā</form>
+<def>sweep-not</def>
+</entry>
+<entry>
+<form>muṉṟil</form>
+<def>front-yard</def>
+<form type="sandhi">muṉṟiṉ</form>
+</entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<form type="sandhi">ṉāṭ</form>
+</entry>
+<entry>
+<form>cerukk<c type="elided">u</c></form>
+<def>fight</def>
+<form type="sandhi">cerukk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṉantar<c type="geminated">t</c></form>
+<def>stupor</def>
+</entry>
+<entry>
+<form>tuñcuvōṉ-ē</form>
+<def>sleep-he</def>
+<form type="simple">tuñcuvōṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>avaṉ</form>
+<def>he</def>
+</entry>
+<entry>
+<form>em</form>
+<def>our-</def>
+</entry>
+<entry>
+<form><c type="geminated">m</c>iṟaivaṉ</form>
+<def>lord-he</def>
+</entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+</entry>
+<entry>
+<form>avaṉ</form>
+<def>he</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṇar</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nerunai</form>
+<def>yesterday</def>
+</entry>
+<entry>
+<form>vanta</form>
+<def>come-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viruntiṟku</form>
+<def>feast</def>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟṟu<c type="geminated">t</c></form>
+<def>besides</def>
+<gramGrp>
+  <gram type="role">interjection</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+</entry>
+<entry>
+<form><c type="geminated">ṉ</c>irum</form>
+<def>big/dark</def>
+</entry>
+<entry>
+<form>puṭai<c type="geminated">p</c></form>
+<def>side</def>
+</entry>
+<entry>
+<form>paḻa</form>
+<def>old</def>
+</entry>
+<entry>
+<form>vāḷ</form>
+<def>sword</def>
+</entry>
+<entry>
+<form>vaittaṉaṉ</form>
+<def>placed-he</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉṟ<c type="elided">u</c></form>
+<def>today</def>
+<form type="sandhi">iṉṟ</form>
+</entry>
+<entry>
+<form>i<c type="geminated">k</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>karum</form>
+<def>black</def>
+<form type="sandhi">karuṅ</form>
+</entry>
+<entry>
+<form>kōṭṭu<c type="geminated">c</c></form>
+<def>neck</def>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+<form type="sandhi">cīṟi</form>
+</entry>
+<entry>
+<form>yāḻ</form>
+<def>lute</def>
+</entry>
+<entry>
+<form>paṇaiyam</form>
+<def>pawn-we</def>
+</entry>
+<entry>
+<form>itu</form>
+<def>this</def>
+</entry>
+<entry>
+<form>koṇṭ<c type="elided">u</c></form>
+<def>taken</def>
+<form type="sandhi">koṇṭ</form>
+</entry>
+<entry>
+<form>īvat<c type="elided">u</c></form>
+<def>giving</def>
+<form type="sandhi">īvat</form>
+</entry>
+<entry>
+<form>il</form>
+<def>not-</def>
+</entry>
+<entry>
+<form>āḷaṉ</form>
+<def>man</def>
+</entry>
+<entry>
+<form>eṉṉātu</form>
+<def>say-not</def>
+</entry>
+<entry>
+<form>nīyum</form>
+<def>you</def>
+</entry>
+<entry>
+<form>vaḷḷi</form>
+<def>creeper</def>
+</entry>
+<entry>
+<form>maruṅkul</form>
+<def>waist</def>
+</entry>
+<entry>
+<form>vayaṅk<c type="elided">u</c></form>
+<def>glow-</def>
+<form type="sandhi">vayaṅk</form>
+</entry>
+<entry>
+<form>iḻai</form>
+<def>jewel</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṇiya<c type="geminated">k</c></form>
+<def>adorn</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷ</form>
+<def>toddy</def>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>uṭai<c type="geminated">k</c></form>
+<def>possess-</def>
+</entry>
+<entry>
+<form>kalattēm</form>
+<def>vessel-we</def>
+</entry>
+<entry>
+<form>yām</form>
+<def>we</def>
+</entry>
+<entry>
+<form>makiḻ</form>
+<def>delight</def>
+</entry>
+<entry>
+<form>tūṅka<c type="geminated">c</c></form>
+<def>sway</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟu</form>
+<def>gone</def>
+</entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>civantu</form>
+<def>reddened</def>
+</entry>
+<entry>
+<form>mēl</form>
+<def>upon</def>
+</entry>
+<entry>
+<form>varuka</form>
+<def>let-come</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>little</def>
+</entry>
+<entry>
+<form>kaṇ</form>
+<def>eye</def>
+</entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+</entry>
+<entry>
+<form>vēntu</form>
+<def>king</def>
+</entry>
+<entry>
+<form>viḻumuṟa-<c type="glide">v</c>ē</form>
+<def>prevail/be-in-distress</def>
+<form type="simple">viḻumuṟa</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

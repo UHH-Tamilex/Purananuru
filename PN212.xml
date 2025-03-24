@@ -1,0 +1,408 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 212.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN212-intro">
+      <p type="edition">tiṇai, atu. tuṟai, iyaṉmoḻi. kōpperuñcōḻaṉaip picirāntaiyār pāṭiyatu.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+  </div>
+    <div xml:id="PN212">
+      <lg type="edition">
+<l>nuṅkō yāreṉa viṉavi ṉeṅkōk</l>
+<l>kaḷamark karitta viḷaiyal veṅkaḷ</l>
+<l>yāmaip puḻukkiṟ kāmam vīṭa vārā</l>
+<l>vāraṟ koḻuñcū ṭaṅkavu ḷaṭāa</l>
+<l>vaikutoḻiṉ maṭiyu maṭiyā viḻaviṉ</l>
+<l>yāṇar naṉṉāṭ ṭuḷḷum pāṇar</l>
+<l>paitaṟ cuṟṟattup pacippakai yākik</l>
+<l>kōḻi yōṉē kōpperuñ cōḻaṉ</l>
+<l>potti ṉaṇpiṟ pottiyoṭu keḻīi</l>
+<l>vāyār perunakai vaikalu nakkē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l corresp="1">  If you ask “who is your king?”, our king </l>
+<l corresp="8">  is the one from Kōḻi, Kōpperum Cōḻaṉ, </l>
+<l corresp="7">  being an enemy to the hunger of the suffering retinue </l>
+<l corresp="6">  of bards in all [his] fertile good land </l>
+<l corresp="5">  with festivals do not pause while the ongoing tasks pause, </l>
+<l corresp="4">  cooking pretty cheeks of fat Āral roast, </l>
+<l corresp="3">  not being satiated so that passion dies along with the cooked [meat] of tortoise </l>
+<l corresp="2">  [and] ripe hot toddy that is filtered for the husbandmen, </l>
+<l corresp="9">  – united with Potti in a friendship without hollowness, </l>
+<l corresp="10">  smiling daily a big smile with [his] full mouth. </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN212">
+<interp type="alignment" select="0">32MG60MG28ML24MG2MG45MG18MG2ML24MG15MGMR4M2G2M,269MG</interp>
+<entry>
+<form>num</form>
+<def>your</def>
+<form type="sandhi">nuṅ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kō</form>
+<def>king</def>
+</entry>
+<entry>
+<form>yār</form>
+<def>who</def>
+</entry>
+<entry>
+<form>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉaviṉ</form>
+<def>ask-if</def>
+</entry>
+<entry>
+<form>em</form>
+<def>our</def>
+<form type="sandhi">eṅ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kō<c type="geminated">k</c></form>
+<def>king</def>
+</entry>
+<entry>
+<form>kaḷamarkk<c type="elided">u</c></form>
+<def>husbandmen</def>
+<form type="sandhi">kaḷamarkk</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aritta</form>
+<def>filtered-</def>
+</entry>
+<entry>
+<form>viḷaiyal</form>
+<def>ripening</def>
+</entry>
+<entry>
+<form>vem</form>
+<def>hot</def>
+<form type="sandhi">veṅ</form>
+</entry>
+<entry>
+<form>kaḷ</form>
+<def>toddy</def>
+</entry>
+<entry>
+<form>yāmai</form>
+<def>tortoise</def>
+</entry>
+<entry>
+<form><c type="geminated">p</c>puḻukkiṉ</form>
+<def>boiled-food</def>
+<form type="sandhi"><c type="geminated">p</c>puḻukkiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāmam</form>
+<def>passion</def>
+</entry>
+<entry>
+<form>vīṭa</form>
+<def>perish</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ārā</form>
+<def>become-full-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>āral</form>
+<def>Āral-fish</def>
+<form type="sandhi"><c type="glide">v</c>āraṟ</form>
+</entry>
+<entry>
+<form>koḻum</form>
+<def>fat</def>
+<form type="sandhi">koḻuñ</form>
+</entry>
+<entry>
+<form>cūṭ<c type="elided">u</c></form>
+<def>roast</def>
+<form type="sandhi">cūṭ</form>
+</entry>
+<entry>
+<form>am</form>
+<def>pretty</def>
+<form type="sandhi">aṅ</form>
+</entry>
+<entry>
+<form>kavuḷ</form>
+<def>cheek</def>
+</entry>
+<entry>
+<form>aṭāa</form>
+<def>cooked</def>
+</entry>
+<entry>
+<form>vaiku</form>
+<def>be-kept</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toḻil</form>
+<def>task</def>
+<form type="sandhi">toḻiṉ</form>
+</entry>
+<entry>
+<form>maṭiyum</form>
+<def>drooping</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṭiyā</form>
+<def>droop-not</def>
+<gramGrp>
+  <gram type="role">negative</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḻaviṉ</form>
+<def>festival</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṇar</form>
+<def>fertility</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<form type="sandhi">naṉ</form>
+</entry>
+<entry>
+<form>nāṭṭ<c type="elided">u</c></form>
+<def>land</def>
+<form type="sandhi">ṉāṭṭ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ-<c type="geminated">ḷ</c>um</form>
+<def>inside</def>
+<form type="simple">uḷ</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pāṇar</form>
+<def>enemy</def>
+</entry>
+<entry>
+<form>paital</form>
+<def>suffering</def>
+<form type="sandhi">paitaṟ</form>
+</entry>
+<entry>
+<form>cuṟṟattu<c type="geminated">p</c></form>
+<def>relations</def>
+</entry>
+<entry>
+<form>paci<c type="geminated">p</c></form>
+<def>hunger</def>
+</entry>
+<entry>
+<form>pakai</form>
+<def>enemy</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>āki<c type="geminated">k</c></form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōḻiyōṉ-ē</form>
+<def>Kōḻi-he</def>
+<form type="simple">kōḻiyōṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>kōpperum</form>
+<def>Kōpper</def>
+<form type="sandhi">kōpperuñ</form>
+</entry>
+<entry>
+<form>cōḻaṉ</form>
+<def>Cōḻaṉ</def>
+</entry>
+<entry>
+<form>pott<c type="elided">u</c></form>
+<def>hollow</def>
+<form type="sandhi">pott</form>
+</entry>
+<entry>
+<form>il</form>
+<def>not</def>
+<form type="sandhi">iṉ</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṇpiṉ</form>
+<def>friendship</def>
+<form type="sandhi">ṉaṇpiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pottiyoṭu</form>
+<def>Potti</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>keḻīi</form>
+<def>united</def>
+</entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+</entry>
+<entry>
+<form>ār-peru</form>
+<def>become-full</def>
+<form type="sandhi">ārperu</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nakai</form>
+<def>smile</def>
+</entry>
+<entry>
+<form>vaikal-um</form>
+<def>day</def>
+<form type="simple">vaikal</form>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>nakk<c type="elided">u</c>-ē</form>
+<def>laughed</def>
+<form type="simple">nakku</form>
+<form type="sandhi">nakk</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+<standOff corresp="#PN212-intro" type="wordsplit">
+<interp type="alignment" select="0">63M,5MG3MG5MG8MG37MG</interp>
+<entry>
+<form>tiṇai</form>
+<def>setting</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>atu</form>
+<def>that</def>
+</entry>
+<entry>
+<form>tuṟai</form>
+<def>sub-theme</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iyaṉmoḻi</form>
+<def>lauding the king's character</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōpperuñcōḻaṉai<c type="geminated">p</c></form>
+<def>Kōpperuñcōḻaṉ</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">accusative</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piricāntaiyār</form>
+<def>Picirāntaiyār</def>
+<form type="sandhi">picirāntaiyār</form>
+<gramGrp>
+  <gram type="role">proper name</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṭiyatu</form>
+<def>sung-it</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

@@ -1,0 +1,555 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 338.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN338-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. kuṉṟūr kiḻār makaṉār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div> 
+    <div xml:id="PN338">
+      <lg type="edition">
+<l>ērparanta vayaṉīr paranta ceṟuvi</l>
+<l>ṉeṉmalinta maṉaippoṉ malinta maṟukiṟ</l>
+<l>paṭuvaṇ ṭārkkum paṉmalark kāvi</l>
+<l>ṉeṭuvē ḷātaṉ pōntai yaṉṉa</l>
+<l>peruñcī raruṅkoṇ ṭiyaḷē karuñciṉai</l>
+<l>vēmpu mārum pōntaiyu mūṉṟum</l>
+<l>malainta ceṉṉiya raṇinta villar</l>
+<l>koṟṟa vēntar variṉun taṟṟaka</l>
+<l>vaṇaṅkārk kīkuva ṉallaṉ vaṇṭōṭṭup</l>
+<l>piṇaṅkukatirk kaḻaṉi nāppa ṇēmuṟ</l>
+<l>ṟuṇaṅkukala ṉāḻiyiṟ ṟōṉṟu</l>
+<l>mōreyiṉ maṉṉa ṉorumaṭa makaḷē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l corresp="4">Like the Pōntai of Neṭuvēḷātaṉ, </l>
+<l corresp="1">with paddy fields spread with ploughs, fields spread with water, </l>
+<l corresp="2">houses abounding in paddy, streets abounding in gold, </l>
+<l corresp="3">groves of many blossoms where the descending bees hum </l>
+<l corresp="5a-c">she of great excellence will be loot difficult to [take]. </l>
+<l>Having heads that wear black-branched Neem, </l>
+<l corresp="5d-7">laburnum and palmyra, having decorated bows </l>
+<l>even if those victorious kings come, he won’t </l>
+<l corresp="8-9c">give [her] to one who does not bow [to him] as it suits him, </l>
+<l corresp="12ab">the king with a single fortress,  </l>
+<l corresp="11">that appears like a dry ship on the ocean, </l>
+<l corresp="9d-10">well-protected among [his] paddy fields with ears intertwining with generous leaves, </l>
+	[and] one single youthful daughter. (12cd)
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN338">
+<interp type="alignment" select="0">14ML16ML40MG20ML41MG15M2G4M2G8MG3ML3M2G46MG19MG50MG42MR5MG2M,345MG</interp>
+<entry>
+<form>ēr</form>
+<def>plough</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paranta</form>
+<def>spread</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vayal</form>
+<def>field</def>
+<form type="sandhi">vayaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīr</form>
+<def>water</def>
+<form type="sandhi">ṉīr</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paranta</form>
+<def>spread</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṟuviṉ</form>
+<def>field</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nel</form>
+<def>paddy</def>
+<form type="sandhi">ṉeṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malinta</form>
+<def>abounded</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉai<c type="geminated">p</c></form>
+<def>house</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malinta</form>
+<def>abounded</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟukiṉ</form>
+<def>street</def>
+<form type="sandhi">maṟukiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭu</form>
+<def>descend</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṇṭ<c type="elided">u</c></form>
+<def>bee</def>
+<form type="sandhi">vaṇṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ārkkum</form>
+<def>roaring-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pal</form>
+<def>many</def>
+<form type="sandhi">paṉ</form>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar<c type="geminated">k</c></form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāviṉ</form>
+<def>grove</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭuvēḷ</form>
+<def>Neṭuvēḷ</def>
+<form type="sandhi">ṉeṭuvēḷ</form>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ātaṉ</form>
+<def>Ātaṉ</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōntai</form>
+<def>Pōntai</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṉṉa</form>
+<def>like</def>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruñ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cīr</form>
+<def>excellence</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arum</form>
+<def>difficult</def>
+<form type="sandhi">aruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭiyaḷ-ē</form>
+<def>pillage-she</def>
+<form type="simple">koṇṭiyaḷ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>karum</form>
+<def>black</def>
+<form type="sandhi">karuñ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉai</form>
+<def>branch</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēmp<c type="elided">u</c>-um</form>
+<def>neem tree</def>
+<form type="simple">vēmpu</form>
+<form type="sandhi">vēmp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>ār<c type="elided">u</c>-um</form>
+<def>laburnum tree</def>
+<form type="simple">āru</form>
+<form type="sandhi">ār</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>pōntai-<c type="glide">y</c>um</form>
+<def>palmyra tree</def>
+<form type="simple">pōntai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>mūṉṟ<c type="elided">u</c>-um</form>
+<def>three-it</def>
+<form type="simple">mūṉṟu</form>
+<form type="sandhi">mūṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>malainta</form>
+<def>worn</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṉiyar</form>
+<def>head-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṇinta</form>
+<def>adorned</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>villar</form>
+<def>bow-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṟṟa</form>
+<def>killed</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēntar</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>variṉ-um</form>
+<def>come-if-even</def>
+<form type="simple">variṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<form type="sandhi">taṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taka</form>
+<def>be-fit</def>
+<form type="sandhi">ṟaka</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaṇaṅkārkk<c type="elided">u</c></form>
+<def>bow-not-they</def>
+<form type="sandhi">vaṇaṅkārkk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+  <gram type="role">negative</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>īkuvaṉ</form>
+<def>he will give</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>allaṉ</form>
+<def>not-so-he</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷ</form>
+<def>generous</def>
+<form type="sandhi">vaṇ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṭṭu<c type="geminated">p</c></form>
+<def>leaf</def>
+<form type="sandhi">ṭōṭṭu<c type="geminated">p</c></form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṇaṅku</form>
+<def>be-intertwined</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>katir<c type="geminated">k</c></form>
+<def>ear</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḻaṉi</form>
+<def>paddy field</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāppaṇ</form>
+<def>middle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ēm</form>
+<def>protection</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟ<c type="elided">u</c></form>
+<def>had</def>
+<form type="sandhi">uṟṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṇaṅku</form>
+<def>dry</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kalaṉ</form>
+<def>vessel</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āḻiyiṉ</form>
+<def>ocean</def>
+<form type="sandhi">āḻiyiṟ</form>
+<gramGrp>
+  <gram type="role">comparative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōṉṟum</form>
+<def>appearing-</def>
+<form type="sandhi">ṟōṉṟum</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōr</form>
+<def>one</def>
+</entry>
+<entry>
+<form>eyil</form>
+<def>fortress</def>
+<form type="sandhi">eyiṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉṉaṉ</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>maṭa<c type="uncertain">m</c></form>
+<def>ignorance</def>
+<form type="sandhi">maṭam</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>makaḷ-ē</form>
+<def>girl</def>
+<form type="simple">makaḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

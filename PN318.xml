@@ -1,0 +1,282 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 318.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN318-intro">
+      <p type="edition">tiṇaiyum tuṟaiyum avai. peruṅkuṉṟūrkiḻār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN318">
+      <lg type="edition">
+<l>koyyaṭaku vāṭat taruviṟa kuṇaṅka</l>
+<l>mayilañ cāyaṉ māa yōḷoṭu</l>
+<l>pacittaṉ ṟamma peruntakai yūrē</l>
+<l>maṉaiyuṟai kurīik kaṟaiyaṇaṟ cēval</l>
+<l>pāṇar narampiṉ cukiroṭu vayamāṉ</l>
+<l>kuraṟcey pīliyi ṉiḻaitta kuṭampaip</l>
+<l>peruñcey nelli ṉarici yārntutaṉ</l>
+<l>puṉpuṟap peṭaiyoṭu vatiyum</l>
+<l>yāṇart tākum vēntuviḻu muṟiṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>While the edible leaves that had been plucked fade [and] the firewood brought dries up</l>
+<l>the village of the paragon along with the dark women</l>
+<l>of peacock-like grace goes hungry, alas.</l>
+<l>[A place] where the black-bearded males of the house-dwelling sparrow</l>
+<l>feed together on grains of paddy from the big wet fields</l>
+<l>[and] dwell together with [their] low-backed females</l>
+<l>in [their] nests fashioned of curled-up lion(?) hair</l>
+<l>and fibres from the strings of bards,</l>
+<l>it will become fertile [again] when the king prevails.  </l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN318">
+<interp type="alignment" select="0">23MG36M2G9MG8MG115MG35MG18MG2M,253MG</interp>
+<entry>
+<form>koy</form>
+<def>pluck-</def>
+</entry>
+<entry>
+<form><c type="geminated">y</c>aṭaku</form>
+<def>edible-leaves</def>
+</entry>
+<entry>
+<form>vāṭa<c type="geminated">t</c></form>
+<def>fade</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taru</form>
+<def>give-</def>
+</entry>
+<entry>
+<form>viṟak<c type="elided">u</c></form>
+<def>firewood</def>
+<form type="sandhi">viṟak</form>
+</entry>
+<entry>
+<form>uṇaṅka</form>
+<def>dry</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayilam</form>
+<def>peacock</def>
+<form type="sandhi">mayilañ</form>
+</entry>
+<entry>
+<form>cāyal</form>
+<def>pretty</def>
+<form type="sandhi">cāyaṉ</form>
+</entry>
+<entry>
+<form>mā</form>
+<def>grace</def>
+</entry>
+<entry>
+<form>ayōḷoṭu</form>
+<def>dark-she</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pacittaṉṟ<c type="elided">u</c>-amma</form>
+<def>it-was-hungry</def>
+<form type="simple">pacittaṉṟu</form>
+<form type="sandhi">pacittaṉṟ</form>
+<gramGrp type="particle"><m type="enclitic">amma</m></gramGrp>
+</entry>
+<entry>
+<form>perum-takai</form>
+<def>big-fittness</def>
+<form type="sandhi">peruntakai</form>
+</entry>
+<entry>
+<form><c type="glide">y</c>ūr-ē</form>
+<def>village</def>
+<form type="simple">ūr</form>
+<form type="sandhi"><c type="glide">y</c>ūr</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>maṉai</form>
+<def>house</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>uṟai</form>
+<def>stay-</def>
+</entry>
+<entry>
+<form>kurīi<c type="geminated">k</c></form>
+<def>bord</def>
+</entry>
+<entry>
+<form>kaṟai</form>
+<def>blackness</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṇal</form>
+<def>beard</def>
+<form type="sandhi"><c type="glide">y</c>aṇaṟ</form>
+</entry>
+<entry>
+<form>cēval</form>
+<def>cock</def>
+</entry>
+<entry>
+<form>pāṇar</form>
+<def>bard</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>narampiṉ</form>
+<def>string</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cukiroṭu</form>
+<def>fibre</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaya</form>
+<def>strength</def>
+</entry>
+<entry>
+<form>māṉ</form>
+<def>animal</def>
+</entry>
+<entry>
+<form>kural</form>
+<def>voice</def>
+<form type="sandhi">kuraṟ</form>
+</entry>
+<entry>
+<form>cey</form>
+<def>make-</def>
+</entry>
+<entry>
+<form>pīliyiṉ</form>
+<def>peacock-feather</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iḻaitta</form>
+<def>fashioned-</def>
+</entry>
+<entry>
+<form>kuṭampai<c type="geminated">p</c></form>
+<def>nest</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>big</def>
+<form type="sandhi">peruñ</form>
+</entry>
+<entry>
+<form>cey</form>
+<def>wet-field</def>
+</entry>
+<entry>
+<form>nelliṉ</form>
+<def>paddy</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>arici</form>
+<def>cooked-rice</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>ārnt<c type="elided">u</c></form>
+<def>become-full</def>
+<form type="sandhi"><c type="glide">y</c>ārnt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>utaṉ</form>
+<def>together</def>
+</entry>
+<entry>
+<form>puṉ</form>
+<def>low(tawny</def>
+<gramGrp>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟa<c type="geminated">p</c></form>
+<def>back</def>
+</entry>
+<entry>
+<form>peṭaiyoṭu</form>
+<def>she-bird</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vatiyum</form>
+<def>dwelling-</def>
+</entry>
+<entry>
+<form>yāṇartt<c type="elided">u</c></form>
+<def>fertility-it</def>
+<form type="sandhi">yāṇartt</form>
+</entry>
+<entry>
+<form>ākum</form>
+<def>becomes</def>
+</entry>
+<entry>
+<form>vēntu</form>
+<def>king</def>
+</entry>
+<entry>
+<form>viḻumuṟiṉ-ē</form>
+<def>prevail-if</def>
+<form type="simple">viḻumuṟiṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

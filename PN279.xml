@@ -1,0 +1,500 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 279.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN279-intro">
+      <p type="edition">tiṇai, vākai; tuṟai, mutiṉmullai. okkūr mācāttiyār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN279">
+      <lg type="edition">
+<l>keṭuka cintai kaṭitiva ṭuṇivē</l>
+<l>mūtiṉ makaḷi rāta ṟakumē</l>
+<l>mēṉā ḷuṟṟa ceruviṟ kivaṭaṉṉai</l>
+<l>yāṉai yeṟintu kaḷattoḻin taṉaṉē</l>
+<l>neruna luṟṟa ceruviṟkivaḷ koḻunaṉ</l>
+<l>perunirai vilaṅki yāṇṭu paṭṭaṉaṉē</l>
+<l>yiṉṟuñ ceruppaṟai kēṭṭu viruppuṟṟu mayaṅki</l>
+<l>vēṟkaik koṭuttu veḷituvirit tuṭīip</l>
+<l>pāṟumayirk kuṭumi yeṇṇey nīvi</l>
+<l>yorumaka ṉalla tillōḷ</l>
+<l>cerumuka nōkkic celkaveṉa viṭumē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+  <l>  Let [my] mind be lost. Fierce is her determination.</l>
+  <l>Becoming a [solitary] woman of an ancient house is befitting [to her].</l>
+  <l>In the battle that took place the day before her brother</l>
+  <l>stayed behind on the battle field, having attacked an elephant.</l>
+  <l>In the battle that took place yesterday her husband</l>
+  <l>fell there, having obstructed great rows [of enemies?].</l>
+  <l>Today, too, hearing the battle drum, she is confused with longing,</l>
+  <l>puts the spear in [his] hand, spreads something white and dresses [him] </l>
+  <l>smearing [his] crest of scattered hair with sesame oil,</l>
+  <l>she who has nothing but one son</l>
+  <l>looks the battle in the face [and] sends [him] off: go!</l>
+  </lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN279">
+<interp type="alignment" select="0">17MG4ML4M2G4MG13ML4MG4ML14MG4ML23MG9MG20MG40MG28MG37MG45MG13MR20MG2M,323MG</interp>
+<entry>
+<form>keṭuka</form>
+<def>may get lost</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cintai</form>
+<def>mind</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭit<c type="elided">u</c></form>
+<def>fierce-it</def>
+<form type="sandhi">kaṭit</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaḷ</form>
+<def>this-one</def>
+<form type="sandhi">ivaṭ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṇiv<c type="elided">u</c>-ē</form>
+<def>resolution</def>
+<form type="simple">tuṇivu</form>
+<form type="sandhi">ṭuṇiv</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>mūt<c type="elided">u</c></form>
+<def>ancient</def>
+<form type="sandhi">mūt</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>il</form>
+<def>house</def>
+<form type="sandhi">iṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+<gramGrp>
+  <gram type="role">feminine plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ātal</form>
+<def>becoming</def>
+<form type="sandhi">ātaṟ</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>takum-ē</form>
+<def>is befitting</def>
+<form type="simple">takum</form>
+<form type="sandhi">ṟakum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>mēl</form>
+<def>before</def>
+<form type="sandhi">mēṉ</form>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nāḷ</form>
+<def>day</def>
+<form type="sandhi">ṉāḷ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟa</form>
+<def>had</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceruviṟk<c type="elided">u</c></form>
+<def>fight</def>
+<form type="sandhi">ceruviṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaḷ</form>
+<def>this-one</def>
+<form type="sandhi">ivaṭ</form>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉṉai</form>
+<def>brother</def>
+<form type="sandhi">ṭaṉṉai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṟintu</form>
+<def>attacked</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷatt<c type="elided">u</c></form>
+<def>field</def>
+<form type="sandhi">kaḷatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oḻintaṉaṉ-ē</form>
+<def>he stayed behind</def>
+<form type="simple">oḻintaṉaṉ</form>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>nerunal</form>
+<def>yesterday</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟa</form>
+<def>had</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceruviṟk<c type="elided">u</c></form>
+<def>fight</def>
+<form type="sandhi">ceruviṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaḷ</form>
+<def>this-one</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḻunaṉ</form>
+<def>husband</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nirai</form>
+<def>row</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vilaṅki</form>
+<def>blocked</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṇṭu</form>
+<def>there</def>
+</entry>
+<entry>
+<form>paṭṭaṉaṉ-ē</form>
+<def>he fell</def>
+<form type="simple">paṭṭaṉaṉ</form>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṉṟum</form>
+<def>today</def>
+<form type="sandhi"><c type="glide">y</c>iṉṟuñ</form>
+</entry>
+<entry>
+<form>ceru<c type="geminated">p</c></form>
+<def>fight</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṟai</form>
+<def>drum</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭṭu</form>
+<def>heard</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>virupp<c type="elided">u</c></form>
+<def>desire</def>
+<form type="sandhi">virupp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟu</form>
+<def>had</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayaṅki</form>
+<def>been-confused</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+<form type="sandhi">vēṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kai<c type="geminated">k</c></form>
+<def>hand</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭuttu</form>
+<def>given</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷitu</form>
+<def>white-it</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viritt<c type="elided">u</c></form>
+<def>spread-out</def>
+<form type="sandhi">viritt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭīi<c type="geminated">p</c></form>
+<def>put-on</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṟu</form>
+<def>be-dishevelled</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mayir<c type="geminated">k</c></form>
+<def>hair</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṭumi</form>
+<def>crest</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṇṇey</form>
+<def>sesame oil</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nīvi</form>
+<def>smeared</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>makaṉ</form>
+<def>son</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>allat<c type="elided">u</c></form>
+<def>besides</def>
+<form type="sandhi">allat</form>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>illōḷ</form>
+<def>not-she</def>
+<gramGrp>
+  <gram type="role">feminine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceru</form>
+<def>fight</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mukam</form>
+<def>face</def>
+<form type="sandhi">mukan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nōkki<c type="geminated">c</c></form>
+<def>looked-at</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>celka</form>
+<def>may go</def>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭum-ē</form>
+<def>lets-go</def>
+<form type="simple">viṭum</form>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

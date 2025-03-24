@@ -1,0 +1,387 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 287.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN287-intro">
+      <p type="edition">tiṇai, karantai; tuṟai, nīṇmoḻi. cāttantaiyār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>  
+    <div xml:id="PN287">
+      <lg type="edition">
+<l>tuṭiyeṟiyum pulaiya</l>
+<l>veṟikōl koḷḷu miḻiciṉa</l>
+<l>kāla māriyi ṉampu taippiṉum</l>
+<l>vayaṟkeṇṭaiyiṉ vēlpiṟaḻiṉum</l>
+<l>polampuṉai yōṭai yaṇṇal yāṉai</l>
+<l>yilaṅkuvāṉ maruppi ṉutimaṭut tūṉṟiṉu</l>
+<l>mōṭal cellāp pīṭuṭai yāḷar</l>
+<l>neṭunīrp poykaip piṟaḻiya vāḷai</l>
+<l>nelluṭai neṭunakark kūṭṭumutaṟ puraḷun</l>
+<l>taṇṇaṭai peṟutal yāvatu paṭiṉē</l>
+<l>māciṉ makaḷir maṉṟa ṉaṉṟu</l>
+<l>muyarnilai yulakattu nukarpa vataṉāl</l>
+<l>vampa vēntaṉ ṟāṉai</l>
+<l>yimpar niṉṟum kāṇṭirō varavē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>Drummer who beats the Tuṭi drum,</l>
+<l>lowcaste man(?) who takes the fighting stick,</l>
+<l>Great men who don’t go running,</l>
+<l>although pierced with arrows as with timely showers,</l>
+<l>although spears leap [at them] like Keṇṭai fish in the tank,</l>
+<l>although the tips of the shining pure tusks of majestic elephants </l>
+<l>with gold-decorated front-plates gore [and] fix [onto them],</l>
+<l>what of [their] obtaining villages</l>
+<l>that abound in granaries in large mansions that possess paddy</l>
+<l>[and] Vāḷai fish that leap in the ponds with long water?</l>
+<l>	If they fall,</l>
+<l>they will enjoy well the marriage with faultless women</l>
+<l>in the world of high standing. Therefore,</l>
+<l>although standing here, would you see the coming </l>
+<l>of the new king’s army?</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN287">
+<interp type="alignment" select="0">43ML17MG26MG46ML9MG20MG98MG4MG15ML71MG6M2G2M,368MG</interp>
+<entry>
+<form>tuṭi</form>
+<def>Tuṭi-drum</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṟiyum</form>
+<def>beating</def>
+</entry>
+<entry>
+<form>pulaiya</form>
+<def>drummer</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṟi</form>
+<def>fight</def>
+</entry>
+<entry>
+<form>kōl</form>
+<def>stick</def>
+</entry>
+<entry>
+<form>koḷḷum</form>
+<def>taking</def>
+</entry>
+<entry>
+<form>iḻiciṉa</form>
+<def>low-caste-man</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālam</form>
+<def>time</def>
+</entry>
+<entry>
+<form>māriyiṉ</form>
+<def>shower</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ampu</form>
+<def>arrow</def>
+</entry>
+<entry>
+<form>taippiṉ-um</form>
+<def>insert-if-even</def>
+<form type="simple">taippiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vayal</form>
+<def>pond</def>
+<form type="sandhi">vayaṟ</form>
+</entry>
+<entry>
+<form>keṇṭaiyiṉ</form>
+<def>Kēṇṭai-fish</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form>piṟaḻiṉ-um</form>
+<def>leap-if-even</def>
+<form type="simple">piṟaḻiṉ</form>
+<gramGrp>
+  <gram type="role">concessive</gram>
+  <gram type="role">conditional</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>polam</form>
+<def>gold</def>
+</entry>
+<entry>
+<form>puṉai</form>
+<def>decorate</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>ōṭai</form>
+<def>front-plate</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṇṇal</form>
+<def>majesty</def>
+</entry>
+<entry>
+<form>yāṉai</form>
+<def>elephant</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>ilaṅku</form>
+<def>shine</def>
+</entry>
+<entry>
+<form>vāl</form>
+<def>pure</def>
+<form type="sandhi">vāṉ</form>
+</entry>
+<entry>
+<form>maruppiṉ</form>
+<def>tusk</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nuti</form>
+<def>tip</def>
+<form type="sandhi">ṉuti</form>
+</entry>
+<entry>
+<form>maṭutt<c type="elided">u</c></form>
+<def>gored</def>
+<form type="sandhi">maṭutt</form>
+</entry>
+<entry>
+<form>ūṉṟiṉum</form>
+<def>fixed-even-if</def>
+</entry>
+<entry>
+<form>ōṭal</form>
+<def>running</def>
+</entry>
+<entry>
+<form>cellā<c type="geminated">p</c></form>
+<def>go-not</def>
+</entry>
+<entry>
+<form>pīṭ<c type="elided">u</c></form>
+<def>greatness</def>
+<form type="sandhi">pīṭ</form>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>possess</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>āḷar</form>
+<def>men</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+</entry>
+<entry>
+<form>nīr<c type="geminated">p</c></form>
+<def>water</def>
+</entry>
+<entry>
+<form>poykai<c type="geminated">p</c></form>
+<def>pond</def>
+</entry>
+<entry>
+<form>piṟaḻiya</form>
+<def>leapt</def>
+</entry>
+<entry>
+<form>vāḷai</form>
+<def>Vāḷai-fish</def>
+</entry>
+<entry>
+<form>nel</form>
+<def>paddy</def>
+</entry>
+<entry>
+<form><c type="geminated">l</c>uṭai</form>
+<def>possess</def>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+</entry>
+<entry>
+<form>nakar<c type="geminated">k</c></form>
+<def>mansion</def>
+</entry>
+<entry>
+<form>kūṭṭu</form>
+<def>granary</def>
+</entry>
+<entry>
+<form>mutal</form>
+<def>base</def>
+<form type="sandhi">mutaṟ</form>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puraḷum</form>
+<def>rolling</def>
+<form type="sandhi">puraḷun</form>
+</entry>
+<entry>
+<form>taṇṇaṭai</form>
+<def>village</def>
+</entry>
+<entry>
+<form>peṟutal</form>
+<def>obtaining</def>
+</entry>
+<entry>
+<form>yāvatu</form>
+<def>what</def>
+</entry>
+<entry>
+<form>paṭiṉ-ē</form>
+<def>happen-if</def>
+<form type="simple">paṭiṉ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>māc<c type="elided">u</c></form>
+<def>fault</def>
+<form type="sandhi">māc</form>
+</entry>
+<entry>
+<form>il</form>
+<def>not</def>
+<form type="sandhi">iṉ</form>
+</entry>
+<entry>
+<form>makaḷir</form>
+<def>women</def>
+</entry>
+<entry>
+<form>maṉṟal</form>
+<def>marriage</def>
+<form type="sandhi">maṉṟaṉ</form>
+</entry>
+<entry>
+<form>naṉṟum</form>
+<def>good-it</def>
+<form type="sandhi">ṉaṉṟum</form>
+</entry>
+<entry>
+<form>uyar</form>
+<def>be-high</def>
+</entry>
+<entry>
+<form>nilai</form>
+<def>state</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>ulakattu</form>
+<def>world</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nukarpa</form>
+<def>they-enjoy</def>
+</entry>
+<entry>
+<form><c type="glide">v</c>ataṉāl</form>
+<def>therefore</def>
+</entry>
+<entry>
+<form>vampa</form>
+<def>new</def>
+</entry>
+<entry>
+<form>vēntaṉ</form>
+<def>king</def>
+</entry>
+<entry>
+<form>tāṉai</form>
+<def>army</def>
+<form type="sandhi">ṟāṉai</form>
+</entry>
+<entry>
+<form><c type="glide">y</c>impar</form>
+<def>here</def>
+</entry>
+<entry>
+<form>niṉṟum</form>
+<def>stood</def>
+</entry>
+<entry>
+<form>kāṇṭir-ō</form>
+<def>see-you</def>
+<form type="simple">kāṇṭir</form>
+<gramGrp>
+  <gram type="role">subjuntive</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>varav<c type="elided">u</c>-ē</form>
+<def>coming</def>
+<form type="simple">varavu</form>
+<form type="sandhi">varav</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

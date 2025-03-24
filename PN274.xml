@@ -1,0 +1,294 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 274.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN274-intro">
+      <p type="edition">tiṇai, atu; tuṟai, erumaimaṟam. ulōccaṉār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="Pn274">
+      <lg type="edition">
+<l>nīlak kaccaip pūvā rāṭaip</l>
+<l>pīlik kaṇṇip peruntakai maṟavaṉ</l>
+<l>mēlvaruṅ kaḷiṟṟoṭu vēṟuran tiṉiyē</l>
+<l>taṉṉun tuṟakkuvaṉ pōlu moṉṉala</l>
+<l>reḵkuṭai valattar māvoṭu parattarak</l>
+<l>kaiyiṉ vāṅkit taḻīi</l>
+<l>moympi ṉūkki meykkoṇ ṭaṉaṉē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>The bold man, a paragon with a blue belt,</l>
+<l>a garment full of flowers [and] a peacock feather chaplet,</l>
+<l>after driving [his] spear against the elephant bull coming up against [him],</l>
+<l>now is giving himself up, it seems. While the enemies</l>
+<l>spread, strong men with blades along with horses,</l>
+<l>he dragged [his spear free] by hand [and], holding on to [it],</l>
+<l>he swang [it] with force [and] took [them] onto [his] body.</l> 
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#Pn274">
+<interp type="alignment" select="0">70ML5MG36MG68MG2M,184MG</interp>
+<entry>
+<form>nīla<c type="geminated">k</c></form>
+<def>blue</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaccai<c type="geminated">p</c></form>
+<def>belt</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ār</form>
+<def>become-full</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭai<c type="geminated">p</c></form>
+<def>dress</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pīli<c type="geminated">k</c></form>
+<def>peacock feather</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇṇi<c type="geminated">p</c></form>
+<def>chaplet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peruntakai</form>
+<def>paragon</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṟavaṉ</form>
+<def>bold-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mēl</form>
+<def>upon</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varum</form>
+<def>coming-</def>
+<form type="sandhi">varuṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷiṟṟoṭu</form>
+<def>elephant-bull</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+<form type="sandhi">vēṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>turant<c type="elided">u</c></form>
+<def>driven</def>
+<form type="sandhi">ṟurant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṉiyē</form>
+<def>now</def>
+</entry>
+<entry>
+<form>taṉṉum</form>
+<def>self</def>
+<form type="sandhi">taṉṉun</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuṟakkuvaṉ</form>
+<def>he abandons</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">imperfect aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlum</form>
+<def>it seems</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oṉṉalar</form>
+<def>agree-not-they(neg-part.n.3.h.)</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eḵk<c type="elided">u</c></form>
+<def>blade</def>
+<form type="sandhi">eḵk</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>possess</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>valattar</form>
+<def>strength-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māvoṭu</form>
+<def>horse</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>para<c type="geminated">t</c></form>
+<def>spread</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tara<c type="geminated">k</c></form>
+<def>give</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaiyiṉ</form>
+<def>hand</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāṅki<c type="geminated">t</c></form>
+<def>dragged/bent</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taḻīi</form>
+<def>embraced</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>moympiṉ</form>
+<def>strength</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūkki</form>
+<def>swung</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mey<c type="geminated">k</c></form>
+<def>body</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭaṉaṉ-ē</form>
+<def>he took</def>
+<form type="simple">koṇṭaṉaṉ</form>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

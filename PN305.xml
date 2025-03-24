@@ -1,0 +1,245 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 305.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN305-intro">
+      <p type="edition">tiṇai, vākai; tuṟai, pārppaṉavākai. maturaivēḷācaṉ.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>
+    <div xml:id="PN305">
+      <lg type="edition">
+<l>vayalaik koṭiyiṉ vāṭiya maruṅku</l>
+<l>luyava lūrtip payalaip pārppā</l>
+<l>ṉelli vantunil lātu pukkuc</l>
+<l>colliya collō cilavē yataṟkē</l>
+<l>yēṇiyuñ cīppu māṟṟi</l>
+<l>māṇviṉai yāṉaiyu maṇikaḷain taṉavē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>The pale brahmin on a decrepit vehicle</l>
+<l>with a stomach withered like a purslane creeper,</l>
+<l>at night he came [and], without stopping, entered.</l>
+<l>Few were the words he spoke. Because of that</l>
+<l>they changed the ladders and bolts</l>
+<l>and removed the bells from the elephant of glorious work.</l>
+</lg> 
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN305">
+<interp type="alignment" select="0">87MG6MG8M2G5MG7M2G2ML17MG3ML13MG3M,161MG</interp>
+<entry>
+<form>vayalai<c type="geminated">k</c></form>
+<def>purslane</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭiyiṉ</form>
+<def>creeper</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāṭiya</form>
+<def>withered</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maruṅkul</form>
+<def>stomach</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uyaval</form>
+<def>suffering</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ūrti<c type="geminated">p</c></form>
+<def>vehicle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>payalai<c type="geminated">p</c></form>
+<def>pallor</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pārppāṉ</form>
+<def>brahmin</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>elli</form>
+<def>night</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nillātu</form>
+<def>stand-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukku<c type="geminated">c</c></form>
+<def>entered</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>colliya</form>
+<def>spoken</def>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>col-<c type="geminated">l</c>ō</form>
+<def>word</def>
+<form type="simple">col</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>cila-<c type="glide">v</c>ē</form>
+<def>few</def>
+<form type="simple">cila</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ataṟk<c type="elided">u</c>-ē</form>
+<def>that</def>
+<form type="simple">ataṟku</form>
+<form type="sandhi"><c type="glide">y</c>ataṟk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ēṇi-<c type="glide">y</c>um</form>
+<def>ladder</def>
+<form type="simple">ēṇi</form>
+<form type="sandhi"><c type="glide">y</c>ēṇi</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cīpp<c type="elided">u</c>-um</form>
+<def>bolt</def>
+<form type="simple">cīppu</form>
+<form type="sandhi">cīpp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>māṟṟi</form>
+<def>changed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māṇ</form>
+<def>be-glorious</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>work</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉai-<c type="glide">y</c>um</form>
+<def>elephant</def>
+<form type="simple">yāṉai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>bell</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaḷaintaṉa-<c type="glide">v</c>ē</form>
+<def>they removed</def>
+<form type="simple">kaḷaintaṉa</form>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>

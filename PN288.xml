@@ -1,0 +1,286 @@
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 288.
+            <persName xml:lang="ta"/>
+        </title>     
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta">
+  <body>
+    <div xml:id="PN288-intro">
+      <p type="edition">tiṇai, tumpai; tuṟai, mūtiṉmullai. kaḻāttalaiyār.
+      </p>
+      <p xml:lang="en" type="translation">  
+      </p>
+    </div>  
+    <div xml:id="PN288">
+      <lg type="edition">
+<l>maṇkoḷa varinta vainnuti maruppi</l>
+<l>ṉaṇṇa ṉallē ṟiraṇṭuṭaṉ maṭuttu</l>
+<l>veṉṟataṉ paccai cīvātu pōrtta</l>
+<l>tiṇpiṇi muraca miṭaippulat tiraṅka</l>
+<l>vāramar mayaṅkiya ñāṭpiṟ ṟeṟuvara</l>
+<l>neṭuvēl pāynta nāṇuṭai neñcat</l>
+<l>tarukukai<gap quantity="44" reason="lost" unit="character"/>maṉṟa</l>
+<l>kurutiyoṭu tuyalvaru mārpiṉ</l>
+<l>muyakkiṭai yīyātu moyttaṉa paruntē.</l>
+</lg>
+<lg type="translation" xml:lang="en">
+<l>While in the fields the drum with firm straps sounds,</l>
+<l>covered, without cleaning [it], with the fresh hide of the one that was victorious,</l>
+<l>after two majestic good bulls had gored each other,</l>
+<l>[their] horns with sharp tips, lined with earth so that it sticks,</l>
+<l>while a difficult battle rages with confused fighting,</l>
+<l>with a heart that possesses the shame [of weakness] when long spears leapt,</l>
+<l>???</l>
+<l>kites swarmed without giving space for embracing</l>
+<l>the chest heaving with blood.</l>
+</lg>
+    </div>
+  </body>
+</text>
+<standOff type="wordsplit" corresp="#PN288">
+<interp type="alignment" select="0">35ML5MG5MG62MG63MG88MG24M2G2M,291MG</interp>
+<entry>
+<form>maṇ</form>
+<def>earth</def>
+</entry>
+<entry>
+<form>koḷa</form>
+<def>take</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varinta</form>
+<def>lined</def>
+</entry>
+<entry>
+<form>vai<c type="geminated">n</c></form>
+<def>sharp</def>
+</entry>
+<entry>
+<form>nuti</form>
+<def>tip</def>
+</entry>
+<entry>
+<form>maruppiṉ</form>
+<def>horn</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṇṇal</form>
+<def>majesty</def>
+<form type="sandhi">aṇṇaṉ</form>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<form type="sandhi">ṉal</form>
+</entry>
+<entry>
+<form><c type="geminated">l</c>ēṟ<c type="elided">u</c></form>
+<def>bull</def>
+<form type="sandhi"><c type="geminated">l</c>ēṟ</form>
+</entry>
+<entry>
+<form>iraṇṭ<c type="elided">u</c></form>
+<def>two</def>
+<form type="sandhi">iraṇṭ</form>
+</entry>
+<entry>
+<form>uṭaṉ</form>
+<def>it-together</def>
+</entry>
+<entry>
+<form>maṭuttu</form>
+<def>gored</def>
+</entry>
+<entry>
+<form>veṉṟa</form>
+<def>bee-victorious</def>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+</entry>
+<entry>
+<form>paccai</form>
+<def>fresh-hide</def>
+</entry>
+<entry>
+<form>cīvātu</form>
+<def>swept-not</def>
+</entry>
+<entry>
+<form>pōrtta</form>
+<def>covered</def>
+</entry>
+<entry>
+<form>tiṇ</form>
+<def>firm</def>
+</entry>
+<entry>
+<form>piṇi</form>
+<def>fetter</def>
+</entry>
+<entry>
+<form>muracam</form>
+<def>drum</def>
+</entry>
+<entry>
+<form>iṭai<c type="geminated">p</c></form>
+<def>middle</def>
+</entry>
+<entry>
+<form>pulatt<c type="elided">u</c></form>
+<def>field</def>
+<form type="sandhi">pulatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iraṅka</form>
+<def>sound</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ār</form>
+<def>difficult</def>
+</entry>
+<entry>
+<form>amar</form>
+<def>fight</def>
+</entry>
+<entry>
+<form>mayaṅkiya</form>
+<def>confused</def>
+</entry>
+<entry>
+<form>ñāṭpiṉ</form>
+<def>battle</def>
+<form type="sandhi">ñāṭpiṟ</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teṟu</form>
+<def>scorch</def>
+<form type="sandhi">ṟeṟu</form>
+</entry>
+<entry>
+<form>vara</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+</entry>
+<entry>
+<form>vēl</form>
+<def>spear</def>
+</entry>
+<entry>
+<form>pāynta</form>
+<def>leapt</def>
+</entry>
+<entry>
+<form>nāṇ</form>
+<def>shame</def>
+</entry>
+<entry>
+<form>uṭai</form>
+<def>possess</def>
+</entry>
+<entry>
+<form>neñcatt<c type="elided">u</c></form>
+<def>heart</def>
+<form type="sandhi">neñcatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aru</form>
+<def>rare</def>
+</entry>
+<entry>
+<form>kukai<gap quantity="44" unit="character" reason="lost"/>maṉṟa</form>
+</entry>
+<entry>
+<form>kurutiyoṭu</form>
+<def>blood</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyal</form>
+<def>swing</def>
+</entry>
+<entry>
+<form>varu</form>
+<def>come</def>
+</entry>
+<entry>
+<form>mārpiṉ</form>
+<def>chest</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muyakk<c type="elided">u</c></form>
+<def>embrace</def>
+<form type="sandhi">muyakk</form>
+</entry>
+<entry>
+<form>iṭai</form>
+<def>middle</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>īyātu</form>
+<def>give-not</def>
+</entry>
+<entry>
+<form>moyttaṉa</form>
+<def>they-swarmed</def>
+<gramGrp>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>parunt<c type="elided">u</c>-ē</form>
+<def>kite</def>
+<form type="simple">paruntu</form>
+<form type="sandhi">parunt</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff>
+</TEI>
