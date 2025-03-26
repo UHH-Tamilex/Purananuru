@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -945,8 +946,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vāṭi<c type="geminated">k</c></form>
-<def>faded</def>
+<form><c type="glide">v</c>āṭi<c type="geminated">k</c></form>
+<def>danced</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -1089,7 +1090,6 @@
 <form>pāṭukam</form>
 <def>sing-we</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
