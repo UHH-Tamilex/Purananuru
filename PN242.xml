@@ -24,8 +24,7 @@
 <text xml:lang="ta">
   <body>
     <div xml:id="PN242-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. ollaiyūr kiḻāṉmakaṉ peruñcāttaṉaik kuṭavāyiṉallātaṉār (kuṭavāyiṟkīrattaṉār) pāṭiyatu. 
-      </p>
+      <p type="edition">tiṇaiyum tuṟaiyum avai. 
         <app>
         <lem wit="#C2 #C3">ollaiyūr</lem>
         <rdg wit="#C8">ollaiyūrk</rdg>
@@ -33,7 +32,7 @@
         <app>
         <lem wit="#C2 #C3">kiḻārmaka<space quantity="12" unit="character"/></lem>
         <rdg wit="#C8">kiḻāṉmakaṉ peruñcāttaṉaik kuṭavāyi</rdg>
-        </app> ṉallātaṉār.
+        </app><app><lem>ṉallātaṉār</lem><rdg>ṟkīrattaṉār</rdg></app> pāṭiyatu.
       </p>
       <p xml:lang="en" type="translation">  
       </p>
