@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title></title>
+            
+         <editor><persName>Eva Wilden</persName><orgName>Universität Hamburg</orgName></editor><editor><persName>Abhirami Prakasan</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Tamilex</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>U.  V. Cāminātaiyar Library, Ceṉṉai</orgName>
+                  </repository>
+                  <idno type="shelfmark">UVSL 707</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/uvsl-707/</idno><idno type="URI">https://www.tamildigitallibrary.in/palms_detail?id=jZY9lup2kZl6TuXGlZQdjZleluly</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript from the UVSL [707].</summary>
+                  
+               <msItem xml:id="C2" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu  </title><textLang mainLang="tam" otherLangs="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="78"/>
+                           <dimensions type="object" unit="mm">
+                              <width quantity="310"/>
+                              <height quantity="50"/>
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><foliation>Original Tamil numbers on the left for folios (97–174), on the right or left European page numbers with black text marker (1–149).</foliation><condition>Good condition apart from broken margins.</condition></supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="13">Many long lacunae(blank spaces), partly corrections and filling in by blue pen, regular and legible.</layout>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliNone" medium="ink black"><desc>Traditional script, old characters for the ṟ series, no puḷḷi-s, no differentiation between long and short e/ē and o/ō, nor between ā and ra, traditional sandhi, scriptio continua. The text of the poem is followed by tiṇai, tuṟai, author and number (ending with PN 400).</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole" quantity="2"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Madras Lexicon transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/uvsl-707/manifest.json" facs="0"/></facsimile>
+<text corresp="#C2" xml:lang="ta"><body>
+  
+</body></text></TEI>
