@@ -30,8 +30,8 @@
       <p xml:lang="en" type="translation">  
       </p>
     </div>
-    <div xml:id="PN201">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN201">
 <l>ivaryā reṉkuvai yāyi ṉivarē</l>
 <l>yūruṭa ṉiravalark karuḷit tēruṭaṉ</l>
 <l>mullaik kītta cellā nallicaip</l>
@@ -53,7 +53,7 @@
 <l>luṭaluna ruṭkun tāṉaik</l>
 <l>keṭalaruṅ kuraiya nāṭukiḻa vōyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">If you ask "who are these [girls]?”, they </l>
 <l corresp="5a-c">are the daughters of tall great Pāri, </l>
 <l corresp="4">the king of Paṟampu hill with elephants with ringing bells, </l>

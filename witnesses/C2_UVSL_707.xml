@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title></title>
-            
-         <editor><persName>Eva Wilden</persName><orgName>Universität Hamburg</orgName></editor><editor><persName>Abhirami Prakasan</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+
+            <editor>
+               <persName>Eva Wilden</persName>
+               <orgName>Universität Hamburg</orgName>
+            </editor>
+            <editor>
+               <persName>Abhirami Prakasan</persName>
+               <orgName>Universität Hamburg</orgName>
+            </editor>
+         </titleStmt>
          <publicationStmt>
             <publisher>Tamilex</publisher>
             <date>2025</date>
@@ -15,78 +23,236 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>U.  V. Cāminātaiyar Library, Ceṉṉai</orgName>
+                     <orgName>U. V. Cāminātaiyar Library, Ceṉṉai</orgName>
                   </repository>
                   <idno type="shelfmark">UVSL 707</idno>
-                  <idno type="alternate"/>
-               <idno type="URI">https://archive.org/details/uvsl-707/</idno><idno type="URI">https://www.tamildigitallibrary.in/palms_detail?id=jZY9lup2kZl6TuXGlZQdjZleluly</idno></msIdentifier>
+                  <idno type="alternate" />
+                  <idno type="URI">https://archive.org/details/uvsl-707/</idno>
+                  <idno type="URI">
+                     https://www.tamildigitallibrary.in/palms_detail?id=jZY9lup2kZl6TuXGlZQdjZleluly</idno>
+               </msIdentifier>
                <msContents class="#STM">
-                  <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript from the UVSL [707].</summary>
-                  
-               <msItem xml:id="C2" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu  </title><textLang mainLang="tam" otherLangs="tam"/></msItem></msContents>
+                  <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript from the
+                     UVSL [707].</summary>
+
+                  <msItem xml:id="C2" defective="false" class="#cankam">
+                     <title xml:lang="ta">Puṟanāṉūṟu </title>
+                     <textLang mainLang="tam" otherLangs="tam" />
+                  </msItem>
+               </msContents>
                <physDesc>
-                  
-                  
-                  
-                  
-                  
-               <objectDesc form="pothi" rend="manuscript">
+
+
+                  <objectDesc form="pothi" rend="manuscript">
                      <supportDesc material="palm-leaf">
-                        
-                        
-                        
-                        
-                        
-                     <support>
-                           
-                        </support><extent>
-                           <measure unit="folio" quantity="78"/>
+
+
+                        <support>
+
+                        </support>
+                        <extent>
+                           <measure unit="folio" quantity="78" />
                            <dimensions type="object" unit="mm">
-                              <width quantity="310"/>
-                              <height quantity="50"/>
+                              <width quantity="310" />
+                              <height quantity="50" />
                            </dimensions>
                            <dimensions type="leaf" unit="mm">
-                              
-                              
+
+
                            </dimensions>
                            <dimensions type="written" unit="mm">
-                              
-                              
+
+
                            </dimensions>
-                        </extent><foliation>Original Tamil numbers on the left for folios (97–174), on the right or left European page numbers with black text marker (1–149).</foliation><condition>Good condition apart from broken margins.</condition></supportDesc>
+                        </extent>
+                        <foliation>Original Tamil numbers on the left for folios (97–174), on the
+                           right or left European page numbers with black text marker (1–149).</foliation>
+                        <condition>Good condition apart from broken margins.</condition>
+                     </supportDesc>
                      <layoutDesc>
-                        <layout columns="1" writtenLines="13">Many long lacunae(blank spaces), partly corrections and filling in by blue pen, regular and legible.</layout>
+                        <layout columns="1" writtenLines="13">Many long lacunae(blank spaces),
+                           partly corrections and filling in by blue pen, regular and legible.</layout>
                      </layoutDesc>
-                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliNone" medium="ink black"><desc>Traditional script, old characters for the ṟ series, no puḷḷi-s, no differentiation between long and short e/ē and o/ō, nor between ā and ra, traditional sandhi, scriptio continua. The text of the poem is followed by tiṇai, tuṟai, author and number (ending with PN 400).</desc></handNote></handDesc><additions>
-                  </additions><bindingDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote scope="sole" script="tamil" scriptRef="#tamilPulliNone"
+                        medium="ink black">
+                        <desc>Traditional script, old characters for the ṟ series, no puḷḷi-s, no
+                           differentiation between long and short e/ē and o/ō, nor between ā and ra,
+                           traditional sandhi, scriptio continua. The text of the poem is followed
+                           by tiṇai, tuṟai, author and number (ending with PN 400).</desc>
+                     </handNote>
+                  </handDesc>
+                  <additions>
+                  </additions>
+                  <bindingDesc>
                      <binding>
-                        
+
                         <decoNote type="stringhole">
-                           <measure unit="stringhole" quantity="2"/>
+                           <measure unit="stringhole" quantity="2" />
                         </decoNote>
-                    </binding>
-                  </bindingDesc></physDesc>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
                <history>
-                  
-                  
-                  
-               <origin>
-                     <origDate calendar="gregorian"/>
-                     
-                  </origin></history>
+
+
+                  <origin>
+                     <origDate calendar="gregorian" />
+
+                  </origin>
+               </history>
                <additional>
                   <listBibl>
-                     
+
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Madras Lexicon transliteration.</p></encodingDesc>
-      
-   <revisionDesc/></teiHeader>
+      <encodingDesc>
+         <p>Madras Lexicon transliteration.</p>
+      </encodingDesc>
+
+      <revisionDesc />
+   </teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/uvsl-707/manifest.json" facs="0"/></facsimile>
-<text corresp="#C2" xml:lang="ta"><body>
-  
-</body></text></TEI>
+      <graphic url="https://iiif.archive.org/iiif/uvsl-707/manifest.json" facs="0" />
+   </facsimile>
+   <text corresp="#C2" xml:lang="ta-Taml">
+      <body>
+         <lg xml:id="PN201">
+            <l><pb facs="88" n="141v" /><lb n="1" /><space quantity="16" unit="characters" /><g
+                  ref="#ra_r_kal" /> ரென்குவை யாப்பி னிவரே </l>
+            <l>யூருட னிரவலர்க் கருளித் தேருடன் </l>
+            <l>முல்லைக் <lb n="2" />கீய்ந்த தோயா நல்லிசைப் </l>
+            <l>பருமணி யானைப் பறம்பிற் கோமா </l>
+            <l>னெடுமாற் பா<space quantity="8" unit="characters" /> </l>
+            <l><space quantity="8" unit="characters" />னே மகளி </l>
+            <l>ர<lb n="3" />ந்தணன் புதல்வன் கொண்டுவந் தனனே </l>
+            <l>நீயே வடபால முனிவன் றடவினுட் டோன்றிச் </l>
+            <l>செம்புபுணர்ந் தியற்றிய சேணெ<lb n="4" />டும் புரிசை </l>
+            <l>யுவரா <space quantity="12" unit="characters" /> </l>
+            <l>நாற்பத் தொன்பது வழிமுறை வந்த </l>
+            <l>வேளி ருளவனே விறற்போ ரண்ண </l>
+            <l>றா<lb n="5" />ரணி யானைச் சேட்டிருங் கோவே </l>
+            <l>யாண்கட னுடைமையிற் பாண்கட னாற்றிய </l>
+            <l>யொலியற் கண்ணிப் புலிகடி மாலே </l>
+            <l>யான்<lb n="6" />றர விலரைக் கொண்மதி வான்கவித் </l>
+            <l>திருங்கட லுடுத்துதவி யவையகத் தருகதிறற் </l>
+            <l>பொன்படு மால்வரைக் கிழவ வென்வே<lb n="7" /></l>
+            <l>லுடலுந ருட்குந் தானைக் </l>
+            <l>கெடலருங் குரைய மலைகிழ வோனே.</l>
+         </lg>
+         <p xml:id="PN201-intro"> இதுவுமது - பாரிமகளிரை யிருங்கோவே<lb n="8" />ளுழைச்சென்ற கபிலர்
+            -௨௱௨- </p>
+         <lg xml:id="PN202">
+            <l><pb facs="88" n="141v"/><lb n="8" />வெட்சிக் கானத்து வேட்டுவ ராட்ட </l>
+            <l>கட்சிக் காணாக் கடமா நல்லேறு </l>
+            <l>கடறுமணி<lb n="9" /> கிளரச் சிரறுபொன் மிளிரக் </l>
+            <l>கடிய ககழ நெடுவரைப் படப்பை </l>
+            <l>வென்றி நிலைஇய விழுப்புக ழொன்றி </l>
+            <l>யிருபாற் பெய<lb n="10" />ரிய வுருகெழு மூதூர் </l>
+            <l>கோடி யடுக்கிய பொருனுமக் குதவிய </l>
+            <l>நீடுநிலை யாயத்துக் கேடுங் கேளினி </l>
+            <l>நுந்தை தாய நி<lb n="11" />றைவுற வெய்திய </l>
+            <l>வொலியற் கண்ணிப் பலகடி மாஅல் </l>
+            <l>நும்போ லறியி னுமரு ளொருவன் </l>
+            <l>புகழ்ந்த செய்யுட் கழாஅத் த<lb n="12" />லையை </l>
+            <l>புகழ்ந்ததன்ன பயனே யியறே ரண்ண </l>
+            <l>லெவ்வி தொல்குடிப் படீஇயர் மாற்றிவர் </l>
+            <l>கைவண் பாரி மகளி ரென்றவெ<lb n="13" />ன் </l>
+            <l>றேற்றாப் புன்சொ னோற்றிசிற் பெரும </l>
+            <l>விடுத்தனன் வெலீஇயநின் வேலே யடுக்கத்</l>
+            <l>தரும்பற மலர்ந்த கருங்கால் வேங்<pb facs="89" n="142r"/><lb n="1" />கை </l>
+            <l>மாத்தகட் டொள்வீ தாய துறுக </l>
+            <l>லிரும்புலி வரிப்புறங் கடுக்கும்</l>
+            <l>பெருங்கல் வைப்பி னாடுகிழ வோனே. </l>
+         </lg>
+         <p xml:id="PN202-intro">இதுவும<lb n="1" />து - இருங்கோவேள் பாரிமகளிரைக் கொள்ளானாகக் கபிலர்-௨௱௩-    
+         </p>
+         <lg xml:id="PN203">
+            <l><pb facs="89" n="142r"/><lb n="2" />கழிந்தது பொழிந்தென வான்கண் மாறினுந் </l>
+            <l>தொ<lb n="3" />ல்லது விளைந்தென நிலம்வளங் கரப்பினு </l>
+           <l> <g ref="#kompu"/>மல்லா வுயிர்க்கு மில்லால் வாட்கை </l>
+            <l>யின்னுந் தம்மென வெம்மனோ ரிரப்பி௦<lb n="4" />ன் </l>
+            <l>முன்னுங் கொண்டிரென நும்மனோர் மறுத்த </l>
+            <l>லின்னா தம்ம வியறே ரன்ன </l>
+            <l>லில்லது நிரப்ப லாற்றா தெளினு </l>
+            <l>முள்ளி<lb n="5" /> வருநர் ந ை<space quantity="9" unit="character"/>ரே </l>
+            <l>யென்னை மல்லை நீயே யொன்னா </l>
+           <l><subst>r<del rend="implied">ā</del><add rend="kompu">o</add></subst>ரெயி லவர்கட் டாக நுமதெனப் </l>
+            <l>பாண்கட<lb n="6" /> னிறுக்கும் வள்ளியோய் </l>
+            <l>பூண்கட னெந்தைநி யிரவலர் புரவே.</l>
+         </lg>
+         <p xml:id="PN203-intro">திணையுந் துறை<space quantity="16" unit="character"/>கா<lb n="7" />லையினளஞ்சேட்சென்னியை யூன்பொதிபசுங்குடையார்-௨௱௪-
+         </p>
+         <lg xml:id="PN204">
+            <l><pb facs="89" n="142r"/><lb n="7" />ஈயென விரத்த லிழிந்தன் றதனெதி<lb n="8" /> </l>
+            <l>ரீயே னென்ற லதனினு மிழிந்தன்று </l>
+            <l>கொள்ெ<space quantity="17" unit="character"/>ர் </l>
+            <l>கொள்ளே னென்ற லத<lb n="9" />னினு முயர்ந்தன்று </l>
+            <l>தெண்ணீர்ப் பரப்பி னிமிழ்திரைப் பெருங்கட</l>
+            <l>லுண்ணா ராகுவர் நீர்வேட் டோ<g ref="#kompu"/><space quantity="5" unit="character"/><lb n="10" />  </l>
+            <l><space quantity="14" unit="character"/> </l>
+            <l>சேழே<gap reason="illegible" quantity="2" unit="character"/> பட்ட சிறுமைத் தாயினு </l>
+            <l>முண்ணீரிர் மருங்கி னகர்பல வாகும் </l>
+            <l>புள்ளும் பொழுதும் ப<lb n="11" />ழிப்பி னல்லதை </l>
+            <l>யுள்ளிச் செ<space quantity="12" unit="character"/> </l>
+            <l><space quantity="8" unit="character"/>ய ரோரிர விசும்பிற் </l>
+            <l>கருவி வானம் போல </l>
+            <l>வரையாது சுரக்கு<lb n="12" />ம் வள்ளியோய் நின்னே.</l>
+         </lg>
+         <p xml:id="PN204-intro">இதுவமது – வல்விலோரியைக் கழைதின்யானையார்-௨௱௫-
+         </p>
+         <lg xml:id="PN205">
+            <l><pb facs="89" n="142r"/><lb n="12" /><space quantity="8" unit="character"/> </l>
+            <l><space quantity="4" unit="character"/>யதல் யாம்வேண் டலமே </l>
+            <l>விறற்சினந் தணிந்த விரைபரிப் புரவி </l>
+            <l>யறுவர் செல்கார் வாகிச் செறுவர் </l>
+            <l>தாளுழந் தபுத்த வா<pb facs="90" n="142v"/><lb n="1" />ளமகு தானை </l>
+            <l>யோள்வீ வே<space quantity="12" unit="character"/> </l>
+            <l><space quantity="6" unit="character"/>வும் புழைகெட விலங்<subst><del><gap reason="illegible" quantity="1" unit="character"/></del><add place="above">கி</add></subst>ய </l>
+            <l>மான்கணந் தொலைச்சிய கடுவி<lb n="2" />சைக் கதநாய் </l>
+            <l>நோன்சிலை வேட்டுவ நோயிலை யாகுக </l>
+            <l>வார்க வொவியா/வெரவியர் வணத்தரிக் கால்<lb n="3" /><space quantity="3" unit="character"/> </l>
+            <l><space quantity="9" unit="character"/>இய கமன்சூன் மாமழை</l>
+            <l>நீரன்று பெயரா வாங்குத் தேரோ </l>
+            <l>டொளிறுமருப் பேந்திய செம்மற்ற </l>
+            <l>களிதின்று பெயர<lb n="4" />ல பரிசிலர் கடும்பே. </l>
+         </lg>
+         <p xml:id="PN205-intro">திணையுந் துறையுமது <space quantity="9" unit="character"/>வென்பரிசினீட்டித்தானைப் பெருந்தலைச்சாத்தனார்<lb n="5" />-௨௱௬
+         </p>
+         <lg xml:id="PN206">
+         
+         </lg>
+         <p xml:id="PN206-intro">
+         
+         </p>
+         <lg xml:id="PN207">
+         
+         </lg>
+         <p xml:id="PN207-intro">
+         
+         </p>
+         <lg xml:id="PN208">
+         
+         </lg>
+         <p xml:id="PN208-intro">
+         
+         </p>
+         <lg xml:id="PN209">
+         
+         </lg>
+         <p xml:id="PN209-intro">
+         
+         </p>
+         <lg xml:id="PN210">
+         
+         </lg>
+         <p xml:id="PN210-intro">
+         
+         </p>
+      </body>
+   </text>
+</TEI>
