@@ -983,13 +983,13 @@
   </app>
   <app corresp="54,80">
     <lem>mullaik kītta cellā nallicaip</lem>
-    <rdg wit="#C1"/>
+    <rdg wit="#C1"><lb n="6"/><space quantity="7" unit="character"/></rdg>
     <rdg wit="#C2">mullaik <lb n="2"/>kīynta tōyā nallicaip</rdg>
   </app>
   <app corresp="80,88">
     <lem>paṭumaṇi</lem>
     <rdgGrp select="#C1 #C2">
-      <rdg type="main"><lb n="6"/><space quantity="7" unit="character"/> <lb n="7"/>parumaṇi</rdg>
+      <rdg type="main"><lb n="7"/>parumaṇi</rdg>
       <rdg type="minor" wit="#C2">parumaṇi</rdg>
     </rdgGrp>
   </app>
