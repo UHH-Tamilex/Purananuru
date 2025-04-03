@@ -45,7 +45,29 @@
   </text>
 <!-- <standOff> -->
  <!-- tips
- 
+
+ page beginning: <pb facs="88" n="141v"/>
+ line beginning: <lb n="1"/>
+
+shows up as a question mark: <gap reason="illegible" quantity="1" unit="character"/>
+shows up as a double dagger: <gap reason="lost" quantity="1" unit="character"/>
+shows up as underline: <space quantity="1" unit="character"/>
+locus desperatus: <sic>பா</sic>
+unclear: <unclear>பா</unclear>
+
+line filler character <metamark function="line-filler">௦</metamark>
+
+kombu added:  <subst>r<del rend="implied">ā</del><add rend="kompu">o</add></subst>
+Tamil script: <add><g ref="kompu"/></add>ரா
+
+ki added above: <subst><del><gap reason="illegible" quantity="1" unit="character"/></del><add place="above">ki</add></subst>
+<g ref="#ra_r_kal"/>
+<g ref="#kompu"/>
+<g rend="vowel-sign">ā</g>
+<g rend="vowel-sign">e</g>
+<g rend="vowel-sign">ē</g>
+<g rend="vowel-sign">ai</g>
+
  search for: (\.{3,})
  replace with: `<gap quantity="${$1.length}" reason="lost" unit="character"/>`
 
