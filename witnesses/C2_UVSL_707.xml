@@ -190,7 +190,7 @@
          <lg xml:id="PN204">
             <l><pb facs="89" n="142r"/><lb n="7" />ஈயென விரத்த லிழிந்தன் றதனெதி<lb n="8" /> </l>
             <l>ரீயே னென்ற லதனினு மிழிந்தன்று </l>
-            <l>கொள்ெ<space quantity="17" unit="character"/>ர் </l>
+            <l>கொள்<g ref="#kompu"/><space quantity="17" unit="character"/>ர் </l>
             <l>கொள்ளே னென்ற லத<lb n="9" />னினு முயர்ந்தன்று </l>
             <l>தெண்ணீர்ப் பரப்பி னிமிழ்திரைப் பெருங்கட</l>
             <l>லுண்ணா ராகுவர் நீர்வேட் டோ<g ref="#kompu"/><space quantity="5" unit="character"/><lb n="10" />  </l>
@@ -280,7 +280,7 @@
          <l>பழமு<space quantity="12" unit="character"/>ற்றுப் </l>
          <l>பெறாது பெயரும் புள்ளினம்<lb n="10" /> போலநின் </l>
          <l>னசைநர் வந்த விசைநுவல் பரிசிலேன் </l>
-         <l>வறுவியேன் பெயர்கோ வாள்ெ<space quantity="5" unit="character"/> </l>
+         <l>வறுவியேன் பெயர்கோ வாள்<g ref="#kompu"/><space quantity="5" unit="character"/> </l>
          <l><space quantity="3" unit="character"/><lb n="11" /><space quantity="8" unit="character"/>லே </l>
          <l>னோவிலை யாகுமதி பெரும நம்முட் </l>
          <l>குறுநணி காண்குவ தாக நாளு </l>
