@@ -89,7 +89,6 @@
             <xsl:attribute name="type">module</xsl:attribute>
             <xsl:attribute name="src"><xsl:value-of select="$root"/>js/edition.mjs</xsl:attribute>
             <xsl:attribute name="id">editionscript</xsl:attribute>
-            <xsl:attribute name="data-root"><xsl:value-of select="$root"/></xsl:attribute>
         </xsl:element>
     </xsl:element>
 </xsl:template>
@@ -133,7 +132,6 @@
                         </div>
                         <button id="button_wordsplitbutton">Edit word splits</button>
                         <button id="button_editbutton">Edit apparatus</button>
-                        <button id="button_exportbutton">Export</button>
                         <button id="button_savebutton" class="important">Save as...</button>
                     </xsl:element>
                     <xsl:element name="article">
