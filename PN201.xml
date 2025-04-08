@@ -23,12 +23,13 @@
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-<text xml:lang="ta">
+<text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="PN201-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. pārimakaḷirai iraṅkōvēḷuḻaikkoṇṭuceṉṟa kapilar pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN201-intro">
+tiṇaiyum tuṟaiyum avai. pārimakaḷirai iraṅkōvēḷuḻaikkoṇṭuceṉṟa kapilar pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
     <div rend="parallel">
