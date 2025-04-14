@@ -415,7 +415,7 @@ In part badly worm eaten  and with some broken margins.</condition></supportDesc
          </p>   
 
          <lg xml:id="PN218">
-         <l><pb facs="81" n="322r" /><lb n="9" />பொன்னுந் துகிரு முத்து ம‡னிய </l>
+         <l><pb facs="81" n="322r" /><lb n="9" />பொன்னுந் துகிரு முத்து ம<gap reason="lost" quantity="1" unit="character"/>னிய </l>
          <l>மாமலை பயந்த காமரு மணியு </l>
          <l>மிடைபடச் சேய்த்த வாயினுந் தொடை<lb n="10" />புணர்ந் </l>
          <l>தருவிலை நன்கல மமைக்குங் காலை </l>
@@ -427,15 +427,25 @@ In part badly worm eaten  and with some broken margins.</condition></supportDesc
          </p>   
 
          <lg xml:id="PN219">
-         
+         <l><pb facs="82" n="322v" /><lb n="1" />உள்ளாற்றுக் கவலை புள்ளி நீழன் </l>
+         <l>முழுவள் ளூர புணக்கு மள்ள </l>
+         <l>புலவுதி யாதோ நீயே </l>
+         <l><space quantity="7" unit="character"/><lb n="2" /><space quantity="7" unit="character"/>யிருந் தோரே</l>
          </lg>
-         <p xml:id="PN219-intro">
+         <p xml:id="PN219-intro">இதுவமது – அவன் வடக்கிருந்தானைக் கருவூர் யெஞ்சதுக்கத்துப் பூத்தனார்-௨௨௰-
          </p>
 
          <lg xml:id="PN220">
-         
-         </lg>
-         <p xml:id="PN220-intro">
+            <pb facs="82" n="322v" /><lb n="2" />பெருஞ்சோறு பயந்து பல்யாண்டு புரந்த 
+         பெரு<space quantity="4" unit="character"/><lb n="3" /><space quantity="8" unit="character"/>
+         <space quantity="4" unit="character"/>சாந் தல்கிய வழுங்கா லாலை 
+         வெனில்பா ழாக்க கண்டுகவிழ்ந் தரீங்குக் 
+         கலங்கினெ னல்லனோ யானே பொலந்தார்த் 	5
+         தேர்வண் கிள்<lb n="4" />ளி போகிய 
+         <space quantity="7" unit="character"/>
+            
+      </lg>
+         <p xml:id="PN220-intro"><space quantity="7" unit="character"/>வன் வடக்கிருந்தானுழைச் சென்று மீண்டுவந் துறையூர்கண் பொததியா ரமுது பாடியது-௨௨௧-
          </p>
 
          </body>
