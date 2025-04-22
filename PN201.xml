@@ -973,103 +973,103 @@ tiṇaiyum tuṟaiyum avai. pārimakaḷirai iraṅkōvēḷuḻaikkoṇṭuce�
     <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
-  <app corresp="0,24">
+  <app loc="0,24">
     <lem>ivaryā reṉkuvai yāyi ṉivarē</lem>
     <rdg wit="#C1"><lb n="6" /><space quantity="7" unit="character" /></rdg>
     <rdg wit="#C2"><lb n="1"/><space quantity="16" unit="characters"/><g rend="vowel-sign">ā</g>reṉkuvai yāppi ṉivarē</rdg>
   </app>
-  <app corresp="24,54">
+  <app loc="24,54">
     <lem wit="#C2">yūruṭa ṉiravalark karuḷit tēruṭaṉ</lem>
     <rdg wit="#C1"/>
   </app>
-  <app corresp="54,80">
+  <app loc="54,80">
     <lem>mullaik kītta cellā nallicaip</lem>
     <rdg wit="#C1"><lb n="6"/><space quantity="7" unit="character"/></rdg>
     <rdg wit="#C2">mullaik <lb n="2"/>kīynta tōyā nallicaip</rdg>
   </app>
-  <app corresp="80,88">
+  <app loc="80,88">
     <lem>paṭumaṇi</lem>
     <rdgGrp select="#C1 #C2">
       <rdg type="main"><lb n="7"/>parumaṇi</rdg>
       <rdg type="minor" wit="#C2">parumaṇi</rdg>
     </rdgGrp>
   </app>
-  <app corresp="106,113">
+  <app loc="106,113">
     <lem>ṉeṭumāp</lem>
     <rdg wit="#C1 #C2">ṉeṭumāṟ</rdg>
   </app>
-  <app corresp="113,145">
+  <app loc="113,145">
     <lem>pāri makaḷir yāṉē tantai tōḻa ṉivareṉ</lem>
     <rdgGrp select="#C1 #C2">
       <rdg type="main">pā<space quantity="12" unit="character"/> <space quantity="15" unit="character"/>ṉē</rdg>
       <rdg type="minor" wit="#C2">pā<space quantity="8" unit="characters"/> <space quantity="8" unit="characters"/>ṉē</rdg>
     </rdgGrp>
   </app>
-  <app corresp="159,166">
+  <app loc="159,166">
     <lem>pulavaṉ</lem>
     <rdg wit="#C1 #C2">putalvaṉ</rdg>
   </app>
-  <app corresp="184,191">
+  <app loc="184,191">
     <lem>vaṭapāṉ</lem>
     <rdg wit="#C1 #C2">vaṭapāla</rdg>
   </app>
-  <app corresp="198,207">
+  <app loc="198,207">
     <lem wit="#C2">ṟaṭaviṉuṭ</lem>
     <rdg wit="#C1"><gap reason="lost" quantity="1"/>ṟaviṉuṭ</rdg>
   </app>
-  <app corresp="213,224">
+  <app loc="213,224">
     <lem>cempupuṉain</lem>
     <rdg wit="#C1 #C2">cempupuṇarn</rdg>
   </app>
-  <app corresp="240,247">
+  <app loc="240,247">
     <lem wit="#C2">puricai</lem>
     <rdg wit="#C1"><gap reason="lost" quantity="1" unit="character"/>ricai</rdg>
   </app>
-  <app corresp="253,277">
+  <app loc="253,277">
     <lem>vīkait tuvarai yāṇṭu nāṟpat</lem>
     <rdgGrp select="#C1 #C2">
       <rdg type="main"><space quantity="20" unit="character"/> nāṟpat</rdg>
       <rdg type="minor" wit="#C2"><space quantity="12" unit="characters"/> nāṟpat</rdg>
     </rdgGrp>
   </app>
-  <app corresp="298,309">
+  <app loc="298,309">
     <lem>vēḷiruḷ vēḷē</lem>
     <rdg wit="#C1 #C2">vēḷi ruḷavaṉē</rdg>
   </app>
-  <app corresp="333,341">
+  <app loc="333,341">
     <lem wit="#C2">cēṭṭiruṅ</lem>
     <rdg wit="#C1">cēṭṭiru<gap reason="lost" quantity="1" unit="character"/></rdg>
   </app>
-  <app corresp="377,384">
+  <app loc="377,384">
     <lem>voliyaṟ</lem>
     <rdg wit="#C1 #C2">yoliyaṟ</rdg>
   </app>
-  <app corresp="398,402">
+  <app loc="398,402">
     <lem>māal</lem>
     <rdg wit="#C1 #C2">mālē</rdg>
   </app>
-  <app corresp="409,417">
+  <app loc="409,417">
     <lem>vivaraik</lem>
     <rdg wit="#C1 #C2">vilaraik</rdg>
   </app>
-  <app corresp="432,441">
+  <app loc="432,441">
     <lem wit="#C2">tiruṅkaṭa</lem>
     <rdg wit="#C1">tirunkaṭa</rdg>
   </app>
-  <app corresp="441,459">
+  <app loc="441,459">
     <lem>luṭuttaviv vaiyakat</lem>
     <rdg wit="#C1">luṭuttu<gap reason="lost" quantity="5" unit="character"/>kat</rdg>
     <rdg wit="#C2">luṭuttutavi yavaiyakat</rdg>
   </app>
-  <app corresp="459,469">
+  <app loc="459,469">
     <lem>taruntiṟaṟ</lem>
     <rdg wit="#C1 #C2">tarukatiṟaṟ</rdg>
   </app>
-  <app corresp="532,540">
+  <app loc="532,540">
     <lem>nāṭukiḻa</lem>
     <rdg wit="#C1 #C2">malaikiḻa</rdg>
   </app>
-  <app corresp="540,545">
+  <app loc="540,545">
     <lem>vōyē.</lem>
     <rdg wit="#C1 #C2">vōṉē.</rdg>
   </app>
