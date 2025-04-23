@@ -23,18 +23,18 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN245-intro">
-      <p type="edition">tiṇai, pāṭāṇṭiṇai; tuṟai, kaiyaṟunilai. cēramāṉ kōṭṭampalattut tuñciya mākkōtai taṉ peruṅkōppeṇṭu tuñciya kālaic colliya pāṭṭu.
+    <div rend="parallel">
+      <p xml:id="PN245-intro">tiṇai, pāṭāṇṭiṇai; tuṟai, kaiyaṟunilai. cēramāṉ kōṭṭampalattut tuñciya mākkōtai taṉ peruṅkōppeṇṭu tuñciya kālaic colliya pāṭṭu.
     <app>
     <lem wit="#C3 #C8">cēramāṉ</lem>
     <rdg wit="#C2">ituvumatu - cēramāṉ</rdg>
     </app> kōṭṭampalattut tuñciya mākkōtai taṉ peruṅkōppeṇṭu tuñciya kālaic colliya pāṭṭu. 
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN245">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN245">
 <l>yāṅkupperi tāyiṉu nōyaḷa veṉaittē</l>
 <l>yuyircekuk kallā matukait taṉmaiyiṟ</l>
 <l>kaḷḷi pōkiya kaḷariyam paṟantalai</l>
@@ -43,7 +43,7 @@
 <l>ñāṅkar māyntaṉaḷ maṭantai</l>
 <l>yiṉṉum vāḻva leṉṉitaṉ paṇpē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>However big it may be, what is the measure of [my] pain,</l>
 <l>because of the nature of [my] strength, not [enough] to destroy [my] life?</l>
 <l>On the burning ground, saline, overgrown with spurge,</l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN327-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai
+    <div rend="parallel">
+      <p xml:id="PN327-intro">tiṇaiyum tuṟaiyum avai
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN327">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN327">
 <l>erutukā luṟāa tiḷaiñar koṉṟa</l>
 <l>cilviḷai varakiṉ pulleṉ kuppai</l>
 <l>toṭutta kaṭavarkkuk koṭutta miccil</l>
@@ -40,7 +40,7 @@
 <l>varakukaṭa ṉirakku neṭuntakai</l>
 <l>yaracuvariṟ ṟāṅkum vallā ḷaṉṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Who, because the puny heap of a little ripe millet,</l>
 <l>that had been thrashed by the young men without undergoing the feet of the bull,</l>
 <l>failed at the point when the famished bard had eaten</l>

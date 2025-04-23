@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN287-intro">
-      <p type="edition">tiṇai, karantai; tuṟai, nīṇmoḻi. cāttantaiyār.
+    <div rend="parallel">
+      <p xml:id="PN287-intro">tiṇai, karantai; tuṟai, nīṇmoḻi. cāttantaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN287">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN287">
 <l>tuṭiyeṟiyum pulaiya</l>
 <l>veṟikōl koḷḷu miḻiciṉa</l>
 <l>kāla māriyi ṉampu taippiṉum</l>
@@ -46,7 +46,7 @@
 <l>vampa vēntaṉ ṟāṉai</l>
 <l>yimpar niṉṟum kāṇṭirō varavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Drummer who beats the Tuṭi drum,</l>
 <l>lowcaste man(?) who takes the fighting stick,</l>
 <l>Great men who don’t go running,</l>

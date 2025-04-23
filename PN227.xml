@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN227-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉai āṭutuṟaimācāttaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN227-intro">tiṇaiyum tuṟaiyum avai. avaṉai āṭutuṟaimācāttaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN227">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN227">
 <l>naṉipē taiyē nayaṉil kūṟṟam</l>
 <l>virakiṉ maiyiṉ vittaṭ ṭuṇṭaṉai</l>
 <l>yiṉṉuṅ kāṇkuvai naṉvā yākuta</l>
@@ -44,7 +43,7 @@
 <l>yiṉaiyōṟ koṇṭaṉai yāyi</l>
 <l>ṉiṉiyār maṟṟuniṉ pacitīrp pōrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">[This is] great folly, loveless Death. </l>
 <l corresp="2">In the absence of fire wood you have cooked [and] eaten the seeds. </l>
 <l corresp="3">Even now you will see [this] become good truth: </l>

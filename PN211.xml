@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN211-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉai avar pāṭiyatu
+    <div rend="parallel">
+      <p xml:id="PN211-intro">tiṇaiyum tuṟaiyum avai. avaṉai avar pāṭiyatu
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
   </div>
-    <div xml:id="PN211">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN211">
 <l>añcuvaru marapiṉ veñciṉam puyalē</l>
 <l>ṟaṇaṅkuṭai yaravi ṉaruntalai tumiya</l>
 <l>niṉṟukāṇ paṉṉa nīṇmalai miḷirak</l>
@@ -55,7 +54,7 @@
 <l>mulaikkōṇ maṟanta putalvaṉoṭu</l>
 <l>maṉaittolain tiruntaveṉ vāṇutaṟ paṭarntē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="6">O appearance worthy of words who wins, so that kings fall, </l>
 <l corresp="5">when going at the head of [your] army where drums rise [and] sound </l>
 <l corresp="4">similar to the sound that widely attacks the hills </l>

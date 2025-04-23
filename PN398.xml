@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN398-intro">
-      <p type="edition">tiṇai, pāṭāṇṭiṇai. tuṟai, iyaṉmoḻi. cōḻaṉ nalaṅkiḷḷiyaik kōvūrkiḻā1r.
+    <div rend="parallel">
+      <p xml:id="PN398-intro">tiṇai, pāṭāṇṭiṇai. tuṟai, iyaṉmoḻi. cōḻaṉ nalaṅkiḷḷiyaik kōvūrkiḻā1r.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN398">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN398">
 <l>matinilāk karappa veḷḷi yērtara</l>
 <l>vakaimā ṇalliṟ<gap quantity="29" reason="lost" unit="character"/></l>
 <l>poṟimayir vāraṇam poḻutaṟin tiyampap</l>
@@ -62,7 +62,7 @@
 <l>muraicela varuḷi yōṉē</l>
 <l>paṟaiyicai yaruvip pāyaṟ kōvē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">When the moon hides [its] light, when Venus rises, </l>
 <l corresp="2">in the good house glorious for [its] kind…………. </l>
 <l corresp="3">when, knowing the time, the fowl with dotted feathers calls, </l>

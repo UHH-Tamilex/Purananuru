@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN220-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉ vaṭakkiruntāṉaiyuḻaic ceṉṟu mīṇṭuvantu uṟaiyūrkaṇṭa pottiyār aḻutu pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN220-intro">tiṇaiyum tuṟaiyum avai. avaṉ vaṭakkiruntāṉaiyuḻaic ceṉṟu mīṇṭuvantu uṟaiyūrkaṇṭa pottiyār aḻutu pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN220">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN220">
 <l>peruñcōṟu payantu palyāṇṭu puranta</l>
 <l>peruṅkaḷi ṟiḻanta paitaṟ pāka</l>
 <l>ṉatucērn talkiya vaḻuṅka lālai</l>
@@ -40,7 +39,7 @@
 <l>tērvaṇ kiḷḷi pōkiya</l>
 <l>pēricai mūtūr maṉṟaṅ kaṇṭē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">A suffering mahout who has lost a big elephant bull </l>
 <l corresp="1">he had protected for many years, pouring [it] great rice, </l>
 <l corresp="4">weeping like [him] when seeing that the post is in ruin </l>

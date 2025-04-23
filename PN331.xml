@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN331-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. uṟaiyūr mutukkūttaṉār.
+    <div rend="parallel">
+      <p xml:id="PN331-intro">tiṇaiyum tuṟaiyum avai. uṟaiyūr mutukkūttaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN331">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN331">
 <l>kallaṟut tiyaṟṟiya valluvark kūval</l>
 <l>villēr vāḻkkaic cīṟūr matavali</l>
 <l>naṉinal kūrntaṉa ṉāyiṉum paṉimikap</l>
@@ -45,7 +45,7 @@
 <l>pōkupali veḷcōṟu pōla</l>
 <l>tūvavum vallaṉavaṉ tūvuṅ kālē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">Even if the strong man of the little village, whose livelihood is the bow for a plough, </l>
 <l corresp="1">with a very brackish well made by cutting off the stones, </l>
 <l>is very poor, like an untaught shepherd (3a-c+5ab)</l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,19 +23,19 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN373-intro">
-      <p type="edition">tiṇai, atu. tuṟai, maṟakkaḷavaḻi; ērkkaḷa 
+    <div rend="parallel">
+      <p xml:id="PN373-intro">tiṇai, atu. tuṟai, maṟakkaḷavaḻi; ērkkaḷa 
       <app>
       <lem wit="#C8">uruvakamumām</lem>
       <rdg wit="#C2 #C3">aruvakamumām</rdg>
       </app>
       cōḻaṉ kurāppaḷḷit tuñciya kiḷivaḷavaṉ karuvūreṟiṉantāṉaik kōvūrkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN373">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN373">
 <l>urumicai muḻakkeṉa muraca micaippac</l>
 <l>cerunavil vēḻaṅ koṇmū vākat</l>
 <l>tērmā vaḻituḷi talaii nāmuṟak</l>
@@ -77,7 +76,7 @@
 <l>ceñcevi yeruvai kuḻīi</l>
 <l>yañcuvaru kiṭakkaiya kaḷaṅkiḻa vōyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="4cd">With a war camp wide in area, where, </l>
 <l corresp="1">while drums sound like thunder-sounding thunder, </l>
 <l>with fight-trained elephant bulls as clouds,</l>

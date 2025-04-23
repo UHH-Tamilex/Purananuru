@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN263-intro">
-      <p type="edition">tiṇai, karantai. tuṟai, kaiyaṟunilai<gap quantity="8" reason="lost" unit="character"/>
+    <div rend="parallel">
+      <p xml:id="PN263-intro">tiṇai, karantai. tuṟai, kaiyaṟunilai<gap quantity="8" reason="lost" unit="character"/>
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN263">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN263">
 <l>peruṅkaḷiṟ ṟaṭiyiṉ ṟōṉṟu moruka</l>
 <l>ṇirumpaṟai yiravala cēṟi yāyiṉ</l>
 <l>ṟoḻātaṉai kaḻita lōmpumati vaḻātu</l>
@@ -40,7 +40,7 @@
 <l>villumiḻ kaṭuṅkaṇai mūḻkak</l>
 <l>kolpuṉaṟ ciṟaiyiṉ vilaṅkiyōṉ kallē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Mendicant with the big drum with one eye that appears</l>
 <l>like the foot of a large elephant bull, if you were to go (1f.)</l>
 <l corresp="3d-4">on this way in a state of drought where the Vaṇṭu are unfailingly pre-eminent, </l>

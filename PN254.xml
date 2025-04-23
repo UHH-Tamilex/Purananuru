@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN254-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. <gap quantity="5" reason="lost" unit="character"/>kayamaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN254-intro">tiṇaiyum tuṟaiyum avai. <gap quantity="5" reason="lost" unit="character"/>kayamaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
      </div>
-    <div xml:id="PN254">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN254">
 <l>iḷaiyaru mutiyarum vēṟupulam paṭara</l>
 <l>veṭuppa veḻāay mārpamaṇ pulla</l>
 <l>viṭaiccurat tiṟutta maḷḷa viḷartta</l>
@@ -44,7 +43,7 @@
 <l>māṉātu pukaḻu maṉṉai</l>
 <l>yāṅkā kuvaḷko laḷiyaḷ ṭāṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2ab">You who won’t rise when roused, </l>
 <l corresp="1">while young and old set out for another region, </l>
 <l corresp="2cd">  while [your] chest embraces the earth, </l>

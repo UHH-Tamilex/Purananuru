@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN255-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. <gap quantity="6" reason="lost" unit="character"/>vaṉparaṇar pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN255-intro">tiṇaiyum tuṟaiyum avai. <gap quantity="6" reason="lost" unit="character"/>vaṉparaṇar pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN255">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN255">
 <l>aiyō veṉiṉyāṉ puliyañ cuvalē</l>
 <l>yaṇaittaṉaṉ koḷiṉē yakaṉmār peṭukkavallē</l>
 <l>ṉeṉpōṟ peruvitirp puṟuka niṉṉai</l>
@@ -38,7 +38,7 @@
 <l>niraivaḷai muṉkai paṟṟi</l>
 <l>varainiḻaṟ cērka naṭatticiṟ ciṟitē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">  If [you] say “aiyō”, I am afraid of the tiger. </l>
 <l corresp="2">If I take [him] as one who touches, I won’t be able to rouse [him] with wide chest. </l>
 <l corresp="3a-c">May you experience a great tremble like me, </l>

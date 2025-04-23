@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN285-intro">
-      <p type="edition">tiṇai, vākai; tuṟai, ...mullai. aricilkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN285-intro">tiṇai, vākai; tuṟai, ...mullai. aricilkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN285">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN285">
 <l>pācaṟai yīrē pācaṟai yīrē</l>
 <l>tuṭiyaṉ kaiyatu vēlē yaṭipuṇar</l>
 <l>vāṅkiru maruppiṟ ṟīntoṭaic cīṟiyāḻp</l>
@@ -50,7 +49,7 @@
 <l>vilampā ṭokkaṟ ṟalaivaṟkōr</l>
 <l>karampaic cīṟūr nalkiṉa ṉeṉavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>You in the warcamp! Your in the warcamp!</l>
 <l>In the hand of the Tuṭi drummer is the spear. In the hand</l>
 <l>of the bard with the small lute with sweet strings </l>

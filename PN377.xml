@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN377-intro">
-      <p type="edition">tiṇai atu. tuṟai, vāḻattiyal. cōḻaṉ irācacūyam vēṭṭa perunaṟkiḷḷiyai ulōccaṉār.
+    <div rend="parallel">
+      <p xml:id="PN377-intro">tiṇai atu. tuṟai, vāḻattiyal. cōḻaṉ irācacūyam vēṭṭa perunaṟkiḷḷiyai ulōccaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>,
     </div>
-    <div xml:id="PN377">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN377">
 <l>paṉipaḻuṉiya palyāmattup</l>
 <l>pāṟutalai mayirnaṉaiya</l>
 <l>viṉitu tuñcun tirunakar varaippi</l>
@@ -62,7 +62,7 @@
 <l>taṭaloli koṇṭa <supplied>tāṉai</supplied></l>
 <l>yaṭalveṅ kuruciṉī maṉṉiya neṭitē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">When the hair on [my] dishevelled head had become wet </l>
 <l corresp="1">for many midnights rife with dew </l>
 <l corresp="4">I approached, touching my Kiṇai drum in order to dispell despair </l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN207-intro">
-        <p type="edition">tiṇaiyum tuṟaiyum avai. veḷimāṉ tuñciyapiṉ avaṉṟampi iḷaveḷimāṉaip paricilkoṭuveṉa avaṉciṟitukoṭuppak koḷḷātu peruñcittiraṉār pāṭiyatu.
+    <div rend="parallel">
+        <p xml:id="PN207-intro">tiṇaiyum tuṟaiyum avai. veḷimāṉ tuñciyapiṉ avaṉṟampi iḷaveḷimāṉaip paricilkoṭuveṉa avaṉciṟitukoṭuppak koḷḷātu peruñcittiraṉār pāṭiyatu.
         </p>
-        <p xml:lang="en" type="translation">  
+        <p xml:lang="en">  
         </p>
     </div>
-    <div xml:id="PN207">
-        <lg type="edition"> 
+    <div rend="parallel">
+        <lg xml:id="PN207"> 
 <l>eḻuviṉi neñcañ celkam yārō</l>
 <l>paruku vaṉṉa vēṭkai yilvaḻi</l>
 <l>yarukiṟ kaṇṭu maṟiyār pōla</l>
@@ -44,7 +43,7 @@
 <l>nōvā tōṉvayiṟ ṟiraṅki</l>
 <l>vāyā vaṉkaṉik kulamavaru vōrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Rise now, heart, we will go. Who [is he]? </l>
 <l corresp="3">Like those who do not know, even if they see up close, </l>
 <l corresp="2">in a way without desire that is like drinking, </l>

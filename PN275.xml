@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN275-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. orūuttaṉār.
+    <div rend="parallel">
+      <p xml:id="PN275-intro">tiṇaiyum tuṟaiyum avai. orūuttaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN275">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN275">
 <l>kōṭṭaṅ kaṇṇiyuṅ koṭuntirai yāṭaiyum</l>
 <l>vēṭṭatu colli vēntaṉait toṭuttalu</l>
 <l>mottaṉṟu mātō vivaṟkē ceṟṟiya</l>
@@ -42,7 +41,7 @@
 <l>kaṉṟamar kaṟavai māṉa</l>
 <l>muṉcamat tetirntataṉ ṟōḻaṟku varumē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>A curved chaplet and a dress with curved pleats</l>
 <l>and linking up to the king by speaking what is desired</l>
 <l>– weren't they like him? Crossing </l>

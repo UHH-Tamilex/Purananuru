@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN322-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. āvūr kiḻār.
+    <div rend="parallel">
+      <p xml:id="PN322-intro">tiṇaiyum tuṟaiyum avai. āvūr kiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN322">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN322">
 <l>uḻutūr kāḷai yūḻkō ṭaṉṉa</l>
 <l>kavaimuṭ kaḷḷip poriyaraip poruntip</l>
 <l>putuvara karikāṟ karuppai pārkkum</l>
@@ -42,7 +42,7 @@
 <l>ṭaṇpaṇai yāḷum vēntarkkuk</l>
 <l>kaṇpaṭai yīyā vēlō ṉūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>It is one of hard soil,</l>
 <l>where, as the ruddy-headed boys lift [their] bows [and] shout,</l>
 <l>when they join the mottled trunk of the Kaḷḷi with thorns forked</l>

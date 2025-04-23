@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN393-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cōḻaṉ kuḷaṟṟattuttuñciya kiḷḷivaḷavaṉai nalliṟaiyaṉār.
+    <div rend="parallel">
+      <p xml:id="PN393-intro">tiṇaiyum tuṟaiyum avai. cōḻaṉ kuḷaṟṟattuttuñciya kiḷḷivaḷavaṉai nalliṟaiyaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN393">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN393">
 <l>patimutaṟ paḻakāp paḻaṅkaṇ vāḻkkaik</l>
 <l>kuṟuneṭun tuṇaiyoṭu kūmai vītaliṟ</l>
 <l>kuṭimuṟai pāṭi yoyyeṉa varunti</l>
@@ -58,7 +57,7 @@
 <l>vāyvāḷ vaḷavaṉ vāḻkeṉap</l>
 <l>pīṭukeḻu nōṉṟāḷ pāṭukam palavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="5">In the absence of other lands of men who know [their] duty </l>
 <l corresp="4">who would make our pots bloom that have forgotten the longing to cook, </l>
 <l corresp="3">suffering cruelly when singing in the order of hamlets/families, </l>

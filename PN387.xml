@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN387-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cēramāṉ cikkaṟpaḷḷittuñciya celvakkaṭuṅkōvāḻiyātaṉaik kuṇṭukaṭpāliyātaṉ.
+    <div rend="parallel">
+      <p xml:id="PN387-intro">tiṇaiyum tuṟaiyum avai. cēramāṉ cikkaṟpaḷḷittuñciya celvakkaṭuṅkōvāḻiyātaṉaik kuṇṭukaṭpāliyātaṉ.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN387">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN387">
 <l>vaḷḷukira vayalāmai</l>
 <l>veḷḷakaṭu kaṇṭaṉṉa</l>
 <l>vīṅkuvicip putuppōrvait</l>
@@ -68,7 +68,7 @@
 <l>pallūr cuṟṟiya kaḻaṉi</l>
 <l>yellām viḷaiyu nelliṉum palavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="4">Always stirring [my] big Kiṇai drum with a clear eye, </l>
 <l corresp="3">with a new covering with taught leather straps, </l>
 <l corresp="2">that looks like the white belly </l>

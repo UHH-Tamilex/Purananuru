@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN400-intro">
-      <p type="edition">tiṇai, pāṭāṇṭiṇai. tuṟai, iyaṉmoḻi. cōḻaṉ nalaṅkiḷḷiyaik kōvūrkiḻā1r.
+    <div rend="parallel">
+      <p xml:id="PN400-intro">tiṇai, pāṭāṇṭiṇai. tuṟai, iyaṉmoḻi. cōḻaṉ nalaṅkiḷḷiyaik kōvūrkiḻā1r.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN400">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN400">
 <l>mākavicumpiṉ veṇṭiṅkaṇ</l>
 <l>mūvaintāṉ muṟaimuṟṟak</l>
 <l>kaṭaṉaṭuvaṭ kaṇṭaṉṉaveṉ</l>
@@ -55,7 +55,7 @@
 <l>tuṟaitoṟum piṇikku nallū</l>
 <l>ruṟaiviṉ yāṇar <gap quantity="12" reason="lost" unit="character"/>kiḻa vōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="5">Late in the night when [I] appear at the gate, </l>
 <l corresp="4">praising according to custom, my instruments sounding </l>
 <l corresp="3">that looked like, in the middle of the sea, </l>

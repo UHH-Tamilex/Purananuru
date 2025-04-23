@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN292-intro">
-      <p type="edition">tiṇai, vañci; tuṟai, peruñcōṟṟunilai. viricciyūr naṉṉakaṉār.
+    <div rend="parallel">
+      <p xml:id="PN292-intro">tiṇai, vañci; tuṟai, peruñcōṟṟunilai. viricciyūr naṉṉakaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN292">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN292">
 <l>vēntaṟ kēntiya tīntaṇ ṇaṟavam</l>
 <l>yāntaṉak kuṟumuṟai vaḷāva vilakki</l>
 <l>vāyvāḷ paṟṟi niṉṟaṉa ṉeṉṟu</l>
@@ -40,7 +40,7 @@
 <l>veḻutaru perumpaṭai vilakki</l>
 <l>yāṇṭu niṟku māṇtakai yaṉṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>“The sweet cool licquor held out to the king,</l>
 <l>refusing [it] when we diluted [it] as the turn [it] fell on him</l>
 <l>he stood, gripping [his] excellent sword,” </l>

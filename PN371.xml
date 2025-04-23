@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN371-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. [C2+3: ituvumatu] talaiyālaṅkāṉattuc ceruveṉṟa neṭuñceḻiyaṉaik kallāṭaṉār
+    <div rend="parallel">
+      <p xml:id="PN371-intro">tiṇaiyum tuṟaiyum avai. [C2+3: ituvumatu] talaiyālaṅkāṉattuc ceruveṉṟa neṭuñceḻiyaṉaik kallāṭaṉār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN371">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN371">
 <l>akaṉṟalai vaiyattup puravalark kāṇātu</l>
 <l>marantalaic cērntu paṭṭiṉi vaikip</l>
 <l>pōtavi ḻalari nāriṟ ṟoṭuttut</l>
@@ -59,7 +59,7 @@
 <l>vurukeḻu pēeymaka ḷayarak</l>
 <l>kurutittuka ḷāṭiya kaḷaṅkiḻa vōyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Without seeing a protector in the world of wide area, </l>
 <l corresp="2">approaching the crown of a tree, keeping up fasting, </l>
 <l corresp="3">linking oleander with opening buds by means of fibre, </l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,15 +23,15 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN208-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. 
+    <div rend="parallel">
+      <p xml:id="PN208-intro">tiṇaiyum tuṟaiyum avai. 
         atiyamāṉ neṭumāṉañciyuḻaicceṉṟa peruñcittiraṉāraik kāṇātu itu koṇṭucelkeṉṟu avaṉparicilkoṭuppak koḷḷātu avar colliyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN208">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN208">
 <l>kuṉṟu malaiyum palapi ṉoḻiya</l>
 <l>vantaṉeṉ paricil koṇṭaṉeṉ celaṟkeṉa</l>
 <l>niṉṟa veṉṉayan taruḷi yītukoṇ</l>
@@ -43,7 +42,7 @@
 <l>tiṉaiyaṉait tāyiṉu miṉitavar</l>
 <l>tuṇaiyaḷa vaṟintu nalkiṉar viṭiṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="5">The [royal] guardian difficult to bear, how did he know </l>
 <l corresp="3d-4">me, to say “having taken this he can go in this manner”, </l>
 <l corresp="3a-c">having graciously longed for me who stood [there] </l>

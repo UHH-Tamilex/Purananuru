@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN325-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. uṟaiyūr mutukaṇṇaṉ cāttaṉār.
+    <div rend="parallel">
+      <p xml:id="PN325-intro">tiṇaiyum tuṟaiyum avai. uṟaiyūr mutukaṇṇaṉ cāttaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN325">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN325">
 <l>kaḷiṟunī ṟāṭiya viṭunila maruṅkiṉ</l>
 <l>vampap perumpeyal varaintucorin tiṟanteṉak</l>
 <l>kuḻikoḷ ciṉṉīr kurāa luṇṭaliṟ</l>
@@ -47,7 +47,7 @@
 <l>vēntutalai variṉun tāṅkum</l>
 <l>tāṅkā vīkai neṭuntakai yūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>With a livelihood that is insufficient, where [people] drink in turn</l>
 <l>of what oozes from the murky spot that is dug in the mud,</l>
 <l>as the tawny cow had drunk the little water held by the pit,</l>

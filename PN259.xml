@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN259-intro">
-      <p type="edition">tiṇai, karantai; tuṟai, cerumalaital. piḷḷaippeyarcciyumām<gap quantity="3" reason="lost" unit="character"/>kōṭaipāṭiya perumpūtaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN259-intro">tiṇai, karantai; tuṟai, cerumalaital. piḷḷaippeyarcciyumām<gap quantity="3" reason="lost" unit="character"/>kōṭaipāṭiya perumpūtaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN259">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN259">
 <l>ēṟuṭaip perunirai peyartarap peyarā</l>
 <l>tilaiputai peruṅkāṭṭut talaikaran tirunta</l>
 <l>valviṉ maṟava roṭukkaṅ kāṇāy</l>
@@ -39,7 +39,7 @@
 <l>tāvupu teṟikku māṉmēṟ</l>
 <l>puṭaiyilaṅ koḷvāṭ puṉaikaḻa lōyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>See the self-control of the bold men with strong bows</l>
 <l>who sit hidden in the leaf-covered big wilderness</l>
 <l>without moving while the large herd with the bull moves.</l>

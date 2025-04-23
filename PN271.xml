@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN271-intro">
-      <p type="edition">tiṇai, nocci; tuṟai, ceruviṭaivīḻtal. veṟipāṭiya kāmakkaṇṇiyār.
+    <div rend="parallel">
+      <p xml:id="PN271-intro">tiṇai, nocci; tuṟai, ceruviṭaivīḻtal. veṟipāṭiya kāmakkaṇṇiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN271">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN271">
 <l>nīraṟa vaṟiyā nilamutaṟ kalanta</l>
 <l>karuṅkura ṉoccik kaṇṇār kurūuttaḻai</l>
 <l>melliḻai makaḷi raitaka lalkuṟ</l>
@@ -41,7 +40,7 @@
 <l>paruntukoṇ ṭukappayāṅ kaṇṭaṉa</l>
 <l>maṟampukaṉ maintaṉ malainta māṟē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The eye-filling lustrous foliage of the black-eared Nocci</l>
 <l>that mixed [its] base with the ground that does not know of the water ceasing,</l>
 <l>we have seen it become skirts</l>

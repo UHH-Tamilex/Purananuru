@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN380-intro">
-      <p type="edition">tiṇai, atu. tuṟai, iyaṉmoḻi. nāñcilvaḷḷuvaṉaik karuvūrk kaṭappiḷḷai.
+    <div rend="parallel">
+      <p xml:id="PN380-intro">tiṇai, atu. tuṟai, iyaṉmoḻi. nāñcilvaḷḷuvaṉaik karuvūrk kaṭappiḷḷai.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN380">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN380">
 <l>teṉpavvattu muttup pūṇṭu</l>
 <l>vaṭakuṉṟa<supplied>ttuc cānta murīi</supplied></l>
 <l><gap quantity="18" reason="lost" unit="character"/>kaṭaṟ ṟāṉai</l>
@@ -48,7 +48,7 @@
 <l>milampaṭu kālai yāyiṉum</l>
 <l>pulampalpō yiṉṟu pūttaveṉ kaṭumpē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Putting on pearls from the southern sea, </l>
 <l corresp="2">rubbing in sandal paste from the northern hills, </l>
 <l corresp="3">……………………………. sea[-like] army, </l>

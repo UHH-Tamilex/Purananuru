@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN374-intro">
-    <p type="edition">tiṇai, pāṭāṇṭiṇai. tuṟai, pūvainilai. āy aṇṭiraṉai uṟaiyūr ēṇiccēri muṭamōciyār.
+    <div rend="parallel">
+    <p xml:id="PN374-intro">tiṇai, pāṭāṇṭiṇai. tuṟai, pūvainilai. āy aṇṭiraṉai uṟaiyūr ēṇiccēri muṭamōciyār.
     </p>
-    <p xml:lang="en" type="translation">  
+    <p xml:lang="en">  
     </p>
   </div>
-    <div xml:id="PN374">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN374">
 <l>kāṉaṉ mēyntu viyaṉpulat talkum</l>
 <l>pulvā yiralai neṟṟi yaṉṉa</l>
 <l>polamilaṅku ceṉṉiya pāṟumayir viyarppat</l>
@@ -50,7 +50,7 @@
 <l>vaṇmaiyu muṭaiyaiyō ñāyiṟu</l>
 <l>koṉviḷaṅ kutiyāl vicumpi ṉāṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="8d">As, </l>
 <l corresp="3">so that the dishevelled hair one [my] golden shining head perspires </l>
 <l corresp="2">like the forehead of the Iralai deer </l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN314-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. aiyūrmuṭavaṉār
+    <div rend="parallel">
+      <p xml:id="PN314-intro">tiṇaiyum tuṟaiyum avai. aiyūrmuṭavaṉār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN314">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN314">
 <l>maṉaikkuviḷak kākiya vāṇutal kaṇavaṉ</l>
 <l>muṉaikkuvaram pākiya veṉvē ṉeṭuntakai</l>
 <l>naṭukaṟ piṟaṅkiya vuvaliṭu paṟantalaip</l>
@@ -39,7 +39,7 @@
 <l>niṟaiyaḻin teḻutaru tāṉaikkuc</l>
 <l>ciṟaiyun tāṉētaṉ ṉiṟaiviḻu muṟiṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The husband of [her with] bright forehead who has become the light of the house,</l>
 <l>the paragon with a victoriuous spear who has become the border of the frontier,</l>
 <l>for the little village with hard soil [and] myrobalan tress with puny cores,</l>

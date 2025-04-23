@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN358-intro">
-      <p type="edition">tiṇai, atu; tuṟai, maṉaiyaṟam tuṟavaṟam. vāṉmīkiyār
+    <div rend="parallel">
+      <p xml:id="PN358-intro">tiṇai, atu; tuṟai, maṉaiyaṟam tuṟavaṟam. vāṉmīkiyār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN358">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN358">
 <l>paruti cūḻntavip payaṅkeḻu mānila</l>
 <l>morupaka leḻuva reyti yaṟṟē</l>
 <l>vaiyamun tavamun tūkkiṟ ṟavattuk</l>
@@ -39,7 +39,7 @@
 <l>viṭṭōrai viṭāa ṭiruvē</l>
 <l>viṭāa tōrivaḷ viṭappaṭ ṭōrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>This fertile big earth surrounded by the disk</l>
 <l>is of the kind reached in one day by seven people.</l>
 <l>If one weighs the world and the penance, because</l>

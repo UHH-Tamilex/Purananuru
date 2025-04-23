@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN324-intro">
-      <p type="edition">tiṇaiyum tuṟaiyumavai. ālattūrkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN324-intro">tiṇaiyum tuṟaiyumavai. ālattūrkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN324">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN324">
 <l>verukkuviṭai yaṉṉa vekuṇōkkuk kayantalaip</l>
 <l>puḷḷūṉ ṟiṉṟa pulavunāṟu kayavāy</l>
 <l>veḷvāy vēṭṭuvar vīḻtuṇai makāar</l>
@@ -46,7 +46,7 @@
 <l>valampaṭu tāṉai vēntaṟ</l>
 <l>kulantuḻi yulakku neñcaṟi tuṇaiyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>In the little village with pretty homes that encompasses low/grassy fields,</l>
 <l>where with [their] chosen companions the sons of the hunters with white [arrow] tips(?),</l>
 <l>[their] soft mouths reeking of flesh that have eaten bird’s meat </l>

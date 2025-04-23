@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN333-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai<gap quantity="15" reason="lost" unit="character"/>
+    <div rend="parallel">
+      <p xml:id="PN333-intro">tiṇaiyum tuṟaiyum avai<gap quantity="15" reason="lost" unit="character"/>
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN333">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN333">
 <l>nīruṭ paṭṭa mārip pēruṟai</l>
 <l>mokku ḷaṉṉa pokuṭṭuviḻik kaṇṇa</l>
 <l>karumpiṭart talaiya peruñcevik kuṟumuya</l>
@@ -51,7 +51,7 @@
 <l>muṇpatu maṉṉu matuvē</l>
 <l>pariciṉ maṉṉuṅ kuricilkoṇ  ṭatuvē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>When you set out for that place with a village common with holes,</l>
 <l>where the little hares with large ears, heads with black napes</l>
 <l>[and] bud eyes like bubbles</l>

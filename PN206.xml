@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN206-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. atiyamāṉ neṭumāṉañci pariciṉīṭṭittāṉai auvaiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN206-intro">tiṇaiyum tuṟaiyum avai. atiyamāṉ neṭumāṉañci pariciṉīṭṭittāṉai auvaiyār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN206">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN206">
 <l>vāyi lōyē vāyi lōyē</l>
 <l>vaḷḷiyōr cevimutal vayaṅkumoḻi vittit</l>
 <l>tām, muṉṉiyatu muṭikku muraṉuṭai yuḷḷattu</l>
@@ -46,7 +45,7 @@
 <l>maḻuvuṭaik kāṭṭakat taṟṟē</l>
 <l>yetticaic celiṉu matticaic cōṟē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Doorman! Doorman! </l>
 <l corresp="2">Sowing glowing words into the ears of generous people </l>
 <l corresp="3">with strong minds that achieve what they considered, </l>

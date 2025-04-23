@@ -23,15 +23,15 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN243-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. toṭittalai viḻuttaṇṭiṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN243-intro">tiṇaiyum tuṟaiyum avai. toṭittalai viḻuttaṇṭiṉār pāṭiyatu.
       ituvumatu – avaṉait <app><lem wit="#C8">toṭittalai viḻuttaṇṭiṉār</lem><rdg wit="#C2 #C3">toṭitta<gap quantity="10" unit="character"/></rdg></app>
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN243">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN243">
 <l>iṉiniṉain tirakka mākiṉṟu tiṇimaṇaṟ</l>
 <l>ceyvuṟu pāvaikkuk koypūt taiit</l>
 <l>taṇkaya māṭu makaḷiroṭu kaipiṇaintu</l>
@@ -46,7 +46,7 @@
 <l>toṭittalai viḻuttaṇ ṭūṉṟi naṭukkuṟ</l>
 <l>ṟirumiṭai miṭainta cilacoṟ</l>
 <l>perumū tāḷarē mākiya vemakkē.</l></lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1a-c">Thinking now it has become regret. </l>
 <l corresp="10cd">Untaught youth when </l>
 <l corresp="3">entwining hands with girls that play in the cool pond, </l>

@@ -23,21 +23,21 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN286-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, vēṭṭiyal. auvaiyār.
+    <div rend="parallel">
+      <p xml:id="PN286-intro">tiṇai, tumpai; tuṟai, vēṭṭiyal. auvaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN286">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN286">
 <l>veḷḷai veḷyāṭṭuc ceccai pōlat</l>
 <l>taṉṉō raṉṉa viḷaiya riruppap</l>
 <l>palarmītu nīṭṭiya maṇṭaiyeṉ ciṟuvaṉaik</l>
 <l>kāṟkaḻik kaṭṭiliṟ kiṭappit</l>
 <l>tūveḷ ḷaṟuvai pōrppit tilatē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>While, resembling the males of white goats,</l>
 <l>young soldiers just like him sat there,</l>
 <l>laying down, with bowls that were extended to many,</l>

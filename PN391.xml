@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN391-intro">
-      <p type="edition">tiṇai, atu. tuṟai, kaṭainilai. poraiyāṟṟukiḻāṉaik kallāṭaṉār.
+    <div rend="parallel">
+      <p xml:id="PN391-intro">tiṇai, atu. tuṟai, kaṭainilai. poraiyāṟṟukiḻāṉaik kallāṭaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN391">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN391">
 <l>taṇṭuḷi palapoḻin teḻili yicaikkum</l>
 <l>viṇṭu vaṉaiya viṇṭōy piṟaṅkaṉ</l>
 <l>mukaṭuṟa vuyarnta nelliṉ makiḻvarap</l>
@@ -53,7 +53,7 @@
 <l>ṟuḷipata ṉaṟintu poḻiya</l>
 <l>vēli yāyiram viḷaikaniṉ vayalē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="7">Because the northern region hungers within the bounds of Vēṅkaṭam, </l>
 <l corresp="6">where those who feed on toddy [used to] rejoice sweetly in eating </l>
 <l corresp="5">after cutting, so that they fall in a spread, the imperfect pieces </l>

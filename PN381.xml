@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN381-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. karumpūr kiḻāṉai naṉṉākaṉār.
+    <div rend="parallel">
+      <p xml:id="PN381-intro">tiṇaiyum tuṟaiyum avai. karumpūr kiḻāṉai naṉṉākaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN381">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN381">
 <l>ūṉu mūṇu muṉaiyi ṉiṉiteṉap</l>
 <l>pāliṟ peytavum pākiṟ koṇṭavum</l>
 <l>maḷavupu kalantu mellitu paruki</l>
@@ -58,7 +58,7 @@
 <l>ṟiruṅkō ḷīrāp pūṭkaik</l>
 <l>karumpa ṉūraṉ kātal makaṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l> Since he feared separation from us because of possessing</l>
 <l> love [for us] that is great, while we knew him, (6f.)</l>
 <l corresp="5"> [he] said: “go, great man, to our land that as festivals, </l>

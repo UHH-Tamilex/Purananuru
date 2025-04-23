@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
- <div xml:id="PN376-intro">
-      <p type="edition">tiṇai, atu. tuṟai, iyaṉmoḻi. ōymāṉ nalliyātaṉaip puṟattiṇai naṉṉākaṉār.
+ <div rend="parallel">
+      <p xml:id="PN376-intro">tiṇai, atu. tuṟai, iyaṉmoḻi. ōymāṉ nalliyātaṉaip puṟattiṇai naṉṉākaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN376">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN376">
 <l>vicumpi ṉītta miṟanta ñāyiṟṟup</l>
 <l>pacuṅkatir maḻukiya civantuvāṅ kanti</l>
 <l>ciṟunaṉi piṟanta piṉṟaic ceṟipiṇic</l>
@@ -55,7 +55,7 @@
 <l>ñāṅkar neṭumoḻi payiṟṟit</l>
 <l>tōṉṟal cellāteṉ ciṟukiṇaik kuralē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2d-3c">After to some extent(?) dusk had been born, </l>
 <l>reddening [and] pulling in the sun that had traversed</l>
 <l corresp="1-2c">the flood of the sky so that [its] fresh rays became blunt, </l>

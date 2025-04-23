@@ -23,21 +23,21 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN298-intro">
-      <p type="edition">tiṇai, karantai; tuṟai, neṭumoḻi. āliyār.
+    <div rend="parallel">
+      <p xml:id="PN298-intro">tiṇai, karantai; tuṟai, neṭumoḻi. āliyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN298">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN298">
 <l>emakkē kalaṅka ṟarumē tāṉē</l>
 <l>tēṟa luṇṇu maṉṉē naṉṟu</l>
 <l>miṉṉāṉ maṉṟa vēntē yiṉiyē</l>
 <l>nērā rāreyiṉ muṟṟi</l>
 <l>vāymaṭit turaṟinī munteṉ ṉāṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>To us, he will give turbid [licquor]. He himself</l>
 <l>will drink clarified toddy. Pretty </l>
 <l>unpleasant is the king. [But] now,</l>

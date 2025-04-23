@@ -23,21 +23,21 @@
 </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN241-intro">
-      <p type="edition">
+    <div rend="parallel">
+      <p xml:id="PN241-intro">
 tiṇaiyum tuṟaiyum avai. avaṇai uṟaiyūr ēṇiccēri muṭamōciyār pāṭiyatu. ituvumatu ― <app><lem wit="#C8">avaṉai yuṟaiyū</lem><rdg wit="#C2 #C3">avaṉaiya<space quantity="5" unit="character"/></rdg></app> rēṇiccēri muṭamōciyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN241">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN241">
 <l>tiṇtē riravalark kītta taṇṭā</l>
 <l>raṇṭiraṉ varūu meṉṉa voṇṭoṭi</l>
 <l>vaccirat taṭakkai neṭiyōṉ kōyiluṭ</l>
 <l>pōrppuṟu muracaṅ kaṟaṅka</l>
 <l>vārppeḻun taṉṟāl vicum piṉāṉē.</l></lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>“Antiraṉ with a cool garland, who gave firm chariots </l>
 <l corresp="1-2c">to mendicants, is coming”, so, </l>
 <l corresp="4">while covered drums sounded </l>

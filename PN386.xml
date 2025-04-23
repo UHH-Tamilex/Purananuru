@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN386-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cōḻaṉ kuḷaḻaṟṟattuttuñciya kiḷḷivaḷavaṉaik kōvūrkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN386-intro">tiṇaiyum tuṟaiyum avai. cōḻaṉ kuḷaḻaṟṟattuttuñciya kiḷḷivaḷavaṉaik kōvūrkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN386">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN386">
 <l>neṭunīra niṟaikayattup</l>
 <l>paṭumārit tuḷipōla</l>
 <l>neytuḷḷiya vaṟaimukakkavuñ</l>
@@ -57,7 +57,7 @@
 <l>yāṇṭu niṟka veḷḷiyām</l>
 <l>vēṇṭiya tuṇarntōṉ ṟāḷvā ḻiyavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="9a">He who gives </l>
 <l corresp="2">like the drops from a falling shower </l>
 <l corresp="1">into a full pond with long[-lasting] water, </l>

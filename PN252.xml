@@ -23,21 +23,21 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN252-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉai avar pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN252-intro">tiṇaiyum tuṟaiyum avai. avaṉai avar pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
   </div>
-    <div xml:id="PN252">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN252">
 <l>kaṟaṅkuveḷ ḷaruvi yēṟṟali ṉiṟampeyarntu</l>
 <l>tillai yaṉṉa pulleṉ caṭaiyō</l>
 <l>ṭaḷḷilait tāḷi koyyu mōṉē</l>
 <l>yilvaḻaṅku maṭamayil piṇikkuñ</l>
 <l>colvalai vēṭṭuva ṉāyiṉaṉ muṉṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="3"> He who [now] plucks sharp-leafed bindweed, </l>
 <l corresp="2">  with matted hair empty like the blinding-tree </l>
 <l corresp="1">  after changing colour because of receiving the roaring waterfall, </l>

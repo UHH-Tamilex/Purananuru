@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -18,8 +17,8 @@
             </summary>
           </msContents>    
         </msDesc>
-      <listWit><witness xml:id="Ed" source="PN201.xml"><abbr type="siglum">Ed</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title> 201.
-            <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta"/></expan></witness><witness xml:id="C1" source="witnesses/C1_UVSL_237.xml"><abbr type="siglum">C1</abbr><expan>UVSL 237 <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title></expan></witness><witness xml:id="C2" source="witnesses/C2_UVSL_707.xml"><abbr type="siglum">C2</abbr><expan>UVSL 707 <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title></expan><listWit><witness xml:id="C2ac" n="ac"><abbr type="siglum">C2ac</abbr><expan>UVSL 707 <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title> [ante correctionem]</expan></witness><witness xml:id="C2pc" n="pc"><abbr type="siglum">C2pc</abbr><expan>UVSL 707 <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title> [post correctionem]</expan></witness></listWit></witness></listWit></sourceDesc>
+      <listWit><witness xml:id="Ed" source="PN201.xml"><abbr type="siglum">Ed</abbr><expan><title xml:lang="ta">Puṟanāṉūṟu</title> 201.
+            <persName xml:lang="ta"/></expan></witness><witness xml:id="C1" source="witnesses/C1_UVSL_237.xml"><abbr type="siglum">C1</abbr><expan>UVSL 237 <title xml:lang="ta">Puṟanāṉūṟu</title></expan></witness><witness xml:id="C2" source="witnesses/C2_UVSL_707.xml"><abbr type="siglum">C2</abbr><expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title></expan><listWit><witness xml:id="C2ac" n="ac"><abbr type="siglum">C2ac</abbr><expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title> [ante correctionem]</expan></witness><witness xml:id="C2pc" n="pc"><abbr type="siglum">C2pc</abbr><expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title> [post correctionem]</expan></witness></listWit></witness></listWit></sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
@@ -959,23 +958,23 @@ tiṇaiyum tuṟaiyum avai. pārimakaḷirai iraṅkōvēḷuḻaikkoṇṭuce�
 </entry>
 </standOff><standOff type="apparatus" corresp="#PN201" source="alignments/PN201.xml"><interp type="normalization">
   <desc type="tagfilters">
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
-    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+    <tag subtype="ignore">pc</tag>
+    <tag subtype="ignore">abbr</tag>
+    <tag subtype="ignore">corr</tag>
+    <tag subtype="ignore">ex</tag>
+    <tag subtype="ignore">head</tag>
+    <tag subtype="ignore">label</tag>
+    <tag subtype="ignore">note</tag>
+    <tag subtype="ignore">num</tag>
+    <tag subtype="ignore">locus</tag>
+    <tag subtype="ignore">metamark</tag>
+    <tag subtype="ignore">supplied</tag>
+    <tag subtype="ignore">surplus</tag>
   </desc>
 </interp><listApp>
   <app loc="0,24">
     <lem>ivaryā reṉkuvai yāyi ṉivarē</lem>
-    <rdg wit="#C1"><lb n="6" /><space quantity="7" unit="character" /></rdg>
+    <rdg wit="#C1"><lb n="6"/><space quantity="7" unit="character"/></rdg>
     <rdg wit="#C2"><lb n="1"/><space quantity="16" unit="characters"/><g rend="vowel-sign">ā</g>reṉkuvai yāppi ṉivarē</rdg>
   </app>
   <app loc="24,54">

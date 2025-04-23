@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN258-intro">
-      <p type="edition">tiṇaiyun tuṟaiyum avai<gap quantity="3" reason="lost" unit="character"/>ulōcaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN258-intro">tiṇaiyun tuṟaiyum avai<gap quantity="3" reason="lost" unit="character"/>ulōcaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN258">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN258">
 <l>muṭkāṟ kārai mutupaḻa ṉēyppat</l>
 <l>teṟippa viḷainta tīṅkan tāra</l>
 <l>niṟutta vāyan talaiceṉ ṟuṇṭu</l>
@@ -43,7 +43,7 @@
 <l>yāttarak kaḻumiya tukaḷaṉ</l>
 <l>kāytalu muṇṭak kaḷvey yōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>  Going at the head of a herd he balanced</l>
 <l>against the sweet licquor fully(?) matured</l>
 <l>so as to resemble the old fruits of thorny-stemmed Kārai,</l>

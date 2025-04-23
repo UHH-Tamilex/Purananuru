@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN357-intro">
-    <p type="edition">tiṇai, atu; tuṟai<gap quantity="8" reason="lost" unit="character"/> peruṅkāñciyumām. piramaṉār.
+    <div rend="parallel">
+    <p xml:id="PN357-intro">tiṇai, atu; tuṟai<gap quantity="8" reason="lost" unit="character"/> peruṅkāñciyumām. piramaṉār.
     </p>
-    <p xml:lang="en" type="translation">  
+    <p xml:lang="en">  
     </p>
   </div> 
-    <div xml:id="PN357">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN357">
 <l>kuṉṟutalai maṇanta malaipiṇit tiyāttamaṇ</l>
 <l>potumai cuṭṭiya mūva rulakamum</l>
 <l>potumai yiṉṟi yāṇṭici ṉōrkku</l>
@@ -41,7 +41,7 @@
 <l>tokkuyir vauvuṅ kālai</l>
 <l>yikkarai niṉṟivarn tukkarai koḷalē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Over the earth fettered [and] tied with mountains that join [their] heads as hills,</l>
 <l>over the world of the Three that was pointed out as common,</l>
 <l>over those who ruled without [it] being common</l>

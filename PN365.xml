@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN365-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. mārkkaṇṭēyaṉār.
+    <div rend="parallel">
+      <p xml:id="PN365-intro">tiṇaiyum tuṟaiyum avai. mārkkaṇṭēyaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN365">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN365">
 <l>mayaṅkiruṅ karuviya vicumpumuka ṉāka</l>
 <l>viyaṅkiya virucuṭar kaṇṇeṉap peyariya</l>
 <l>vaḷiyiṭai vaḻaṅkā vaḻakkaru nīttam</l>
@@ -43,7 +43,7 @@
 <l>ṇilamaka ḷaḻuta kāñciyu</l>
 <l>muṇṭeṉa vuraipparā luṇarntici ṉōrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>While, </l>
 <l corresp="1">with the sky as a face that has masses of obscure dark [cloud hair], </l>
 <l corresp="2">while the two stirring luminaries are named as eyes, </l>

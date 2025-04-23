@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN307-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai,<gap quantity="15" reason="lost" unit="character"/>
+    <div rend="parallel">
+      <p xml:id="PN307-intro">tiṇai, tumpai; tuṟai,<gap quantity="15" reason="lost" unit="character"/>
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN307">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN307">
 <l>ācā kentai yāṇṭuḷaṉ kollō</l>
 <l>kuṉṟat taṉṉa kaḷiṟṟoṭu paṭṭōṉ</l>
 <l>vampalaṉ pōla tōṉṟu mutukkāṇ</l>
@@ -47,7 +46,7 @@
 <l>paṇkoḷaṟ karumai nōkki</l>
 <l>neñcaṟa vīḻnta puraimai yōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">[Our] father who is [our] support, where is he? </l>
 <l corresp="2">He who fell with an elephant bull like a hill, </l>
 <l corresp="3">he appears like a stranger. Look there. </l>

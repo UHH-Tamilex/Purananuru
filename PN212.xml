@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN212-intro">
-      <p type="edition">tiṇai, atu. tuṟai, iyaṉmoḻi. kōpperuñcōḻaṉaip picirāntaiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN212-intro">tiṇai, atu. tuṟai, iyaṉmoḻi. kōpperuñcōḻaṉaip picirāntaiyār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
   </div>
-    <div xml:id="PN212">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN212">
 <l>nuṅkō yāreṉa viṉavi ṉeṅkōk</l>
 <l>kaḷamark karitta viḷaiyal veṅkaḷ</l>
 <l>yāmaip puḻukkiṟ kāmam vīṭa vārā</l>
@@ -43,7 +42,7 @@
 <l>potti ṉaṇpiṟ pottiyoṭu keḻīi</l>
 <l>vāyār perunakai vaikalu nakkē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">  If you ask “who is your king?”, our king </l>
 <l corresp="8">  is the one from Kōḻi, Kōpperum Cōḻaṉ, </l>
 <l corresp="7">  being an enemy to the hunger of the suffering retinue </l>

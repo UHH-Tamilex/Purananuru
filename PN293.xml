@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN293-intro">
-      <p type="edition">tiṇai, kāñci; tuṟai, pūkkōṭkāñci. nocciniyamaṅkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN293-intro">tiṇai, kāñci; tuṟai, pūkkōṭkāñci. nocciniyamaṅkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN293">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN293">
 <l>niṟampaṭaik kolkā yāṉai mēlōṉ</l>
 <l>kuṟumpark keṟiyu mēva ṟaṇṇumai</l>
 <l>nāṇuṭai mākkaṭ kiraṅku māyi</l>
@@ -38,7 +38,7 @@
 <l>piṟarmaṉai pukuvaḷ kollō</l>
 <l>vaḷiya ṭāṉē pūvilai peṇṭē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>When the Taṇṇumai drum sounds for the people ashamed [of showing weakness], </l>
 <l>with the command to attack for those in the stronghold </l>
 <l>of him on the elephant that does not yield to the weapon in [its] vital spot,</l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN311-intro">
-      <p type="edition">tiṇai, atu; tuṟai, pāṇpāṭṭu. oḷavaiyār.
+    <div rend="parallel">
+      <p xml:id="PN311-intro">tiṇai, atu; tuṟai, pāṇpāṭṭu. oḷavaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN311">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN311">
 <l>kaḷarppaṭu kūvaṟ ṟōṇṭi nāḷum</l>
 <l>pulaitti kaḻīiya tūveḷ ḷaṟuvai</l>
 <l>tāteru maṟukiṉ mācuṇa viruntu</l>
@@ -39,7 +39,7 @@
 <l>ciṟappuṭaic ceṅkaṇ pukaiyavōr</l>
 <l>tōlkoṇṭu maṟaikkuñ cālpuṭai yōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Being in the street with dust [and] dung so that</l>
 <l>the pure white cloth washed by the washer woman</l>
 <l>daily after hollowing out a pool suffused with saline soil</l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN216-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉ vaṭakkiruntāṉpicirāntaiyārkku iṭaṉoḻukkaveṉṟatu.
+    <div rend="parallel">
+      <p xml:id="PN216-intro">tiṇaiyum tuṟaiyum avai. avaṉ vaṭakkiruntāṉpicirāntaiyārkku iṭaṉoḻukkaveṉṟatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN216">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN216">
 <l>kēṭṭaṉ māttirai yalla tiyāvatuṅ</l>
 <l>kāṇṭa lillā tiyāṇṭupala kaḻiya</l>
 <l>vaḻuviṉṟu paḻakiya kiḻamaiya rāyiṉu</l>
@@ -45,7 +44,7 @@
 <l>yiṉṉatōr kālai nillala</l>
 <l>ṉiṉṉē varukuva ṉoḻikkavavaṟ kiṭamē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">  “While many years have passed without seeing </l>
 <l corresp="1">anything [of him] apart from hearing a bit, </l>
 <l corresp="3">even though he is a lord who is familiar, without blemish, </l>

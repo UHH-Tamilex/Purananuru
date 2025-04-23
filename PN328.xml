@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN328-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai (pi - m. ituvumatu) paṅku<gap quantity="18" reason="lost" unit="character"/>
+    <div rend="parallel">
+      <p xml:id="PN328-intro">tiṇaiyum tuṟaiyum avai (pi - m. ituvumatu) paṅku<gap quantity="18" reason="lost" unit="character"/>
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN328">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN328">
 <l><gap quantity="4" reason="lost" unit="character"/>ṭaimutaṟ puṟavucērn tirunta</l>
 <l>puṉpulac cīṟūr nelviḷai yātē</l>
 <l>varakun tiṉaiyu muḷḷavai yellā</l>
@@ -48,7 +48,7 @@
 <l>muyalvantu kaṟikku muṉṟiṟ</l>
 <l>cīṟūr maṉṉaṉaip pāṭiṉai celiṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>  Paddy does not ripen in the little village of grassy fields</l>
 <l>that lies in the woodlands…..</l>
 <l>All there was of millet and millet</l>

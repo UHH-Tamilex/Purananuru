@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN369-intro">
-      <p type="edition">tiṇai, vākai; tuṟai, ērkkaḷa uruvakamumām. cēramāṉ kaṭalōṭṭiya vēlkeḻu kuṭṭuvaṉaip paraṇar.
+    <div rend="parallel">
+      <p xml:id="PN369-intro">tiṇai, vākai; tuṟai, ērkkaḷa uruvakamumām. cēramāṉ kaṭalōṭṭiya vēlkeḻu kuṭṭuvaṉaip paraṇar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN369">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN369">
 <l>iruppumukañ ceṟitta vēnteḻiṉ maruppiṟ</l>
 <l>karuṅkai yāṉai koṇmū vāka</l>
 <l>nīṇmoḻi maṟava reṟivaṉa ruyartta</l>
@@ -60,7 +60,7 @@
 <l>vēḻa mukavai nalkumati</l>
 <l>tāḻā vīkait takaivey yōyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>With black-trunked elephants with eminent graceful tusks,</l>
 <l>on which iron face[-masks] are tightened, as clouds,</l>
 <l>with swords, that are raised by fighting valorous men of</l>

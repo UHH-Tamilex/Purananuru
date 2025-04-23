@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN217-intro">
-      <p type="edition">tiṇai, potuviyal. tuṟai, kaiyaṟunilai. avaṉvaṭakkiruntāṉuḻaicceṉṟa picirāntaiyāraikkaṇṭu pottiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN217-intro">tiṇai, potuviyal. tuṟai, kaiyaṟunilai. avaṉvaṭakkiruntāṉuḻaicceṉṟa picirāntaiyāraikkaṇṭu pottiyār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN217">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN217">
 <l>niṉaikkuṅ kālai maruṭkai yuṭaittē</l>
 <l>yeṉaiperuñ ciṟappiṉō ṭīṅkitu tuṇita</l>
 <l>lataṉiṉu maruṭkai yuṭaittē piṟaṉāṭṭut</l>
@@ -46,7 +45,7 @@
 <l>yaṉṉōṉai yiḻantaviv vulaka</l>
 <l>meṉṉā vatuko laḷiyatu tāṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">When thinking about [it] it is amazing, </l>
 <l corresp="2">resolving on this here with ever so much superiority. </l>
 <l corresp="3a-c">More than that is amazing </l>

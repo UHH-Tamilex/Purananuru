@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN273-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, kutiraimaṟam. erumaiveḷiyaṉār.
+    <div rend="parallel">
+      <p xml:id="PN273-intro">tiṇai, tumpai; tuṟai, kutiraimaṟam. erumaiveḷiyaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-  <div xml:id="PN273">
-<lg type="edition">
+  <div rend="parallel">
+<lg xml:id="PN273">
 <l>māvā rātē māvā rātē</l>
 <l>yellār māvum vantaṉa vemmiṟ</l>
 <l>pulluḷaik kuṭumip putalvaṟ ṟanta</l>
@@ -39,7 +39,7 @@
 <l>vilaṅkiṭu perumaram pōla</l>
 <l>vulantaṉṟu kollavaṉ malainta māvē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>[His] horse did not come. [His] horse did not come.</l>
 <l>Everyone’s horses came. The horse </l>
 <l>[our] lord rides who has given a son, with a tuft of short hair,</l>

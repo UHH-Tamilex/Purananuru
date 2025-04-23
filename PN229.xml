@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN229-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kōccēramāṉ yāṉaikkaṭcēy māntarañcēralirumpoṟai iṉṉanāḷiṟṟuñcumeṉa añci avaṉ tuñciyaviṭattuk kūṭalūrkiḻār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN229-intro">tiṇaiyum tuṟaiyum avai. kōccēramāṉ yāṉaikkaṭcēy māntarañcēralirumpoṟai iṉṉanāḷiṟṟuñcumeṉa añci avaṉ tuñciyaviṭattuk kūṭalūrkiḻār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN229">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN229">
 <l>āṭiya laḻaṟkuṭṭat</l>
 <l>tāriru ḷaraiyiraviṉ</l>
 <l>muṭappaṉaiyattu vērmutalāk</l>
@@ -60,7 +59,7 @@
 <l>kaḷantukoṭai yaṟiyā vīkai</l>
 <l>maṇivarai yaṉṉa māa yōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">In the middle of the night in difficult darkness, </l>
 <l corresp="1">in a pot of fire whose nature is dancing, </l>
 <l corresp="3">while, with the root of the crooked palmyra tree as a base, </l>

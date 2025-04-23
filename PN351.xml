@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN351-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. maturaip paṭaimaṅka maṉṉiyār.
+    <div rend="parallel">
+      <p xml:id="PN351-intro">tiṇaiyum tuṟaiyum avai. maturaip paṭaimaṅka maṉṉiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN351">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN351">
 <l>paṭumaṇi maruṅkiṉa paṇaittāḷ yāṉaiyuṅ</l>
 <l>koṭinuṭaṅku micaiya tēru māvum</l>
 <l>paṭaiyamai maṟavaroṭu tuvaṉṟik kalleṉak</l>
@@ -44,7 +44,7 @@
 <l>kāmaru kāñcit tuñcu</l>
 <l>mēmañcāl ciṟappiṉip paṇainal lūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Kings with drums beaten in victory,</l>
 <l>an army vast in area, as if one saw the sea,</l>
 <l>noisy, filled up with bold warriors suited to [their] weapons,</l>

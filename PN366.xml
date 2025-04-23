@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN366-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. tarumaputtiraṉaik kōtumaṉār.
+    <div rend="parallel">
+      <p xml:id="PN366-intro">tiṇaiyum tuṟaiyum avai. tarumaputtiraṉaik kōtumaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN366">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN366">
 <l>viḻukkaṭip paṟainta muḻukuraṉ muraca</l>
 <l>‍<supplied>moḻukkuṭai ma</supplied>ruṅki ṉorumoḻit tāka</l>
 <l>varaveṟi yurumi ṉuraṟupu cilaippa</l>
@@ -54,7 +54,7 @@
 <l>kāvutoṟum<gap quantity="26" reason="lost" unit="character"/></l>
 <l>maṭaṅka luṇmai māyamō vaṉṟē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">While whole-voiced drums beaten by excellent sticks </l>
 <l corresp="2">being of one word on the side of conduct(?) </l>
 <l corresp="3">resounded, roaring like snake-attacking thunder, </l>

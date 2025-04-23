@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN305-intro">
-      <p type="edition">tiṇai, vākai; tuṟai, pārppaṉavākai. maturaivēḷācaṉ.
+    <div rend="parallel">
+      <p xml:id="PN305-intro">tiṇai, vākai; tuṟai, pārppaṉavākai. maturaivēḷācaṉ.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN305">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN305">
 <l>vayalaik koṭiyiṉ vāṭiya maruṅku</l>
 <l>luyava lūrtip payalaip pārppā</l>
 <l>ṉelli vantunil lātu pukkuc</l>
@@ -38,7 +38,7 @@
 <l>yēṇiyuñ cīppu māṟṟi</l>
 <l>māṇviṉai yāṉaiyu maṇikaḷain taṉavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The pale brahmin on a decrepit vehicle</l>
 <l>with a stomach withered like a purslane creeper,</l>
 <l>at night he came [and], without stopping, entered.</l>

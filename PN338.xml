@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN338-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kuṉṟūr kiḻār makaṉār.
+    <div rend="parallel">
+      <p xml:id="PN338-intro">tiṇaiyum tuṟaiyum avai. kuṉṟūr kiḻār makaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN338">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN338">
 <l>ērparanta vayaṉīr paranta ceṟuvi</l>
 <l>ṉeṉmalinta maṉaippoṉ malinta maṟukiṟ</l>
 <l>paṭuvaṇ ṭārkkum paṉmalark kāvi</l>
@@ -44,7 +44,7 @@
 <l>ṟuṇaṅkukala ṉāḻiyiṟ ṟōṉṟu</l>
 <l>mōreyiṉ maṉṉa ṉorumaṭa makaḷē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="4">Like the Pōntai of Neṭuvēḷātaṉ, </l>
 <l corresp="1">with paddy fields spread with ploughs, fields spread with water, </l>
 <l corresp="2">houses abounding in paddy, streets abounding in gold, </l>

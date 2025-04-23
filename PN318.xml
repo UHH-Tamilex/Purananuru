@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN318-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. peruṅkuṉṟūrkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN318-intro">tiṇaiyum tuṟaiyum avai. peruṅkuṉṟūrkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN318">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN318">
 <l>koyyaṭaku vāṭat taruviṟa kuṇaṅka</l>
 <l>mayilañ cāyaṉ māa yōḷoṭu</l>
 <l>pacittaṉ ṟamma peruntakai yūrē</l>
@@ -41,7 +41,7 @@
 <l>puṉpuṟap peṭaiyoṭu vatiyum</l>
 <l>yāṇart tākum vēntuviḻu muṟiṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>While the edible leaves that had been plucked fade [and] the firewood brought dries up</l>
 <l>the village of the paragon along with the dark women</l>
 <l>of peacock-like grace goes hungry, alas.</l>

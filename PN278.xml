@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN278-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kākkaipāṭiṉiyār nacceḷḷaiyār
+    <div rend="parallel">
+      <p xml:id="PN278-intro">tiṇaiyum tuṟaiyum avai. kākkaipāṭiṉiyār nacceḷḷaiyār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN278">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN278">
 <l>narampeḻun tulaṟiya nirampā meṉṟōḷ</l>
 <l>muḷari maruṅkiṉ mutiyōḷ ciṟuvaṉ</l>
 <l>paṭaiyaḻintu māṟiṉa ṉeṉṟupalar kūṟa</l>
@@ -41,7 +41,7 @@
 <l>paṭumakaṉ kiṭakkai kāṇūu</l>
 <l>vīṉṟa ñāṉṟiṉum perituvan taṉaḷē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>  The old woman with thorny twigs at [her] side,</l>
 <l>  [her] soft shoulders not full, dried up, with blood vessels showing up,</l>
 <l>  when many said [her] son changed [side] as his weapon was ruined,</l>

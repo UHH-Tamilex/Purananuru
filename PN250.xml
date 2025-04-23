@@ -23,18 +23,18 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN250-intro">
-      <p type="edition">tiṇaiyum tuṟaiyam avai. 
+    <div rend="parallel">
+      <p xml:id="PN250-intro">tiṇaiyum tuṟaiyam avai. 
       <app>
       <lem><gap quantity="7" reason="lost" unit="character"/>tāyaṅkaṇṇiyār</lem>
       <rdg wit="#C2 #C3 #C8">ituvumatu. tāyaṅkaṇṇiyār</rdg>
       </app> 
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN250">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN250">
 <l>kuykuraṉ malinta koḻuṅtuvai yaṭici</l>
 <l>liravalart taṭutta vāyiṟ puravalar</l>
 <l>kaṇṇīr taṭutta taṇṇaṟum pantar</l>
@@ -45,7 +45,7 @@
 <l>muṉittalaip putalvar tantai</l>
 <l>taṉittalaip peruṅkāṭu muṉṉiya piṉṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>  Rice with fat meat full of plucked ears, (1)</l>
 <l>protectors at the door who stopped mendicants, (2)</l>
 <l>a cool fragrant pandal that stopped tears [from flowing], (3)</l>
