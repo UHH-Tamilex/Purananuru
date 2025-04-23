@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN269-intro">
-      <p type="edition">tiṇai, veṭci; tuṟai, uṇṭāṭṭu. auvaiyār.
+    <div rend="parallel">
+      <p xml:id="PN269-intro">tiṇai, veṭci; tuṟai, uṇṭāṭṭu. auvaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN269">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN269">
 <l>kuyilvā yaṉṉa kūrmukai yatiral</l>
 <l>payilā talkiya palkāḻ mālai</l>
 <l>maiyirum pittai poliyac cūṭṭip</l>
@@ -45,7 +44,7 @@
 <l>koṭuñciṟaik kurūupparun tārppat</l>
 <l>taṭintumāṟu peyarttatik karuṅkai vāḷē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The tiger-eyed keen men who had taken new bowls,</l>
 <l>dashingly wearing in [their] kajal-dark hair tufts</l>
 <l>garlands of many strands that stay without rattling</l>

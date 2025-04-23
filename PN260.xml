@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN260-intro">
-      <p type="edition">tiṇai, atu; tuṟai, kaiyaṟunilai pāṇpāṭṭumām<gap quantity="4" reason="lost" unit="character"/> vaṭamōtaṅkiḻār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN260-intro">tiṇai, atu; tuṟai, kaiyaṟunilai pāṇpāṭṭumām<gap quantity="4" reason="lost" unit="character"/> vaṭamōtaṅkiḻār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN260">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN260">
 <l>vaḷarat toṭiṉum vauvupu tirintu</l>
 <l>viḷari yuṟutarun tīntoṭai niṉaiyāt</l>
 <l>taḷaru neñcan talaii maṉaiyō</l>
@@ -60,7 +60,7 @@
 <l>yiṭampiṟar koḷḷāc ciṟuvaḻip</l>
 <l>paṭañcey pantark kaṉmicai yatuvē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">Thinking of the sweet strings tuned in Viḷari </l>
 <l corresp="1">after touching [them] so that [the note?] grows, gripping [and] swerving, </l>
 <l corresp="3a-c">offering [your] weary heart, looking at </l>

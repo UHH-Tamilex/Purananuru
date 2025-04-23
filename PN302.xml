@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN302-intro">
-      <p type="edition">tiṇai, atu; tuṟai, kutiraimaṟam. veṟipāṭiya kāmakkaṇṇiyār.
+    <div rend="parallel">
+      <p xml:id="PN302-intro">tiṇai, atu; tuṟai, kutiraimaṟam. veṟipāṭiya kāmakkaṇṇiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN302">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN302">
 <l>veṭivēy koḷvatu pōla vōṭit</l>
 <l>tāvu pukaḷu māvē pūvē</l>
 <l>viḷaṅkiḻai makaḷir kūntaṟ koṇṭa</l>
@@ -44,7 +43,7 @@
 <l>viṇṇivar vicumpiṉ mīṉun</l>
 <l>taṇpeya luṟaiyu muṟaiyāṟ ṟāvē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Running, leaping as of receiving the cracking bamboo [rod],</l>
 <l>prance the horses. The flowers, (1f.)</l>
 <l corresp="3">the are taken for the tresses of girls with shining jewels. </l>

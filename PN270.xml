@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN270-intro">
-      <p type="edition">tiṇai, karantai; tuṟai, kaiyaṟunilai. kaḻāttalaiyār.
+    <div rend="parallel">
+      <p xml:id="PN270-intro">tiṇai, karantai; tuṟai, kaiyaṟunilai. kaḻāttalaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN270">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN270">
 <l>paṉmī ṉimaikku māka vicumpi</l>
 <l>ṉiraṅku muraci ṉiṉañcāl yāṉai</l>
 <l>nilantava vuruṭṭiya nēmi yōruñ</l>
@@ -45,7 +45,7 @@
 <l>viḻunavi pāynta marattiṉ</l>
 <l>vāḷmicaik kiṭanta vāṇmaiyōṉ tiṟattē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>They are desirous of joining the battle</l>
 <l>of numerous elephants in troups, with sounding drums,</l>
 <l>and of those with wheels that rolled much across the ground,</l>

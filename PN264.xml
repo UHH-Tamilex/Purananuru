@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN264-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai<gap quantity="5" reason="lost" unit="character"/>uṟaiyūr iḷampoṉ vāṇikaṉār (<gap quantity="5" reason="lost" unit="character"/>ṉcāttaṉ koṟṟaṉār) pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN264-intro">tiṇaiyum tuṟaiyum avai<gap quantity="5" reason="lost" unit="character"/>uṟaiyūr iḷampoṉ vāṇikaṉār (<gap quantity="5" reason="lost" unit="character"/>ṉcāttaṉ koṟṟaṉār) pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN264">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN264">
 <l>paraluṭai maruṅkiṟ patukkai cērtti</l>
 <l>maralvakuntu toṭutta cempūṅ kaṇṇiyō</l>
 <l>ṭaṇimayiṟ pīli cūṭṭip peyarpoṟit</l>
@@ -39,7 +39,7 @@
 <l>neṭuntakai kaḻintamai yaṟiyā</l>
 <l>tiṉṟum varuṅkol pāṇaratu kaṭumpē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Having put together a stone heap on the side strewn with pebbles, </l>
 <l>putting on [it] ornate peacock feathers along with a chaplet</l>
 <l>of red flowers tied after splicing bowstring hemp, engraving [his] name, (2f.)</l>

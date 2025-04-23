@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,8 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN355">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN355">
 <l>matilu ñāyi liṉṟē kiṭaṅku</l>
 <l>nīi riṉmaiyiṟ kaṉṟumēyn tukaḷu</l>
 <l>mūratu nilaimaiyu mituvē.</l>
@@ -33,7 +32,7 @@
 <l>pacuṅkatir civantu vāṅkantic ciṟunaṉi</l>
 <l>piṟanta piṉṟaic ceṟipiṉac citāar</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The wall is without bastions, and the state of the village,</l>
 <l>where, in the absence of water in the moat, the calves</l>
 <l>graze [and] frolic, is this.</l>

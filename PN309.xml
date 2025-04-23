@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN309-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, nūḻilāṭṭu. maturaiyiḷaṅkaṇṇikaucikaṉār.
+    <div rend="parallel">
+      <p xml:id="PN309-intro">tiṇai, tumpai; tuṟai, nūḻilāṭṭu. maturaiyiḷaṅkaṇṇikaucikaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN309">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN309">
 <l>irumpumukañ citaiya nūṟi yoṉṉā</l>
 <l>riruñcamaṅ kaṭatta lēṉōrkku meḷitē</l>
 <l>nallarā vuṟaiyum puṟṟam pōlavuṅ</l>
@@ -39,7 +39,7 @@
 <l>yuḷaṉeṉa verūu mōroḷi</l>
 <l>valaṉuyar neṭuvē leṉṉai kaṇṇatē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Demolishing [and] vanquishing the enemies in great battle </l>
 <l>so that [his weapon’s] iron mouth is ruined, is easy for anyone.</l>
 <l>Like the anthill in which a cobra stays,</l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN382-intro">
-      <p type="edition">tiṇai, atu. tuṟai, kaṭainilai. cōḻaṉ nalaṅkiḷḷiyaik kōvūrkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN382-intro">tiṇai, atu. tuṟai, kaṭainilai. cōḻaṉ nalaṅkiḷḷiyaik kōvūrkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN382">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN382">
 <l>kaṭaṟpaṭai yaṭaṟkoṇṭi</l>
 <l>maṇṭuṟṟa malirnōṉṟāṭ</l>
 <l>ṭaṇcōḻa nāṭṭupporuna</l>
@@ -54,7 +54,7 @@
 <l>kēṭṭoṟu naṭuṅka vēttuveṉ</l>
 <l>veṉṟa tērpiṟar vēttavai yāṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="7d">While [we] say: </l>
 <l corresp="3">“the fighter of the cool Cōḻa land, </l>
 <l corresp="2">with ??? sturdy feet that experienced rushing </l>

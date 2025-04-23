@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN205-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kaṭiyaṉeṭuvēṭṭuvaṉ pariciṉīṭṭittāṉaip peruntalaiccāttaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN205-intro">tiṇaiyum tuṟaiyum avai. kaṭiyaṉeṭuvēṭṭuvaṉ pariciṉīṭṭittāṉaip peruntalaiccāttaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN205">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN205">
 <l>muṟṟiya tiruviṉ mūva rāyiṉum</l>
 <l>peṭpiṉ ṟītal yāmvēṇ ṭalamē</l>
 <l>viṟaṟciṉan taṇinta viraiparip puravi</l>
@@ -47,7 +46,7 @@
 <l>ṭoḷiṟumarup pēntiya cemmaṟ</l>
 <l>kaḷiṟiṉṟu peyarala paricilar kaṭumpē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Even though there are the Three of accomplished fortune, </l>
 <l corresp="2">we don’t want [them] to give without desire. </l>
 <l corresp="6">O fighter of mount Kōṭai with white-flowered hedges, </l>

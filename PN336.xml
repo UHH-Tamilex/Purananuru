@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN336-intro">
-      <p type="edition">tiṇai, kāñci tuṟai makaṭpāṟkāñci. paraṇar.
+    <div rend="parallel">
+      <p xml:id="PN336-intro">tiṇai, kāñci tuṟai makaṭpāṟkāñci. paraṇar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN336">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN336">
 <l>vēṭṭa vēntaṉum veñciṉat tiṉaṉē</l>
 <l>kaṭavaṉa kaḻippiva ṭantaiyuñ ceyyā</l>
 <l>ṉoḷiṟumukat tēntiya vīṅkutoṭi maruppiṟ</l>
@@ -45,7 +45,7 @@
 <l>takaivaḷart teṭutta nakaiyoṭu</l>
 <l>pakaivaḷart tiruntavip paṇpi ṟāyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">The king who wants [her] is full of hot anger, </l>
 <l corresp="2">her father does not discharge [his] duties, </l>
 <l>the elephant bulls with swelling ringed tusks that go up in [their]</l>

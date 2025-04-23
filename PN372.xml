@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN372-intro">
-      <p type="edition">tiṇai, vākai. maṟakkaḷavēḷvi. avaṉai māṅkuṭikiḻār (māta<gap quantity="4" reason="lost" unit="character"/> kakiḻār)
+    <div rend="parallel">
+      <p xml:id="PN372-intro">tiṇai, vākai. maṟakkaḷavēḷvi. avaṉai māṅkuṭikiḻār (māta<gap quantity="4" reason="lost" unit="character"/> kakiḻār)
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN372">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN372">
 <l>vicipiṇit taṭāri vimmeṉa voṟṟi</l>
 <l>yētti vanta tellā muḻutta</l>
 <l>vilaṅkuvā ḷaviroḷi valampaṭa miṉṉik</l>
@@ -45,7 +45,7 @@
 <l>pulavukkaḷam poliya vēṭṭōyniṉ</l>
 <l>ṉilavuttika ḻāra mukakkuva meṉavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Loudly beating the Taṭāri drum tied with straps </l>
 <l corresp="2ab">[we] came, praising [you], </l>
 <l corresp="4">in the war camp that joins the area where arrows had flown as [rain] drops, </l>

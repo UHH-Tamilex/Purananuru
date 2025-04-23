@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN313-intro">
-      <p type="edition">tiṇai, atu; tuṟai, vallāṇmullai. māṅkuṭikiḻār.
+    <div rend="parallel">
+      <p xml:id="PN313-intro">tiṇai, atu; tuṟai, vallāṇmullai. māṅkuṭikiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN313">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN313">
 <l>atta naṇṇiya nāṭukeḻu peruviṟal</l>
 <l>kaipporuḷ yātoṉṟu milaṉē naccik</l>
 <l>kāṇiya ceṉṟa viravaṉ mākkaḷ</l>
@@ -39,7 +39,7 @@
 <l>kaḻimuri kuṉṟat taṟṟē</l>
 <l>yeḷḷamai viṉṟava ṉuḷḷiya poruḷē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The man of great victories with a land that is located near the road</l>
 <l>is without any object of wealth in [his] hand. When mendicant folks, who desirously </l>
 <l>come to see him, ask [him for gifts], even if they want a large chariot with a bull  elephant,</l>

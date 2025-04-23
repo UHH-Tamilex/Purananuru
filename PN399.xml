@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN399-intro">
-      <p type="edition">tiṇai, atu. tuṟai, paricilviṭai. tāmāṉṟōṇṟikkōṇai aiyūrmuṭavaṉār.
+    <div rend="parallel">
+      <p xml:id="PN399-intro">tiṇai, atu. tuṟai, paricilviṭai. tāmāṉṟōṇṟikkōṇai aiyūrmuṭavaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN399">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN399">
 <l>aṭumakaṇ mukanta vaḷavā veṇṇeṟ</l>
 <l>ṟoṭimā ṇulakkai parūukkuṟ ṟarici</l>
 <l>kāṭi veḷḷulaik koḷīi nīḻa</l>
@@ -66,7 +66,7 @@
 <l>viḻumeṉa viḻitaru maruvi</l>
 <l>vāṉṟo yuyarcimait tōṉṟik kōvē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>If, kindling the fire place white the rice water (10d+3a-c)</l>
 <l corresp="2">from the grains, pounded in [their] bigness by the pestle glorious for [its] ring, </l>
 <l corresp="1">of white paddy that was drawn by the cooking women, </l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN334-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. maturait tamiḻak kūttaṉār.
+    <div rend="parallel">
+      <p xml:id="PN334-intro">tiṇaiyum tuṟaiyum avai. maturait tamiḻak kūttaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN334">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN334">
 <l>kāmaru paḻaṉak kaṇpi ṉaṉṉa</l>
 <l>tūmayirk kuṟuntā ṇeṭuñcevik kuṟumuyal</l>
 <l>puṉṟalaic ciṟāar maṉṟat tārppiṟ</l>
@@ -43,7 +43,7 @@
 <l>paricil paricilark kīya</l>
 <l>vuravuvēṟ kāḷaiyuṅ kaitū vāṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The little hare with long ears, short legs [and] white fur,</l>
 <l>like the elephant grass by the lovely paddy field,</l>
 <l>keeps itself to the garden(?)</l>

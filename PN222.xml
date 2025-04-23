@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN222-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉait taṉmakaṉ piṟantapiṉ peyarttucceṉṟu pottiyār eṉakku iṭantāveṉṟu coṟṟatu.
+    <div rend="parallel">
+      <p xml:id="PN222-intro">tiṇaiyum tuṟaiyum avai. avaṉait taṉmakaṉ piṟantapiṉ peyarttucceṉṟu pottiyār eṉakku iṭantāveṉṟu coṟṟatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN222">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN222">
 <l>aḻalavir vayaṅkiḻaip polinta mēṉi</l>
 <l>niḻaliṉum pōkāniṉ veyyōḷ payanta</l>
 <l>pukaḻcāl putalvaṉ piṟantapiṉ vāveṉa</l>
@@ -39,7 +38,7 @@
 <l>veṇṇā tirukkuvai yallai</l>
 <l>yeṉṉiṭam yātumaṟ ṟicaivey yōyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="4">O loveless man who cast me off here, </l>
 <l corresp="3">saiying “come” – after a praise-worthy son has been born, </l>
 <l corresp="2">brought forth by her who is keen on you, not going away [from you any] more than [your] shadow, </l>

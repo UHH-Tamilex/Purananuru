@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN350-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. paraṇar.
+    <div rend="parallel">
+      <p xml:id="PN350-intro">tiṇaiyum tuṟaiyum avai. paraṇar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN352">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN352">
 <l>tēeṅkoṇṭa veṇmaṇṭaiyāṉ</l>
 <l>vī<gap quantity="18" reason="lost" unit="character"/>kaṟakkun</l>
 <l>tavalvakutta pacuṅkuṭaiyāṟ</l>
@@ -48,7 +48,7 @@
 <l>ciṟukō luḷaiyum puravi <g rend="vowel-sign">e</g><gap quantity="10" reason="lost" unit="character"/></l>
 <l><gap quantity="18" reason="lost" unit="character"/>yamarē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Even if he(?) were to give</l>
 <l>good ornaments/vessels worthy to be spoken about, like the Uṟantai</l>
 <l>with a fence of white paddy of great generous Tittaṉ,</l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN360-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai (pi, ituvumatu) tantumāṟaṉaic caṅkavaruṇareṉṉum nākariyar pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN360-intro">tiṇaiyum tuṟaiyum avai (pi, ituvumatu) tantumāṟaṉaic caṅkavaruṇareṉṉum nākariyar pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN360">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN360">
 <l>peritārāc ciṟuciṉattar</l>
 <l>cilacollāṟ palakēḷviyar</l>
 <l>nuṇṇuṇarviṉāṟ peruṅkoṭaiyar</l>
@@ -55,7 +54,7 @@
 <l>ṭaḻalvāyp pukka piṉṉum</l>
 <l>palarvāyt tirāar paruttuṇ ṭōrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Those with little anger that is not fully satiated, </l>
 <l corresp="2">those who listen to many [words] by means of few words, </l>
 <l corresp="3">those with great gifts through subtle understanding, </l>

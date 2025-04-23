@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN294-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, tāṉaimaṟam. peruntalaiccāttaṉār.
+    <div rend="parallel">
+      <p xml:id="PN294-intro">tiṇai, tumpai; tuṟai, tāṉaimaṟam. peruntalaiccāttaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN294">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN294">
 <l>veṇkuṭai matiya mēṉilāt tikaḻtarak</l>
 <l>kaṇkū ṭīṟutta kaṭaṉmaruḷ pācaṟaik</l>
 <l>kumaripaṭai taḻīiya kūṟṟuviṉai yāṭavar</l>
@@ -41,7 +41,7 @@
 <l>maravumiḻ maṇiyiṟ kuṟukār</l>
 <l>niraitār mārpiṉiṉ kēḷvaṉai piṟarē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>While [his] white parasol shines with the light of the moon above,</l>
 <l>in the sea-like war camp where they are settled down in crowds,</l>
 <l>the men whose work is [that of] Kūṟṟu who embrace virgin weapons,</l>

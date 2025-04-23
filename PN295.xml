@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN295-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, uvakaikkaluḻcci. auvaiyār.
+    <div rend="parallel">
+      <p xml:id="PN295-intro">tiṇai, tumpai; tuṟai, uvakaikkaluḻcci. auvaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN295">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN295">
 <l>kaṭalkiḷarn taṉṉa kaṭṭūr nāppaṇ</l>
 <l>vēntuvāy maṭittu  vēṟalaip peyarit</l>
 <l>tōṭukait teḻutarūu turanteṟi ñāṭpiṉ</l>
@@ -40,7 +40,7 @@
 <l>vāṭumulai yūṟic curantaṉa</l>
 <l>vōṭāp pūṭkai viṭalai tāykkē</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>In the middle of the war camp that shines up like the sea,</l>
 <l>when the king, pursing [his] mouth, turning the tip of [his] spear,</l>
 <l>moving the multitude, rising, driving on, cutting </l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN213-intro">
-      <p type="edition">tiṇai, vañci; tuṟai, tuṇaivañci. avaṉ makkaṇmēṟ ceṉṟāṉaip pullāṟṟūr eyiṟṟiyaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN213-intro">tiṇai, vañci; tuṟai, tuṇaivañci. avaṉ makkaṇmēṟ ceṉṟāṉaip pullāṟṟūr eyiṟṟiyaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
   </div>
-    <div xml:id="PN213">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN213">
 <l>maṇṭama raṭṭa mataṉuṭai nōṉṟāḷ</l>
 <l>veṇkuṭai viḷakkum viṟaṟkeḻu vēntē</l>
 <l>poṅkunī ruṭuttavim malartalai yulakattu</l>
@@ -57,7 +56,7 @@
 <l>rarumpeṟa lulakat tāṉṟavar</l>
 <l>vitumpuṟu viruppoṭu viruntetir koḷaṟkē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">O victorious king whose white parasol shines brightly, </l>
 <l corresp="1">with a powerful sturdy foot, who killed in rushing fight, </l>
 <l corresp="4">if you think of the two [men] who have come to your place </l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN362-intro">
-      <p type="edition">tiṇai, potuviyal. tuṟai, peruṅkāñci. avaṉaic ciṟuveṇṭōraiyār.
+    <div rend="parallel">
+      <p xml:id="PN362-intro">tiṇai, potuviyal. tuṟai, peruṅkāñci. avaṉaic ciṟuveṇṭōraiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN362">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN362">
 <l>ñāyiṟ ṟaṉṉa vāymaṇi miṭainta</l>
 <l>matiyuṟa ḻāra mārpiṟ puraḷap</l>
 <l>palipeṟu muracam pācaṟaic cilaippap</l>
@@ -54,7 +54,7 @@
 <l>viṭañciṟi totuṅka lañci</l>
 <l>yuṭampoṭuñ ceṉmā ruyarntōr nāṭṭē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">While moon-like pearl-strings roll on [his] chest </l>
 <l corresp="1">that are close-set with sun-like choice gems, </l>
 <l corresp="3">while in the warcamp the offering-receiving drum resounds, </l>

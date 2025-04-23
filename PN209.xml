@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN209-intro">
-      <p type="edition">tiṇai, atu. tuṟai, paricilkaṭāaṉilai. avaṉparicil nīṭṭittāṉaip peruntalaiccāttaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN209-intro">tiṇai, atu. tuṟai, paricilkaṭāaṉilai. avaṉparicil nīṭṭittāṉaip peruntalaiccāttaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN209">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN209">
 <l>poykai nārai pōrviṟ cēkku</l>
 <l>neytalaṅ kaḻaṉi nellari toḻuvar</l>
 <l>kūmpuviṭu meṉpiṇi yaviḻnta vāmpa</l>
@@ -52,7 +51,7 @@
 <l>peruvarai yaṉṉa mārpiṟ</l>
 <l>ceruveñ cēeyniṉ makiḻiruk kaiyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="6">O fighter of a good land in the region of soft soil, </l>
 <l corresp="2">where the paddy-cutting workmen in the paddy fields with blue waterlilies </l>
 <l corresp="1">on heaps of which the herons from the pond rest, </l>

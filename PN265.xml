@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN265-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai<gap quantity="7" reason="lost" unit="character"/>cōṇāṭṭu mukaiyalūrc ciṟukatuntumpiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN265-intro">tiṇaiyum tuṟaiyum avai<gap quantity="7" reason="lost" unit="character"/>cōṇāṭṭu mukaiyalūrc ciṟukatuntumpiyār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN265">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN265">
 <l>ūrnaṉi yiṟanta pārmutir paṟantalai</l>
 <l>yōṅkunilai vēṅkai yoḷḷiṇar naṟuvīp</l>
 <l>pōntaiyan tōṭṭiṟ puṉaintaṉar toṭuttup</l>
@@ -41,7 +41,7 @@
 <l>kaṭumpakaṭ ṭiyāṉai vēnta</l>
 <l>roṭuṅkā veṉṟiyu niṉṉoṭu celavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">In the wasteland where [just] earth ripens that has gone much beyond the village, </l>
 <l>when, as the decorators, the cowherds with many cows, linked </l>
 <l>palmyra fronds with fragrant blossoms from the bright clusters </l>

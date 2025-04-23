@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN315-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. neṭumāṉañciyai oḷavaiyār
+    <div rend="parallel">
+      <p xml:id="PN315-intro">tiṇaiyum tuṟaiyum avai. neṭumāṉañciyai oḷavaiyār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN315">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN315">
 <l>uṭaiya ṉāyi ṉuṇṇavum vallaṉ</l>
 <l>kaṭavar mītu mirappōrk kīyu</l>
 <l>maṭavar makiḻtuṇai neṭumā ṉañci</l>
@@ -39,7 +39,7 @@
 <l>kāṉṟupaṭu kaṉaiyeri pōlat</l>
 <l>tōṉṟavum vallaṉṟāṉ ṟōṉṟuṅ kālē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>If he possesses [something], he is capable also of eating.</l>
 <l>He gives to mendicants even over those to whom he has a duty.</l>
 <l>He is the companion in delight of youthful [women], Neṭumāṉañci.</l>

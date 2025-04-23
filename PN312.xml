@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN312-intro">
-      <p type="edition">tiṇai, vākai; tuṟai, mūtiṉmullai. poṉmuṭiyār.
+    <div rend="parallel">
+      <p xml:id="PN312-intro">tiṇai, vākai; tuṟai, mūtiṉmullai. poṉmuṭiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN312">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN312">
 <l>īṉṟupuṟan taruta leṉṟalaik kaṭaṉē</l>
 <l>cāṉṟō ṉākkuta ṟantaikkuk kaṭaṉē</l>
 <l>vēlvaṭittuk koṭuttal kollaṟkuk kaṭaṉē</l>
@@ -38,7 +38,7 @@
 <l>yoḷiṟuvā ḷaruñcama murukkik</l>
 <l>kaḷiṟeṟintu peyartal kāḷaikkuk kaṭaṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Bringing forth [and] protecting [children] is the duty upon me. </l>
 <l>Making [them] into worthy men is the father’s duty.</l>
 <l>Forming spears [and] giving [them] is the smith’s duty.</l>

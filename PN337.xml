@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN337-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kapilar.
+    <div rend="parallel">
+      <p xml:id="PN337-intro">tiṇaiyum tuṟaiyum avai. kapilar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN337">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN337">
 <l>ārkali yiṉaṉē cōṇāṭ ṭaṇṇal</l>
 <l>kavikai maṇṇāḷ celva rāyiṉum</l>
 <l>vāḷvalat toḻiyap pāṭic ceṉṟāar</l>
@@ -54,7 +54,7 @@
 <l>yurutta palcuṇaṅ kaṇinta</l>
 <l>maruppiḷa vaṉamulai ñemukku vōrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>He is a very busy man, the majesty of Cōṇāṭu.</l>
 <l>Even if they are wealthy people who rule the earth with protective hands,</l>
 <l>they have gone singing while the strength of [their] swords stayed behind.</l>

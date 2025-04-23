@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN379-intro">
-      <p type="edition">tiṇai, atu. tuṟai, pariciṟṟuṟai. ōymāṉ villiyātaṉaip puṟattiṇai naṉṉākaṉār.
+    <div rend="parallel">
+      <p xml:id="PN379-intro">tiṇai, atu. tuṟai, pariciṟṟuṟai. ōymāṉ villiyātaṉaip puṟattiṇai naṉṉākaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN379">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN379">
 <l>yāṉē peṟukavaṉ ṟāṇiḻal vāḻkkai</l>
 <l>yavaṉē peṟukaveṉ ṉāvicai nuvaṟa</l>
 <l>ṉellari toḻuvar kūrvāṇ maḻuṅkiṟ</l>
@@ -51,7 +50,7 @@
 <l>varumaḻai maṅkuliṉ maṟukuṭaṉ maṟaikkuṅ</l>
 <l>kuṟumpa<supplied>ṭu kuṇṭakaḻ</supplied> nīṇmati lūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">  “I, let me get a living in the shade of his foot. </l>
 <l corresp="2">He, let him get fame by the utterances of my tongue. </l>
 <l corresp="7">O great man, we are the Kiṇai players of Villiyātaṉ, </l>

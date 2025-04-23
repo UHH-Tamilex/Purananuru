@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN335-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. māṅkuṭikiḻār
+    <div rend="parallel">
+      <p xml:id="PN335-intro">tiṇaiyum tuṟaiyum avai. māṅkuṭikiḻār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN335">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN335">
 <l>aṭalarun tuppiṉ<gap quantity="12" reason="lost" unit="character"/></l>
 <l><gap quantity="25" reason="lost" unit="character"/>kuruntē mullai yeṉ</l>
 <l>ṟinnāṉ kallatu pūvu millai</l>
@@ -44,7 +44,7 @@
 <l>kallē paravi ṉallatu</l>
 <l>nellukuttup paravuṅ kaṭavuḷu milavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Of a strength difficult to kill….</l>
 <l>…………..the wild lime and the jasmine,</l>
 <l>apart from these four there is no [other] flower,</l>

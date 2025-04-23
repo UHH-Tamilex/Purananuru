@@ -22,14 +22,14 @@
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
 <text xml:lang="ta">
-  <body> <div xml:id="PN339-intro">
-    <p type="edition">tiṇaiyum tuṟaiyum avai. .............................................
+  <body> <div rend="parallel">
+    <p xml:id="PN339-intro">tiṇaiyum tuṟaiyum avai. .............................................
     </p>
-    <p xml:lang="en" type="translation">  
+    <p xml:lang="en">  
     </p>
   </div> 
-    <div xml:id="PN339">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN339">
 <l>viyaṉpulam paṭarnta pallā neṭuvēṟu</l>
 <l>maṭalai māṇiḻa lacaiviṭak kōvalar</l>
 <l>vītatai mullaip pūppaṟik kuntu</l>
@@ -45,7 +45,7 @@
 <l>muṟañcevi yāṉai vēntar</l>
 <l>maṟaṅkeḻu neñcaṅ koṇṭoḷit tōḷē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Where, while the large bull of many cows that set out for the wide fields</l>
 <l>chews the cud in the glorious shade of the Maṭalai tree, the cowherds</l>
 <l>pull out the flowers of the jasmine in dense bloom,</l>

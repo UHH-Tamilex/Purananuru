@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN323-intro">
-      <p type="edition"><gap quantity="25" reason="lost" unit="character"/> ṭārkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN323-intro"><gap quantity="25" reason="lost" unit="character"/> ṭārkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN323">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN323">
 <l>pulippāṟ paṭṭa vāmāṉ kuḻavikkuc</l>
 <l>ciṉaṅkaḻi mūtāk kaṉṟumaṭut tūṭṭum</l>
 <l>kā<gap quantity="53" reason="lost" unit="character"/>k</l>
@@ -39,7 +39,7 @@
 <l>kaṟaiyaṭi yāṉaik kalla</l>
 <l>tuṟaikaḻip paṟiyā vēlō ṉūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Where the old cow whose temperament has calmed down feeds [its] calf</l>
 <l>[and also] gives [milk] to the calf of the wild cow that fell a share to the tiger,</l>
 <l>……………………………………</l>

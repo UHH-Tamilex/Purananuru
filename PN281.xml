@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN281-intro">
-      <p type="edition">tiṇai, kāñci; tuṟai, pēykkāñci. aricilkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN281-intro">tiṇai, kāñci; tuṟai, pēykkāñci. aricilkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN281">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN281">
 <l>tīṅkaṉi yiravamoṭu vēmpumaṉaic cerīi</l>
 <l>vāṅkumarup piyāḻoṭu palliyaṅ kaṟaṅkak</l>
 <l>kaipayap peyarttu maiyiḻu tiḻuki</l>
@@ -41,7 +41,7 @@
 <l>vēntuṟu viḻuman tāṅkiya</l>
 <l>pūmpoṟik kaḻaṟkā ṉeṭuntakai puṇṇē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Inserting in the house [the leaves of] Neem wood along with sweet-fruited ironwood,</l>
 <l>while many instruments sound along with the lute with a curved neck,</l>
 <l>removing the yield(?) with the hand, smearing black fat,</l>

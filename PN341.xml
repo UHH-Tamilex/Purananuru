@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN341-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. paraṇar.
+    <div rend="parallel">
+      <p xml:id="PN341-intro">tiṇaiyum tuṟaiyum avai. paraṇar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN341">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN341">
 <l>vēntu kuṟaiyuṟavuṅ koṭāa ṉēntukōṭ</l>
 <l>ṭampūn toṭalai yaṇittaḻai yalkul</l>
 <l>cempoṟic cilampi ṉiḷaiyō ṭantai</l>
@@ -51,7 +51,7 @@
 <l>peruṅkavi ṉiḻappatu kollō</l>
 <l>meṉpula vaippiṉit taṇpaṇai yūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Even though a king makes a request he won’t give [her],</l>
 <l>the father of the young one, [her] anklets with refined markings,</l>
 <l>[her] hips with foliage as a decoration in a skirt of pretty flowers, with eminent curves.</l>

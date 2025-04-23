@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN375-intro">
-      <p type="edition">tiṇai, pāṭāṇṭiṇai. tuṟai, vāḻttiyal. avaṉai yavar.
+    <div rend="parallel">
+      <p xml:id="PN375-intro">tiṇai, pāṭāṇṭiṇai. tuṟai, vāḻttiyal. avaṉai yavar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN375">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN375">
 <l>alaṅkukatir cumanta kalaṅkaṟ cūḻi</l>
 <l>nilaitaḷarvu tolainta volkunilaip palkāṟ</l>
 <l>potiyi loruciṟai paḷḷi yāka</l>
@@ -53,7 +53,7 @@
 <l>pīṭiṉṟu perukiya tiruviṟ</l>
 <l>pāṭiṉ maṉṉaraip pāṭaṉmā remarē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="7cd">[Our] living in suffering, when [we], </l>
 <l corresp="1">by a pond with muddy water burdened with swaying ears, </l>
 <l corresp="3">with in one wing of the public hall [our] resting place, </l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN320-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. vīrai veḷiyaṉār.
+    <div rend="parallel">
+      <p xml:id="PN320-intro">tiṇaiyum tuṟaiyum avai. vīrai veḷiyaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN320">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN320">
 <l>muṉṟiṉ muññaiyoṭu mucuṇṭai pampip</l>
 <l>pantar vēṇṭāp palartūṅku nīḻaṟ</l>
 <l>kaimmāṉ vēṭṭuvaṉ kaṉaituyiṉ maṭinteṉap</l>
@@ -50,7 +50,7 @@
 <l>marukā tīyum vaṇmai</l>
 <l>yuraicā ṉeṭuntakai yōmpu mūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Because, in the front yard, as bindweed and Muññai are growing thickly,</l>
 <l>in the shade in which many sleep who do not need an arbour,</l>
 <l>the elephant hunter has dropped into deep sleep,</l>

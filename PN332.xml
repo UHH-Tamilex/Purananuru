@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN332-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, vallāṇmullai. viriyūrnakkaṉār.
+    <div rend="parallel">
+      <p xml:id="PN332-intro">tiṇai, tumpai; tuṟai, vallāṇmullai. viriyūrnakkaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN332">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN332">
 <l>piṟarvēl pōlā tāki yivvūr</l>
 <l>maṟavaṉ vēlō peruntakai yuṭaittē</l>
 <l>yirumpuṟa nīṟu māṭik kalantiṭaik</l>
@@ -42,7 +42,7 @@
 <l>kiruṅkaṭaṟ ṟāṉai vēntar</l>
 <l>peruṅkaḷiṟṟu mukattiṉuñ celavā ṉātē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Being unlike the spears of others, as for the spear </l>
 <l>of the bold man from this village, it possesses great aptitude. (1f.)</l>
 <l corresp="3">Bathing [its] large back in ashes(?), mingling in between, </l>

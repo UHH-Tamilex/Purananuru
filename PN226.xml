@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN226-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cōḻaṉ kuḷamuṟṟattut tuñciya kiḷḷivaḷavaṉai māṟōkkattu nappacalaiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN226-intro">tiṇaiyum tuṟaiyum avai. cōḻaṉ kuḷamuṟṟattut tuñciya kiḷḷivaḷavaṉai māṟōkkattu nappacalaiyār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN226">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN226">
 <l>ceṟṟaṉ ṟāyiṉuñ ceyirttaṉ ṟāyiṉu</l>
 <l>muṟṟaṉ ṟāyiṉu muyviṉṟu mātō</l>
 <l>pāṭunar pōlak kaitoḻu tētti</l>
@@ -39,7 +38,7 @@
 <l>maṇṭamar kaṭakkun tāṉait</l>
 <l>tiṇṭēr vaḷavaṟ koṇṭa kūṟṟē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">  Even though it destroyed, even though it raged, </l>
 <l corresp="2">  even though it had [him], is it really without escape? </l>
 <l corresp="6">  – Death, that took Vaḷavaṉ with firm chariot </l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN279-intro">
-      <p type="edition">tiṇai, vākai; tuṟai, mutiṉmullai. okkūr mācāttiyār.
+    <div rend="parallel">
+      <p xml:id="PN279-intro">tiṇai, vākai; tuṟai, mutiṉmullai. okkūr mācāttiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN279">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN279">
 <l>keṭuka cintai kaṭitiva ṭuṇivē</l>
 <l>mūtiṉ makaḷi rāta ṟakumē</l>
 <l>mēṉā ḷuṟṟa ceruviṟ kivaṭaṉṉai</l>
@@ -43,7 +43,7 @@
 <l>yorumaka ṉalla tillōḷ</l>
 <l>cerumuka nōkkic celkaveṉa viṭumē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
   <l>  Let [my] mind be lost. Fierce is her determination.</l>
   <l>Becoming a [solitary] woman of an ancient house is befitting [to her].</l>
   <l>In the battle that took place the day before her brother</l>

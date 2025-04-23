@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN218-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. picirāntaiyār vaṭakkiruntāraik kaṇṭakaṇṇakaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN218-intro">tiṇaiyum tuṟaiyum avai. picirāntaiyār vaṭakkiruntāraik kaṇṭakaṇṇakaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN218">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN218">
 <l>poṉṉun tukiru muttu maṉṉiya</l>
 <l>māmalai payanta kāmaru maṇiyu</l>
 <l>miṭaipaṭac cēya vāyiṉun toṭaipuṇarn</l>
@@ -40,7 +39,7 @@
 <l>cāṉṟōr pāla rāpa</l>
 <l>cālār cālār pālarā kupavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Although gold, coral, pearls and the desirable </l>
 <l>sapphire that was yielded by the lasting big mountain (1f.)</l>
 <l corresp="3a-c">were far apart when they appeared in space, </l>

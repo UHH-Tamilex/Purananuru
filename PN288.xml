@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN288-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, mūtiṉmullai. kaḻāttalaiyār.
+    <div rend="parallel">
+      <p xml:id="PN288-intro">tiṇai, tumpai; tuṟai, mūtiṉmullai. kaḻāttalaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN288">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN288">
 <l>maṇkoḷa varinta vainnuti maruppi</l>
 <l>ṉaṇṇa ṉallē ṟiraṇṭuṭaṉ maṭuttu</l>
 <l>veṉṟataṉ paccai cīvātu pōrtta</l>
@@ -41,7 +41,7 @@
 <l>kurutiyoṭu tuyalvaru mārpiṉ</l>
 <l>muyakkiṭai yīyātu moyttaṉa paruntē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>While in the fields the drum with firm straps sounds,</l>
 <l>covered, without cleaning [it], with the fresh hide of the one that was victorious,</l>
 <l>after two majestic good bulls had gored each other,</l>

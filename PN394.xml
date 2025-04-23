@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN394-intro">
-      <p type="edition">tiṇīyum tuṟaiyum avai. kaṭainilaiyāyiṉa vellām pāṭāṇṭiṇai. cōḻiya ēṉāti tirukkuṭṭuvaṉaik kōṉāṭṭu eṟiccilūr māṭalaṉ maturaikkumaraṉār.
+    <div rend="parallel">
+      <p xml:id="PN394-intro">tiṇīyum tuṟaiyum avai. kaṭainilaiyāyiṉa vellām pāṭāṇṭiṇai. cōḻiya ēṉāti tirukkuṭṭuvaṉaik kōṉāṭṭu eṟiccilūr māṭalaṉ maturaikkumaraṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN394">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN394">
 <l>cilaiyulāy nimirnta cāntupaṭu mārpi</l>
 <l>ṉolikatir kaḻaṉi veṇkuṭaik kiḻavōṉ</l>
 <l>valituñcu taṭakkai vāyvāṭ kuṭṭuvaṉ</l>
@@ -50,7 +50,7 @@
 <l>tuṉṉarum parici ṟarumeṉa</l>
 <l>veṉṟuñ cellēṉavaṉ kuṉṟukeḻu nāṭṭē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">The lord of a white parasol, [his] paddy fields with sprouting ears, </l>
 <l corresp="1">with a sandal-smeared chest, who moves about [and] holds up a bow, </l>
 <l corresp="3">Kuṭṭuvaṉ with an excellent sword [and] broad hands where strength lies dormant, </l>

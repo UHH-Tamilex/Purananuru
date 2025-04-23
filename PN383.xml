@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN383-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai<gap quantity="15" reason="lost" unit="character"/>māṟōkattu nappacalaiyār.
+    <div rend="parallel">
+      <p xml:id="PN383-intro">tiṇaiyum tuṟaiyum avai<gap quantity="15" reason="lost" unit="character"/>māṟōkattu nappacalaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN383">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN383">
 <l>oṇpoṟic cēva leṭuppa vēṟṟeḻuntu</l>
 <l>taṇpaṉi yuṟaikkum pularā ñāṅkar</l>
 <l>nuṇkōṟ ciṟukiṇai cilampa voṟṟi</l>
@@ -56,7 +55,7 @@
 <l>voruvaṉai yuṭaiyēṉ maṉṉē yāṉē</l>
 <l>yaṟāṉevaṉ parikō veḷḷiyatu nilaiyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">When I, having gotten up as a bright-spotted cockerel aroused [me], </l>
 <l corresp="2">at the time before dawn when cool dew drips, </l>
 <l corresp="3">pressing [my] little Kiṇai drum with fine sticks so that it sounded, </l>

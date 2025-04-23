@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,8 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN246-intro">
-      <p type="edition">tiṇai, atu. tuṟai, āṉantappaiyuḷ. 
+    <div rend="parallel">
+      <p xml:id="PN246-intro">tiṇai, atu. tuṟai, āṉantappaiyuḷ. 
       pūtapāṇṭiyaṉṟēvi peruṅkōpeṇṭu tīppāyvāḷ colliyatu. 
 ituvumatu – <app>
 <lem wit="#C8">pūtappāṇṭiyaṉ</lem>
@@ -37,11 +36,11 @@ ituvumatu – <app>
 </app>
 peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ
 </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN246">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN246">
 <l>palcāṉ ṟīrē palcāṉ ṟīrē</l>
 <l>celkeṉac collā toḻikeṉa vilakkum</l>
 <l>pollāc cūḻccip palcāṉ ṟīrē</l>
@@ -58,7 +57,7 @@ peruṅkōppeṇṭu tīppāyvāḷ colliyatu - tuṟai āṉantappaiyuḷ
 <l>vaḷḷita ḻaviḻnta tāmarai</l>
 <l>naḷḷirum poykaiyun tīyumō raṟṟē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">You who are worthy of much [praise], you who are worthy of much [praise],</l>
 <l>with bad counsel, who block [me], saying “stay behind”, </l>
 <l corresp="2f.">without saying “you may go”, you who are worthy of much [praise]:</l>

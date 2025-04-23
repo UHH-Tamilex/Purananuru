@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN276-intro">
-      <p type="edition">tiṇai, atu; tuṟai, tāṉainilai. maturaip pūtaṉiḷanākaṉār.
+    <div rend="parallel">
+      <p xml:id="PN276-intro">tiṇai, atu; tuṟai, tāṉainilai. maturaip pūtaṉiḷanākaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN276">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN276">
 <l>naṟuvirai tuṟanta naraiveṇ kūnta</l>
 <l>liraṅkā ḻaṉṉa tiraṅkukaṇ vaṟumulaic</l>
 <l>cemmutu peṇṭiṉ kātalañ ciṟāaṉ</l>
@@ -38,7 +38,7 @@
 <l>kuṭappāṟ cilluṟai pōlap</l>
 <l>paṭaikkunō yellān tāṉā yiṉaṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The beloved little son of the upright old woman</l>
 <l>with grey-white tresses that had abandoned fragrant scents</l>
 <l>[and] empty breasts with nipples shrunken like Iram kernels,</l>

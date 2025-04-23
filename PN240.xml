@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN240-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. āyaik kuṭṭuvaṉkīraṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN240-intro">tiṇaiyum tuṟaiyum avai. āyaik kuṭṭuvaṉkīraṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN240">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN240">
 <l>āṭunaṭaip puraviyuṅ kaḷiṟun tērum</l>
 <l>vāṭā yāṇar nāṭu mūrum</l>
 <l>pāṭunark karukā vāa yaṇṭiraṉ</l>
@@ -47,7 +46,7 @@
 <l>vāṭiya paciya rākippiṟar</l>
 <l>nāṭupaṭu celaviṉa rāyiṉa riṉiyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="3">“Āay Aṇṭiraṉ who was not stingy to singers </l>
 <l corresp="1">with horses with prancing gait, elephants bulls, chariots, </l>
 <l corresp="2">lands of unfading fertility and villages, </l>

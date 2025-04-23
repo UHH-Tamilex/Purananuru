@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN370-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cōḻaṉ ceruppāḻiyeṟinta iḷañcēṭceṉṉiyai ūṉpoti pacuṅkuṭaiyār.
+    <div rend="parallel">
+      <p xml:id="PN370-intro">tiṇaiyum tuṟaiyum avai. cōḻaṉ ceruppāḻiyeṟinta iḷañcēṭceṉṉiyai ūṉpoti pacuṅkuṭaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN370">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN370">
 <l><gap quantity="38" reason="lost" unit="character"/> ḷi,</l>
 <l>nārum pōḻuñ ceytuṇ ṭōrāṅkup</l>
 <l>pacitiṉat tiraṅkiya virumpē rokkaṟ</l>
@@ -59,7 +59,7 @@
 <l>ceñcevi yeruvai tiritaru</l>
 <l>mañcuvaru kiṭakkaiya kaḷaṅkiḻa vōyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="5">Coming to stay behind in exhaustion on the side, the roots having endured [and] whithered, </l>
 <l corresp="4">stirring the great directions like eyes, a full right consistency </l>
 <l corresp="3">for the very big kinfolk that is dried up when gnawed by hunger </l>

@@ -23,8 +23,8 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN248-intro">
-      <p type="edition">tiṇai, atu; tuṟai, tāpatanilai.
+    <div rend="parallel">
+      <p xml:id="PN248-intro">tiṇai, atu; tuṟai, tāpatanilai.
       <gap quantity="3" reason="lost" unit="character"/>ekkūr (Cām.-1v: okkūr) 
       mācāttaṉār pāṭiyatu.
        <app>
@@ -38,11 +38,11 @@
       <rdg wit="#C2 #C3">kūṟiyatu</rdg>
      </app>.        
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN248">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN248">
 <l>aḷiya tāmē ciṟuveḷ ḷāmpa</l>
 <l>liḷaiya mākat taḻaiyā yiṉavē</l>
 <l>yiṉiyē,</l>
@@ -50,7 +50,7 @@
 <l>tiṉṉā vaika luṇṇu</l>
 <l>mallip paṭūum pullā yiṉavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>  Pitiful [are] they, the small white waterlilies.</l>
 <l>When we were young, they were foliage [for a skirt].</l>
 <l>Now, </l>

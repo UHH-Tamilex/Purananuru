@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN223-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kallākiyum iṭaṅkoṭutta kōpperuñcōḻaṉai vaṭakkirunta pottiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN223-intro">tiṇaiyum tuṟaiyum avai. kallākiyum iṭaṅkoṭutta kōpperuñcōḻaṉai vaṭakkirunta pottiyār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN223">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN223">
 <l>palarkkuniḻa lāki yulakamīk kūṟit</l>
 <l>talaippō kaṉmaiyiṟ ciṟuvaḻi maṭaṅki</l>
 <l>nilaipeṟu naṭuka lākiyak kaṇṇu</l>
@@ -39,7 +38,7 @@
 <l>ṭiṉṉuyir virumpuṅ kiḻamait</l>
 <l>toṉṉaṭ puṭaiyār tammuḻaic celiṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Being shade for many, lauded by the world, </l>
 <l corresp="2">bending over a little way in the absence of [total] destruction, </l>
 <l corresp="3">also in the places where they have become upright hero stones </l>

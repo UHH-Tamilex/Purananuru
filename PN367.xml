@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN367-intro">
-      <p type="edition">tiṇai, pāṭāṇṭiṇai; tuṟai vāḻṭtiyal. cēramāṉmāveṇkōvum pāṇṭiyaṉ kāṉappērtanta ukkirapperuvaḻutiyum cōḻāṉ irācacūyamvēṭṭa perunaṟkiḷḷiyum oruṅkiruntārai auvaiyār.
+    <div rend="parallel">
+      <p xml:id="PN367-intro">tiṇai, pāṭāṇṭiṇai; tuṟai vāḻṭtiyal. cēramāṉmāveṇkōvum pāṇṭiyaṉ kāṉappērtanta ukkirapperuvaḻutiyum cōḻāṉ irācacūyamvēṭṭa perunaṟkiḷḷiyum oruṅkiruntārai auvaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN367">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN367">
 <l>nākat taṉṉa pākār maṇṭilan</l>
 <l>tamavē yāyiṉun tam<supplied>moṭu cellā</supplied></l>
 <l>vēṟṟō rāyiṉu nōṟṟōrk koḻiyu</l>
@@ -50,7 +50,7 @@
 <l>viyaṅku māmaḻai yuṟaiyiṉu</l>
 <l>muyarntumēn tōṉṟip polikanun nāḷē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Although the orb full of fates, like [that of] the snakes,</l>
 <l>was their’s, it did not go with them. (1f.)</l>
 <l corresp="3">Although they were different ones, it stayed behind for those who were toiling. </l>

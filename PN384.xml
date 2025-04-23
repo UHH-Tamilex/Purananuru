@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN384-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. karumpūrkiḻāṉaip puṟattiṇainaṉṉākaṉār.
+    <div rend="parallel">
+      <p xml:id="PN384-intro">tiṇaiyum tuṟaiyum avai. karumpūrkiḻāṉaip puṟattiṇainaṉṉākaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN384">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN384">
 <l>meṉpālā ṉuṭaṉaṇaii</l>
 <l>vañcikōṭ ṭuṟaṅkunārai</l>
 <l>yaṟaikarumpiṉ pūvaruntum</l>
@@ -56,7 +56,7 @@
 <l>vanta vaika lallatu</l>
 <l>ceṉṟa vellaic celavaṟi yēṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>In the soft soil, the egrets(?) that slumber,</l>
 <l>huddling together on the branches of the mahua trees (1f.)</l>
 <l>eat flowers of the hacked-off sugarcane.</l>
