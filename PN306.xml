@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN306-intro">
-      <p type="edition">tiṇai, atu; tuṟai, mūtiṉmullai. aḷḷūrnaṉmullaiyār. itu kaṇṭōr kūṟṟu.
+    <div rend="parallel">
+      <p xml:id="PN306-intro">tiṇai, atu; tuṟai, mūtiṉmullai. aḷḷūrnaṉmullaiyār. itu kaṇṭōr kūṟṟu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN306">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN306">
 <l>kaḷiṟuporak kalaṅku kaḻaṉmuḷ vēli</l>
 <l>yarituṇ kūva laṅkuṭic cīṟū</l>
 <l>rolimeṉ kūnta loṇṇuta larivai</l>
@@ -39,7 +39,7 @@
 <l>mo<gap quantity="43" reason="lost" unit="character"/> vēntaṉoṭu</l>
 <l>nāṭutaru viḻuppakai yeytuka veṉavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>In the little village with pretty homes [and] a drinking well that is precious,</l>
 <l>stirred up when bull elephants fight, [and] with a Kaḻal thorn fence,</l>
 <l>a young woman with bright forehead [and] luxuriant soft tresses</l>

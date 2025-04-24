@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN392-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. atiyamāṉmakaṉ pokuṭṭeḻiṉiyai auvaiyār.
+    <div rend="parallel">
+      <p xml:id="PN392-intro">tiṇaiyum tuṟaiyum avai. atiyamāṉmakaṉ pokuṭṭeḻiṉiyai auvaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN392">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN392">
 <l>matiyēr veṇkuṭai yatiyar kōmāṉ</l>
 <l>koṭumpū ṇeḻiṉi neṭuṅkaṭai niṉṟiyāṉ</l>
 <l>pacalai nilaviṉ paṉipaṭu viṭiyaṟ</l>
@@ -53,7 +53,7 @@
 <l>tarumpeṟa lamiḻta maṉṉa</l>
 <l>karumpivaṭ ṭantōṉ perumpiṟaṅ kaṭaiyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">As I, standing at the tall gate of Eḻiṉi with curved ornaments, </l>
 <l corresp="1">the king of the Atiyar with a moon-like white parasol, </l>
 <l corresp="3">at dawn when dew fell in the pale moonlight </l>

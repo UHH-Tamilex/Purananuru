@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN232-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉai avar pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN232-intro">tiṇaiyum tuṟaiyum avai. avaṉai avar pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN232">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN232">
 <l>illā kiyarō kālai mālai</l>
 <l>yallā kiyaryāṉ vāḻu nāḷē</l>
 <l>naṭukaṟ pīli cūṭṭi nārari</l>
@@ -39,7 +38,7 @@
 <l>kōṭuyar piṟaṅkumalai keḻīiya</l>
 <l>nāṭuṭaṉ koṭuppavuṅ koḷḷā tōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Let them be nothing, morning [and] evening.</l>
 <l>The days I live, let them be naught.</l>
 <l>Though I adorn [his] herostone with peacock feathers [and] shed</l>

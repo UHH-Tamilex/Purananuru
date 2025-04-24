@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN303-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. erumai veḷiyaṉār.
+    <div rend="parallel">
+      <p xml:id="PN303-intro">tiṇaiyum tuṟaiyum avai. erumai veḷiyaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN303">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN303">
 <l>nilampiṟak kiṭuvatu pōṟkuḷampu kaṭaiyūu</l>
 <l>vuḷḷa moḻikkuṅ koṭpiṉ māṉmē</l>
 <l>leḷḷunarc cekukkuṅ kāḷai kūrtta</l>
@@ -41,7 +41,7 @@
 <l>kayantalai maṭappiṭi pulampa</l>
 <l>vilaṅkumarup piyāṉai yeṟinta veṟkē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="3a-c">The young man who destroys those who deride [him], </l>
 <l corresp="2">upon a restless horse that finishes off the mind </l>
 <l corresp="1">by pressing down [its] hooves as if putting behind the ground, </l>

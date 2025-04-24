@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN284-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, pāṭāṇpāṭṭu. ōrampōkiyar.
+    <div rend="parallel">
+      <p xml:id="PN284-intro">tiṇai, tumpai; tuṟai, pāṭāṇpāṭṭu. ōrampōkiyar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN284">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN284">
 <l>varukatil vallē varukatil valleṉa</l>
 <l>vēntuviṭu viḻutū tāṅkāṅ kicaippa</l>
 <l>nūlari mālai cūṭik kāliṟ</l>
@@ -41,7 +40,7 @@
 <l>tirinta vāyvā ṭiruttāt</l>
 <l>taṉakkirin tāṉaip peyarpuṟa nakumē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>“Please come quickly, please come quickly”,</l>
 <l>when everywhere the excellent message sent by the king sounded,</l>
 <l>the man from a ancient house, come alone</l>

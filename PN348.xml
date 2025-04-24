@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN348-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. paraṇar.
+    <div rend="parallel">
+      <p xml:id="PN348-intro">tiṇaiyum tuṟaiyum avai. paraṇar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN348">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN348">
 <l>veṇṇel lariñar taṇṇumai verīik</l>
 <l>kaṇmaṭaṟ koṇṭa tīntē ṉiriyak</l>
 <l>kaḷḷarik kuṅkuyañ ciṟumīṉ cīvum</l>
@@ -41,7 +41,7 @@
 <l>cennutal yāṉai piṇippa</l>
 <l>varukaṉa maṉṉem peruntuṟai maraṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Like the village of true-worded Taḻumpaṉ with a bard’s quarter</l>
 <l>where they sweep little fish [and] a potter clan who filter toddy</l>
 <l>so that the sweet honey [bees] retreat who take to knotted palm fronds</l>

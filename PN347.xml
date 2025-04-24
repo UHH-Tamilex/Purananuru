@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN347-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kapilar.
+    <div rend="parallel">
+      <p xml:id="PN347-intro">tiṇaiyum tuṟaiyum avai. kapilar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN347">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN347">
 <l>uṇpōṉ ṟāṉaṟuṅ kaḷḷi ṉiṭaccila</l>
 <l>nāviṭaip paḵṟēr kōlac civanta</l>
 <l>voḷiṟoḷ vāṭak kuḻaintapain tumpai</l>
@@ -44,7 +44,7 @@
 <l>viṉainavil yāṉai piṇippa</l>
 <l>vērtuḷaṅ kiṉanam mūruṇ maraṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>  Like Kūṭal within the bounds of the deep water</l>
 <l>of Akutai of bold battle, [his] chest fragrant with scent,</l>
 <l>with a blunt spear the leaf [tip] of which is broken after throwing [it],</l>

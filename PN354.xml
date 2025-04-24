@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN354-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. paraṇar.
+    <div rend="parallel">
+      <p xml:id="PN354-intro">tiṇaiyum tuṟaiyum avai. paraṇar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN354">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN354">
 <l>araicutalai variṉu maṭaṅka lāṉā</l>
 <l>niraikā ḻeḵka nīriṉ mūḻkap</l>
 <l>puraiyōr cērnteṉat tantaiyum peyarkkum</l>
@@ -42,7 +42,7 @@
 <l>vīṅkiṟaip paṇaittōṇ maṭantai</l>
 <l>māṉpiṇai yaṉṉa makiḻmaṭa nōkkē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Even if a king comes against [him], because [his] great [warriors]</l>
 <l>have joined to submerge [their] blades with shafts(?) in a row in the water</l>
 <l>that do not end yielding(?), [her] father too(?) will drive [him] away.</l>

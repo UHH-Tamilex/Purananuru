@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN385-intro">
-      <p type="edition">tiṇai atu. tuṟai, vāḻttiyal. amparkiḻāṉ aruvantaiyaik kallāṭaṉār.
+    <div rend="parallel">
+      <p xml:id="PN385-intro">tiṇai atu. tuṟai, vāḻttiyal. amparkiḻāṉ aruvantaiyaik kallāṭaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN385">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN385">
 <l>veḷḷi tōṉṟap puḷḷukkura liyampap</l>
 <l>pulari viṭiyaṟ pakaṭupala vāḻttit</l>
 <l>taṉkaṭait tōṉṟiṉu milaṉē piṟaṉkaṭai</l>
@@ -44,7 +44,7 @@
 <l>vēṅkaṭa viṟalvaraip paṭṭa</l>
 <l>vōṅkal vāṉat tuṟaiyiṉum palavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">When Venus appeared, when bird voices sounded, </l>
 <l corresp="2">although right at dawn, praising the many bulls, </l>
 <l>I appeared at his gate, he was not there. Graciously listening </l>

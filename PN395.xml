@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN395-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cōḻanāṭṭu piṭavūrkiḻārmakaṉ peruñcāttaṉai maturainakanakār.
+    <div rend="parallel">
+      <p xml:id="PN395-intro">tiṇaiyum tuṟaiyum avai. cōḻanāṭṭu piṭavūrkiḻārmakaṉ peruñcāttaṉai maturainakanakār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN395">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN395">
 <l>meṉpulattu vayaluḻavar</l>
 <l>vaṉpulattup pakaṭuviṭṭuk</l>
 <l>kuṟumuyaliṉ kuḻaiccūṭṭoṭu</l>
@@ -72,7 +72,7 @@
 <l>vuḷḷatu millatu maṟiyā</l>
 <l>tāṅkamain taṉṟāl vāḻkavaṉ ṟāḷē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">The ploughman of fields in the soft soil, </l>
 <l corresp="2">letting go the bulls on the hard soil, </l>
 <l corresp="5">eating food of old rice </l>

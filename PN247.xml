@@ -23,19 +23,19 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN247-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaḷ tīppāyvāḷaik kaṇṭu maturaipērālavāyār colliyatu. 
+    <div rend="parallel">
+      <p xml:id="PN247-intro">tiṇaiyum tuṟaiyum avai. avaḷ tīppāyvāḷaik kaṇṭu maturaipērālavāyār colliyatu. 
       ituvumatu – pūtappāṇṭiyaṉ ṟēvi peruṅkōppeṇṭū tīppāyavāḷaik kaṇṭu 
       <app>
       <lem wit="#C2 #C3 #C8">matuppōralavāmār</lem>
       <rdg wit="#C7">matu<gap reason="lost" unit="character" quantity="2"/>rālavāyār</rdg>
       </app>
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN247">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN247">
 <l>yāṉai tanta muḷimara viṟakiṟ</l>
 <l>kāṉavar pottiya ñelitī viḷakkattu</l>
 <l>maṭamāṉ perunirai vaikutuyi leṭuppi</l>
@@ -47,7 +47,7 @@
 <l>ciṟunaṉi tamiya ḷāyiṉu</l>
 <l>miṉṉuyir naṭuṅkunta ṉiḷamaipuṟaṅ koṭuttē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="2">In [the light of] the lamp that is a fire rubbed by the forest people </l>
 <l corresp="1">on firewood from a dry tree brought by an elephant, </l>
 <l corresp="4">in the fearful front-yard scratched up by female monkeys, </l>

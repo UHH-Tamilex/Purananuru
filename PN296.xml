@@ -23,21 +23,21 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN296-intro">
-      <p type="edition">tiṇai, vākai; tuṟai, ērāṇmullai. veḷḷaimāḷar.
+    <div rend="parallel">
+      <p xml:id="PN296-intro">tiṇai, vākai; tuṟai, ērāṇmullai. veḷḷaimāḷar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN296">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN296">
 <l>vēmpuciṉai yoṭippavuṅ kāñci pāṭavu</l>
 <l>neyyuṭaik kaiya raiyavi pukaippavu</l>
 <l>mellā maṉaiyuṅ kalleṉ ṟaṉavē</l>
 <l>vēntuṭaṉ ṟeṟivāṉ kollō</l>
 <l>neṭituvan taṉṟā ṉeṭuntakai tērē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>As they break Neem branches, sing the Kāñci</l>
 <l>and fumigate with white mustard, their hands oily,</l>
 <l>all the houses are noisy.</l>

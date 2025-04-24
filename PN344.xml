@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN344-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai<gap quantity="18" reason="lost" unit="character"/>aṭai neṭuṅkalviyār
+    <div rend="parallel">
+      <p xml:id="PN344-intro">tiṇaiyum tuṟaiyum avai<gap quantity="18" reason="lost" unit="character"/>aṭai neṭuṅkalviyār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN344">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN344">
 <l>cenne luṇṭa paintōṭṭu maññai</l>
 <l>ceṟivaḷai makaḷi rōppaliṟ paṟanteḻuntu</l>
 <l>tuṟainaṇi marutat tiṟukku mūroṭu</l>
@@ -41,7 +41,7 @@
 <l>kāñcip paṉimuṟi yāraṅ kaṇṇi</l>
 <l>kaṇimē vantava ḷalkulav variyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Will it be one, [namely] giving excellent riches to the full amount</l>
 <l>along with a village, where the peacock with green [feather] bunches that had eaten</l>
 <l>red paddy rises in flight because it is chased by girls</l>

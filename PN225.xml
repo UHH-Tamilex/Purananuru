@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN225-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cōḻaṉ nalaṅkiḷḷiyai ālattūrkiḻār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN225-intro">tiṇaiyum tuṟaiyum avai. cōḻaṉ nalaṅkiḷḷiyai ālattūrkiḻār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN225">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN225">
 <l>talaiyōr nuṅkiṉ ṟīñcēṟu micaiya</l>
 <l>viṭaiyōr paḻattiṉ paiṅkaṉi māntak</l>
 <l>kaṭaiyōr viṭuvāyp piciroṭu cuṭukiḻaṅku nukara</l>
@@ -47,7 +46,7 @@
 <l>ñālaṅ kāvalar kaṭaittalaik</l>
 <l>kālai tōṉṟiṉu nōkō yāṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="6">Listen now about [the fate of] the appearance of what is called ‘capability’, </l>
 <l corresp="5">with an army of eminent spears that destroyed the greatness of kings </l>
 <l corresp="4">after encircling in the order of victory the world where the ground blooms, </l>

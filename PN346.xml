@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN346-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. aṇṭarmakaṉ kuṟuvaḻuti.
+    <div rend="parallel">
+      <p xml:id="PN346-intro">tiṇaiyum tuṟaiyum avai. aṇṭarmakaṉ kuṟuvaḻuti.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN346">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN346">
 <l>piṟa<gap quantity="20" reason="lost" unit="character"/>ḷa pāleṉa maṭuttali</l>
 <l>ṉīṉṟa tāyō vēṇṭā ḷallaḷ</l>
 <l>kalviye ṉeṉṉum vallāṇ ciṟāa</l>
@@ -39,7 +39,7 @@
 <l>pēṇunarp peṟāatu viḷiyum</l>
 <l>puṉṟalaip perumpāḻ ceyumiva ṇalaṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>…………………?</l>
 <l>as for the mother who gave birth, she would not want [that].</l>
 <l>The boy is a strong man who says “what of learning?”</l>

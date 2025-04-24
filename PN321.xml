@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN321-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. uṟaiyūr maruttuvaṉ tāmōtaraṉār.
+    <div rend="parallel">
+      <p xml:id="PN321-intro">tiṇaiyum tuṟaiyum avai. uṟaiyūr maruttuvaṉ tāmōtaraṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN321">
-      <lg type="edition" style="pūṭṭuvil">
+    <div rend="parallel">
+      <lg style="pūṭṭuvil" xml:id="PN321">
 <l>porippuṟap pūḻiṉ pōrval cēvaṉ</l>
 <l>mēntōl kaḷainta tīṅkōḷ veḷḷeṭ</l>
 <l>cuḷakiṭai yuṇaṅkaṟ cevvi koṇṭeṉa</l>
@@ -43,7 +42,7 @@
 <l>vāḷvaṭu viḷaṅkiya ceṉṉic</l>
 <l>ceruveṅ kuruci lōmpu mūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Where, because the cock strong in fighting of the quail with spotted back</l>
 <l>took, on the occasion of [it] drying in the winnow,</l>
 <l>of the white sesame in sweet bunches from which the upper skin had been removed,</l>

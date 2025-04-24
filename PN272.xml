@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN272-intro">
-      <p type="edition">tiṇai, nocci; tuṟai, ceruviṭaivīḻtal. mōcicāttaṉār.
+    <div rend="parallel">
+      <p xml:id="PN272-intro">tiṇai, nocci; tuṟai, ceruviṭaivīḻtal. mōcicāttaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN272">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN272">
 <l>maṇituṇarn taṉṉa mākkura ṉocci</l>
 <l>pōtuviri palmara ṉuḷḷuñ ciṟanta</l>
 <l>kāta ṉaṉmara nīniḻaṟ ṟiciṉē</l>
@@ -40,7 +40,7 @@
 <l>ṉūrppuṟaṅ koṭāa neṭuntakai</l>
 <l>pīṭukeḻu ceṉṉik kiḻamaiyu niṉatē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Nocci with dark [flower] ears, as if sapphires were clustering,</l>
 <l>you beloved good tree that is superior even among many trees </l>
 <l>expanding [their] buds, may you give shade!</l>

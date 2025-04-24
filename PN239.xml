@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN239-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. nampineṭuñceḻinaṉaip pēreyiṉmuṟuvalār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN239-intro">tiṇaiyum tuṟaiyum avai. nampineṭuñceḻinaṉaip pēreyiṉmuṟuvalār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN239">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN239">
 <l>toṭiyuṭaiya tōṇmaṇantaṉaṉ</l>
 <l>kaṭikāviṟ pūccūṭiṉaṉ</l>
 <l>ṟaṇkamaḻuñ cāntunīviṉaṉ</l>
@@ -54,7 +53,7 @@
 <l>ṉiṭuka voṉṟō cuṭuka voṉṟō</l>
 <l>paṭuvaḻip paṭukavip pukaḻveyyōṉ ṟalaiyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">He united with [those whose] shoulders possess armlets. </l>
 <l corresp="2">He wore flowers from the fragrant groves. </l>
 <l corresp="3">He smeared [his chest] with cool fragrant sandal. </l>

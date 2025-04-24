@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN289-intro">
-      <p type="edition"><note xml:lang="en"><term xml:lang="ta">tiṇai</term> and <term xml:lang="ta">tuṟai </term>lost</note> kaḻāttalaiyār.
+    <div rend="parallel">
+      <p xml:id="PN289-intro"><note xml:lang="en"><term xml:lang="ta">tiṇai</term> and <term xml:lang="ta">tuṟai </term>lost</note> kaḻāttalaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN289">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN289">
 <l>īra cevvi yutaviṉa vāyiṉum</l>
 <l>pallerut tuḷḷu nallerutu nōkki</l>
 <l>vīṟuvī ṟāyu muḻavaṉ pōlap</l>
@@ -43,7 +42,7 @@
 <l>pūkkō ḷiṉṟeṉ ṟaṟaiyu</l>
 <l>maṭivāyt taṇṇumai yiḻiciṉaṉ kuralē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Like a ploughman who selects the distinctive characteristics,</l>
 <l>looking for the [one] good bull among all the many bulls,</l>
 <l>even though the [days of] seasonal wetness are [already] helping,</l>

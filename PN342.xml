@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN342-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. aricilkiḻār.
+    <div rend="parallel">
+      <p xml:id="PN342-intro">tiṇaiyum tuṟaiyum avai. aricilkiḻār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN342">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN342">
 <l>kāṉak kākkaik kalicciṟa kēykku</l>
 <l>mayilaik kaṇṇip peruntōṭ kuṟumaka</l>
 <l>ḷēṉōr makaḷko livaḷeṉa vituppuṟ</l>
@@ -47,7 +47,7 @@
 <l>vāṭaka vaikalu muḻakkum</l>
 <l>māṭci yavariva ṭaṉṉai mārē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Oh paragon with a victorious spear who asks from me</l>
 <l>in haste </l>
 <l>“the young woman with large shoulders [and] a Mayilai chaplet</l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN203-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cēramāṉ pāḻalūreṟinta neytalaṅkāṉaliḷañcēṭceṉṉiyai ūṉpotipacuṅkuṭaiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN203-intro">tiṇaiyum tuṟaiyum avai. cēramāṉ pāḻalūreṟinta neytalaṅkāṉaliḷañcēṭceṉṉiyai ūṉpotipacuṅkuṭaiyār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN203">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN203">
 <l>kaḻintatu poḻinteṉa vāṉkaṇ māṟiṉun</l>
 <l>tollatu viḷainteṉa nilamvaḷaṅ karappiṉu</l>
 <l>mellā vuyirkku millāl vāḻkkai</l>
@@ -45,7 +44,7 @@
 <l>pāṇkaṭa ṉiṟukkum vaḷḷiyōy</l>
 <l>pūṇkaṭa ṉentainī yiravalar puravē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">If, because in the past [rain] flew, the clouds changed area, </l>
 <l corresp="2">if because it ripened of old, the soil would hide [its] fertility, </l>
 <l corresp="3">there would be no living for all the beings. </l>

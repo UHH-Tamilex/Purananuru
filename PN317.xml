@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN317-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. vēmpaṟṟūrk kumaraṉār
+    <div rend="parallel">
+      <p xml:id="PN317-intro">tiṇaiyum tuṟaiyum avai. vēmpaṟṟūrk kumaraṉār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN317">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN317">
 <l>veṉvēl<gap quantity="34" reason="lost" unit="character"/>natu</l>
 <l>muṉṟiṟ kiṭanta peruṅkaḷi yāḷaṟ</l>
 <l>kataḷuṇ ṭāyiṉum pāyuṇṭāyiṉum</l>
@@ -39,7 +39,7 @@
 <l><gap quantity="14" reason="lost" unit="character"/>ku memakkum piṟarkkum</l>
 <l>yārkku mīyntu tuyilēṟ piṉaṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>To the highly intoxicated man who lies in the front yard</l>
 <l>give, be it a skin, be it a mat,</l>
 <l>be it whatever, quickly!</l>

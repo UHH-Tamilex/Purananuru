@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN331-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. maturaik kaṇakkāyaṉār
+    <div rend="parallel">
+      <p xml:id="PN331-intro">tiṇaiyum tuṟaiyum avai. maturaik kaṇakkāyaṉār
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN330">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN330">
 <l>vēntuṭait tāṉai muṉaikeṭa neritali</l>
 <l>ṉēntuvāḷ valatta ṉoruva ṉākit</l>
 <l>taṉṉiṟantu vārāmai vilakkaliṟ peruṅkaṭaṟ</l>
@@ -39,7 +39,7 @@
 <l>puraviṟ kāṟṟāc cīṟūrt</l>
 <l>toṉmai cuṭṭiya vaṇmai yōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Because of being crushed, so that the frontier crumbles, by the king’s army, </l>
 <l corresp="2">being the one who has strength in the sword he raises, </l>
 <l>when he resists so that they cannot get past him, is he not </l>

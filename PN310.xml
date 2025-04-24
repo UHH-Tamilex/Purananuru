@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN310-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. poṉmuṭiyār.
+    <div rend="parallel">
+      <p xml:id="PN310-intro">tiṇaiyum tuṟaiyum avai. poṉmuṭiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN310">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN310">
 <l>pālkoṇṭu maṭuppavu muṇṇā ṉākaliṟ</l>
 <l>ceṟāa tōcciya ciṟukō lañciyō</l>
 <l>ṭuyavoṭu varuntu maṉaṉē yiṉiyē</l>
@@ -40,7 +40,7 @@
 <l>māṉuḷai yaṉṉa kuṭumit</l>
 <l>tōṉmicaik kiṭanta pullaṇa lōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>[My] mind suffers in distress</l>
 <l>with him who was afraid of the little stick I aimed without force</l>
 <l>because he would not drink although I fed [him] with milk. Now,</l>

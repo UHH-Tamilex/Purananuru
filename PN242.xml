@@ -23,8 +23,8 @@
 </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN242-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. 
+    <div rend="parallel">
+      <p xml:id="PN242-intro">tiṇaiyum tuṟaiyum avai. 
         <app>
         <lem wit="#C2 #C3">ollaiyūr</lem>
         <rdg wit="#C8">ollaiyūrk</rdg>
@@ -34,18 +34,18 @@
         <rdg wit="#C8">kiḻāṉmakaṉ peruñcāttaṉaik kuṭavāyi</rdg>
         </app><app><lem>ṉallātaṉār</lem><rdg>ṟkīrattaṉār</rdg></app> pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN242">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN242">
 <l>iḷaiyōr cūṭār vaḷaiyōr koyyār</l>
 <l>nalliyāḻ maruppiṉ mella vāṅkip</l>
 <l>pāṇaṉ cūṭāṉ pāṭiṉi yaṇiyā</l>
 <l>ḷāṇmai tōṉṟa vāṭavark kaṭanta</l>
 <l>valvēṟ cāttaṉ māynta piṉṟai</l>
 <l>mullaiyum pūttiyō vollaiyūr nāṭṭē</l></lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">The young men won’t wear [it]. Those with bangles won’t pluck [it]. </l>
 <l corresp="2">Not bending [it] softly around the neck of [his] good lute </l>
 <l corresp="3">the bard won’t wear [it]. Songstresses won’t adorn themselves [with it]. </l>

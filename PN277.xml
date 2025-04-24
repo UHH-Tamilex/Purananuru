@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN277-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, uvaikaik kaluḻcci. pūṅkaṇuttiraiyār.
+    <div rend="parallel">
+      <p xml:id="PN277-intro">tiṇai, tumpai; tuṟai, uvaikaik kaluḻcci. pūṅkaṇuttiraiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN277">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN277">
 <l>mīṉuṇ kokkiṉ ṟūvi yaṉṉa</l>
 <l>vāṉaraik kūntaṉ mutiyōḷ ciṟuvaṉ</l>
 <l>kaḷiṟeṟintu paṭṭaṉa ṉeṉṉu muvakai</l>
@@ -38,7 +38,7 @@
 <l>nōṉkaḻai tuyalvarum vetirattu</l>
 <l>vāṉpeyat tūṅkiya citariṉum palavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The joy, when they said “he fell attacking an elephant bull,</l>
 <l>the son of the old woman with pure white tresses</l>
 <l>like the feathers of a fish-eating egret,</l>

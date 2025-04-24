@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN363-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai<gap quantity="10" reason="lost" unit="character"/>aiyātic ceṟuveṇṭōraiyār.
+    <div rend="parallel">
+      <p xml:id="PN363-intro">tiṇaiyum tuṟaiyum avai<gap quantity="10" reason="lost" unit="character"/>aiyātic ceṟuveṇṭōraiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN363">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN363">
 <l>iruṅkaṭa luṭuttavip peruṅkaṇ mānila</l>
 <l>muṭaiyilai naṭuvaṇat tiṭaipiṟark kiṉṟit</l>
 <l>tāmē yāṇṭa vēmaṅ kāvala</l>
@@ -50,7 +50,7 @@
 <l>ceynnī muṉṉiya viṉaiyē</l>
 <l>munnīr varaippaka muḻutuṭaṉ tuṟantē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">On this big earth of vast area that is encircled by the dark sea, </l>
 <l corresp="3">there are protective guardians who rule themselves </l>
 <l corresp="2">without [leaving] for others [as much] space as is in the middle of a babul leaf, </l>

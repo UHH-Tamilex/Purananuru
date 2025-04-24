@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN378-intro">
-      <p type="edition">tiṇai, atu. tuṟai, iyaṉmoḻi. cōḻaṉ ceruppāḻiyeṟinta iḷañcēṭceṉṉiyai ūṉpotipacuṅkuṭaiyār.
+    <div rend="parallel">
+      <p xml:id="PN378-intro">tiṇai, atu. tuṟai, iyaṉmoḻi. cōḻaṉ ceruppāḻiyeṟinta iḷañcēṭceṉṉiyai ūṉpotipacuṅkuṭaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN378">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN378">
 <l>teṉparatavar miṭalcāya</l>
 <l>vaṭavaṭukar vāḷōṭṭiya</l>
 <l>toṭaiyamai kaṇṇit tiruntuvēṟ ṟaṭakkaik</l>
@@ -56,7 +56,7 @@
 <l>yiruṅkiḷait talaimai yeyti</l>
 <l>yarumpaṭa revva muḻantataṉ ṟalaiyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="9d">  When, </l>
 <l corresp="5">in the palace of the Cōḻa with good garlands [and] toddy, </l>
 <l corresp="4">[his realm] within borders [reachable] by the motion set free when a fast horse is driven, </l>

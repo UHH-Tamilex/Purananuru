@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body> 
-    <div xml:id="PN340-intro">
-    <p type="edition">tiṇaiyum tuṟaiyum avai. a<gap quantity="20" reason="lost" unit="character"/>
+    <div rend="parallel">
+    <p xml:id="PN340-intro">tiṇaiyum tuṟaiyum avai. a<gap quantity="20" reason="lost" unit="character"/>
     </p>
-    <p xml:lang="en" type="translation">  
+    <p xml:lang="en">  
     </p>
    </div> 
-    <div xml:id="PN340">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN340">
 <l>aṇittaḻai nuṭaṅka vōṭi maṇippoṟik</l>
 <l>kuralaṅ kuṉṟi koḷḷu miḷaiyōḷ</l>
 <l>māmakaḷ<gap quantity="48" reason="lost" unit="character"/></l>
@@ -41,7 +41,7 @@
 <l>karantaiyañ ceṟuviṟ peyarkkum</l>
 <l>peruntakai maṉṉarkku varaintirun taṉaṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>“The young one who runs so that [her] decorative leaf [skirt] sways</l>
 <l>[and] who takes Kuṉṟi seeds from the ears with jewel dots,</l>
 <l>the dark girl………………………</l>

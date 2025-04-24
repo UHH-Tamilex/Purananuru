@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN390-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. atiyamāṉeṭumāṉañciyai auvaiyār.
+    <div rend="parallel">
+      <p xml:id="PN390-intro">tiṇaiyum tuṟaiyum avai. atiyamāṉeṭumāṉañciyai auvaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN390">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN390">
 <l>aṟavai neñcat tāyar vaḷaru</l>
 <l>maṟavai neñcat tāyi vāḷa</l>
 <l>rarumpalar cerunti neṭuṅkāṉ malarkamaḻ</l>
@@ -61,7 +61,7 @@
 <l>laṇṇal yāṉai vēnta</l>
 <l>ruṇmaiyō vaṟiyal kāṇpaṟi yalarē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="4">In the front yard that is like … </l>
 <l corresp="3">fragrant of the long-stalked blossoms of the pear-tree with budding blooms, </l>
 <l corresp="2">of Āyivaḷar valorous at heart, </l>

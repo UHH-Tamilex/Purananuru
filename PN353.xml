@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN353-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. kāvirippūm paṭṭiṉattuk kārikkaṇṇaṉār.
+    <div rend="parallel">
+      <p xml:id="PN353-intro">tiṇaiyum tuṟaiyum avai. kāvirippūm paṭṭiṉattuk kārikkaṇṇaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN353">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN353">
 <l>ācil kammiyaṉ mācaṟap puṉainta</l>
 <l>polañcey palkā caṇinta valku</l>
 <l>līkaik kaṇṇi yilaṅkat taiit</l>
@@ -49,7 +49,7 @@
 <l>pañciyuṅ kaḷaiyāp puṇṇa</l>
 <l>rañcutaka vuṭaiyariva ṭaṉṉai mārē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Looking at the grace of her who moves according to Dharma,</l>
 <l>having attached, so that it shines, a golden chaplet,</l>
 <l>[her] hips adorned with many beads made of gold,</l>

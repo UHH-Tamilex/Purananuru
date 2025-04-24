@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN204-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. valvilōriyaik kaṟaitiṉyāṉaiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN204-intro">tiṇaiyum tuṟaiyum avai. valvilōriyaik kaṟaitiṉyāṉaiyār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN204">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN204">
 <l>īyeṉa viratta liḻintaṉ ṟataṉeti</l>
 <l>rīyē ṉeṉṟa lataṉiṉu miḻintaṉṟu</l>
 <l>koḷḷeṉak koṭutta luyarntaṉ ṟataṉetir</l>
@@ -47,7 +46,7 @@
 <l>karuvi vāṉam pōla</l>
 <l>varaiyātu curakkum vaḷḷiyōy niṉṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Begging while saying “give” is lowly. Against that, </l>
 <l corresp="2">saying “I won’t give” is more lowly than that. </l>
 <l corresp="3">Giving while saying “take” is lofty. Against that, </l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN359-intro">
-      <p type="edition">tiṇai, atu; tuṟai, peruṅkāñci. antuvaṉkīraṉaik kāvaṭṭaṉār.
+    <div rend="parallel">
+      <p xml:id="PN359-intro">tiṇai, atu; tuṟai, peruṅkāñci. antuvaṉkīraṉaik kāvaṭṭaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN359">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN359">
 <l>pāṟupaṭap paṟainta paṉmāṟu maruṅkiṉ</l>
 <l>vēṟupaṭu kurala vevvāy kūkaiyoṭu</l>
 <l>piṇantiṉ kuṟunari niṇantikaḻ palla</l>
@@ -50,7 +50,7 @@
 <l>vāṇṭunī peyarnta piṉṉu</l>
 <l>mīṇṭunīṭu viḷaṅkunī yeytiya pukaḻē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Even those who took land approached the cremation ground,</l>
 <l>where on sides with many changes/hostilities, laid waste when kites descend,</l>
 <l>along with hot-mouthed owls with voices that become different,</l>

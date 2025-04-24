@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN368-intro">
-      <p type="edition">tiṇai, vākai tuṟai, maṟakkaḷavaḻi. cēramāṉ kuṭakkōneṭuñcēralātaṉ cōḻaṉvēṟpaḵṟaṭakkaipperunaṟkiḷḷiyoṭu pōrppuṟattup porutuvīḻantāraṅkaḻattaṉṉatāka uyirpōkātu kiṭantāṉaik kaḻāttalaiyār.
+    <div rend="parallel">
+      <p xml:id="PN368-intro">tiṇai, vākai tuṟai, maṟakkaḷavaḻi. cēramāṉ kuṭakkōneṭuñcēralātaṉ cōḻaṉvēṟpaḵṟaṭakkaipperunaṟkiḷḷiyoṭu pōrppuṟattup porutuvīḻantāraṅkaḻattaṉṉatāka uyirpōkātu kiṭantāṉaik kaḻāttalaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN368">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN368">
 <l>kaḷiṟu mukantu peyarkuva meṉiṉē</l>
 <l>yoḷiṟumaḻai tavirkkuṅ  kuṉṟam pōlak</l>
 <l>kaimmā vellāṅ kaṇaiyiṭat tolaintaṉa</l>
@@ -50,7 +50,7 @@
 <l>muḻavumaru ṟirumaṇi miṭaintaniṉ</l>
 <l>ṉaravuṟa ḻāra mukakkuva meṉavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">If we were to come back after bringing in elephant bulls, </l>
 <l corresp="2">like hills that retain bright clouds </l>
 <l corresp="3">all [those] hand animals would be lost when arrows were put [into them]. </l>

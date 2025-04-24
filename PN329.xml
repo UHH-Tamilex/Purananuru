@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN329-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. maturai aṟuvai vāṇikaṉ iḷavēṭṭaṉār.
+    <div rend="parallel">
+      <p xml:id="PN329-intro">tiṇaiyum tuṟaiyum avai. maturai aṟuvai vāṇikaṉ iḷavēṭṭaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN329">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN329">
 <l>illaṭu kaḷḷiṉ cilkuṭic cīṟūrp</l>
 <l>puṭainaṭu kalli ṉāṭpali yūṭṭi</l>
 <l>naṉṉī rāṭṭi neynnaṟaik koḷīi</l>
@@ -41,7 +41,7 @@
 <l>karukā tīyum vaṇmai</l>
 <l>yuraicā ṉeṭuntakai yōmpu mūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Even though it is a seat on the difficult frontier,</l>
 <l>where the streets all are fragrant with dark smoke in a cloud</l>
 <l>after kindling the fragrance with ghee, having splashed good water,</l>

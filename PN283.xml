@@ -23,10 +23,10 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN283-intro">
-      <p type="edition">tiṇai, tumpai; tuṟai, pāṭāṉpāṭṭu aṇaneṭuṅka<gap quantity="7" reason="lost" unit="character"/>yār.
+    <div rend="parallel">
+      <p xml:id="PN283-intro">tiṇai, tumpai; tuṟai, pāṭāṉpāṭṭu aṇaneṭuṅka<gap quantity="7" reason="lost" unit="character"/>yār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
     <div xml:id="PN283">

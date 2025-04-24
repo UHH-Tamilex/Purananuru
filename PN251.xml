@@ -23,17 +23,17 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN251-kilavi">
-      <p type="edition">tiṇai, vākai; tuṟai, tāpatavākai<gap quantity="4" reason="lost" unit="character"/>māṟpittiyār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN251-kilavi">tiṇai, vākai; tuṟai, tāpatavākai<gap quantity="4" reason="lost" unit="character"/>māṟpittiyār pāṭiyatu.
        <app>
        <lem wit="">pāṭiyatu</lem>
        <rdg wit="#C2 #C3 #C8">tiṇai yatu</rdg>
        </app>
       </p>
-      <p type="translation" xml:lang="en"/>
+      <p xml:lang="en"/>
     </div>
-    <div xml:id="PN251">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN251">
 <l>ōvat taṉṉa viṭaṉuṭai varaippiṟ</l>
 <l>pāvai yaṉṉa kuṟuntoṭi makaḷi</l>
 <l>riḻainilai nekiḻtta maḷḷaṟ kaṇṭikuṅ</l>
@@ -42,7 +42,7 @@
 <l>kaṭunteṟaṟ centī vēṭṭup</l>
 <l>puṟantāḻ puricaṭai pularttu vōṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="3"> Let us see the warrior who made loose from [their] positions the jewels </l>
 <l corresp="2">  of women with little bangles who are like dolls, </l>
 <l corresp="1">  in houses of vast perimeter, like pictures, </l>

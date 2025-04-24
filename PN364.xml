@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN364-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉaik kūkaikkōḻiyār.
+    <div rend="parallel">
+      <p xml:id="PN364-intro">tiṇaiyum tuṟaiyum avai. avaṉaik kūkaikkōḻiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN364">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN364">
 <l>vāṭā mālai pāṭiṉi yaṇiya</l>
 <l>pāṇaṉ ceṉṉik kēṇi pūvā</l>
 <l>verimaru ṭāmaraip perumalar tayaṅka</l>
@@ -45,7 +45,7 @@
 <l>kūkai kōḻi yāṉāt</l>
 <l>tāḻiya peruṅkā ṭeytiya ñāṉṟē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>While unfading garlands adorn the songstresses (1),</l>
 <l>while big blossoms of flame-like lotus</l>
 <l>that did not bloom in wells sway on the heads of the bards (2f.)</l>

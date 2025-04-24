@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN361-intro">
-      <p type="edition"><gap quantity="35" reason="lost" unit="character"/>ṉār.
+    <div rend="parallel">
+      <p xml:id="PN361-intro"><gap quantity="35" reason="lost" unit="character"/>ṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN361">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN361">
 <l>kāreti rurumi ṉuraṟik kalleṉa</l>
 <l>vāruyirk kalamaru mārāk kūṟṟa</l>
 <l>niṉvara vañcalaṉ mātō naṉpala</l>
@@ -54,7 +53,7 @@
 <l>ṉillā vulakattu<gap quantity="9" reason="lost" unit="character"/> mainī</l>
 <l>colla vēṇṭā<gap quantity="10" reason="lost" unit="character"/> muntaṟinta</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Insatiable Death who roars like the thunder facing the rainy season,</l>
 <l>noisily, [and] is upsetting to [people’s] precious lives, (1f.)</l>
 <l corresp="3a-c">won’t he be afraid of your coming, </l>

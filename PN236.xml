@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN236-intro">
-      <p type="edition">tiṇai, atu. tuṟai, kaiyaṟunilai. vēḷpārituñciyavaḻi makaḷiraip pārppārppaṭuttu vaṭakkirunta kapilar pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN236-intro">tiṇai, atu. tuṟai, kaiyaṟunilai. vēḷpārituñciyavaḻi makaḷiraip pārppārppaṭuttu vaṭakkirunta kapilar pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN236">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN236">
 <l>kalaiyuṇak kiḻinta muḻavumaruḷ perumpaḻañ</l>
 <l>cilaikeḻu kuṟavark kalkumicai vāku</l>
 <l>malaikeḻu nāṭa māvaṇ pāri</l>
@@ -45,7 +44,7 @@
 <l>yiṭaiyil kāṭci niṉṉō</l>
 <l>ṭuṭaṉuṟai vākkuka vuyarnta pālē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="3ab">O man from a mountaineous land, </l>
 <l corresp="1">where the drum-like big fruit that was torn open by a monkey to eat </l>
 <l corresp="2">becomes lasting food for the bow-bearing hill people, </l>

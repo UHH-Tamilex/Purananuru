@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN356-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. tāyaṅkaṇṇaṉāra.
+    <div rend="parallel">
+      <p xml:id="PN356-intro">tiṇaiyum tuṟaiyum avai. tāyaṅkaṇṇaṉāra.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN356">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN356">
 <l>kaḷari parantu kaḷḷi pōkip</l>
 <l>pakaluṅ kūvuṅ kūkaiyoṭu piṟaḻpal</l>
 <l>līma viḷakkiṟ pēey makaḷirō</l>
@@ -41,7 +41,7 @@
 <l>maṉpataik kellān tāṉāyt</l>
 <l>taṉpuṟaṅ kāṇpōrk kāṇpaṟi yātē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Fear has come to this old cremation ground engulfed by clouds [of smoke],</l>
 <l>with the Pēy women by the lights of the many </l>
 <l>irregular pyres, with owls that caw even by day,</l>

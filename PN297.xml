@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN297-intro">
-      <p type="edition">tiṇai, veṭci; tuṟai, uṇṭāṭṭu. <note xml:lang="en">author lost</note>
+    <div rend="parallel">
+      <p xml:id="PN297-intro">tiṇai, veṭci; tuṟai, uṇṭāṭṭu. <note xml:lang="en">author lost</note>
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN297">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN297">
 <l>perunīr mēva ṟaṇṇaṭai yerumai</l>
 <l>yirumarup puṟaḻu neṭumā ṇeṟṟiṉ</l>
 <l>paimpaya ṟutirtta kōtiṉ kōlaṇaik</l>
@@ -42,7 +42,7 @@
 <l>neṭuvēl pāynta mārpiṉ</l>
 <l>maṭalvaṉ pōntaiyiṉ niṟku mōrkkē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The little village where wild cows sleep that possess calves</l>
 <l>near the stalks of waste shed from the fresh crop</l>
 <l>of long glorious kernels that resemble the dark horns</l>

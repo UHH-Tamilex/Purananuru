@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN316-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. maturaikkaḷḷiṟkaṭaiyattaṉ
+    <div rend="parallel">
+      <p xml:id="PN316-intro">tiṇaiyum tuṟaiyum avai. maturaikkaḷḷiṟkaṭaiyattaṉ
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN316">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN316">
 <l>kaḷḷiṉ vāḻttik kaḷḷiṉ vāḻttik</l>
 <l>kāṭṭoṭu miṭainta cīyā muṉṟi</l>
 <l>ṉāṭceruk kaṉantart tuñcu vōṉē</l>
@@ -45,7 +44,7 @@
 <l>ceṉṟuvāy civantumēl varuka</l>
 <l>ciṟukaṇ yāṉai vēntuviḻu muṟavē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Praising the toddy, praising the toddy,</l>
 <l>he is the one sleeping in stupor from the day's pressings</l>
 <l>in the unswept front yard set closely to the wilderness.</l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN299-intro">
-      <p type="edition">tiṇai, nocci; tuṟai, kutiraimaṟam. poṉṟaṭiyār.
+    <div rend="parallel">
+      <p xml:id="PN299-intro">tiṇai, nocci; tuṟai, kutiraimaṟam. poṉṟaṭiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN299">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN299">
 <l>parutti vēlic cīṟūr maṉṉa</l>
 <l>ṉuḻuttata ruṇṭa vōynaṭaip puravi</l>
 <l>kaṭaṉmaṇṭu tōṇiyiṟ paṭaimukam pōḻa</l>
@@ -39,7 +39,7 @@
 <l>yaṇaṅkuṭai murukaṉ kōṭṭattuk</l>
 <l>kalantoṭā makaḷiri ṉikaḻntuniṉ ṟavvē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The king of the little village fenced with cotton,</l>
 <l>while [his] horses with tired gait that had eaten blackgram husks</l>
 <l>cut into the army front like boats thrusting into the sea,</l>

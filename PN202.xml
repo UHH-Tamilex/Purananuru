@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN202-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. pārimakaḷirai iraṅkōvēḷuḻaikkoṇṭuceṉṟa kapilar pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN202-intro">tiṇaiyum tuṟaiyum avai. pārimakaḷirai iraṅkōvēḷuḻaikkoṇṭuceṉṟa kapilar pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN202">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN202">
 <l>veṭcik kāṉattu vēṭṭuva rāṭṭak</l>
 <l>kaṭci kāṇāk kaṭamā nallēṟu</l>
 <l>kaṭaṟumaṇi kiḷarac citaṟupoṉ miḷirak</l>
@@ -54,7 +53,7 @@
 <l>lirumpuli varippuṟaṅ kaṭukkum</l>
 <l>peruṅkal vaippi ṉāṭukiḻa vōyē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="4">With gardens on the tall mountain, where races fast </l>
 <l corresp="2">the good bull of the wild cow that does not see a refuge </l>
 <l corresp="1">when hunters chase [it] in the Veṭci forest, </l>

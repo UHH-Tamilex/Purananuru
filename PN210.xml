@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN210-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cēramāṉ kuṭakkōccēralirumpoṟai pariciṉīṭṭittāṉaip peruṅkuṉṟūrkiḻār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN210-intro">tiṇaiyum tuṟaiyum avai. cēramāṉ kuṭakkōccēralirumpoṟai pariciṉīṭṭittāṉaip peruṅkuṉṟūrkiḻār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
   </div>
-    <div xml:id="PN210">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN210">
 <l>maṉpatai kākkuniṉ puraimai nōkkā</l>
 <l>taṉpukaṇ māṟiya vaṟaṉil kāṭciyoṭu</l>
 <l>numma ṉōrumaṟ ṟiṉaiya rāyi</l>
@@ -48,7 +47,7 @@
 <l>raruṅkaṭi muṉaiyaraṇ pōlap</l>
 <l>peruṅkai yaṟṟaveṉ pulampumun tuṟuttē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">Not looking at your greatness that guards humanity, </l>
 <l corresp="2">with virtueless sight that has changed from love, </l>
 <l corresp="3">if the likes of you are like this </l>

@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN215-intro">
-      <p type="edition">tiṇai, pāṭāṇṭiṇai. tuṟai, iyaṉmoḻi. kōpperuñcōḻaṉ picirāntaiyār vārāreṉṟa cāṉṟōrk kavar varuvāreṉṟu colliyatu.
+    <div rend="parallel">
+      <p xml:id="PN215-intro">tiṇai, pāṭāṇṭiṇai. tuṟai, iyaṉmoḻi. kōpperuñcōḻaṉ picirāntaiyār vārāreṉṟa cāṉṟōrk kavar varuvāreṉṟu colliyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN215">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN215">
 <l>kavaikkatir varaki ṉavaippuṟu vākka</l>
 <l>ṟāteru maṟukiṟ pōtoṭu potuḷiya</l>
 <l>vēḷai veṇpū veṇṭayir koḷīi</l>
@@ -42,7 +41,7 @@
 <l>celvak kālai niṟpiṉu</l>
 <l>mallaṟ kālai nillalaṉ maṉṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="6">Even in the good land of the one from the Southern heights, </l>
 <l corresp="5">where those who pluck field beans feed to satiation </l>
 <l corresp="4">on the sweet-sour food that was cooked by a cowherd woman </l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN301-intro">
-    <p type="edition">tiṇaiyum tuṟaiyum avai. āvūrmūlaṅkiḻār.
+    <div rend="parallel">
+    <p xml:id="PN301-intro">tiṇaiyum tuṟaiyum avai. āvūrmūlaṅkiḻār.
     </p>
-    <p xml:lang="en" type="translation">  
+    <p xml:lang="en">  
     </p>
   </div>
-    <div xml:id="PN301">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN301">
 <l>palcāṉ ṟīrē palcāṉ ṟīrē</l>
 <l>kumari makaḷir kūntal puraiya</l>
 <l>vamari ṉiṭṭa varumuḷ vēlik</l>
@@ -48,7 +48,7 @@
 <l>vēntūr yāṉaik kalla</l>
 <l>tēntuvaṉ pōlāṉṟa ṉilaṅkilai vēlē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="1">You who deserve much [praise]! You who deserve much [praise]!</l>
 <l>In the noisy camp with a fence of difficult thorns</l>
 <l>put because of the battle, resembling the tresses</l>

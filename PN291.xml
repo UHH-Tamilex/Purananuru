@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN291-intro">
-      <p type="edition">tiṇai, atu; tuṟai, vēttiyal. neṭuṅkaḻuttup paraṇar.
+    <div rend="parallel">
+      <p xml:id="PN291-intro">tiṇai, atu; tuṟai, vēttiyal. neṭuṅkaḻuttup paraṇar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN291">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN291">
 <l>ciṟāaar tuṭiyar pāṭuvaṉ makāaar</l>
 <l>tūveḷ ḷaṟuvai māyōṟ kuṟuki</l>
 <l>yirumpuṭ pūca lōmpumiṉ yāṉum</l>
@@ -41,7 +40,7 @@
 <l>maṇimaruṇ mālai cūṭṭi yavaṉṟalai</l>
 <l>orukāḻ mālai tāṉmalain taṉaṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Boys, drummers, folks capable of singing,</l>
 <l>go near the dark man with a pure white cloth</l>
 <l>and protect [him] from the clamour of the dark birds. I too</l>

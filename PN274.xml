@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN274-intro">
-      <p type="edition">tiṇai, atu; tuṟai, erumaimaṟam. ulōccaṉār.
+    <div rend="parallel">
+      <p xml:id="PN274-intro">tiṇai, atu; tuṟai, erumaimaṟam. ulōccaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="Pn274">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Pn274">
 <l>nīlak kaccaip pūvā rāṭaip</l>
 <l>pīlik kaṇṇip peruntakai maṟavaṉ</l>
 <l>mēlvaruṅ kaḷiṟṟoṭu vēṟuran tiṉiyē</l>
@@ -39,7 +39,7 @@
 <l>kaiyiṉ vāṅkit taḻīi</l>
 <l>moympi ṉūkki meykkoṇ ṭaṉaṉē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The bold man, a paragon with a blue belt,</l>
 <l>a garment full of flowers [and] a peacock feather chaplet,</l>
 <l>after driving [his] spear against the elephant bull coming up against [him],</l>

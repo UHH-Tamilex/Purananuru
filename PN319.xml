@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN319-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. ālaṅkuṭi vaṅkaṉār.
+    <div rend="parallel">
+      <p xml:id="PN319-intro">tiṇaiyum tuṟaiyum avai. ālaṅkuṭi vaṅkaṉār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN319">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN319">
 <l>pūvaṟ paṭuviṟ kūvaṟ ṟōṇṭiya</l>
 <l>ceṅkaṭ ciṉṉīrpeyta cīṟil</l>
 <l>muṉṟi lirunta mutuvāyc cāṭi</l>
@@ -48,7 +47,7 @@
 <l>pāṭiṉi mālai yaṇiya</l>
 <l>vāṭāt tāmarai cūṭṭuva ṉiṉakkē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>The jar with a frayed opening that was in the front yard</l>
 <l>of the little house into which a little red-soiled water had been poured</l>
 <l>when a hollow had been made in the well of red soil,</l>

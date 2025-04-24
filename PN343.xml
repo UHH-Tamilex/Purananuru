@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN343-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. paraṇar.
+    <div rend="parallel">
+      <p xml:id="PN343-intro">tiṇaiyum tuṟaiyum avai. paraṇar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN343">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN343">
 <l>mīṉoṭuttu neṟkuvaii</l>
 <l>micaiyampiyiṉ maṉaimaṟukkuntu</l>
 <l>maṉaikkuvaiiya kaṟimūṭaiyāṟ</l>
@@ -49,7 +49,7 @@
 <l>tiṭaimatiṟ cēkkum puricaip</l>
 <l>paṭaimayaṅ kāriṭai neṭuna lūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Like Mucuṟi with drums [and] the thundering ocean</l>
 <l>of Kuṭṭuvaṉ with a golden garland, [his] toddy a flood,</l>
 <l>where, have bartered fish [and] heaped paddy,</l>

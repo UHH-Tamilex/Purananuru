@@ -23,12 +23,12 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN244">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN244">
 <l><supplied>pā</supplied>ṇar ceṉṉiyum vaṇṭuceṉ ṟūtā</l>
 <l>viṟaliyar muṉkaiyun toṭiyiṟ poliyā</l>
 <l>viravaṉ mākkaḷu<gap quantity="28" reason="lost" unit="character"/></l></lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>From the bards’ heads the bees go [and] don’t gorge themselves,</l>
 <l>the forearms of the dancing girls don’t flourish with bracelets,</l>
 <l>and the mendicant people……………..</l>

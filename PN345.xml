@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN345-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. avaṉai avar.
+    <div rend="parallel">
+      <p xml:id="PN345-intro">tiṇaiyum tuṟaiyum avai. avaṉai avar.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div> 
-    <div xml:id="PN345">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN345">
 <l>kaḷiṟaṇaippak kalaṅkiṉa kāa</l>
 <l>tērōṭat tukaḷkeḻumiṉa teruvu</l>
 <l>māmaṟukaliṉ mayakkuṟṟaṉa vaḻi</l>
@@ -52,7 +52,7 @@
 <l>veṉṉā vatuko ṟāṉē</l>
 <l>paṉṉal vēliyip paṇainnal lūrē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>When the elephant bulls were tied, the groves were stirred up,</l>
 <l>when the chariots ran, the streets were full of dust,</l>
 <l>by the horses’ turning about, the roads got confused,</l>

@@ -23,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN290-intro">
-      <p type="edition">tiṇai, karantai; tuṟai, kuṭinilaiyuraittal. oḷavaiyār.
+    <div rend="parallel">
+      <p xml:id="PN290-intro">tiṇai, karantai; tuṟai, kuṭinilaiyuraittal. oḷavaiyār.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>  
-    <div xml:id="PN290">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN290">
 <l>ivaṟkīt tuṇmati kaḷḷē ciṉappō</l>
 <l>riṉakkaḷiṟ ṟiyāṉai yiyaṟērk kuruci</l>
 <l>ṉuntai tantaik kivaṉṟantai tantai</l>
@@ -40,7 +40,7 @@
 <l>muṟaippuḻi yōlai pōla</l>
 <l>maṟaikkuvaṉ perumaniṟ kuṟittuvaru vēlē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>Give toddy to this one [and] drink [yourself], oh lord</l>
 <l>with an advancing chariot [and] male elephants from the angrily waring group! </l>
 <l>For the sake of your father’s father his father’s father,</l>

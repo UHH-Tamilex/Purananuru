@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,14 +23,14 @@
   </teiHeader>
 <text xml:lang="ta">
   <body>
-    <div xml:id="PN224-intro">
-      <p type="edition">tiṇaiyum tuṟaiyum avai. cōḻaṉ karikāṟperuvaḷattāṉaik karuṅkuḻalātaṉār pāṭiyatu.
+    <div rend="parallel">
+      <p xml:id="PN224-intro">tiṇaiyum tuṟaiyum avai. cōḻaṉ karikāṟperuvaḷattāṉaik karuṅkuḻalātaṉār pāṭiyatu.
       </p>
-      <p xml:lang="en" type="translation">  
+      <p xml:lang="en">  
       </p>
     </div>
-    <div xml:id="PN224">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="PN224">
 <l>aruppam pēṇā tamarkaṭan tatūun</l>
 <l>tuṇaipuṇa rāyamoṭu tacumpuṭaṉ ṟolaicci</l>
 <l>yirumpā ṇokkaṟ kaṭumpupuran tatūu</l>
@@ -50,7 +49,7 @@
 <l>koytukaṭ ṭaḻitta vēṅkaiyiṉ</l>
 <l>melliyaṉ makaḷiru miḻaikaḷain taṉarē.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l corresp="10ab">He was one indeed who knew </l>
 <l corresp="1">of winning battles, not heeding fortresses, </l>
 <l corresp="2">of destroying pots together with the united group of companions, </l>
