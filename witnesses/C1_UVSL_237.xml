@@ -780,7 +780,7 @@ In part badly worm eaten  and with some broken margins.</condition></supportDesc
          <l>கடும்பரிய மாக்கடவின் </l>
          <l>நெடுந்தெ<space quantity="11" unit="character"/>வழங்கின </l>
          <l>னோங்கிய<pb facs="89" n="326r" /><lb n="1" /> களிறூர்ந்தனன் </l>
-         <l>றீஞ்செறித் தசும்பு‡‡‡‡ச்சினன் </l>
+         <l>றீஞ்செறித் தசும்பு<gap reason="lost" quantity="4" unit="character"/>ச்சினன் </l>
          <l>பானுவப்பப் பசிதீர்த்தனன் </l>
          <l><gap reason="lost" quantity="1" unit="character"/>யக்குடைய மொழிவிடுத்தனனாச் </l>
          <l>செய்ய வெல்லாஞ் செய்தன னாகலி </l>
@@ -791,10 +791,73 @@ In part badly worm eaten  and with some broken margins.</condition></supportDesc
          </p>
          
          <lg xml:id="PN240">
-         
+         <l><pb facs="89" n="326r" /><lb n="2" />ஆடுநடைப் புரவி<lb n="3" />யுங் களிறுந் தேரும் </l>
+         <l>வாடா யாணர் நாடு மூரும் </l>
+         <l>பாடுநர்க் கருகா வாயஅ ண்டிரன் </l>
+         <l>கோடேந் தல்குற் குறுந்தொடி மகளிரொடு </l>
+         <l>கால லென்னுங் கண்ணிலி யுய்ப்ப </l>
+         <l>மேலோ<lb n="4" /> ருலக மெய்தின னெனவே </l>
+         <l>பொத்த வறையுட் போழ்வாய்க் கூகை </l>
+         <l>சுட்டுக் குவியெனச் செத்தோர்ப் பயிரு </l>
+         <l>கள்ளியம் பறந்தலை யொருசிறை யல்கி </l>
+         <l>யொள்ளெரி<lb n="5" /> நைய்ய வுடம்பு ம<gap reason="lost" quantity="2" unit="character"/>ந்தனனெனப் </l>
+         <l>புல்லெனக் கண்ணர் புரவலர்க் காணாது </l>
+         <l>கல்லென் சுற்றமொடு கையழிந்து புலவர் </l>
+         <l>வாடிய பசிய ராகிப்பிறர் </l>
+         <l>நாடுபடு<lb n="6" /> செலவின ராயின ரினியே</l>
          </lg>
-         <p xml:id="PN240-intro">
+         <p xml:id="PN240-intro"><gap reason="lost" quantity="1" unit="character"/>ய்க் கு<gap reason="lost" quantity="1" unit="character"/>டுவன் கீரனார்-௨௪௧-
          </p>
-         </body>
+                  
+         <lg xml:id="PN241">
+         </lg>
+         <p xml:id="PN241-intro">
+         </p>
+      
+         <lg xml:id="PN242">
+         </lg>
+         <p xml:id="PN242-intro">
+         </p>
+
+         <lg xml:id="PN243">
+         </lg>
+         <p xml:id="PN243-intro">
+         </p>
+
+         <lg xml:id="PN244">
+         </lg>
+         <p xml:id="PN244-intro">
+         </p>
+
+         <lg xml:id="PN245">
+         </lg>
+         <p xml:id="PN245-intro">
+         </p>
+
+         <lg xml:id="PN246">
+         </lg>
+         <p xml:id="PN246-intro">
+         </p>
+
+         <lg xml:id="PN247">
+         </lg>
+         <p xml:id="PN247-intro">
+         </p>
+
+         <lg xml:id="PN248">
+         </lg>
+         <p xml:id="PN248-intro">
+         </p>
+
+         <lg xml:id="PN249">
+         </lg>
+         <p xml:id="PN249-intro">
+         </p>
+
+         <lg xml:id="PN250">
+         </lg>
+         <p xml:id="PN250-intro">
+         </p>
+      </body>
    </text>
 </TEI>
