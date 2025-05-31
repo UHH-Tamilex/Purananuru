@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -54,7 +55,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN272">
-<interp type="alignment" select="0">23ML22MG15ML6MR12MG15ML41MG13MG20MG53MG2MR5M2G2M,241MG</interp>
+<interp type="alignment" select="0">23ML22MG15ML6MR2MG8MG15ML41MG13MG20MG53MG2MR5M2G2M,240MG</interp>
 <entry>
 <form>maṇi</form>
 <def>sapphire</def>
@@ -110,6 +111,7 @@
 <entry>
 <form>pal</form>
 <def>many</def>
+<form type="sandhi">paṉ</form>
 <gramGrp>
   <gram type="role">pronoun</gram>
 </gramGrp>
@@ -163,19 +165,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nī</form>
+<form>nī-maṟṟiciṉ-ē</form>
 <def>you</def>
+<form type="simple">nī-maṟṟiciṉ</form>
+<form type="sandhi">nīmaṟṟiciṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>niḻaṟṟiciṉ-ē</form>
-<def>may give shade</def>
-<form type="simple">niḻaṟṟiciṉ</form>
-<gramGrp>
-  <gram type="role">optative</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -265,7 +261,6 @@
 <form>kiṭatti</form>
 <def>lie-you</def>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
