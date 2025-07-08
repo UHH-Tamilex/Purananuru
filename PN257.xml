@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -217,7 +218,7 @@
 </entry>
 <entry>
 <form>tāḻ</form>
-<def>hang-down</def>
+<def>come-down</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>

@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,7 +35,7 @@
 <l>īṉṟupuṟan taruta leṉṟalaik kaṭaṉē</l>
 <l>cāṉṟō ṉākkuta ṟantaikkuk kaṭaṉē</l>
 <l>vēlvaṭittuk koṭuttal kollaṟkuk kaṭaṉē</l>
-<l>taṇṇaṭai nalkal vēntaṟkuk kaṭaṉē</l>
+<l>naṉṉaṭai nalkal vēntaṟkuk kaṭaṉē</l>
 <l>yoḷiṟuvā ḷaruñcama murukkik</l>
 <l>kaḷiṟeṟintu peyartal kāḷaikkuk kaṭaṉē.</l>
 </lg>
@@ -42,7 +43,7 @@
 <l>Bringing forth [and] protecting [children] is the duty upon me. </l>
 <l>Making [them] into worthy men is the father’s duty.</l>
 <l>Forming spears [and] giving [them] is the smith’s duty.</l>
-<l>Granting villages is the king’s duty.</l>
+<l>Granting [gifts for] good conduct is the king’s duty.</l>
 <l>Crushing [enemies] in difficult battle with shining swords</l>
 <l>[and] coming back after attacking elephant bulls is the young man’s duty.</l>
 </lg>
@@ -123,9 +124,20 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>naṉṉaṭai</form>
-<def>village</def>
-<form type="sandhi">taṇṇaṭai</form>
+<form>nal</form>
+<def>good</def>
+<form type="sandhi">naṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭai</form>
+<def>condict</def>
+<form type="sandhi">ṉaṭai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>nalkal</form>

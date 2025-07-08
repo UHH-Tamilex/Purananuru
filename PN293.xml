@@ -31,7 +31,7 @@
     </div>  
     <div rend="parallel">
       <lg xml:id="PN293">
-<l>niṟampaṭaik kolkā yāṉai mēlōṉ</l>
+<l>niṟappuṭai kolaḷai yāṉai mēlōṉ</l>
 <l>kuṟumpark keṟiyu mēva ṟaṇṇumai</l>
 <l>nāṇuṭai mākkaṭ kiraṅku māyi</l>
 <l>ṉemmiṉum pēreḻi liḻantu viṉaiyeṉap</l>
@@ -41,7 +41,7 @@
 <lg xml:lang="en">
 <l>When the Taṇṇumai drum sounds for the people ashamed [of showing weakness], </l>
 <l>with the command to attack for those in the stronghold </l>
-<l>of him on the elephant that does not yield to the weapon in [its] vital spot,</l>
+<l>of him on the elephant with a deadly hole on the side of [its] vital spot,</l>
 <l>having lost [her] grace [once] greater than our’s, will she enter, </l>
 <l>as [her] work, the house of another?</l>
 <l>Pitiable she, woman with a price on flowers. </l>
@@ -52,25 +52,31 @@
 <standOff type="wordsplit" corresp="#PN293">
 <interp type="alignment" select="0">36MG10ML21MG16MG42MG12ML2MG12M2G2M,161MG</interp>
 <entry>
-<form>niṟam</form>
+<form>niṟam<c type="geminated">k</c></form>
 <def>vital spot</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>paṭai<c type="geminated">k</c></form>
-<def>weapon</def>
+<form>puṭai</form>
+<def>side</def>
 <gramGrp>
-  <gram type="role">dative</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kolkā</form>
-<def>weaken-not</def>
+<form>kol</form>
+<def>kill</def>
 <gramGrp>
-  <gram type="role">negative</gram>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aḷai</form>
+<def>hole</def>
+<gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -225,7 +231,7 @@
 <form type="simple">pukuvaḷ</form>
 <gramGrp>
   <gram type="role">feminine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">kollō</m></gramGrp>
 </entry>
