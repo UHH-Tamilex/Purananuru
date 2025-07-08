@@ -13,15 +13,15 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Tiruvāvaṭutuṟai Ātīṉam, Caracuvati Makāl Library and Research Centre</orgName>
+                     <orgName>U.  V. Cāminātaiyar Library, Ceṉṉai</orgName>
                   </repository>
-                  <idno type="shelfmark">TAM 76</idno>
-                  <idno type="alternate"><idno>KV-107</idno></idno>
+                  <idno type="shelfmark">UVSL 940</idno>
+                  <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary> A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript  with commentary</summary>
+                  <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript from the UVSL</summary>
                   
-               <msItem xml:id="TT" defective="false" class="#cankam"><title>Puṟanāṉūṟu</title></msItem></msContents>
+               <msItem xml:id="C3" defective="true" class="#cankam"><title xml:lang="ta"> Puṟanāṉūṟu  </title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -51,11 +51,11 @@
                               
                               
                            </dimensions>
-                        </extent><collation><desc xml:id="TT"/></collation></supportDesc>
+                        </extent></supportDesc>
                      <layoutDesc>
                         
-                     </layoutDesc>
-                  </objectDesc><handDesc><handNote script="tamil"/></handDesc><typeDesc/><additions>
+                     <layout>Scattered sequence?</layout></layoutDesc>
+                  </objectDesc><handDesc/><additions>
                   </additions><bindingDesc>
                      <binding>
                         
@@ -80,7 +80,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Tamil lexicon.</p></encodingDesc>
+      <encodingDesc><p>Tamil lexicon</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
