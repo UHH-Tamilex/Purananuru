@@ -16,12 +16,12 @@
                      <orgName>U.  V. Cāminātaiyar Library, Ceṉṉai</orgName>
                   </repository>
                   <idno type="shelfmark">UVSL 440</idno>
-                  <idno type="alternate"><idno/></idno>
+                  <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
                   <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript  <emph rend="bold">KV-160 + 150end–197 + 9–10 </emph>  from the UVSL with commentary</summary>
                   
-               <msItem xml:id="C4" defective="false" class="#cankam"><title>Puṟanāṉūṟu</title></msItem></msContents>
+               <msItem xml:id="C4" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
