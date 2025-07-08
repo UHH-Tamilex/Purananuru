@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,10 +16,10 @@
                      <orgName>Tiruvāvaṭutuṟai Ātīṉam, Caracuvati Makāl Library and Research Centre</orgName>
                   </repository>
                   <idno type="shelfmark">TAM 76</idno>
-                  <idno type="alternate"><idno>KV-107</idno></idno>
+                  <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary> A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript  with commentary</summary>
+                  <summary> A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript TAM 76- KV 107 with commentary</summary>
                   
                <msItem xml:id="TT" defective="false" class="#cankam"><title>Puṟanāṉūṟu</title></msItem></msContents>
                <physDesc>
