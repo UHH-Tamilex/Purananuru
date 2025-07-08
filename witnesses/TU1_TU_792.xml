@@ -13,15 +13,15 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Oriental Research Institute and Manuscript Library, Kerala</orgName>
+                     <orgName>Tamil University, Tañcāvūr</orgName>
                   </repository>
-                  <idno type="shelfmark">ORIML Trivandrum 6417</idno>
+                  <idno type="shelfmark">TU 792</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript with fragment :  <emph rend="bold">188, 183, 184</emph> from the ORIML</summary>
+                  <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript from the TU  Tancāvūr <emph rend="bold">KV-96</emph>  without commentary</summary>
                   
-               <msItem xml:id="T1" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="TU1" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   

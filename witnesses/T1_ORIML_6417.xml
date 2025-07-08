@@ -13,15 +13,15 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Aṇṇāmalai University Library University</orgName>
+                     <orgName>Oriental Research Institute and Manuscript Library, Kerala</orgName>
                   </repository>
-                  <idno type="shelfmark">AUL 37/44572</idno>
+                  <idno type="shelfmark">ORIML 6417</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
-                  <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript from the AUL  <emph rend="bold">1–150</emph>  without commentary</summary>
+                  <summary>A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript with fragment :  <emph rend="bold">188, 183, 184</emph> from the ORIML Trivandrum</summary>
                   
-               <msItem xml:id="A1" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="T1" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -29,7 +29,7 @@
                   
                   
                <objectDesc form="pothi" rend="manuscript">
-                     <supportDesc material="paper">
+                     <supportDesc material="palm-leaf">
                         
                         
                         
