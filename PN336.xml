@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,11 +35,10 @@
 <l>vēṭṭa vēntaṉum veñciṉat tiṉaṉē</l>
 <l>kaṭavaṉa kaḻippiva ṭantaiyuñ ceyyā</l>
 <l>ṉoḷiṟumukat tēntiya vīṅkutoṭi maruppiṟ</l>
-<l>kaḷiṟuṅ kaṭimarañ cērā cērnta</l>
+<l>kaḷiṟu kaṭimarañ cērā cērnta</l>
 <l>voḷiṟuvēṉ maṟavarum vāymūḻt taṉarē</l>
 <l>yiyavaru maṟiyāp palliyaṅ kaṟaṅka</l>
-<l>vaṉṉō</l>
-<l>perumpē tuṟṟaṉṟiv varuṅkaṭi mūtū</l>
+<l>vaṉṉō, perumpē tuṟṟaṉṟiv varuṅkaṭi mūtū</l>
 <l>raṟaṉilaṇ maṉṟa tāṉē viṟaṉmalai</l>
 <l>vēṅkai veṟpiṉ virinta kōṅkiṉ</l>
 <l>mukaivaṉap pēntiya muṟṟā viḷamulait</l>
@@ -52,21 +52,20 @@
 <l>resplendent faces do not join the protective trees, and the assembled (3f.)</l>
 <l corresp="5">bold warriors with resplendent spears keep [their] mouths shut. </l>
 <l corresp="6">While many instruments sound that are not known even to the musicians, </l>
-<l corresp="7">alas, </l>
-<l corresp="8">big folly underwent this well-protected old town. </l>
-<l corresp="9a-c">She is without virtue indeed, </l>
-<l corresp="13cd">‒ the mother without [good] qualities </l>
-<l corresp="12">who, by with a smile nurturing [and] raising as was fit </l>
-<l corresp="11">[her] with eminent young breasts not [yet] fully grown of the beauty </l>
-<l corresp="10">of the buds of cameg that unfold on the mountain of kino trees </l>
-<l corresp="9d">  in the victorious mountains, </l>
-<l corresp="13ab">  sat [there] growing enmity. </l>
+<l corresp="7">alas, big folly underwent this well-protected old town. </l>
+<l corresp="8a-c">She is without virtue indeed, </l>
+<l corresp="12cd">‒ the mother without [good] qualities </l>
+<l corresp="11">who, by with a smile nurturing [and] raising as was fit </l>
+<l corresp="10">[her] with eminent young breasts not [yet] fully grown of the beauty </l>
+<l corresp="9">of the buds of cameg that unfold on the mountain of kino trees </l>
+<l corresp="8d">  in the victorious mountains, </l>
+<l corresp="12ab">  sat [there] growing enmity. </l>
 </lg>
     </div>
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN336">
-<interp type="alignment" select="0">11MG15MG15MG4ML5MG20MG28M2G37MG14MG44MG6MG14MG10MG8MG47MG33MG27MG13MG2ML2MG2M,377MG</interp>
+<interp type="alignment" select="0">11MG15MG15MG4ML5MG20MG64MG14MG44MG6MG14MG10MG8MG47MG33MG27MG13MG2ML2MG2M,374MG</interp>
 <entry>
 <form>vēṭṭa</form>
 <def>wanted</def>
@@ -190,14 +189,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaḷiṟ<c type="elided">u</c>-um</form>
+<form>kaḷiṟu</form>
 <def>elephant bull</def>
-<form type="simple">kaḷiṟu</form>
-<form type="sandhi">kaḷiṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>kaṭi</form>
@@ -314,9 +310,7 @@
 </entry>
 <entry>
 <form><c type="glide">v</c>aṉṉō</form>
-<def>alas(excl.)</def>
-<gramGrp>
-</gramGrp>
+<def>alas</def>
 </entry>
 <entry>
 <form>perum</form>
