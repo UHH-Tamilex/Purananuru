@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -82,7 +83,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN366">
-<interp type="alignment" select="0">11MG29MG21MG8MG47MG30MG19MG103MG15MG79MG13MG61MG66MG11MG14MG119MG5M2G2M,34MG635MG</interp>
+<interp type="alignment" select="0">11MG30MG21MG8MG47MG30MG19MG103MG15MG79MG13MG61MG66MG11MG14MG119MG5M2G2M,35MG635MG</interp>
 <entry>
 <form>viḻu<c type="geminated">k</c></form>
 <def>excellent</def>
@@ -107,7 +108,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>muḻu</form>
+<form>muḻu<c type="geminated">k</c></form>
 <def>whole</def>
 <gramGrp>
   <gram type="role">noun</gram>
