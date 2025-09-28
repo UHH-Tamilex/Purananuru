@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +61,7 @@
 <l>kaṭuntē raḷḷaṟ kacāvā nōṉcuvaṟ</l>
 <l>pakaṭē yattaiyāṉ vēṇṭivan tatuveṉa</l>
 <l>voṉṟiyāṉ peṭṭā vaḷavai yaṉṟē</l>
-<l>vāṉṟu viṭṭaṉa ṉattai vicumpiṉ</l>
+<l>yāṉṟu viṭṭaṉa ṉattai vicumpiṉ</l>
 <l>mīṉpūt taṉṉa vuruva paṉṉirai</l>
 <l>yūrtiyoṭu nalki yōṉē cīrkoḷa</l>
 <l>viḻumeṉa viḻitaru maruvi</l>
@@ -109,7 +110,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN399">
-<interp type="alignment" select="0">51MG62MG93MG93MG6ML96MR6ML23ML46MG21MG18MG6MG67ML9MG3MG13MG65MG5MG26MG33MG13M2G21MG18M2GMG49M2G14MG56MG20MG34MG3M,1002MG</interp>
+<interp type="alignment" select="0">52MG62MG93MG93MG6ML96MR6ML23ML46MG21MG18MG6MG67ML9MG3MG13MG65MG5MG27MG33MG13M2G21MG18M2GMG49M2G14MG55MG20MG34MG3M,1003MG</interp>
 <entry>
 <form>aṭu</form>
 <def>cook</def>
@@ -147,7 +148,7 @@
 <def>be-glorious</def>
 </entry>
 <entry>
-<form>ulakkai</form>
+<form>ulakkai<c type="geminated">p</c></form>
 <def>pestle</def>
 </entry>
 <entry>
@@ -432,7 +433,6 @@
 <def>set-out-we</def>
 <form type="sandhi">paṭartuñ</form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -706,7 +706,7 @@
 <def>been-suited</def>
 </entry>
 <entry>
-<form>putu</form>
+<form>putu<c type="geminated">k</c></form>
 <def>new</def>
 </entry>
 <entry>
@@ -845,18 +845,24 @@
 <def>measure</def>
 </entry>
 <entry>
-<form><c type="glide">y</c>aṉṟ<c type="elided">u</c>-ēv</form>
+<form><c type="glide">y</c>aṉṟ<c type="elided">u</c>-ē</form>
 <def>that-dayē</def>
-<form type="sandhi"><c type="glide">y</c>aṉṟēv</form>
+<form type="simple">aṉṟu</form>
+<form type="sandhi"><c type="glide">y</c>aṉṟ</form>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>āṉṟu</form>
+<form><c type="glide">v</c>āṉṟu</form>
 <def>ended</def>
 </entry>
 <entry>
-<form>viṭṭaṉṉa-<c type="glide">v</c>attai</form>
-<def>let-go-like</def>
-<form type="simple">viṭṭaṉṉa</form>
+<form>viṭṭaṉaṉ-attai</form>
+<def>he let go</def>
+<form type="simple">viṭṭaṉaṉ</form>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
 <gramGrp type="particle"><m type="enclitic">attai</m></gramGrp>
 </entry>
 <entry>
