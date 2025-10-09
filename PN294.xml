@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -39,7 +40,7 @@
 <l>ṇāṇmuṟai taputtīr vammi ṉīṅkeṉap</l>
 <l>pōrmalain toruciṟai niṟpa yāvaru</l>
 <l>maravumiḻ maṇiyiṟ kuṟukār</l>
-<l>niraitār mārpiṉiṉ kēḷvaṉai piṟarē</l>
+<l>niraitār mārpiṉiṉ kēḷvaṉaip piṟarē</l>
 </lg>
 <lg xml:lang="en">
 <l>While [his] white parasol shines with the light of the moon above,</l>
@@ -57,7 +58,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN294">
-<interp type="alignment" select="0">15ML2ML20MG85MG7MG26ML24MG14MG24MG32ML15MGM,276M</interp>
+<interp type="alignment" select="0">15ML2ML20MG85MG7MG26ML24MG14MG24MG32ML16MGM,277M</interp>
 <entry>
 <form>veḷ</form>
 <def>white</def>
@@ -121,7 +122,6 @@
 <entry>
 <form>iṟutta</form>
 <def>camped</def>
-<form type="sandhi">īṟutta</form>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -431,7 +431,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kēḷvaṉai</form>
+<form>kēḷvaṉai<c type="geminated">p</c></form>
 <def>relative</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
