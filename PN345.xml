@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,7 +37,7 @@
 <l>māmaṟukaliṉ mayakkuṟṟaṉa vaḻi</l>
 <l>kalaṅkaḻāaliṟ ṟuṟai kalakkuṟṟaṉa</l>
 <l>teṟaṉmaṟava riṟaikūrtaliṟ</l>
-<l>poṟaimalintu nilaṉṉeḷiya</l>
+<l>poṟaimalintu nilaṉeḷiya</l>
 <l>vantōr palarē vampa vēntar</l>
 <l>piṭiyuyirp pஃṉṉa kaikava rirumpi</l>
 <l>ṉōvuṟa ḻirumpuṟaṅ kāval kaṇṇik</l>
@@ -78,7 +79,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN345">
-<interp type="alignment" select="0">5MG63M2G34MG64MG23M2G19ML50ML10ML30MG6ML8MG46MG113MG4MG15MG3ML2MG26MG2M,542MG</interp>
+<interp type="alignment" select="0">5MG63M2G34MG47ML16MG23MG19ML61ML30MG6ML8MG47MG113MG4MG15MG3ML2MG19MG6MG2M,342MG199MG</interp>
 <entry>
 <form>kaḷiṟ<c type="elided">u</c></form>
 <def>elephant</def>
@@ -330,7 +331,7 @@
 <entry>
 <form>aṉṉa</form>
 <def>like</def>
-<form type="sandhi">ṉṉa</form>
+<form type="sandhi">ஃṉṉa</form>
 <gramGrp>
   <gram type="role">comparative</gram>
 </gramGrp>
@@ -343,7 +344,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kavar</form>
+<form>kavar</form>
 <def>seize</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -389,7 +390,6 @@
 <entry>
 <form>kāval</form>
 <def>guarding</def>
-<form type="sandhi">kāvaṟ</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -434,7 +434,6 @@
 <entry>
 <form>vem</form>
 <def>hot</def>
-<form type="sandhi">vēm</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -546,6 +545,7 @@
 <entry>
 <form>pukal</form>
 <def>entering</def>
+<form type="sandhi">ppukal</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -565,7 +565,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>allōrkku</form>
+<form>allōrkku<c type="geminated">t</c></form>
 <def>not-so-they</def>
 <gramGrp>
   <gram type="role">dative</gram>
@@ -574,10 +574,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">t</c>taral-ō</form>
+<form>taral-ō</form>
 <def>giving</def>
 <form type="simple">taral</form>
-<form type="sandhi"><c type="geminated">t</c>taral</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
 </gramGrp>
@@ -602,14 +601,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>piṇi</form>
+<form>piṇi<c type="geminated">p</c></form>
 <def>fetter</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">p</c>palakaiyar</form>
+<form>palakaiyar</form>
 <def>shield-they</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
@@ -737,8 +736,9 @@
 </entry>
 <entry>
 <form>aṉṉō</form>
-<def>alas(excl.)</def>
+<def>alas</def>
 <gramGrp>
+  <gram type="role">interjection</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -787,14 +787,14 @@
 <def>this-</def>
 </entry>
 <entry>
-<form>paṇai</form>
+<form>paṇai<c type="geminated"/></form>
 <def>field</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">n</c>nal</form>
+<form>nal</form>
 <def>good</def>
 <gramGrp>
   <gram type="role">adjective</gram>
