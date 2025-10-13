@@ -1,5 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -18,7 +18,30 @@
             </summary>
           </msContents>    
         </msDesc>
-      </sourceDesc>
+      <listWit>
+<witness xml:id="Ed" source="PN249.xml">
+<abbr>Ed</abbr>
+<expan><title xml:lang="ta">Puṟanāṉūṟu</title> 249.
+            <persName xml:lang="ta"/></expan>
+</witness>
+<witness xml:id="C1" source="witnesses/C1_UVSL_237.xml">
+<abbr>C1</abbr>
+<expan>UVSL 237 <title xml:lang="ta">Puṟanāṉūṟu</title></expan>
+</witness>
+<witness xml:id="C2" source="witnesses/C2_UVSL_707.xml">
+<abbr>C2</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title></expan>
+<listWit>
+<witness xml:id="C2ac" n="ac">
+<abbr>C2ac</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title> [ante correctionem]</expan>
+</witness>
+<witness xml:id="C2pc" n="pc">
+<abbr type="siglum">C2pc</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title> [post correctionem]</expan>
+</witness>
+</listWit>
+</witness></listWit></sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
@@ -604,4 +627,74 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff type="apparatus" corresp="#PN249" source="alignments/PN249.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="28,38">
+    <lem wit="#C2">kaṇaikōṭṭu</lem>
+    <rdg wit="#C1"><gap reason="lost" quantity="3" unit="character"/>kōṭṭu</rdg>
+  </app>
+  <app loc="43,49">
+    <lem>mīnīrp</lem>
+    <rdg wit="#C1 #C2">yiṉīrp</rdg>
+  </app>
+  <app loc="55,105">
+    <lem>verippūm paḻaṉa nerittuṭaṉ valaiña rarikkuraṟ ṟaṭāriyiṉ</lem>
+    <rdgGrp select="#C1 #C2">
+      <rdg type="main">veripū rārik kuṭāriyiṉ</rdg>
+      <rdg type="minor" wit="#C1">veripū<space quantity="2" unit="character"/><lb n="7"/><space quantity="7" unit="character"/> rārik kuṭāriyiṉ</rdg>
+      <rdg type="minor" wit="#C2">veripū<space quantity="4" unit="character"/><lb n="9"/><space quantity="8" unit="character"/> rārik kuṭāriyiṉ</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="110,132">
+    <lem>miḷirap paṉainukum paṉṉa</lem>
+    <rdg wit="#C1">mīḷāp paṉinuṉai nukumpaṉṉa</rdg>
+    <rdg wit="#C2">mīḷāp paṉinuṇai nukumpaṉṉa</rdg>
+  </app>
+  <app loc="168,175">
+    <lem>mukakku</lem>
+    <rdg wit="#C1 #C2">mukku</rdg>
+  </app>
+  <app loc="194,226">
+    <lem>neruṉaip pakaliṭaṅ kaṇṇip palaroṭuṅ</lem>
+    <rdg wit="#C1">ṭuna<space quantity="5" unit="character"/> <space quantity="20" unit="character"/>ṭuṅ</rdg>
+    <rdg wit="#C2">ne<space quantity="3" unit="character"/> <space quantity="7" unit="character"/>ṭuṅ</rdg>
+  </app>
+  <app loc="287,297">
+    <lem wit="#C2">yuyarnilai</lem>
+    <rdg wit="#C1">yuyi<lb n="9"/>rnilai</rdg>
+  </app>
+  <app loc="303,319">
+    <lem>mavaṉpuka‡‡‡lari</lem>
+    <rdg wit="#C1 #C2">mavaṉpuka lari</rdg>
+  </app>
+  <app loc="332,338">
+    <lem>cīṟiṭa</lem>
+    <rdg wit="#C1 #C2">cīṟaṭi</rdg>
+  </app>
+  <app loc="338,366">
+    <lem>nīkki yaḻuta lāṉāk kaṇṇaṇ meḻuku</lem>
+    <rdgGrp select="#C1 #C2">
+      <rdg type="main">  māḻuku</rdg>
+      <rdg type="minor" wit="#C1"><space quantity="8" unit="character"/> <space quantity="11" unit="character"/> māḻuku</rdg>
+      <rdg type="minor" wit="#C2"><space quantity="8" unit="character"/> <lb n="12"/><space quantity="9" unit="character"/> māḻuku</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="366,374">
+    <lem>māppikaṇ</lem>
+    <rdg wit="#C1 #C2">parappitaṉ</rdg>
+  </app>
+</listApp></standOff></TEI>
