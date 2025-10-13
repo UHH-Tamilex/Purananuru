@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +18,47 @@
             </summary>
           </msContents>    
         </msDesc>
-      </sourceDesc>
+      <listWit>
+<witness xml:id="C1" source="witnesses/C1_UVSL_237.xml">
+<abbr>C1</abbr>
+<expan>UVSL 237 <title xml:lang="ta">Puṟanāṉūṟu</title></expan>
+</witness>
+<witness xml:id="C2" source="witnesses/C2_UVSL_707.xml">
+<abbr>C2</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title></expan>
+<listWit>
+<witness xml:id="C2ac" n="ac">
+<abbr>C2ac</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title> [ante correctionem]</expan>
+</witness>
+<witness xml:id="C2pc" n="pc">
+<abbr type="siglum">C2pc</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title> [post correctionem]</expan>
+</witness>
+</listWit>
+</witness>
+<witness xml:id="Ed" source="PN250.xml">
+<abbr>Ed</abbr>
+<expan><title xml:lang="ta">Puṟanāṉūṟu</title> 250.
+            <persName xml:lang="ta"/></expan>
+<listWit>
+<witness xml:id="Ed-C2" select="#C2">
+<abbr type="siglum">Ed-C2</abbr>
+<expan><title xml:lang="ta">Puṟanāṉūṟu</title> 250.
+            <persName xml:lang="ta"/> [witness C2]</expan>
+</witness>
+<witness xml:id="Ed-C3" select="#C3">
+<abbr type="siglum">Ed-C3</abbr>
+<expan><title xml:lang="ta">Puṟanāṉūṟu</title> 250.
+            <persName xml:lang="ta"/> [witness C3]</expan>
+</witness>
+<witness xml:id="Ed-C8" select="#C8">
+<abbr type="siglum">Ed-C8</abbr>
+<expan><title xml:lang="ta">Puṟanāṉūṟu</title> 250.
+            <persName xml:lang="ta"/> [witness C8]</expan>
+</witness>
+</listWit>
+</witness></listWit></sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
@@ -403,4 +444,48 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
-</TEI>
+<standOff type="apparatus" corresp="#PN250" source="alignments/PN250.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="15,25">
+    <lem>koḻuṅtuvai</lem>
+    <rdg wit="#C1 #C2">koḻuntuvai</rdg>
+  </app>
+  <app loc="100,135">
+    <lem>kuṟuntoṭi nīkki yalli yuṇaviṉ maṉaiviyō</lem>
+    <rdgGrp select="#C1 #C2">
+      <rdg type="main">ku viyō</rdg>
+      <rdg type="minor" wit="#C1">ku<space quantity="7" unit="character"/> <space quantity="15" unit="character"/>viyō</rdg>
+      <rdg type="minor" wit="#C2">ku<space quantity="5" unit="character"/> <space quantity="8" unit="character"/>viyō</rdg>
+    </rdgGrp>
+  </app>
+  <app loc="155,164">
+    <lem wit="#C2">vaḷaṅkeḻu</lem>
+    <rdg wit="#C1">va<pb facs="92" n="327v" type="folio"/><lb n="1"/><gap reason="lost" quantity="2" unit="character"/>keḻu</rdg>
+  </app>
+  <app loc="215,221">
+    <lem>tantai</lem>
+    <rdg wit="#C1 #C2">tantai t</rdg>
+  </app>
+  <app loc="221,253">
+    <lem>taṉittalaip peruṅkāṭu muṉṉiya piṉṉē</lem>
+    <rdgGrp select="#C1 #C2">
+      <rdg type="main">talaiṉṉē</rdg>
+      <rdg type="minor" wit="#C1">talai<space quantity="17" unit="character"/>ṉṉē</rdg>
+      <rdg type="minor" wit="#C2">talai<pb facs="105" n="150r" type="folio"/><lb n="1"/><space quantity="8" unit="character"/>ṉṉē</rdg>
+    </rdgGrp>
+  </app>
+</listApp></standOff></TEI>
