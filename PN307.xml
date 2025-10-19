@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +41,7 @@
 <l>nīrum pullu mīyā tumaṇar</l>
 <l>yārumi loruciṟai muṭattoṭu tuṟanta</l>
 <l>vāḻā vālpaka ṭēyppat teṟuvar</l>
-<l>pēruyir koḷḷu mātō vatukkaṇṭu</l>
+<l>pēruyir koḷḷu mātō vatukaṇṭu</l>
 <l>vēciṉa yāṉai vēntaṉu mikkaḷat</l>
 <l>teñcaliṟ ciṟantatu piṟitoṉ ṟilleṉa</l>
 <l>paṇkoḷaṟ karumai nōkki</l>
@@ -67,7 +68,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN307">
-<interp type="alignment" select="0">2MG2MG9MG4MG12MG64MG19MG31ML7MG5MG7MG9MG41MG25M2G19MG11MG10MG21MG3MG15MG15MG20MG2M,323MG51MG</interp>
+<interp type="alignment" select="0">2MG2MG9MG4MG12MG65MG19MG39MG5MG7MG9MG40MG26M2G18MG11MG10MG21MG3MG15MG15MG20MG2M,375MG</interp>
 <entry>
 <form>āc<c type="elided">u</c></form>
 <def>support</def>
@@ -146,7 +147,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pōla</form>
+<form>pōla<c type="geminated">t</c></form>
 <def>be-similar</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -219,7 +220,6 @@
 <entry>
 <form><c type="glide">v</c>ūkiṉ</form>
 <def>Ūku tree</def>
-<form type="sandhi"><c type="glide">v</c>ūkiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
@@ -344,7 +344,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">l</c>oru</form>
+<form>oru</form>
 <def>one</def>
 </entry>
 <entry>
@@ -393,7 +393,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ēyppa</form>
+<form>ēyppa<c type="geminated">t</c></form>
 <def>resemble</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -431,7 +431,7 @@
 <gramGrp type="particle"><m type="enclitic">mātō</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>atu<c type="geminated">k</c></form>
+<form><c type="glide">v</c>atu</form>
 <def>that</def>
 </entry>
 <entry>
@@ -488,6 +488,7 @@
 <entry>
 <form>eñcaliṉ</form>
 <def>leaving-behind</def>
+<form type="sandhi">eñcaliṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
   <gram type="role">verbal noun</gram>
@@ -528,7 +529,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṉa</form>
+<form><c type="geminated">l</c>eṉa</form>
 <def>say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
