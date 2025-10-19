@@ -34,7 +34,7 @@
       <lg xml:id="PN294">
 <l>veṇkuṭai matiya mēṉilāt tikaḻtarak</l>
 <l>kaṇkū ṭiṟutta kaṭaṉmaruḷ pācaṟaik</l>
-<l>kumaripaṭai taḻīiya kūṟṟuviṉai yāṭavar</l>
+<l>kumarippaṭai taḻīiya kūṟṟuviṉai yāṭavar</l>
 <l>tamarpiṟa raṟiyā vamarmayaṅ kaḻuvat</l>
 <l>tiṟaiyum peyarun tōṟṟi numaru</l>
 <l>ṇāṇmuṟai taputtīr vammi ṉīṅkeṉap</l>
@@ -58,7 +58,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN294">
-<interp type="alignment" select="0">15ML2ML20MG85MG7MG26ML24MG14MG24MG32ML16MGM,277M</interp>
+<interp type="alignment" select="0">15ML2ML20MG86MG7MG26ML24MG14MG24MG32ML16MGM,278M</interp>
 <entry>
 <form>veḷ</form>
 <def>white</def>
@@ -150,7 +150,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kumari</form>
+<form>kumari<c type="geminated">p</c></form>
 <def>virgin</def>
 <gramGrp>
   <gram type="role">noun</gram>
