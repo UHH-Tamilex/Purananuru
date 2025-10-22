@@ -71,18 +71,18 @@
 <l>meḻuku māppikaṇ kaluḻnī rāṉē.</l>
 </lg>
 <lg xml:lang="en">
-<l corresp="7">Yesterday, so that the majesty would enter [this] wide land, (7ab+d)</l>
-<l corresp="1">where, while ear-nosed Āral fish hide below in the mire, </l>
+<l corresp="7">Yesterday, the entering of the majesty of [this] wide land, (7ab+d)</l>
+<l corresp="1">where, while ray-nosed Āral fish hide below in the mire, </l>
 <l corresp="2">while round-finned Vāḷai fish leap high above the water, </l>
 <l corresp="3">those with nets, crushing together through the paddy field with flaming flowers </l>
 <l corresp="4">so that tortoises [shaped] like harsh-voice Taṭāri drums roll over </l>
 <l corresp="6">draw out bright carp that are like rivalling spears </l>
 <l corresp="5">together with Varāl fish who ripen eggs [shaped] like soft leaves of palmyra, </l>
 <l corresp="8">joining with all the many with chaplets from various places </l>
-<l corresp="9">it was on one way [with them]. Today </l>
+<l corresp="9">happened on one way [with them]. Today </l>
 <l corresp="10">[this] girl with a choice forehead and quiet fidelity, </l>
 <l corresp="11a-c">as he entered the world of high standing, </l>
-<l corresp="11d-12">rejects? a place as small as a winnowing fan bathed in itching ashes </l>
+<l corresp="11d-12">clears a place as small as a winnowing fan bathed in itching dust </l>
 <l corresp="13">[and] with eyes that do not stop crying </l>
 <l corresp="14">smears [its] with cowdung with [the help] of the tears that dim [her] eyes. </l>
 </lg>
@@ -90,7 +90,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN249">
-<interp type="alignment" select="0">9MG12MG48MR6MG53MG21MG31ML3MG9MG32M2G23MG9M2G66MG13MG3MR46MG2M,403MG</interp>
+<interp type="alignment" select="0">9MG12MG48MR6MG53MG21MG31ML3MG10M2G31M2G23MG9M2G66MG13MG3MR46MG2M,404MG</interp>
 <entry>
 <form>katir</form>
 <def>ear</def>
@@ -360,11 +360,12 @@
 </gramGrp>
 </entry>
 <entry>
-<form>puka-<c type="glide">v</c>ē</form>
-<def>enter</def>
-<form type="simple">puka</form>
+<form>pukav<c type="elided">u</c>-ē</form>
+<def>entering</def>
+<form type="simple">pukavu</form>
+<form type="sandhi">pukav</form>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
@@ -513,7 +514,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form><gap quantity="3" unit="character" reason="lost"/>l</form>
+<form>???l</form>
+<form type="sandhi"><gap quantity="3" unit="character" reason="lost"/>l</form>
 </entry>
 <entry>
 <form>ari</form>
