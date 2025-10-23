@@ -56,7 +56,7 @@
     <div rend="parallel">
       <lg xml:id="PN249">
 <l>katirmūk kāral kīḻccēṟ ṟoḷippak</l>
-<l>kaṇaikōṭṭu vāḷai mīnīrp piṟaḻa</l>
+<l>kaṇaikōṭṭu vāḷai mīṉīrp piṟaḻa</l>
 <l>verippūm paḻaṉa nerittuṭaṉ valaiña</l>
 <l>rarikkuraṟ ṟaṭāriyiṉ yāmai miḷirap</l>
 <l>paṉainukum paṉṉa ciṉaimutir varālō</l>
@@ -73,7 +73,7 @@
 <lg xml:lang="en">
 <l corresp="7">Yesterday, the entering of the majesty of [this] wide land, (7ab+d)</l>
 <l corresp="1">where, while ray-nosed Āral fish hide below in the mire, </l>
-<l corresp="2">while round-finned Vāḷai fish leap high above the water, </l>
+<l corresp="2">while round-finned Vāḷai fish leap above the water, </l>
 <l corresp="3">those with nets, crushing together through the paddy field with flaming flowers </l>
 <l corresp="4">so that tortoises [shaped] like harsh-voice Taṭāri drums roll over </l>
 <l corresp="6">draw out bright carp that are like rivalling spears </l>
@@ -90,7 +90,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN249">
-<interp type="alignment" select="0">9MG12MG48MR6MG53MG21MG31ML3MG10M2G31M2G23MG9M2G66MG13MG3MR46MG2M,404MG</interp>
+<interp type="alignment" select="0">9MG12MG25ML23MR6MG53MG21MG31ML3MG10M2G31M2G23MG9M2G66MG13MG3MR46MG2M,405MG</interp>
 <entry>
 <form>katir</form>
 <def>ear</def>
@@ -154,8 +154,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>mī</form>
-<def>height</def>
+<form>mīṉ</form>
+<def>fish</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -163,6 +163,7 @@
 <entry>
 <form>nīr<c type="geminated">p</c></form>
 <def>water</def>
+<form type="sandhi">ṉīr<c type="geminated">p</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
