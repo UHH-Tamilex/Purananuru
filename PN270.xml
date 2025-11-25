@@ -88,7 +88,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN270">
-<interp type="alignment" select="0">14ML85MG44MG4MG6M2G4M2G4MG12MG53MG43MG81M2G2M,365MG</interp>
+<interp type="alignment" select="0">14ML61MG24MG44MG4MG6M2G4M2G4MG12MG53MG43MG81M2G2M,366MG</interp>
 <entry>
 <form>pal</form>
 <def>many</def>
@@ -182,14 +182,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nēmiyōrum</form>
+<form>nēmiyōr-um</form>
 <def>wheel-they</def>
-<form type="sandhi">nēmiyōruñ</form>
+<form type="simple">nēmiyōr</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>camam</form>
@@ -561,6 +562,7 @@
 <entry>
 <form>vāḷ</form>
 <def>sword</def>
+<form type="sandhi">vāṇ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
