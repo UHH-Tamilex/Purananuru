@@ -67,7 +67,7 @@
 <l>veṉṟitaru vēṭkaiyar maṉṟaṅ koṇmār</l>
 <l>pērama ruḻanta veruvaru paṟantalai</l>
 <l>viḻunavi pāynta marattiṉ</l>
-<l>vāḷmicaik kiṭanta vāṇmaiyōṉ tiṟattē.</l>
+<l>vāṇmicaik kiṭanta vāṇmaiyōṉ ṟiṟattē.</l>
 </lg>
 <lg xml:lang="en">
 <l>They are desirous of joining the battle</l>
@@ -592,7 +592,7 @@
 <form>tiṟatt<c type="elided">u</c>-ē</form>
 <def>side</def>
 <form type="simple">tiṟattu</form>
-<form type="sandhi">tiṟatt</form>
+<form type="sandhi">ṟiṟatt</form>
 <gramGrp>
   <gram type="role">postposition</gram>
 </gramGrp>
@@ -616,7 +616,7 @@
 </interp><listApp>
   <app loc="77,85">
     <lem>camaṅkaṇ</lem>
-    <rdg wit="#C2 #C1">cumaṅkaṇ</rdg>
+    <rdg wit="#C1 #C2">cumaṅkaṇ</rdg>
   </app>
   <app loc="149,154">
     <lem wit="#C1">peṇṭē</lem>
@@ -624,8 +624,8 @@
   </app>
   <app loc="154,158">
     <lem>nōkō</lem>
-    <rdg wit="#C2">ṇōkō</rdg>
     <rdg wit="#C1">ṉōkō</rdg>
+    <rdg wit="#C2">ṇōkō</rdg>
   </app>
   <app loc="191,201">
     <lem wit="#C2">marikkuraṟ</lem>
@@ -637,22 +637,15 @@
   </app>
   <app loc="305,311">
     <lem>pāynta</lem>
-    <rdg wit="#C2 #C1">māynta</rdg>
+    <rdg wit="#C1 #C2">māynta</rdg>
   </app>
   <app loc="311,319">
     <lem wit="#C1">marattiṉ</lem>
     <rdg wit="#C2">maratti<lb n="14"/>ṇ</rdg>
   </app>
   <app loc="319,328">
-    <rdgGrp type="lemma" select="#C1">
-      <lem>vāḷmicaik</lem>
-      <rdg type="minor" wit="#C1">vāṇmicaik</rdg>
-    </rdgGrp>
+    <lem wit="#C1">vāṇmicaik</lem>
     <rdg wit="#C2">vāṇmitaik</rdg>
-  </app>
-  <app loc="335,344">
-    <lem>vāṇmaiyōṉ</lem>
-    <rdg wit="#C2 #C1">vāṇmaiyōṉ</rdg>
   </app>
 </listApp></standOff><standOff type="apparatus" corresp="#PN270-intro" source="alignments/PN270-intro.xml"><interp type="normalization">
   <desc type="tagfilters">
