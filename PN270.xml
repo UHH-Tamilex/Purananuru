@@ -88,7 +88,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN270">
-<interp type="alignment" select="0">14ML84MG45MG4MG6M2G4M2G4MG12MG28ML24MG43MG81M2G2M,365MG</interp>
+<interp type="alignment" select="0">14ML85MG44MG4MG6M2G4M2G4MG12MG53MG43MG81M2G2M,365MG</interp>
 <entry>
 <form>pal</form>
 <def>many</def>
@@ -223,9 +223,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vēṭpa-<c type="glide">v</c><c type="geminated">v</c>ē</form>
+<form>vēṭpa<c type="geminated">v</c>-<c type="glide">v</c>ē</form>
 <def>they want</def>
 <form type="simple">vēṭpa</form>
+<form type="sandhi">vēṭpa<c type="geminated">v</c></form>
 <gramGrp>
   <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
@@ -327,7 +328,6 @@
 <form type="simple">nōku</form>
 <form type="sandhi">nōk</form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
