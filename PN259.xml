@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -52,7 +53,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN259">
-<interp type="alignment" select="0">2MG31MG31MG59ML57MG19M,203MG</interp>
+<interp type="alignment" select="0">2MG31MG31MG59ML57MG17MG2M,204MG</interp>
 <entry>
 <form>ēṟ<c type="elided">u</c></form>
 <def>bull</def>
@@ -128,14 +129,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kāṭṭu</form>
+<form>kāṭṭu<c type="geminated">t</c></form>
 <def>wilderness</def>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">t</c>talai</form>
+<form>talai</form>
 <def>head</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -336,13 +337,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaḻalōyē</form>
+<form>kaḻalōy-ē</form>
 <def>anklet-you</def>
+<form type="simple">kaḻalōy</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">singular</gram>
   <gram type="role">second person</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>
