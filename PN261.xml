@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -62,13 +63,13 @@
 <l corresp="10a-c">before you did yield, </l>
 <l corresp="9">for the lack-lustre eyes of new-eyed people to become full, </l>
 <l corresp="8">the sound of goat meat poured on the oily hearth, </l>
-<l corresp="7">like the langourous sigh of an rutting elephant. </l>
+<l corresp="7">like the languorous sigh of an rutting elephant. </l>
 <l corresp="10d">	Now, </l>
 <l corresp="18">like the women with ornaments put away </l>
 <l corresp="17">who are upset to experience widowhood, with heads plucked [and] shaved, </l>
 <l corresp="16">lamenting the absence of the warrior with victorious spear, </l>
 <l>	who chased away the unlearned strong bows that embraced </l>
-<l>	many cows, as owls with nearby voices shrieked, (11f.)</l>
+<l corresp="11">	many cows, as owls with nearby voices shrieked,</l>
 <l corresp="14">	while putting on, according to the custom of men who know the means, </l>
 <l corresp="13">	Karantai with fragrant flowers like female breasts, </l>
 <l corresp="15">	brought the herds here [and] has become a hero stone, </l>
@@ -78,11 +79,12 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN261">
-<interp type="alignment" select="0">94MG10MG3MG12MG136MG9MG6MG87MG125ML39M2G2M,533MG</interp>
+<interp type="alignment" select="0">94MG10MG3MG12MG16MG120MG9MG6MG87MG125ML39M2G2M,534MG</interp>
 <entry>
 <form>antō</form>
-<def>alas(excl.)</def>
+<def>alas</def>
 <gramGrp>
+  <gram type="role">interjection</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -191,14 +193,15 @@
 </entry>
 <entry>
 <form>muṟṟam</form>
-<def>court yard</def>
+<def>courtyard</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>veṟṟi</form>
+<form>veṟṟu</form>
 <def>empty</def>
+<form type="sandhi">veṟṟi</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
@@ -269,11 +272,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaṇṇē</form>
+<form>kaṇ-<c type="geminated">ṇ</c>ē</form>
 <def>eye</def>
+<form type="simple">kaṇ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
 <form>vaiyam</form>
@@ -336,7 +341,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>ayā</form>
-<def>langour</def>
+<def>languor</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -415,7 +420,7 @@
 </entry>
 <entry>
 <form>cetu<c type="geminated">k</c></form>
-<def>loose-lustre</def>
+<def>lose lustre</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -429,7 +434,7 @@
 </entry>
 <entry>
 <form>āra<c type="geminated">p</c></form>
-<def>become-full</def>
+<def>become full</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -529,7 +534,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>aḻaippa</form>
-<def>cry-out</def>
+<def>cry out</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -570,8 +575,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pūṅ</form>
+<form>pūm</form>
 <def>flower</def>
+<form type="sandhi">pūṅ</form>
 </entry>
 <entry>
 <form>karantai</form>
@@ -655,7 +661,7 @@
 </entry>
 <entry>
 <form>vel</form>
-<def>be-victorious</def>
+<def>be victorious</def>
 <form type="sandhi">veṉ</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -677,7 +683,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>iṉmaiyiṉ</form>
-<def>non-existence</def>
+<def>nonexistence</def>
 <form type="sandhi"><c type="glide">y</c>iṉmaiyiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -753,7 +759,7 @@
 </entry>
 <entry>
 <form>pōla<c type="geminated">p</c></form>
-<def>be-similar</def>
+<def>be similar</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>

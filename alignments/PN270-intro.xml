@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta-Taml">
+  
+    <teiHeader>
+<listWit>
+<witness xml:id="Ed" source="PN270.xml">
+<abbr>Ed</abbr>
+<expan><title xml:lang="ta">Puṟanāṉūṟu</title> 270.
+            <persName xml:lang="ta"/></expan>
+</witness>
+<witness xml:id="C1" source="C1_UVSL_237.xml">
+<abbr>C1</abbr>
+<expan>UVSL 237 <title xml:lang="ta">Puṟanāṉūṟu</title></expan>
+</witness>
+<witness xml:id="C2" source="C2_UVSL_707.xml">
+<abbr>C2</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title></expan>
+<listWit>
+<witness xml:id="C2ac" n="ac">
+<abbr>C2ac</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title> [ante correctionem]</expan>
+</witness>
+<witness xml:id="C2pc" n="pc">
+<abbr type="siglum">C2pc</abbr>
+<expan>UVSL 707 <title xml:lang="ta">Puṟanāṉūṟu</title> [post correctionem]</expan>
+</witness>
+</listWit>
+</witness>
+</listWit>
+    <encodingDesc>
+      <editorialDecl>
+        <segmentation>
+          <ab type="tokenization">grapheme</ab>
+          <ab type="blockid">PN270-intro</ab>
+          <ab type="targetedition">Ed</ab>
+          <ab type="scoring">
+            <ab type="match">1</ab>
+            <ab type="mismatch">-1</ab>
+            <ab type="gapopen">-2</ab>
+            <ab type="gapextend">-0.25</ab>
+            <ab type="recursive">true</ab>
+            <ab type="realigndepth">20</ab>
+            <ab type="distancefunction">ngrams</ab>
+            
+          </ab>
+        </segmentation>
+        <normalization method="markup">
+<ab>ignore punctuation</ab>
+<ab>ignore long/short e</ab>
+<ab>ignore long/short o</ab>
+<ab>insert glide after back vowels</ab>
+<ab>insert glide after front vowels</ab>
+<ab>final -m sandhi variants</ab>
+<ab>final -m elision</ab>
+<ab>final -ṇ sandhi</ab>
+<ab>final -ṉ sandhi</ab>
+<ab>final -l sandhi</ab>
+<ab>final -ḷ sandhi</ab>
+<ab>ignore puḷḷi</ab>
+<ab>remove spaces</ab>
+        </normalization>
+        <ab type="tagfilters">
+<tag subtype="ignore">pc</tag>
+<tag subtype="ignore">abbr</tag>
+<tag subtype="ignore">corr</tag>
+<tag subtype="ignore">ex</tag>
+<tag subtype="ignore">head</tag>
+<tag subtype="ignore">label</tag>
+<tag subtype="ignore">note</tag>
+<tag subtype="ignore">num</tag>
+<tag subtype="ignore">locus</tag>
+<tag subtype="ignore">supplied</tag>
+<tag subtype="ignore">surplus</tag>
+        </ab>
+      </editorialDecl>
+    </encodingDesc>
+    
+        <xenoData>
+      <stemma format="nexml" id="stemma0"><nex:nexml xmlns:nex="http://www.nexml.org/2009" version="0.9"><nex:otus id="otus1"><nex:otu id="otu0" label="C1"/><nex:otu id="otu1" label="C2"/><nex:otu id="otu2" label="Ed"/></nex:otus><nex:trees otus="otus1" id="trees1"><nex:tree id="guidetree" label="guidetree" xsi:type="nex:FloatTree" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><nex:node id="e55e9d7e-5ea3-416b-9412-577562654923" root="true"/><nex:node id="1ceab268-802c-4926-9131-68541cbe86e9"/><nex:node id="d606918c-2897-41f5-a95f-0dd553f82dcc" label="C1" otu="otu2"/><nex:node id="13da2ff3-8b86-4a6d-ab28-291e7925b558" label="C2" otu="otu3"/><nex:node id="aa4a723c-83dd-4ee4-a30d-77d22f8d9e3b" label="Ed" otu="otu4"/><nex:edge source="e55e9d7e-5ea3-416b-9412-577562654923" target="1ceab268-802c-4926-9131-68541cbe86e9" id="edge0" length="0.33831105741378215"/><nex:edge source="e55e9d7e-5ea3-416b-9412-577562654923" target="aa4a723c-83dd-4ee4-a30d-77d22f8d9e3b" id="edge1" length="0.33831105741378215"/><nex:edge source="1ceab268-802c-4926-9131-68541cbe86e9" target="d606918c-2897-41f5-a95f-0dd553f82dcc" id="edge2" length="0.3233778851724357"/><nex:edge source="1ceab268-802c-4926-9131-68541cbe86e9" target="13da2ff3-8b86-4a6d-ab28-291e7925b558" id="edge3" length="0.11107249876842229"/></nex:tree></nex:trees></nex:nexml></stemma>
+    </xenoData>
+    
+  </teiHeader>
+
+    <TEI n="C1">
+        <text><cl><w n="0">ti</w><w n="1" lemma="ṇai">ṇai </w></cl><cl><w n="2">ka</w><w n="3">ra</w><w n="4" lemma="na">n</w><w n="5" lemma="ta">ta - </w></cl><cl><w n="6">tu</w><w n="7" lemma="ṟai">ṟai </w></cl><cl><w n="8">kai</w><w n="9">ya</w><w n="10">ṟu</w><w n="11">ni</w><w n="12" lemma="lai">lai </w></cl><cl><w n="13">ka</w><w n="14" lemma="ṇa">ṇ</w><w n="15">ṭā</w><w n="16" lemma="ra">r </w><w n="17">tā</w><w n="18" lemma="ya">y</w><w n="19" lemma="ka">k</w><w n="20">ku</w><w n="21" lemma="ca">c </w><w n="22">co</w><w n="23" lemma="la">l</w><w n="24">li</w><w n="25">ya</w><w n="26" lemma="tu">tu – </w><w n="27">ka</w><w n="28">ḻā</w><w n="29" lemma="ta">t</w><w n="30">ta</w><w n="31" lemma="lai⁰">lai-27⁰- </w><w n="32"/><w n="33"/></cl></text>
+    </TEI>
+    <TEI n="C2">
+        <text><cl><w n="0">ti</w><w n="1" lemma="ṇai">ṇai </w></cl><cl><w n="2">ka</w><w n="3">ra</w><w n="4" lemma="na">n</w><w n="5" lemma="tai">tai - </w></cl><cl><w n="6">tu</w><w n="7" lemma="ṟai">ṟai </w></cl><cl><w n="8">kai</w><w n="9">ya</w><w n="10">ṟu</w><w n="11">ni</w><w n="12" lemma="lai">lai </w></cl><cl><w n="13">ka</w><w n="14" lemma="ṇa">ṇ</w><w n="15">ṭā</w><w n="16" lemma="ra">r </w><w n="17">tā</w><w n="18" lemma="ya">y</w><w n="19" lemma="ka">k</w><w n="20">ku</w><w n="21" lemma="ca">c </w><w n="22">co</w><w n="23" lemma="la">l</w><w n="24">li</w><w n="25">ya</w><w n="26" lemma="tu">tu – </w><w n="27">ka</w><w n="28">ḻā</w><w n="29" lemma="ta">t</w><w n="30">ta</w><w n="31" lemma="lai⁰⁰">lai-2⁰⁰7</w><w n="32" lemma="‡">‡- </w><w n="33"/></cl></text>
+    </TEI>
+    <TEI n="Ed">
+        <text><cl><w n="0">ti</w><w n="1" lemma="ṇai">ṇai, </w></cl><cl><w n="2">ka</w><w n="3">ra</w><w n="4" lemma="na">n</w><w n="5" lemma="tai">tai; </w></cl><cl><w n="6">tu</w><w n="7" lemma="ṟai">ṟai, </w></cl><cl><w n="8">kai</w><w n="9">ya</w><w n="10">ṟu</w><w n="11">ni</w><w n="12" lemma="lai">lai. </w></cl><cl><w n="13"/><w n="14"/><w n="15"/><w n="16"/><w n="17"/><w n="18"/><w n="19"/><w n="20"/><w n="21"/><w n="22"/><w n="23"/><w n="24"/><w n="25"/><w n="26"/><w n="27">ka</w><w n="28">ḻā</w><w n="29" lemma="ta">t</w><w n="30">ta</w><w n="31">lai</w><w n="32">yā</w><w n="33" lemma="ra">r. </w></cl></text>
+    </TEI></teiCorpus>

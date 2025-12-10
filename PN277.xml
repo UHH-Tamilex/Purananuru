@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -50,7 +51,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN277">
-<interp type="alignment" select="0">23ML30MG36MG7M2G56MG9M,166MG</interp>
+<interp type="alignment" select="0">23ML30MG36MG7M2G56MG6MG3M,167MG</interp>
 <entry>
 <form>mīṉ</form>
 <def>fish</def>
@@ -95,17 +96,17 @@
 </gramGrp>
 </entry>
 <entry>
-<form>narai</form>
+<form>narai<c type="geminated">k</c></form>
 <def>whiteness</def>
-<form type="sandhi">ṉarai</form>
+<form type="sandhi">ṉarai<c type="geminated">k</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">k</c>kūntal</form>
+<form>kūntal</form>
 <def>tresses</def>
-<form type="sandhi"><c type="geminated">k</c>kūntaṉ</form>
+<form type="sandhi">kūntaṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -157,14 +158,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>uvakai<c type="glide">y</c></form>
+<form>uvakai</form>
 <def>joy</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>īṉṟa</form>
+<form><c type="glide">y</c>īṉṟa</form>
 <def>brought-forth</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
@@ -241,14 +242,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>peya</form>
+<form>peya<c type="geminated">t</c></form>
 <def>rain</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">t</c>tūṅkiya</form>
+<form>tūṅkiya</form>
 <def>hung-</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
@@ -265,11 +266,13 @@
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>pala<c type="glide">v</c>ē</form>
+<form>pala-<c type="glide">v</c>ē</form>
 <def>many</def>
+<form type="simple">pala</form>
 <gramGrp>
   <gram type="role">neuter plural</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 </standOff>
 </TEI>
