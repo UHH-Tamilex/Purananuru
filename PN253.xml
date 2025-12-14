@@ -31,7 +31,7 @@
     </div>
     <div rend="parallel">
       <lg xml:id="PN253">
-<l>eṉṟiṟat tavalaṅ koḷḷa liṉiyē</l>
+<l>entiṟat tavalaṅ koḷḷa liṉiyē</l>
 <l>vavvār kaṇṇi yiḷaiyar tiḷaippa</l>
 <l>nakāaleṉa vanta māṟē yeḻāneṟ</l>
 <l>paiṅkaḻai potikaḷain taṉṉa viḷarppiṉ</l>
@@ -39,11 +39,11 @@
 <l>kiḷaiyu ḷoyvalō kūṟuniṉ ṉuraiyē.</l>
 </lg>
 <lg xml:lang="en">
-<l>  Don’t feel suffering on my behalf. Now,</l>
-<l>  while young men with chaplets swing, not snatching,</l>
-<l>  because [I] came, saying “I won’t smile”, </l>
-<l>  will I wield, in [my] empty hand without bangles, </l>
-<l>  the whiteness that is as if removing ungrown paddy from fresh bamboo,</l>
+<l>  Don’t feel suffering on our account. Now,</l>
+<l>  while capable young men with chaplets play,</l>
+<l>  because [I] came, saying “I won’t laugh [with them]”, </l>
+<l>  will I wield, in [my] empty hand without bangles </l>
+<l>  [that were] of the whiteness that is like shoots removed from fresh bamboo in which the grains have not [yet] risen,</l>
 <l>  [and] carry [it] among [my] kin? [Just] say your words.</l>
 </lg>
     </div>
@@ -52,11 +52,11 @@
 <standOff type="wordsplit" corresp="#PN253">
 <interp type="alignment" select="0">8MG15MG46M2G76MG13MG3M,166MG</interp>
 <entry>
-<form>eṉ</form>
-<def>me</def>
+<form>em</form>
+<def>our</def>
 <gramGrp>
   <gram type="role">oblique</gram>
-  <gram type="role">singular</gram>
+  <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
 </entry>
