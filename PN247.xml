@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -170,7 +171,7 @@
 </entry>
 <entry>
 <form>vaiku</form>
-<def>be-kept</def>
+<def>be kept</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -198,7 +199,7 @@
 </entry>
 <entry>
 <form>cīkkum</form>
-<def>sweeping-</def>
+<def>sweeping</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -264,7 +265,7 @@
 </entry>
 <entry>
 <form>tāḻa<c type="geminated">p</c></form>
-<def>hang-down</def>
+<def>hang down</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -308,7 +309,7 @@
 </entry>
 <entry>
 <form>nōkki<c type="geminated">t</c></form>
-<def>looked-at</def>
+<def>looked at</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -324,13 +325,11 @@
 </entry>
 <entry>
 <form>tāṉ-ē</form>
-<def>self(pron.sg.3.)(n.sg.|3.)</def>
+<def>self</def>
 <form type="simple">tāṉ</form>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">pronoun</gram>
   <gram type="role">singular</gram>
-  <gram type="role">third person</gram>
-  <gram type="role">noun</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
@@ -339,6 +338,7 @@
 <form>taṉ</form>
 <def>self</def>
 <gramGrp>
+  <gram type="role">pronoun</gram>
   <gram type="role">oblique</gram>
   <gram type="role">singular</gram>
   <gram type="role">third person</gram>
@@ -429,7 +429,7 @@
 </entry>
 <entry>
 <form>āyiṉ-um</form>
-<def>if-even</def>
+<def>if even</def>
 <form type="simple">āyiṉ</form>
 <gramGrp>
   <gram type="role">concessive</gram>
@@ -477,7 +477,7 @@
 </entry>
 <entry>
 <form>puṟaṅkoṭutt<c type="elided">u</c>-ē</form>
-<def>back-turned</def>
+<def>turned back</def>
 <form type="simple">puṟaṅkoṭuttu</form>
 <form type="sandhi">puṟaṅkoṭutt</form>
 <gramGrp>
