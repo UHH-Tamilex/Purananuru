@@ -21,7 +21,7 @@
                <msContents class="#STM">
                   <summary> A <title xml:lang="ta">Puṟanāṉūṟu</title> palm-leaf manuscript <emph rend="bold">KV-263 </emph> with commentary from the UVSL</summary>
                   
-               <msItem xml:id="C7" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="C8" defective="false" class="#cankam"><title xml:lang="ta">Puṟanāṉūṟu</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -86,7 +86,7 @@
    <facsimile>
  <graphic url="https://iiif.archive.org/iiif/UVSL-96-Purananuru/manifest.json"/>
    </facsimile>
-   <text corresp="#C6" xml:lang="ta-Taml">
+   <text corresp="#C8" xml:lang="ta-Taml">
    <body>
 <lg xml:id="PN246">      
 <l><pb facs="436" n="120r"/><lb n="9" />பல்சான் றீரே பல்சான் றீரே</l>
