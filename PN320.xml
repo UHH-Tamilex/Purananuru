@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,7 +33,7 @@
     <div rend="parallel">
       <lg style="pūṭṭuvil" xml:id="PN320">
 <l>muṉṟiṉ muññaiyoṭu mucuṇṭai pampip</l>
-<l>pantar vēṇṭāp pavartūṅku nīḻaṟ</l>
+<l>pantar vēṇṭāp palartūṅku nīḻaṟ</l>
 <l>kaimmāṉ vēṭṭuvaṉ kaṉaituyiṉ maṭinteṉap</l>
 <l>pārvai maṭappiṇai taḻīip piṟitōr</l>
 <l>tīrtoḻiṟ ṟaṉikkalai tiḷaittuviḷai yāṭa</l>
@@ -51,31 +52,31 @@
 <l>yuraicā ṉeṭuntakai yōmpu mūrē.</l>
 </lg>
 <lg xml:lang="en">
-<l>Because, in the front yard, as bindweed and Muññai had grown thickly,</l>
-<l>in the shade overhung with creepers<note xml:lang="en" place="foot">The reading pavar as attested by the manuscript is a word for “creeper” fairly well established in the old Akam anthologies, and it makes perfect sense in this context: since the creepers are hanging over the frontyard it is not in need of an additional shading device such as an arbour.</note> that does not need an arbour,</l>
-<l>the elephant hunter had dropped into deep sleep,</l>
+<l>Because, in the front yard, as bindweed and Muññai are growing thickly,</l>
+<l>in the shade in which many sleep who do not need an arbour,</l>
+<l>the elephant hunter has dropped into deep sleep,</l>
 <l>while, embracing the youthful decoy doe, one other </l>
 <l>solitary stag whose work had ended was sporting [and] playing,</l>
 <l>the woman of the house who saw [them] in blissful union,</l>
 <l>afraid that [her] husband would get up and afraid</l>
 <l>that the stag would find [its] end by the side of the doe,</l>
-<l>because it was not moving at all, made loud noise,</l>
+<l>because it was not moving at all, made loud noise</l>
 <l>[and] because the food of drying millet poured on the deer skin</l>
 <l>had been seized [and] eaten by the wild fowl and partridge,</l>
-<l>seasoned<note xml:lang="en" place="foot">Since there is no main verb that would allow an action of the maṉaiyōḷ expressing her talking to the bard we have no choice but to take nāṟa as a transitive infinitive, literally she makes the fish fragrant with sandal fire.</note> Āral fish with a fire of sandal wood:</l>
+<l>seasoned Āral fish with a fire of sandal wood:</l>
 <l>“stay here, </l>
 <l>eating sweetly together with [your] famous kinfolk</l>
 <l>from the whole meat that has been cut into pieces,</l>
-<l>  [and then] go, bard,</l>
-<l>to the village protected by the paragon worthy to be spoken of,</l>
-<l>of a generosity that always gives without stinting</l>
-<l>to gift seekers the excellent food given by the king without reservation".   </l>
+<l>  [and then] go, bard, without staying</l>
+<l>in the village protected by the paragon worthy to be spoken of,</l>
+<l>of a generosity that always gives without </l>
+<l>stinting to gift seekers the excellent food given by the king.   </l>
 </lg>
     </div>
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN320">
-<interp type="alignment" select="0">119MG41MG39MG12MG18MG11M2G72MG11MG10MR12ML13MG30MG5MG4MG59MG11MG18ML17MG2M,522MG</interp>
+<interp type="alignment" select="0">119MG41MG39MG12MG18MG11M2G72MG11MG10MR12ML13MG30MG5MG4MG19M2G40MG11MG18ML17MG2M,524MG</interp>
 <entry>
 <form>muṉṟil</form>
 <def>front yard</def>
@@ -121,16 +122,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>palar</form>
-<def>many</def>
+<form>pavar</form>
+<def>creeper</def>
+<form type="sandhi">palar</form>
 <gramGrp>
-  <gram type="role">honorific</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>tūṅku</form>
-<def>sleep</def>
+<def>hang</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -182,7 +183,7 @@
 </entry>
 <entry>
 <form>maṭinteṉa<c type="geminated">p</c></form>
-<def>drooped-off-say</def>
+<def>dozed-off-say</def>
 <gramGrp>
   <gram type="role">causative</gram>
   <gram type="role">absolutive</gram>
@@ -245,10 +246,10 @@
 </entry>
 <entry>
 <form>taṉi<c type="geminated">k</c></form>
-<def>solitary</def>
+<def>solitariness</def>
 <form type="sandhi">ṟaṉi<c type="geminated">k</c></form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -625,11 +626,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>ceṉmō</form>
+<form>ceṉm<c type="elided">u</c>-ō</form>
 <def>go</def>
+<form type="simple">ceṉmu</form>
+<form type="sandhi">ceṉm</form>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>pāṇa</form>
@@ -737,7 +741,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>ōmpum</form>
-<def>protecting-</def>
+<def>protecting</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
