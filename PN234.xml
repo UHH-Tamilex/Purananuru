@@ -32,7 +32,7 @@
     </div>
     <div rend="parallel">
       <lg xml:id="PN234">
-<l>nōko yāṉē tēyka mākālai</l>
+<l>nōko yāṉē tēykamā kālai</l>
 <l>piṭiyaṭi yaṉṉa ciṟuvaḻi meḻukit</l>
 <l>taṉṉamar kātali puṉmēl vaitta</l>
 <l>viṉciṟu piṇṭam yāṅkuṇ ṭaṉaṉko</l>
@@ -52,16 +52,18 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN234">
-<interp type="alignment" select="0">7MG84MG7MG32MG13MG2M,149MG</interp>
+<interp type="alignment" select="0">3M2G4MG6MG78MG7MG32MG13MG2M,152MG</interp>
 <entry>
-<form>nōkō</form>
+<form>nōk<c type="elided">u</c>-ō</form>
 <def>ache-I</def>
-<form type="sandhi">nōko</form>
+<form type="simple">nōku</form>
+<form type="sandhi">nōk</form>
 <gramGrp>
   <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>yāṉ-ē</form>
@@ -73,20 +75,31 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>tēyka-mā</form>
+<def>may be reduced</def>
+<form type="simple">tēyka</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">mā</m></gramGrp>
+</entry></entry>
+<entry><entry>
 <form>tēyka</form>
 <def>may be reduced</def>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-</entry>
-<entry>
+</entry><entry>
 <form>mā</form>
-<def>big/dark</def>
+<def>big, dark</def>
+<form type="sandhi">m</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>kālai</form>
 <def>time</def>
