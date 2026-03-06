@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +18,46 @@
             </summary>
           </msContents>    
         </msDesc>
-      </sourceDesc>
+      <listWit>
+<witness xml:id="Ed" source="PN234.xml">
+<abbr>Ed</abbr>
+<expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title> 234.
+            <persName xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta"/></expan>
+</witness>
+<witness xml:id="C1" source="witnesses/C1_UVSL_237.xml">
+<abbr>C1</abbr>
+<expan>UVSL 237 <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title></expan>
+</witness>
+<witness xml:id="C2" source="witnesses/C2_UVSL_707.xml">
+<abbr>C2</abbr>
+<expan>UVSL 707 <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title></expan>
+<listWit>
+<witness xml:id="C2ac" n="ac">
+<abbr>C2ac</abbr>
+<expan>UVSL 707 <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title> [ante correctionem]</expan>
+</witness>
+<witness xml:id="C2pc" n="pc">
+<abbr type="siglum">C2pc</abbr>
+<expan>UVSL 707 <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title> [post correctionem]</expan>
+</witness>
+</listWit>
+</witness>
+<witness xml:id="C6" source="witnesses/C6_UVSL_128.xml">
+<abbr>C6</abbr>
+<expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title></expan>
+</witness>
+<witness xml:id="C7" source="witnesses/C7_UVSL_96.xml">
+<abbr>C7</abbr>
+<expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title></expan>
+</witness>
+<witness xml:id="C8" source="witnesses/C8_UVSL_576.xml">
+<abbr>C8</abbr>
+<expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟanāṉūṟu</title></expan>
+</witness>
+<witness xml:id="PT" source="witnesses/Purattirattu.xml">
+<abbr>PT</abbr>
+<expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Puṟattiraṭṭu</title></expan>
+</witness></listWit></sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
@@ -31,7 +71,7 @@
     </div>
     <div rend="parallel">
       <lg xml:id="PN234">
-<l>nōko yāṉē tēyka mākālai</l>
+<l>nōko yāṉē tēykamā kālai</l>
 <l>piṭiyaṭi yaṉṉa ciṟuvaḻi meḻukit</l>
 <l>taṉṉamar kātali puṉmēl vaitta</l>
 <l>viṉciṟu piṇṭam yāṅkuṇ ṭaṉaṉko</l>
@@ -51,16 +91,18 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#PN234">
-<interp type="alignment" select="0">7MG84MG7MG32MG13MG2M,149MG</interp>
+<interp type="alignment" select="0">3M2G4MG6MG78MG7MG32MG13MG2M,152MG</interp>
 <entry>
-<form>nōkō</form>
+<form>nōk<c type="elided">u</c>-ō</form>
 <def>ache-I</def>
-<form type="sandhi">nōko</form>
+<form type="simple">nōku</form>
+<form type="sandhi">nōk</form>
 <gramGrp>
-  <gram type="role">subjuntive</gram>
+  <gram type="role">subjunctive</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
 </entry>
 <entry>
 <form>yāṉ-ē</form>
@@ -72,20 +114,31 @@
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
+<form>tēyka-mā</form>
+<def>may be reduced</def>
+<form type="simple">tēyka</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">mā</m></gramGrp>
+</entry></entry>
+<entry><entry>
 <form>tēyka</form>
 <def>may be reduced</def>
 <gramGrp>
   <gram type="role">optative</gram>
 </gramGrp>
-</entry>
-<entry>
+</entry><entry>
 <form>mā</form>
-<def>big/dark</def>
+<def>big, dark</def>
+<form type="sandhi">m</form>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+</superEntry>
 <entry>
 <form>kālai</form>
 <def>time</def>
@@ -129,14 +182,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>meḻuki</form>
+<form>meḻuki<c type="geminated">t</c></form>
 <def>smeared</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">t</c>taṉ</form>
+<form>taṉ</form>
 <def>self</def>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -225,14 +278,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>puka</form>
+<form>puka<c type="geminated">t</c></form>
 <def>enter</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">t</c>tiṟanta</form>
+<form>tiṟanta</form>
 <def>closed</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
@@ -330,4 +383,50 @@
   <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff type="apparatus" corresp="#PN234" source="alignments/PN234.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app loc="0,4">
+    <lem> nōko</lem>
+    <rdg wit="#C1 #C2">nōṅko</rdg>
+  </app>
+  <app loc="15,20">
+    <lem>kālai</lem>
+    <rdg wit="#C1 #C2">kālaip</rdg>
+  </app>
+  <app loc="33,48">
+    <lem>ciṟuvaḻi meḻukit</lem>
+    <rdgGrp select="#C1 #C2">
+      <rdg type="main" wit="#C1">ca<space quantity="16" unit="character"/></rdg>
+      <rdg type="minor" wit="#C2">ca<space quantity="12" unit="character"/></rdg>
+    </rdgGrp>
+  </app>
+  <app loc="62,68">
+    <lem>puṉmēl</lem>
+    <rdg wit="#C1 #C2">puṉvēl</rdg>
+  </app>
+  <app loc="74,81">
+    <lem wit="#C2">viṉciṟu</lem>
+    <rdg wit="#C1">piṉci<gap quantity="1" unit="character" reason="lost"/></rdg>
+  </app>
+  <app loc="100,111">
+    <lem wit="#C2">lulakupukat</lem>
+    <rdg wit="#C1">lu<gap reason="lost" quantity="1" unit="character"/>kupukat</rdg>
+  </app>
+  <app loc="111,118">
+    <lem wit="#C2">tiṟanta</lem>
+    <rdg wit="#C1">tiṟa<gap quantity="1" unit="character" reason="lost"/>ta</rdg>
+  </app>
+</listApp></standOff></TEI>
