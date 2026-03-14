@@ -6,8 +6,8 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"></title> <num></num>.
-            <persName xml:lang="ta"></persName>
+            <title xml:lang="ta">Puṟanāṉūṟu</title> 2.
+            <persName xml:lang="ta"/>
         </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
@@ -26,6 +26,13 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
+    <div rend="parallel">
+      <p xml:id="PN2-intro">
+tiṇai – pāṭāṇṭiṇai; tuṟai ceviyaṟivuṟūu; vāḻttiyalumaṅama. cēramāṉ peruñcōṟṟu utiyaṉcēralātaṉai murañciyūr muṭinākarāyar pāṭiyatu.
+‍      </p>
+      <p xml:lang="en">  
+      </p>
+    </div>
     <div rend="parallel">
       <lg xml:id="PN2">
 <l>maṇṭiṇinta nilaṉum</l>
@@ -54,7 +61,31 @@
 <l>poṟkōṭ ṭimayamum potiyamum pōṉṟē</l>
       </lg>
       <lg xml:lang="en">
-<!--put your translation here-->
+<l>The ground that has solidified into earth, (1)</l>
+<l>the sky held up by the ground, (2)</l>
+<l>the wind that strokes the sky, (3)</l>
+<l>the fire that is fanned by the wind, (4)</l>
+<l>and the water that is opposed to fire, like [those], (5)</l>
+<l>similar in nature to the five great elements (6)</l>
+<l>you who possess [their] bearing with those who do not praise [you],</l>
+<l>width of deliberation, strength, punishing, and care, (7f.)</l>
+<l>o fighter of good lands with fertile regions, (11)</l>
+<l>where the sun that is born in your sea again (9)</l>
+<l>dips into your western ocean with white-headed waves, (10)</l>
+<l>do you possess [but] the sky as a boundary, great man? (12)</l>
+<l>You who have given without limit huge quantities of great rice (16)</l>
+<l>when the twice Fifty stayed behind on the [battle] field after fighting, (15)</l>
+<l>[wearing] Tumpai with golden flowers, who took the ground, (14)</l>
+<l>raging along the with Five, [their] horses with swaying manes, (13)</l>
+<l>even if milk were to turn sour, even if day were to turn dark, (17)</l>
+<l>even if [people] were to swerve from the path of the fours Vedas, (18)</l>
+<l>shining into the whole distance with a retinue that does not swerve, (19)</l>
+<l>without shaking may you stand [fast], (20a-c)</l>
+<l>similar to [mount] Potiyam and Imayam with golden peaks, (24)</l>
+<l>where the big-eyed doe with [its] little-headed fawn (21)</l>
+<l>sleeps in the light of the three fires (23)</l>
+<l>when brahmins abide by [their] difficult duty in the twilight (22)</l>
+	<l>on the mountain side. (20d)</l>
       </lg>
     </div>
   </body>
