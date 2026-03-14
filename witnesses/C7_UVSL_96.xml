@@ -88,7 +88,15 @@
    </facsimile>
    <text corresp="#C7" xml:lang="ta-Taml">
    <body>
-<lg xml:id="PN246">
+
+   <lg xml:id="PN2">
+         </lg>
+         <p xml:id="PN2-intro">
+         </p>
+         <p xml:id="PN2-comm">
+         </p>
+
+      <lg xml:id="PN246">
 <l><pb facs="217" n="108v"/><lb n="5" />பல்சான் றீரே பல்சான் றீரே</l>
 <l>செல்கெனச் சொல்லா தொழிகென விலக்கும்</l>
 <l>பொல்லாச் சூழ்ச்சிப் பல்சான்<lb n="6" /> றீரே</l>
