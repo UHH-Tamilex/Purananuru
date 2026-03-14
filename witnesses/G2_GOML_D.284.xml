@@ -84,5 +84,17 @@
       
    <revisionDesc/></teiHeader>
    <facsimile>
+ <graphic url="https://iiif.archive.org/iiif/GOML_D.284-Purananuru/manifest.json"/>
    </facsimile>
+   <text corresp="#G2" xml:lang="ta-Taml">
+   <body>
+
+   <lg xml:id="PN2">
+         </lg>
+         <p xml:id="PN2-intro">
+         </p>
+         <p xml:id="PN2-comm">
+         </p>
+</body>
+</text>
 </TEI>

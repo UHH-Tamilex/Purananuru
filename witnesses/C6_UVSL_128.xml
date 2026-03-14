@@ -88,7 +88,14 @@
    </facsimile>
    <text corresp="#C6" xml:lang="ta-Taml">
    <body>
-<lg xml:id="PN266"><note xml:lang="en" place="foot">In this strand of transmission standard PN 266 is counted as PN 202.</note>
+   <lg xml:id="PN2">
+         </lg>
+      <p xml:id="PN2-intro">
+         </p>
+      <p xml:id="PN2-comm">
+         </p>
+
+      <lg xml:id="PN266"><note xml:lang="en" place="foot">In this strand of transmission standard PN 266 is counted as PN 202.</note>
 <l><pb facs="273" n="190r"/><lb n="7" />பயங்கெழு மாமழை பெய்யாது மாறிக்</l>
 <l>கயங்ங்குகளி முளியுங் கோடை யாயினும்</l>
 <l>புழற்கா லாம்<lb n="8" />ப லகலடை நிழற்</l>
