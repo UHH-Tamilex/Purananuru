@@ -78,8 +78,8 @@ ki added above: <subst><del><gap reason="illegible" quantity="1" unit="character
  <del rend="strikethrough">XXX</del> -- characters deleted with a strikethrough
  <del rend="dot-above">XXX</del> -- characters deleted with a dot above
 
- <hi rend="superscript">XX</del> -- characters written above the line, perhaps an addition but not sure
- <hi rend="subscript">XX</del> -- characters written below the line, perhaps an addition but not sure
+ <hi rend="superscript">XX</hi> -- characters written above the line, perhaps an addition but not sure
+ <hi rend="subscript">XX</hi> -- characters written below the line, perhaps an addition but not sure
   - in the apparatus, <hi> will not get turned into ac/pc readings, whereas <add> and <del> will be
  -->
 </TEI>
