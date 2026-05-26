@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,7 +32,7 @@
     </div> 
     <div rend="parallel">
       <lg xml:id="PN341">
-<l>vēntu kuṟaiyuṟavuṅ koṭāa ṉēntukōṭ</l>
+<l>vēntukuṟai yuṟavuṅ koṭāa ṉēntukōṭ</l>
 <l>ṭampūn toṭalai yaṇittaḻai yalkul</l>
 <l>cempoṟic cilampi ṉiḷaiyō ṭantai</l>
 <l>yeḻuviṭ  ṭamaitta tiṇṇilaik katavi</l>
@@ -96,6 +97,7 @@
 <form type="simple">uṟa</form>
 <form type="sandhi"><c type="glide">y</c>uṟa</form>
 <gramGrp>
+  <gram type="role">concessive</gram>
   <gram type="role">infinitive</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
@@ -110,7 +112,7 @@
 </entry>
 <entry>
 <form>ēntu</form>
-<def>be-eminent</def>
+<def>be eminent</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -206,14 +208,14 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>eḻu</form>
-<def>cross-bar</def>
+<def>crossbar</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>viṭṭ<c type="elided">u</c></form>
-<def>let-go</def>
+<def>let go</def>
 <form type="sandhi">viṭṭ</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
@@ -221,7 +223,7 @@
 </entry>
 <entry>
 <form>amaitta</form>
-<def>effected-</def>
+<def>effected</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -357,7 +359,7 @@
 </entry>
 <entry>
 <form>maṟaliya</form>
-<def>given-fight</def>
+<def>given fight</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -490,7 +492,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>avaḷoṭu</form>
-<def>that-one</def>
+<def>that one</def>
 <gramGrp>
   <gram type="role">feminine singular</gram>
   <gram type="role">sociative</gram>
@@ -587,7 +589,7 @@
 </entry>
 <entry>
 <form>nīḷ</form>
-<def>be-long</def>
+<def>be long</def>
 <form type="sandhi">ṉīḷ</form>
 <gramGrp>
   <gram type="role">verbal root</gram>
@@ -609,7 +611,7 @@
 </entry>
 <entry>
 <form>aṟutta</form>
-<def>cut-off</def>
+<def>cut off</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -625,15 +627,17 @@
 <superEntry type="ambiguous">
 <entry><entry>
 <form>vārā</form>
-<def>come(pos.abs.)(abs.)(abs.)</def>
+<def>come</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry></entry>
 <entry><entry>
 <form>vārā</form>
-<def>come-not(abs</def>
+<def>come-not</def>
 <gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
 </gramGrp>
 </entry></entry>
 </superEntry>
@@ -699,7 +703,7 @@
 </entry>
 <entry>
 <form>kaḷiṟu</form>
-<def>elephant-bull</def>
+<def>elephant bull</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -713,7 +717,7 @@
 </entry>
 <entry>
 <form>kalaṅkiya</form>
-<def>stirred-up</def>
+<def>stirred up</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
@@ -735,7 +739,7 @@
 </entry>
 <entry>
 <form>pōla<c type="geminated">p</c></form>
-<def>be-similar</def>
+<def>be similar</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
