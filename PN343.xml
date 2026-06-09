@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -103,13 +104,22 @@
   <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form>micai</form>
 <def>height</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>micai</form>
+<def>food</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form><c type="glide">y</c>ampiyiṉ</form>
 <def>boat</def>
@@ -526,17 +536,28 @@
   <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
-<entry>
+<superEntry type="ambiguous">
+<entry><entry>
 <form><c type="glide">v</c>iṟutta</form>
-<def>tarried</def>
+<def>stayed</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
-</entry>
+</entry></entry>
+<entry><entry>
+<form>iṟutta</form>
+<def>broken</def>
+<form type="sandhi">viṟutt</form>
+<gramGrp>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry></entry>
+</superEntry>
 <entry>
 <form><c type="glide">v</c>ēṇi</form>
-<def>boundary</def>
+<def>ladder</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
