@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -117,8 +118,11 @@
 </entry>
 <entry>
 <form>kaṟakkunt<c type="elided">u</c></form>
-<def>hiding-tu</def>
+<def>hiding</def>
 <form type="sandhi">kaṟakkunt</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>aval</form>
@@ -175,8 +179,11 @@
 </entry>
 <entry>
 <form>paṟikkunt<c type="elided">u</c></form>
-<def>pulling-out-tu</def>
+<def>pulling-out</def>
 <form type="sandhi">paṟikkunt</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>āmpal</form>
@@ -187,8 +194,9 @@
 </entry>
 <entry>
 <form>vaḷḷi<c type="geminated">t</c></form>
-<def>stalk(?)</def>
+<def>stalk</def>
 <gramGrp>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
