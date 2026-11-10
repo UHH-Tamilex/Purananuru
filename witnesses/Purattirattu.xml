@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="../lib/js/xslt-polyfill.min.js"></script>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -7795,7 +7793,7 @@ uyyāṉ piṟarcevik kuyttu. (ciṟupañca. 2)
 
 erivāy nirayattu vīḻvarko leṉṟu 
 
-parivatūuñ cāṉṟōr<span style="background-color:#00ff00;"></span> kaṭaṉ. (nālaṭi, 58) 
+parivatūuñ cāṉṟōr<span style="background-color:#00ff00;"/> kaṭaṉ. (nālaṭi, 58) 
 
 
 250. vaitatālākum vacaivaṇakkam naṉṟākac 
